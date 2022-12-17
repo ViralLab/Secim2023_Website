@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/fa-all.js" data-auto-replace-svg="nest"></script>
+
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <link type="text/css" rel="stylesheet" href="css/hover-min.css" />
+        <link type="text/css" rel="stylesheet" href="css/academicons.min.css" />
+        
+        <title>#Secim2023 | Turkish Presidential Elections</title>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+                $('#header-container').load('/components/header.html');
+                $('#footer-container').load('/components/footer.html');
+            });
+        </script>
+    </head>
+
+    <body>
+
+        <div id="header-container"></div>
+        <div class="container text-center" style="margin-top: 15em; margin-bottom: 15em;"><h4>About Page</h4></div>
+        <div id="footer-container"></div>
+
+    </body>
+</html>
