@@ -2,19 +2,34 @@
     <div class="container">
         <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
             <a href="/" class="d-flex align-items-center col-md-3 mb-md-0 text-dark text-decoration-none">
-                <img class="bi me-2" src="../img/vrllab-logo.png" alt="" width="40" height="40">
+                <img class="bi me-2" src="/img/vrllab-logo.png" alt="" width="40" height="40">
                 <span class="fs-4">#Secim2023</span>
             </a>
             
             <ul class="nav col-12 col-md-auto col-lg-auto mb-2 justify-content-center mb-md-0">
-                <li><a href="../index.html" class="nav-link px-2 link-dark">Home</a></li>
-                <li><a href="../about.html" class="nav-link px-2 link-dark">About</a></li>
-                <li><a href="../dataset.html" class="nav-link px-2 link-dark">Dataset</a></li>
+                <li>
+                    <a href="/index.html" class="nav-link px-2 link-dark">
+                        <span tlang="en">Home</span>
+                        <span tlang="tr">Anasayfa</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/about.html" class="nav-link px-2 link-dark">
+                        <span tlang="en">About</span>
+                        <span tlang="tr">Hakkında</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="/dataset.html" class="nav-link px-2 link-dark">
+                        <span tlang="en">Dataset</span>
+                        <span tlang="tr">Veriseti</span>
+                    </a>
+                </li>
             </ul>
     
             <div class="col-md-3 text-end">
-                <button type="button" class="btn btn-outline-primary me-2">TR</button>
-                <button type="button" class="btn btn-primary disabled">EN</button>
+                <button type="button" class="btn btn-outline-primary" onclick="setLang('tr'); return false">TR 🇹🇷</button>
+                <button type="button" class="btn btn-outline-primary" onclick="setLang('en'); return false">EN 🇬🇧</button>
             </div>
         </header>
     </div>
