@@ -4,12 +4,13 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+        <script src="js/underscore-min.js"></script>
+        <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
+        <script src="/js/multilingual.js"></script>
         
-        <script src="js/jquery.min.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/fa-all.js" data-auto-replace-svg="nest"></script>
-
         <link rel="stylesheet" href="css/bootstrap.min.css">
 
         <link type="text/css" rel="stylesheet" href="css/hover-min.css" />
@@ -18,10 +19,59 @@
         <title>#Secim2023 | Turkish Presidential Elections</title>
 
         <script type="text/javascript">
+
+            function drawCard(post){
+
+                divStr = '<div class="col-sm-12 col-md-6 col-lg-4 my-3"><div class="card"><img class="card-img-top img-fluid" src="' + post['img'] + '"/>';
+                divStr += '<div class="card-body col p-4 d-flex flex-column position-static">';
+                
+                if (post['type'] == "Analysis") {
+                    divStr += '<strong class="d-inline-block mb-2 text-success"><span tlang="en">Analysis</span><span tlang="tr">Analiz</span></strong>'
+                } else {
+                    divStr += '<strong class="d-inline-block mb-2 text-primary"><span tlang="en">Dataset</span><span tlang="tr">Veriseti</span></strong>'
+                }
+
+                divStr += '<h5 class="mb-0"><span tlang="en">' + post['en-title'] + '</span><span tlang="tr">' + post['tr-title'] + '</span></h5>';
+                divStr += '<small class="text-muted mt-2">' + post['date'] + '</small>';
+                divStr += '<p class="card-text mb-auto mt-2"><span tlang="en">' + post['en-description-min'] + '</span> <span tlang="tr">' + post['tr-description-min'] + '</span></p>';
+                divStr += '<a href="/posts/221219/" class="btn btn-primary stretched-link mt-4"><span tlang="en">Read Blog</span><span tlang="tr">Detaylar</span></a></div></div></div>';
+
+                return divStr;
+            }
+
+            function createBlogPosts(posts) {
+
+                var mstr = '<div class="container"><div class="row gy-3 my-3">';
+
+                for (var i=0; i < posts.length; i++){
+                    mstr += drawCard(posts[i]);
+                }
+
+                mstr += '</div></div></div>';
+
+                $('#blog-posts-container').append(mstr);
+
+            }
+
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
-                $('#header-container').load('/components/header.html');
-                $('#footer-container').load('/components/footer.html');
+                $('#header-container').load('/components/header.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+                $('#footer-container').load('/components/footer.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+                $('#blog-posts-container').load('/components/blog-posts.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+
+                $.getJSON('data/posts/posts-min.json',
+                    function (json) {
+                        createBlogPosts(json);
+                });
+            });
+            $(window).on('load', function () {
+              setLang(getCookie('pagelang', 'en'));
             });
         </script>
     </head>
@@ -46,50 +96,16 @@
 
         <div class="container">
             <div class="row my-5 justify-content-center">
-                <div class="col-12 text-center"><h3>Latest Blog Posts</h3></div>
+                <div class="col-12 text-center">
+                    <h3>
+                        <span tlang="en">Latest Blog Posts</span>
+                        <span tlang="tr">Son Paylaşılanlar</span>
+                    </h3>
+                </div>
             </div>
         </div>
 
-        <div class="container">
-            <div class="row gy-3 my-3">
-                <div class="col-sm-12 col-md-6 col-lg-4 my-3">
-                    <div class="card">
-                        <img class="card-img-top img-fluid" src="https://cdnuploads.aa.com.tr/uploads/Contents/2018/07/04/thumbs_b_c_30d9a2ef2b955a9e80b0b0b943b66d52.jpg"/>
-                        <div class="card-body col p-4 d-flex flex-column position-static">
-                            <strong class="d-inline-block mb-2 text-primary">Dataset</strong>
-                            <h5 class="mb-0">Dataset Publication: #Secim2023</h5>
-                            <small class="text-muted mt-1">December 12, 2022</small>
-                            <p class="card-text mb-auto mt-2">We have just published our first dataset about Turkish Presidential Elections in 2023.</p>
-                            <a href="#" class="btn btn-primary stretched-link mt-4">Read Blog</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-4 my-3">
-                    <div class="card">
-                        <img class="card-img-top img-fluid" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg"/>
-                        <div class="card-body col p-4 d-flex flex-column position-static">
-                            <strong class="d-inline-block mb-2 text-success">Article</strong>
-                            <h5 class="mb-0">Bot Check: Touchdown Confirmed!</h5>
-                            <small class="text-muted mt-1">December 3, 2022</small>
-                            <p class="card-text mb-auto mt-2">Watch the flow of our bot account analysis about the latest debates on general elections.</p>
-                            <a href="#" class="btn btn-primary stretched-link mt-4">Read Blog</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-12 col-md-6 col-lg-4 my-3">
-                    <div class="card">
-                        <img class="card-img-top img-fluid" src="https://typelish.com/c/xrnxO4l"/>
-                        <div class="card-body col p-4 d-flex flex-column position-static">
-                            <strong class="d-inline-block mb-2 text-success">Article</strong>
-                            <h5 class="mb-0">How to Not Wait for Blue Flowers</h5>
-                            <small class="text-muted mt-1">November 29, 2022</small>
-                            <p class="card-text mb-auto mt-2">Our research on the impacts of blue flowers in Turkish politics is now published on Nature.</p>
-                            <a href="#" class="btn btn-primary stretched-link mt-4">Read Blog</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <div id="blog-posts-container"></div>
 
         <div id="footer-container"></div>
 
