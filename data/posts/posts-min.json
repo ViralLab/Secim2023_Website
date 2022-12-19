@@ -1,0 +1,23 @@
+[
+    {
+        "url": "221219_ekrem_imamoglu_case",
+        "type": "Analysis",
+        "date": "19/12/2022",
+        "img": "/posts/221219/ekrem_imamoglu-profile.png",
+        "en-title": "Ekrem Imamoglu (Mayor of Istanbul) Case on December 15th, 2022",
+        "en-description-min": "We analyzed the online conversation around Ekrem Imamoglu.",
+        "tr-title": "15 Aralık 2022, Ekrem Imamoglu Davası",
+        "tr-description-min": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
+    },
+
+    {
+        "url": "221122_secim_dataset",
+        "type": "Dataset",
+        "date": "22/11/2022",
+        "img": "/posts/221122/secim-dataset.png",
+        "en-title": "Preprint for #Secim2023 Dataset",
+        "en-description-min": "We have just published our first dataset about Turkish Presidential Elections in 2023.",
+        "tr-title": "#Secim2023 Veriseti Ön Baskı",
+        "tr-description-min": "İlk yayınımızı 2023 Türkiye Başkanlık Seçimleri üzerine veriseti paylaşarak yaptık."
+    }
+]
