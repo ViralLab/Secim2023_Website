@@ -1,6 +1,6 @@
 [
     {
-        "url": "221219_ekrem_imamoglu_case",
+        "url": "/posts/221219/",
         "type": "Analysis",
         "date": "19/12/2022",
         "img": "/posts/221219/ekrem_imamoglu-profile.png",
@@ -11,7 +11,7 @@
     },
 
     {
-        "url": "221122_secim_dataset",
+        "url": "/posts/221122/",
         "type": "Dataset",
         "date": "22/11/2022",
         "img": "/posts/221122/secim-dataset.png",

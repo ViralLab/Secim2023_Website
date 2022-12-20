@@ -34,7 +34,7 @@
                 divStr += '<h5 class="mb-0"><span tlang="en">' + post['en-title'] + '</span><span tlang="tr">' + post['tr-title'] + '</span></h5>';
                 divStr += '<small class="text-muted mt-2">' + post['date'] + '</small>';
                 divStr += '<p class="card-text mb-auto mt-2"><span tlang="en">' + post['en-description-min'] + '</span> <span tlang="tr">' + post['tr-description-min'] + '</span></p>';
-                divStr += '<a href="/posts/221219/" class="btn btn-primary stretched-link mt-4"><span tlang="en">Read Blog</span><span tlang="tr">Detaylar</span></a></div></div></div>';
+                divStr += '<a href="' + post['url'] + '" class="btn btn-primary stretched-link mt-4"><span tlang="en">Read Blog</span><span tlang="tr">Detaylar</span></a></div></div></div>';
 
                 return divStr;
             }
