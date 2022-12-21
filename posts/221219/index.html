@@ -22,18 +22,18 @@
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
-                  setLang(getCookie('pagelang', 'en'));
+                  setLang(getCookie('pagelang', 'tr'));
                 });
                 $('#footer-container').load('/components/footer.html', function() {
-                  setLang(getCookie('pagelang', 'en'));
+                  setLang(getCookie('pagelang', 'tr'));
                 });
             });
             $(window).on('load', function () {
-              setLang(getCookie('pagelang', 'en'));
+              setLang(getCookie('pagelang', 'tr'));
               
-              vegaEmbed('#viz-timeseries', 'altair-timeseries-' + getCookie('pagelang', 'en') + '.json').then(function(result) {}).catch(console.error);
+              vegaEmbed('#viz-timeseries', 'altair-timeseries-' + getCookie('pagelang', 'tr') + '.json').then(function(result) {}).catch(console.error);
 
-              vegaEmbed('#viz-followers', 'altair-imamoglu_fl-' + getCookie('pagelang', 'en') + '.json').then(function(result) {}).catch(console.error);
+              vegaEmbed('#viz-followers', 'altair-imamoglu_fl-' + getCookie('pagelang', 'tr') + '.json').then(function(result) {}).catch(console.error);
 
             });
         </script>

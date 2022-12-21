@@ -81,20 +81,20 @@
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
-                  setLang(getCookie('pagelang', 'en'));
+                  setLang(getCookie('pagelang', 'tr'));
                 });
                 $('#footer-container').load('/components/footer.html', function() {
-                  setLang(getCookie('pagelang', 'en'));
+                  setLang(getCookie('pagelang', 'tr'));
                 });
 
                 $.getJSON('data/posts/posts.json',
                     function (json) {
                         createBlogPosts(json);
-                        setLang(getCookie('pagelang', 'en'));
+                        setLang(getCookie('pagelang', 'tr'));
                 });
             });
             $(window).on('load', function () {
-              setLang(getCookie('pagelang', 'en'));
+              setLang(getCookie('pagelang', 'tr'));
             });
         </script>
     </head>
