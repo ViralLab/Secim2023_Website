@@ -55,6 +55,16 @@
         <!-- Import vega-embed -->
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KMQ3V513ZY');
+        </script>
+
     </head>
 
     <body>
@@ -142,13 +152,33 @@
                     </div>
 
                     <p>
-                        Yukarıda paylaşılan ağ analizinde farklı tweetlerdeki hashtaglerin birlikte kullanımları üzerinden 15 Aralık günü paylaşılan Türkçe siyasi tweetlere ait bir ilişki ağı yaratılmıştır. Düğümlerin büyüklükleri hashtaglerin kullanım sıklığı ile orantılı ve renkleri de Ekrem İmamoğlu ile alakali konular yoğunluğu (mavi daha fazla, kırmızı daha az tweet) ile ilişkilidir. 
+                        Yukarıda paylaşılan ağ analizinde farklı tweetlerdeki hashtaglerin birlikte kullanımları üzerinden 15 Aralık günü paylaşılan Türkçe siyasi tweetlere ait bir ilişki ağı yaratılmıştır. Düğümlerin büyüklükleri hashtaglerin kullanım sıklığı ile orantılı ve renkleri de Ekrem İmamoğlu ile alakali konular yoğunluğu (mavi daha fazla, kırmızı daha az tweet) ile ilişkilidir. Burada etkileşimlerin ciddi bir kısmının dava ile ilgili olduğunu görmekteyiz, genel temalar Saraçhane mitingi ve dava sonucu ile ilgili oluşturulan destek içerikleridir.
                     </p>
 
                     <p>
-                        Bot analizlerinin hashtag seviyesinde yapılmasında dikkat edilmesi gereken bir husus, bu hashtaglerin başka hangi içeriklerle birlikte paylaşıldığıdır. Bazı bot hesaplar kendi içeriklerini görünür kılmak için popüler hashtagleri araç olarak kullanmaktadır. Özellikle ilgisiz gözüken hashtaglerin aynı tweet içinde birlikte geçmesi bu açıdan ele verici olmaktadır. Turkiyede pornografik içerikli paylaşımların çoğu bu stratejiyi izlemektedir. Verişimizde en çok gözlenen hashtagler içerisinde farklı sehir ve semt isimlerinin geçtigini görmek bu etkenlerle açıklanabilmektedir. Özellikle bu içerikleri üreten hesaplara bakıldığında bot olduklarini soylemek oldukça kolaydır ancak bu gibi mekanizmalar göz önüne alınmadan yapılan çıkarımlar oldukça yanıltıcı olabilmektedir.
+                        Bot analizlerinin hashtag seviyesinde yapılmasında dikkat edilmesi gereken bir husus, bu hashtaglerin başka hangi içeriklerle birlikte paylaşıldığıdır. Bazı <u>bot hesaplar kendi içeriklerini görünür kılmak için popüler hashtagleri araç olarak kullanmaktadır</u>. Özellikle ilgisiz gözüken hashtaglerin aynı tweet içinde birlikte geçmesi bu açıdan ele verici olmaktadır. Türkiyede pornografik içerikli paylaşımların çoğu (örnek olarak aşagidaki görsellerde #buca verilebilir.) bu stratejiyi izlemektedir. Verişimizde en çok gözlenen hashtagler içerisinde farklı sehir ve semt isimlerinin geçtigini görmek bu etkenlerle açıklanabilmektedir. Özellikle bu içerikleri üreten hesaplara bakıldığında bot olduklarini soylemek oldukça kolaydır ancak bu gibi mekanizmalar göz önüne alınmadan yapılan çıkarımlar oldukça yanıltıcı olabilmektedir.
                     </p>
 
+                    <p>
+                        Elde ettiğimiz veriye ait 15 Aralık günü en çok kullanılan hashtaglere bakıldıgında af yasası ve öğretmen kadroları ile ilgili yapılan paylaşımların botlar tarafından görünür kılındığını söylemek bot skoru yüksek hesapların yaptığı paylaşımların fazlalığına bakılarak söylenilmektedir. Özellikle <i>#mhpücrtliögrtkadrohaktır</i> icin yazılmış olan 73 bin üzerinde tweet vardır. En çok kullanılan diger iki hashtag ise <i>#genelaf</i> ve <i>#buca</i> olmuştur. 
+                    </p>
+
+                    <div>
+                        <img src="botanalysis-0.png" width="100%">
+                        <img src="botanalysis-1.png" width="100%">
+                        <img src="botanalysis-2.png" width="100%">
+                    </div>
+
+                    <p>
+                        Gündem ile daha ilişkili olan hashtaglere bakıldığında ortalama siyasi bir içerikten daha farklı bir dağılım gözlenmemiştir. Örnegin <i>#ekremi̇mamoğlu</i> hashtag’i 5500 üzerinde paylaşılmıştır. Bu hashtag ile beraber kullanılan diğer içerikleri de yukarıda paylaştığımız eş kullanım ağından incelemek mümkündür. Ek olarak <i>#i̇stanbulyargılanıyor</i>, <i>#sarachane</i> ve bu hashtaglerin farklı harfler kullanan varyasyonları (ı,i ve c,ç gibi) için de analizlerimizi tekrar ettik. Bu analizlerde aynı hashtag’i 10’dan fazla kullanan hesap sayısı oldukça limitlidir. 
+
+                    </p>
+                    
+                    <div>
+                        <img src="botanalysis-3.png" width="100%">
+                        <img src="botanalysis-4.png" width="100%">
+                        <img src="botanalysis-5.png" width="100%">
+                    </div>
 
                 </div>
             </div>
