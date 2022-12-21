@@ -4,22 +4,80 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
         <script src="/js/jquery.min.js"></script>
         <script src="/js/popper.min.js"></script>
         <script src="/js/bootstrap.min.js"></script>
+        <script src="js/underscore-min.js"></script>
         <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
         <script src="/js/multilingual.js"></script>
         
-
         <link rel="stylesheet" href="css/bootstrap.min.css">
 
         <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
         <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
         
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KMQ3V513ZY');
+        </script>
+        
         <title>#Secim2023</title>
 
         <script type="text/javascript">
+
+            function drawCard(post){
+
+                langOptions = ['en', 'tr'];
+
+                divStr = '<div class="col-sm-12 col-md-6 col-lg-4 my-3"><div class="card"><img class="card-img-top img-fluid" src="' + post['url'] + post['img'] + '"/>';
+                divStr += '<div class="card-body col p-4 d-flex flex-column position-static">';
+                
+                if (post['type'] == "Analysis") {
+                    divStr += '<strong class="d-inline-block mb-2 text-success"><span tlang="en">Analysis</span><span tlang="tr">Analiz</span></strong>'
+                } else {
+                    divStr += '<strong class="d-inline-block mb-2 text-primary"><span tlang="en">Dataset</span><span tlang="tr">Veriseti</span></strong>'
+                }
+
+                divStr += '<h5 class="mb-0">';
+                for (var i=0; i < langOptions.length; i++){
+                    divStr += '<span tlang="' + [langOptions[i]] + '">' + post['title'][langOptions[i]] + '</span>';
+                }
+                divStr += '</h5>';
+
+                divStr += '<small class="text-muted mt-2">' + post['date'] + '</small>';
+
+                divStr += '<p class="card-text mb-auto mt-2">';
+                for (var i=0; i < langOptions.length; i++){
+                    divStr += '<span tlang="' + [langOptions[i]] + '">' + post['description'][langOptions[i]] + '</span>';
+                }
+                divStr += '</p>';
+
+                divStr += '<a href="' + post['url'] + '" class="btn btn-primary stretched-link mt-4"><span tlang="en">Read Blog</span><span tlang="tr">Detaylar</span></a></div></div></div>';
+
+                return divStr;
+            }
+
+            function createBlogPosts(posts) {
+
+                var mstr = '<div class="container"><div class="row gy-3 my-3">';
+
+                for (var i=0; i < posts.length; i++){
+                    if (posts[i]['isVisible']) {
+                        mstr += drawCard(posts[i]);
+                    }
+                }
+
+                mstr += '</div></div></div>';
+
+                $('#blog-posts-container').append(mstr);
+
+            }
+
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
@@ -27,6 +85,12 @@
                 });
                 $('#footer-container').load('/components/footer.html', function() {
                   setLang(getCookie('pagelang', 'en'));
+                });
+
+                $.getJSON('data/posts/posts.json',
+                    function (json) {
+                        createBlogPosts(json);
+                        setLang(getCookie('pagelang', 'en'));
                 });
             });
             $(window).on('load', function () {
@@ -69,12 +133,13 @@
                 <div class="col-12 text-center">
                     <h3>
                         <span tlang="en">Latest Blog Posts</span>
-                        <span tlang="tr">Son paylaşılanlar</span>
+                        <span tlang="tr">Son Paylaşılanlar</span>
                     </h3>
                 </div>
             </div>
         </div>
 
+        <!--
         <div class="container">
             <div class="row gy-3 my-3">
                 <div class="col-sm-12 col-md-6 col-lg-4 my-3">
@@ -129,6 +194,9 @@
                 
             </div>
         </div>
+        -->
+
+        <div id="blog-posts-container"></div>
 
         <div id="footer-container"></div>
 
