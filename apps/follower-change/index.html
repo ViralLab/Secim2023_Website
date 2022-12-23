@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
+        <script src="/js/bootstrap.min.js"></script>
+        <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
+        <script src="/js/multilingual.js"></script>
+
+        <link rel="stylesheet" href="../../css/bootstrap.min.css">
+
+        <link type="text/css" rel="stylesheet" href="../../css/hover-min.css" />
+        <link type="text/css" rel="stylesheet" href="../../css/academicons.min.css" />
+        
+        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+
+        <title>#Secim2023</title>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+                $('#header-container').load('/components/header.html', function() {
+                  setLang(getCookie('pagelang', 'tr'));
+                });
+                $('#footer-container').load('/components/footer.html', function() {
+                  setLang(getCookie('pagelang', 'tr'));
+                });
+            });
+            $(window).on('load', function () {
+              setLang(getCookie('pagelang', 'tr'));
+            });
+        </script>
+		
+        <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+        <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+        <!-- Import vega-embed -->
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KMQ3V513ZY');
+        </script>
+
+    </head>
+
+    <body>
+
+        <div id="header-container"></div>
+        
+        <div class="container">
+            <div class="row my-5 justify-content-center" >
+                <div class="col-10">
+                    <h3>
+                        <span tlang="en">Analysis of Follower Number Changes</span>
+                        <span tlang="tr">Takipçi Sayısı Değişim Analizi</span>
+                        <!--https://codepen.io/thaekeh/pen/PoGJRKQ-->
+                    </h3>
+                        
+                </div>
+            </div>
+
+        </div>
+		
+        <div id="footer-container"></div>
+
+    </body>
+</html>
