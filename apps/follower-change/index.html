@@ -63,6 +63,7 @@
             }
 
             $(document).ready(function () {
+                $('#wait-message').hide();
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
@@ -70,11 +71,15 @@
                 $('#footer-container').load('/components/footer.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
                 });
+                $("#btnDrawAll").button().click(function(){
+                  $('#wait-message').show();
+                  drawCharts();
+                }); 
                 
             });
             $(window).on('load', function () {
               setLang(getCookie('pagelang', 'tr'));
-              drawCharts();
+              //drawCharts();
             });
         </script>
 		
@@ -84,7 +89,7 @@
         <!-- Import vega-embed -->
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
 
-
+        <!--
         <style lang="scss">
             #sort-bar {
               width: 100%;
@@ -99,7 +104,7 @@
               background-color: rgba(0,0,0,0);
               border: none;
               height: 100%;
-              width: 50px;
+              width: 100px;
               &:hover {
                 background-color: rgba(0,0,0, 0.2);
                 cursor: pointer;
@@ -112,7 +117,7 @@
 
             #ascending-icon {
               height: 100%;
-              width: 30px;
+              width: 100px;
             }
 
             #select {
@@ -125,7 +130,7 @@
             }
 
         </style>
-
+        -->
         
         <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.30/vue.global.min.js"></script>-->
         <script src="/js/vue.global.min.js"></script>
@@ -265,13 +270,62 @@
         <div class="container">
             <div class="row my-5 justify-content-center" >
                 <div class="col-10">
-                    <h3>
-                        <span tlang="en">Analysis of Follower Number Changes</span>
-                        <span tlang="tr">Takipçi Sayısı Değişim Analizi</span>
-                        <!--https://codepen.io/thaekeh/pen/PoGJRKQ-->
-                    </h3>
-                    
                     <div id="app">
+
+                        <form class="border border-secondary rounded" style="margin-bottom: 2em; padding:1em;">
+                            <div class="mb-3">
+                            <h3>
+                                <span tlang="en">Analysis of Follower Number Changes</span>
+                                <span tlang="tr">Takipçi Sayısı Değişim Analizi</span>
+                                <!--https://codepen.io/thaekeh/pen/PoGJRKQ-->
+                            </h3>
+                            </div>
+                            <div class="mb-3">
+                                <div tlang="en">
+                                    <select class="form-select" name="sortBy" id="select" v-model="sortBy">
+                                      <option value="alphabetically">Alphabetically</option>
+                                      <option selected value="nfollower"># of followers</option>
+                                      <option value="followerchance">Follower change</option>
+                                      <option value="followermaxgain">Max gain a day</option>
+                                      <option value="followermaxloss">Max loss a day</option>
+                                    </select>
+                                </div>
+                                <div tlang="tr">
+                                    <select class="form-select" name="sortBy" id="select" v-model="sortBy">
+                                      <option value="alphabetically">Alfabetik</option>
+                                      <option value="nfollower">Takipçi Sayısı</option>
+                                      <option value="followerchance">Takipçi değişimi</option>
+                                      <option value="followermaxgain">Günlük maksimum artış</option>
+                                      <option value="followermaxloss">Günlük maksimum kayıp</option>
+                                    </select>
+                                </div>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <div tlang="en">
+                                    <input class="form-control" type="text" v-model="searchValue" placeholder="Search by name, screen_name, party" id="search-input"></input>
+                                </div>
+                                <div tlang="tr">
+                                    <input class="form-control" type="text" v-model="searchValue" placeholder="İsim, kullanıcı adı veya parti ile ara" id="search-input"></input>
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <div class="btn-group me-2" role="group">
+                                <button type="button" class="btn btn-outline-secondary" v-on:click="ascending = !ascending" class="sort-button">
+                                    <i v-if="ascending" class="fa fa-sort-up"></i>
+                                    <i v-else class="fa fa-sort-down"></i>
+                                    <span tlang="en"> Order</span>
+                                    <span tlang="tr"> Sırala</span>
+                                </button>
+                                <button id="btnDrawAll" type="button" class="btn btn-outline-secondary">
+                                    <i class="fa fa-sync"></i>
+                                    <span tlang="en"> Plot all figure</span>
+                                    <span tlang="tr"> Tüm figürleri hazırla</span>
+                                </button>
+                                </div>
+                            </div>
+                        </form>
+                    <!--
                       <div id="sort-bar">
                         <div tlang="en">
                             <select name="sortBy" id="select" v-model="sortBy">
@@ -302,7 +356,14 @@
                             <input type="text" v-model="searchValue" placeholder="Isim, kullanıcı adı veya parti ile ara" id="search-input"></input>
                         </div>
                         <i class="fa fa-search"></i>
-                      </div>
+
+                        <button id="btnDrawAll" type="button" class="btn btn-secondary">
+                            <span tlang="en">Plot all figure</span>
+                            <span tlang="tr">Tüm figürleri hazırla</span>
+                        </button>
+                      </div> 
+                      -->
+
 
                       <div id="wait-message" class="alert alert-light" role="alert">
                         <h2>
