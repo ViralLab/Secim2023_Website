@@ -54,7 +54,8 @@
                             }
 
                             pdata["datasets"]["data-stem"] = newdata;
-                            vegaEmbed('#'+$(obj).attr('id') , pdata).then(function(result) {}).catch(console.error);
+                            vegaEmbed('#live'+$(obj).attr('id') , pdata).then(function(result) {}).catch(console.error);
+                            $('#btn'+$(obj).attr('id')).hide();
                         };
                     }).done(function() {
                         $('#wait-message').hide();
@@ -133,6 +134,8 @@
             import pdata from './user_followers.json' assert { type: "json" };
             import chart from './template-chart.json' assert { type: "json" };
 
+            //var pdata = cdata.slice(0,10);
+
             const { createApp, ref, computed } = Vue;
             createApp({
               data() {
@@ -141,6 +144,32 @@
                     sortBy: 'nfollower',
                     searchValue: '',
                     politicians: pdata,
+                }
+              },
+              methods: {
+                redraw() {
+                  let cid = event.currentTarget.id.replace('btnchart-','');
+                  console.log(cid);
+                  for (let i = 0;  i < this.politicians.length; i++) {
+                    if (this.politicians[i].id == cid){
+                        console.log('Match found');
+                        var data = this.politicians[i]['followers'];
+                        var chartd = chart;
+                        var newdata = [];
+                        for (let j = 1; j < data.length; j++) {
+                            newdata.push({
+                                "date": data[j][0],
+                                "follower_count": data[j][1],
+                                "follower_change": data[j][1] - data[j-1][1],
+                            })
+                        }
+
+                        chartd["datasets"]["data-stem"] = newdata;
+                        vegaEmbed('#livechart-'+cid , chartd).then(function(result) {}).catch(console.error);
+                        $('#btnchart-'+cid).hide();
+
+                    }
+                  }
                 }
               },
               computed: {
@@ -209,7 +238,7 @@
                     if (!this.ascending) {
                         tempPol.reverse()
                     }
-
+                    setLang(getCookie('pagelang', 'tr'));
                     return tempPol
                 }
               }
@@ -305,7 +334,12 @@
                             </div>
                         </div>
                         <div class="card-body">
+                            <button @click="redraw" v-bind:id="'btnchart-' + pol.id" type="button" class="btn btn-secondary">
+                                <span tlang="en">Prepare figure</span>
+                                <span tlang="tr">Figür hazırla</span>
+                            </button>
                             <div class="followerchart" v-bind:id="'chart-' + pol.id" :data=JSON.stringify(pol.followers)></div>
+                            <div v-bind:id="'livechart-' + pol.id"></div>
                         </div>
                       </div>
 
