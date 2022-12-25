@@ -16,7 +16,7 @@
         <meta property="og:image:type" content="image/png">
         <meta property="og:image:width" content="400">
         <meta property="og:description" content="Bu platform üzerinden 2023 Cumhurbaşkanlığı Seçimleri için gerçekleştirdiğimiz dezenformasyon ve koordinasyonlu aktivite ile mücadele projesine ait raporlar ve makaleler yayınlıyoruz.">
-        <link id="page_favicon" href="img/favicon.ico" rel="icon" type="image/x-icon" />
+        <link id="page_favicon" href="/img/favicon.ico" rel="icon" type="image/x-icon" />
         
         <script src="/js/jquery.min.js"></script>
         <script src="/js/popper.min.js"></script>
@@ -24,17 +24,43 @@
         <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
         <script src="/js/multilingual.js"></script>
 
-        <link rel="stylesheet" href="../../css/bootstrap.min.css">
-
-        <link type="text/css" rel="stylesheet" href="../../css/hover-min.css" />
-        <link type="text/css" rel="stylesheet" href="../../css/academicons.min.css" />
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
+        <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
         
-        <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-
-
+        
         <title>#Secim2023</title>
 
         <script type="text/javascript">
+
+            function drawCharts(){
+                $.getJSON('./template-chart.json',
+                    function (def) {
+                        var polCount = $('.followerchart').length;
+                        //$('.followerchart').each(function(i, obj) {
+                        for (let i = 0;  i < $('.followerchart').length; i++) {
+                            var obj = $('.followerchart')[i];
+                            var pdata = JSON.parse(JSON.stringify(def));
+                            console.log($(obj).attr('id'));
+                            var data = JSON.parse($(obj).attr('data'));
+
+                            var newdata = [];
+                            for (let j = 1; j < data.length; j++) {
+                                newdata.push({
+                                    "date": data[j][0],
+                                    "follower_count": data[j][1],
+                                    "follower_change": data[j][1] - data[j-1][1],
+                                })
+                            }
+
+                            pdata["datasets"]["data-stem"] = newdata;
+                            vegaEmbed('#'+$(obj).attr('id') , pdata).then(function(result) {}).catch(console.error);
+                        };
+                    }).done(function() {
+                        $('#wait-message').hide();
+                    });
+            }
+
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
@@ -43,9 +69,11 @@
                 $('#footer-container').load('/components/footer.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
                 });
+                
             });
             $(window).on('load', function () {
               setLang(getCookie('pagelang', 'tr'));
+              drawCharts();
             });
         </script>
 		
@@ -54,6 +82,140 @@
         <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
         <!-- Import vega-embed -->
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+
+        <style lang="scss">
+            #sort-bar {
+              width: 100%;
+              background-color: #ccc;
+              display: flex;
+              flex-wrap: wrap;
+              padding: 1em;
+              margin-bottom: 2em;
+            }
+
+            .sort-button {
+              background-color: rgba(0,0,0,0);
+              border: none;
+              height: 100%;
+              width: 50px;
+              &:hover {
+                background-color: rgba(0,0,0, 0.2);
+                cursor: pointer;
+              }
+            }
+             
+            #sort-label {
+                font-size: 12px;
+            }
+
+            #ascending-icon {
+              height: 100%;
+              width: 30px;
+            }
+
+            #select {
+              background-color: rgba(0,0,0, 0);
+              border: none;
+            }
+              
+            #search-input {
+                margin-right: 10px;
+            }
+
+        </style>
+
+        
+        <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.30/vue.global.min.js"></script>-->
+        <script src="/js/vue.global.min.js"></script>
+
+        <script type="module">
+            import pdata from './user_followers.json' assert { type: "json" };
+            import chart from './template-chart.json' assert { type: "json" };
+
+            const { createApp, ref, computed } = Vue;
+            createApp({
+              data() {
+                return {
+                    ascending: false,
+                    sortBy: 'nfollower',
+                    searchValue: '',
+                    politicians: pdata,
+                }
+              },
+              computed: {
+                filteredData(){
+                    console.log('Working')
+                    let tempPol = this.politicians
+
+                    // Process search input
+                    if (this.searchValue != '' && this.searchValue) {
+                        tempPol = tempPol.filter((item) => {
+                            return (item.name + item.screen_name + item.party)
+                                .toUpperCase()
+                                .includes(this.searchValue.toUpperCase())
+                        })
+                    }
+
+                    tempPol = tempPol.sort((a, b) => {
+                        if (this.sortBy == 'alphabetically') {
+                            let fa = a.name.toLowerCase(), fb = b.name.toLowerCase()
+                            if (fa < fb) {
+                                return -1
+                            }
+                            if (fa > fb) {
+                                return 1 
+                            }
+                            return 0
+                        } else if (this.sortBy == 'nfollower') {
+                            let fa = a.followers[a.followers.length-1][1]
+                            let fb = b.followers[b.followers.length-1][1]
+                            return fa - fb
+                        } else if (this.sortBy == 'followerchance') {
+                            let fa = a.followers[a.followers.length-1][1] - a.followers[0][1]
+                            let fb = b.followers[b.followers.length-1][1] - b.followers[0][1]
+                            return fa - fb
+                        } else if (this.sortBy == 'followermaxgain') {
+                            let fa = 0, fb = 0
+                            for (let i = 1; i < a.followers.length; i++) {
+                                if (a.followers[i][1] - a.followers[i-1][1] > fa) {
+                                    fa = a.followers[i][1] - a.followers[i-1][1]
+                                }
+                            }
+                            for (let i = 1; i < b.followers.length; i++) {
+                                if (b.followers[i][1] - b.followers[i-1][1] > fb) {
+                                    fb = b.followers[i][1] - b.followers[i-1][1]
+                                }
+                            }
+                            return fa - fb
+                        } else if (this.sortBy == 'followermaxloss') {
+                            let fa = 0, fb = 0
+                            for (let i = 1; i < a.followers.length; i++) {
+                                if (a.followers[i][1] - a.followers[i-1][1] < fa) {
+                                    fa = a.followers[i][1] - a.followers[i-1][1]
+                                }
+                            }
+                            for (let i = 1; i < b.followers.length; i++) {
+                                if (b.followers[i][1] - b.followers[i-1][1] < fb) {
+                                    fb = b.followers[i][1] - b.followers[i-1][1]
+                                }
+                            }
+                            return fb - fa
+                        }
+
+                    })
+
+                    // Show sorted array in descending or ascending order
+                    if (!this.ascending) {
+                        tempPol.reverse()
+                    }
+
+                    return tempPol
+                }
+              }
+            }).mount('#app');
+
+        </script>
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
@@ -79,7 +241,75 @@
                         <span tlang="tr">Takipçi Sayısı Değişim Analizi</span>
                         <!--https://codepen.io/thaekeh/pen/PoGJRKQ-->
                     </h3>
-                        
+                    
+                    <div id="app">
+                      <div id="sort-bar">
+                        <div tlang="en">
+                            <select name="sortBy" id="select" v-model="sortBy">
+                              <option value="alphabetically">Alphabetically</option>
+                              <option value="nfollower"># of followers</option>
+                              <option value="followerchance">Follower change</option>
+                              <option value="followermaxgain">Max gain a day</option>
+                              <option value="followermaxloss">Max loss a day</option>
+                            </select>
+                        </div>
+                        <div tlang="tr">
+                            <select name="sortBy" id="select" v-model="sortBy">
+                              <option value="alphabetically">Alfabetik</option>
+                              <option value="nfollower">Takipçi Sayısı</option>
+                              <option value="followerchance">Takipçi değişimi</option>
+                              <option value="followermaxgain">Günlük maksimum artış</option>
+                              <option value="followermaxloss">Günlük maksimum kayıp</option>
+                            </select>
+                        </div>
+                        <button v-on:click="ascending = !ascending" class="sort-button">
+                          <i v-if="ascending" class="fa fa-sort-up"></i>
+                          <i v-else class="fa fa-sort-down"></i>
+                        </button>
+                        <div tlang="en">
+                            <input type="text" v-model="searchValue" placeholder="Search by name, screen_name, party" id="search-input"></input>
+                        </div>
+                        <div tlang="tr">
+                            <input type="text" v-model="searchValue" placeholder="Isim, kullanıcı adı veya parti ile ara" id="search-input"></input>
+                        </div>
+                        <i class="fa fa-search"></i>
+                      </div>
+
+                      <div id="wait-message" class="alert alert-light" role="alert">
+                        <h2>
+                          <span class="spinner-grow" role="status" aria-hidden="true"> </span>
+                          <span tlang="en"> Please wait while page loading</span>
+                          <span tlang="tr"> Sayfa hazırlanırken lütfen bekleyiniz</span>
+                        </h2>
+                      </div>
+
+                      <div class="card" style="margin-bottom:1em;" v-for="pol in filteredData" :key="pol.screen_name">
+                        <div class="card-header">
+                            <div class="row g-0">
+                                <div class="col-md-8">
+                                <h5 class="card-title">
+                                    <b>{{ pol.name }} </b> 
+                                    (<a v-bind:href="'https://twitter.com/' + pol.screen_name" target="_blank">@{{ pol.screen_name }}</a>)
+                                    
+                                </h5>
+                                <h6 class="card-subtitle mb-2 text-muted">
+                                    <span tlang="en"># of followers:</span>
+                                    <span tlang="tr">Takipçi Sayısı:</span>
+                                    {{ pol.followers[pol.followers.length-1][1] }}
+                                </h6>
+                                </div>
+                            
+                                <div class="col-md-4">
+                                    <img v-bind:src="'/img/party-' + pol.party.toLowerCase().replace('i̇','i') + '-logo.png'" style="height:50px;" class="float-end">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="followerchart" v-bind:id="'chart-' + pol.id" :data=JSON.stringify(pol.followers)></div>
+                        </div>
+                      </div>
+
+                    </div>
                 </div>
             </div>
 
