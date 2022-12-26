@@ -312,7 +312,7 @@
                                 </div>
                             
                                 <div class="col-md-4">
-                                    <img v-bind:src="'/img/party-' + pol.party.toLowerCase().replace('i̇','i') + '-logo.png'" style="height:50px;" class="float-end">
+                                    <img v-bind:src="'/img/party-' + pol.party.toLowerCase().replace('i̇','i') + '-logo.png'" onError="this.onerror=null;this.src='/img/noimage.png';" style="height:50px;" class="float-end">
                                 </div>
                             </div>
                         </div>
