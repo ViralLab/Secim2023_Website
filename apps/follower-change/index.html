@@ -280,8 +280,8 @@
                                 </button>
                                 <button id="btnDrawAll" type="button" class="btn btn-outline-secondary">
                                     <i class="fa fa-sync"></i>&nbsp;
-                                    <span tlang="en">Plot all figures</span>
-                                    <span tlang="tr">Tüm figürleri hazırla</span>
+                                    <span tlang="en">Plot all charts</span>
+                                    <span tlang="tr">Tüm grafikleri hazırla</span>
                                 </button>
                                 </div>
                             </div>
@@ -318,8 +318,8 @@
                         </div>
                         <div class="card-body">
                             <button @click="redraw" v-bind:id="'btnchart-' + pol.id" type="button" class="btn btn-secondary">
-                                <span tlang="en">Prepare figure</span>
-                                <span tlang="tr">Figür hazırla</span>
+                                <span tlang="en">Prepare chart</span>
+                                <span tlang="tr">Grafik hazırla</span>
                             </button>
                             <div class="followerchart" v-bind:id="'chart-' + pol.id" :data=JSON.stringify(pol.followers)></div>
                             <div v-bind:id="'livechart-' + pol.id"></div>
