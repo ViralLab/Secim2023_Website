@@ -1,6 +1,8 @@
 [
-    {
+    {   
+        "id": "secim-dataset",
         "isVisible": true,
+        "languages": ["tr", "en"],
         "url": "/posts/221122/",
         "type": "Dataset",
         "date": "22/11/2022",
@@ -12,11 +14,25 @@
         "description": {
             "en": "We have just published our first dataset about Turkish Presidential Elections in 2023.",
             "tr": "İlk yayınımızı 2023 Türkiye Başkanlık Seçimleri üzerine veriseti paylaşarak yaptık."
-        }
+        },
+        "links": [
+            {
+                "type": "dataverse",
+                "text": "Dataverse",
+                "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW"
+            },
+            {
+                "type": "arxiv",
+                "text": "ArXiv",
+                "url": "https://arxiv.org/abs/2211.13121"
+            }
+        ]
     },
 
     {
+        "id": "imamoglu-case",
         "isVisible": true,
+        "languages": ["tr"],
         "url": "/posts/221219/",
         "type": "Analysis",
         "date": "19/12/2022",
@@ -28,6 +44,7 @@
         "description": {
             "en": "We analyzed the online conversation around Ekrem Imamoglu.",
             "tr": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
-        }
+        },
+        "links": []
     }
 ]
