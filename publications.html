@@ -43,6 +43,29 @@
         
         <title>#Secim2023</title>
 
+        <script src="/js/vue.global.min.js"></script>
+        <script type="module">
+            import postdata from '/data/posts/posts.json' assert { type: "json" };
+
+            const { createApp, ref, computed } = Vue;
+            createApp({
+              data() {
+                return {
+                    posts: postdata,
+                }
+              },
+              methods: {
+                filteredData(lang){
+                    let fdata = this.posts
+                    fdata = fdata.filter((item) => {
+                            return item.languages.includes(lang)
+                        })
+                    return fdata
+                }
+              }
+            }).mount('#app');
+        </script>
+
         <script type="text/javascript">
             $(document).ready(function () {
                 $('[data-toggle="tooltip"]').tooltip();
@@ -57,38 +80,69 @@
               setLang(getCookie('pagelang', 'en'));
             });
         </script>
+
     </head>
 
     <body>
 
         <div id="header-container"></div>
+
         <div class="container " style="margin-top: 3em; margin-bottom: 15em;">
             <div class="row my-5 justify-content-center">
-                <div class="col-10" tlang="en">
-                    <h4>
-                        About the team
-                    </h4>
-                    <div>
-                        <p>We are a team of interdisciplinary researchers with years of experience in social media analytics, machine learning, and natural language processing. This project led by Onur Varol at Sabanci University, <a href="https://varollab.com/" target="_blank">VIRAL Lab.</a></p>
-                        
-                        <p>Our goal is to provide <b>open and easily-accessible dataset</b> for researchers and public. We want to share <b>transparent reporting</b> for the important issues and debated surrounding this election.</p>
-                        
-                    </div>
-                </div>
+                <div class="col-10">
 
-                <div class="col-10" tlang="tr">
-                    <h4>
-                        Hakkımızda
-                    </h4>
-                    <div>
-                        <p>Sosyal medya analitiği, makine öğrenimi ve doğal dil işlemede uzun yıllara dayanan deneyime sahip disiplinler arası araştırmacılardan oluşan bir ekibiz. Proje Sabancı Üniversitesi <a href="https://varollab.com/" target="_blank">VIRAL Lab'da</a> Onur Varol tarafından yürütülmektedir.</p>
+                    <div id="app">
+                        <br>
+                        <h4>Publications</h4>
+                        <div class="card" style="margin-bottom:1em;" v-for="post in filteredData('en')" :key="post">
+                            <div class="card-header">
+                                <a v-bind:href="post.url">
+                                    <h6 class="card-title">{{post.title['en']}}</h6>
+                                </a>
+                                <span class="badge text-bg-primary" class="float-end">{{post.type}}</span>
+                            </div>
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted">
+                                    {{post.description['en']}}
+                                </h6>
+                                <span v-for="link in post.links" :key="post" style="margin-right:1em;">
+                                    <a v-bind:href="link.url" target="_blank">
+                                        <i v-bind:class="'ai ai-' + link.type"></i>
+                                        {{link.text}}
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
                         
-                        <p>Amacımız, araştırmacılar ve halk için <b>açık ve kolay erişilebilir veri kümesi</b> sağlamaktır. Bu seçimle ilgili tartışılan önemli konular için <b>şeffaf raporlama</b> prensibi ile payşımlar yapmak istiyoruz.</p>
-                        
+                        <hr>
+
+                        <br>
+                        <h4>Yayınlar</h4>
+                        <div class="card" style="margin-bottom:1em;" v-for="post in filteredData('tr')" :key="post">
+                            <div class="card-header">
+                                <a v-bind:href="post.url">
+                                    <h6 class="card-title">{{post.title['tr']}}</h6>
+                                </a>
+                                <span class="badge text-bg-primary" class="float-end">{{post.type}}</span>
+                            </div>
+                            <div class="card-body">
+                                <h6 class="card-subtitle mb-2 text-muted">
+                                    {{post.description['en']}}
+                                </h6>
+                                <span v-for="link in post.links" :key="post" style="margin-right:1em;">
+                                    <a v-bind:href="link.url" target="_blank">
+                                        <i v-bind:class="'ai ai-' + link.type"></i>
+                                        {{link.text}}
+                                    </a>
+                                </span>
+                            </div>
+                        </div>
                     </div>
+
                 </div>
             </div>
         </div>
+
         <div id="footer-container"></div>
 
     </body>
