@@ -46,5 +46,31 @@
             "tr": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
         },
         "links": []
+    },
+
+    {
+        "id": "follower-change",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/221226/",
+        "type": "Analysis",
+        "date": "26/12/2022",
+        "img": "thumbnail.png",
+        "title": {
+            "en": "Follower count monitoring system",
+            "tr": "Takipçi Sayısı İzleme Sistemi"
+        },
+        "description": {
+            "en": "Automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.",
+            "tr": "Kullanıcılar kendilerini sosyal medyada daha fazla görünür kılmak amacıyla bu otomasyon araçlarına sıklıkla başvurmaktadır. Bu yazımızda siyasi hesapların takipçi değişimlerinde gözlenen trendleri analiz etmek için geliştirdiğimiz aracı tanıtacağız."
+        },
+        "links": [
+            {
+                "type": "open-data",
+                "text": "Application",
+                "url": "/apps/follower-change/"
+            }
+        ]
     }
+
 ]
