@@ -43,20 +43,31 @@
         
         <title>#Secim2023</title>
 
+        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <script src="/js/vue.global.min.js"></script>
         <script type="module">
-            import postdata from '/data/posts/posts.json' assert { type: "json" };
+            //import postdata from '/data/posts/posts.json' assert { type: "json" };
+            //const postdata = require('/data/posts/posts.json')
+            //const postdata = axios.get("/data/posts/posts.json")
 
             const { createApp, ref, computed } = Vue;
             createApp({
               data() {
                 return {
-                    posts: postdata,
+                    posts: [],
                 }
               },
+              beforeMount: function() {
+                    this.getJson();
+              },
               methods: {
+                getJson: function(){
+                    $.getJSON('/data/posts/posts.json',function(json){
+                        this.posts = json;
+                    }.bind(this));
+                },
                 filteredData(lang){
-                    let fdata = this.posts
+                    var fdata = this.posts
                     fdata = fdata.filter((item) => {
                             return item.languages.includes(lang)
                         })
