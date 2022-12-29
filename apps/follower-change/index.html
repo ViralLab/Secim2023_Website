@@ -95,8 +95,8 @@
         <script src="/js/vue.global.min.js"></script>
 
         <script type="module">
-            import pdata from './user_followers.json' assert { type: "json" };
-            import chart from './template-chart.json' assert { type: "json" };
+            //import pdata from './user_followers.json' assert { type: "json" };
+            //import chart from './template-chart.json' assert { type: "json" };
 
             //var pdata = cdata.slice(0,10);
 
@@ -107,10 +107,23 @@
                     ascending: false,
                     sortBy: 'nfollower',
                     searchValue: '',
-                    politicians: pdata,
+                    politicians: [],
+                    chart: null,
                 }
               },
+              beforeMount: function() {
+                    this.getJson();
+              },
               methods: {
+                getJson: function(){
+                    $.getJSON('./user_followers.json',function(json){
+                        this.politicians = json;
+                    }.bind(this));
+
+                    $.getJSON('./template-chart.json',function(json){
+                        this.chart = json;
+                    }.bind(this));
+                },
                 redraw() {
                   let cid = event.currentTarget.id.replace('btnchart-','');
                   console.log(cid);
@@ -118,7 +131,7 @@
                     if (this.politicians[i].id == cid){
                         console.log('Match found');
                         var data = this.politicians[i]['followers'];
-                        var chartd = chart;
+                        var chartd = this.chart;
                         var newdata = [];
                         for (let j = 1; j < data.length; j++) {
                             newdata.push({
