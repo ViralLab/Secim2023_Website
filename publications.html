@@ -43,7 +43,6 @@
         
         <title>#Secim2023</title>
 
-        <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
         <script src="/js/vue.global.min.js"></script>
         <script type="module">
             //import postdata from '/data/posts/posts.json' assert { type: "json" };
@@ -79,6 +78,7 @@
 
         <script type="text/javascript">
             $(document).ready(function () {
+                setLang(getCookie('pagelang', 'tr'));
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'en'));
@@ -138,7 +138,7 @@
                             </div>
                             <div class="card-body">
                                 <h6 class="card-subtitle mb-2 text-muted">
-                                    {{post.description['en']}}
+                                    {{post.description['tr']}}
                                 </h6>
                                 <span v-for="link in post.links" :key="post" style="margin-right:1em;">
                                     <a v-bind:href="link.url" target="_blank">

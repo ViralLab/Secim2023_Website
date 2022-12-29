@@ -65,6 +65,7 @@
             }
 
             $(document).ready(function () {
+                setLang(getCookie('pagelang', 'tr'));
                 $('#wait-message').hide();
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
