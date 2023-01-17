@@ -26,7 +26,15 @@ const vrllogger = {
       }
     }
 
-    $.post(this.url, logdata, function(result){console.log(result)});
+    //$.post(this.url, logdata, function(result){console.log(result)});
+
+    $.ajax({
+            url: this.url,
+            type: "POST",
+            crossDomain: true,
+            data: JSON.stringify(logdata),
+            contentType: "application/json; charset=utf-8"
+        });
 
     var message = JSON.stringify(logdata);
     console.log(logdata);
