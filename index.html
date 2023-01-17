@@ -25,6 +25,7 @@
         <script src="/js/underscore-min.js"></script>
         <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
         <script src="/js/multilingual.js"></script>
+        <script src="/js/vrllog.js"></script>
 
         
         
@@ -96,6 +97,7 @@
             }
 
             $(document).ready(function () {
+                vrllogger.event("log", "PAGE_INIT");
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
