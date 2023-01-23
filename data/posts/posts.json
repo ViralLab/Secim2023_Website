@@ -1,4 +1,48 @@
 [
+    {
+        "id": "follower-change",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/221226/",
+        "type": "Analysis",
+        "date": "26/12/2022",
+        "img": "thumbnail.png",
+        "title": {
+            "en": "Follower count monitoring system",
+            "tr": "Takipçi Sayısı İzleme Sistemi"
+        },
+        "description": {
+            "en": "Automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.",
+            "tr": "Kullanıcılar kendilerini sosyal medyada daha fazla görünür kılmak amacıyla bu otomasyon araçlarına sıklıkla başvurmaktadır. Bu yazımızda siyasi hesapların takipçi değişimlerinde gözlenen trendleri analiz etmek için geliştirdiğimiz aracı tanıtacağız."
+        },
+        "links": [
+            {
+                "type": "open-data",
+                "text": "App",
+                "url": "/apps/follower-change/"
+            }
+        ]
+    },
+
+    {
+        "id": "imamoglu-case",
+        "isVisible": true,
+        "languages": ["tr"],
+        "url": "/posts/221219/",
+        "type": "Analysis",
+        "date": "19/12/2022",
+        "img": "ekrem_imamoglu-profile.png",
+        "title": {
+            "en": "Ekrem Imamoglu (Mayor of Istanbul) Case on December 15th, 2022",
+            "tr": "15 Aralık 2022, Ekrem Imamoglu Davası"
+        },
+        "description": {
+            "en": "We analyzed the online conversation around Ekrem Imamoglu.",
+            "tr": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
+        },
+        "links": []
+    },
+
     {   
         "id": "secim-dataset",
         "isVisible": true,
@@ -25,50 +69,6 @@
                 "type": "arxiv",
                 "text": "ArXiv",
                 "url": "https://arxiv.org/abs/2211.13121"
-            }
-        ]
-    },
-
-    {
-        "id": "imamoglu-case",
-        "isVisible": true,
-        "languages": ["tr"],
-        "url": "/posts/221219/",
-        "type": "Analysis",
-        "date": "19/12/2022",
-        "img": "ekrem_imamoglu-profile.png",
-        "title": {
-            "en": "Ekrem Imamoglu (Mayor of Istanbul) Case on December 15th, 2022",
-            "tr": "15 Aralık 2022, Ekrem Imamoglu Davası"
-        },
-        "description": {
-            "en": "We analyzed the online conversation around Ekrem Imamoglu.",
-            "tr": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
-        },
-        "links": []
-    },
-
-    {
-        "id": "follower-change",
-        "isVisible": true,
-        "languages": ["tr", "en"],
-        "url": "/posts/221226/",
-        "type": "Analysis",
-        "date": "26/12/2022",
-        "img": "thumbnail.png",
-        "title": {
-            "en": "Follower count monitoring system",
-            "tr": "Takipçi Sayısı İzleme Sistemi"
-        },
-        "description": {
-            "en": "Automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.automation tools are often used to increase visibility and amplify the reach of a content. In this article, we will introduce the tool that we developed to analyze the trends in followers changes.",
-            "tr": "Kullanıcılar kendilerini sosyal medyada daha fazla görünür kılmak amacıyla bu otomasyon araçlarına sıklıkla başvurmaktadır. Bu yazımızda siyasi hesapların takipçi değişimlerinde gözlenen trendleri analiz etmek için geliştirdiğimiz aracı tanıtacağız."
-        },
-        "links": [
-            {
-                "type": "open-data",
-                "text": "App",
-                "url": "/apps/follower-change/"
             }
         ]
     }

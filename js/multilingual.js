@@ -1,3 +1,9 @@
+function setCookieIfNotExist(cname){
+  let uuid = Date.now().toString(36) + Math.random().toString(36).substring(2);
+  if (document.cookie.indexOf(cname + '=') === -1){
+    setCookie(cname, uuid);
+  }
+}
 
 function setCookie(cname, value, expiry) {
   const date = new Date();
