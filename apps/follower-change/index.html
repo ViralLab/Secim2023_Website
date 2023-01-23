@@ -24,6 +24,7 @@
         <script src="/js/bootstrap.bundle.min.js"></script>
         <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
         <script src="/js/multilingual.js"></script>
+        <script src="/js/vrllog.js"></script>
 
         <link rel="stylesheet" href="/css/bootstrap.min.css">
         <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
@@ -76,9 +77,15 @@
                 });
                 $("#btnDrawAll").button().click(function(){
                   $('#wait-message').show();
+                  vrllogger.event("event", 
+                        {
+                            "code":"CHART_DRAW", 
+                            "lang":getCookie('pagelang', 'tr'),
+                            "data":{"id": "*"}
+                        });
                   drawCharts();
                 }); 
-                
+                vrllogger.event("log", {"code":"PAGE_INIT", "lang":getCookie('pagelang', 'tr')});
             });
             $(window).on('load', function () {
               setLang(getCookie('pagelang', 'tr'));
@@ -127,6 +134,13 @@
                 },
                 redraw() {
                   let cid = event.currentTarget.id.replace('btnchart-','');
+                  vrllogger.event("event", 
+                        {
+                            "code":"CHART_DRAW", 
+                            "lang":getCookie('pagelang', 'tr'),
+                            "data":{"id": cid}
+                        });
+
                   console.log(cid);
                   for (let i = 0;  i < this.politicians.length; i++) {
                     if (this.politicians[i].id == cid){

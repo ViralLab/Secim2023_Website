@@ -8,7 +8,7 @@ const vrllogger = {
  
   init: function() {
     this.id = "secim2023site";
-    this.url = "http://vrllab.sabanciuniv.edu/api/collect/";
+    this.url = "https://vrllab.sabanciuniv.edu/api/collect/";
     this.uuid = Date.now().toString(36) + Math.random().toString(36).substring(2);
     $.getJSON('https://api.ipify.org?format=json', function(data){
       this.ipaddr = data.ip;
@@ -21,6 +21,7 @@ const vrllogger = {
       "data":{"event_type": eventCode, "message": message},
       "meta":{
         "id": this.uuid,
+        "url": window.location.href,
         "ip": this.ipaddr,
         "ts": Math.floor(Date.now() / 1000)
       }
@@ -37,7 +38,7 @@ const vrllogger = {
         });
 
     var message = JSON.stringify(logdata);
-    console.log(logdata);
+    //console.log(logdata);
   }
 };
  
