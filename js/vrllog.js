@@ -1,5 +1,4 @@
- 
-// The reporter object encapsulating the WebSocket
+
 const vrllogger = {
   uuid: null,
   ipaddr: null,
@@ -10,11 +9,12 @@ const vrllogger = {
     this.id = "secim2023site";
     this.url = "https://vrllab.sabanciuniv.edu/api/collect/";
     this.uuid = Date.now().toString(36) + Math.random().toString(36).substring(2);
-    $.getJSON('https://api.ipify.org?format=json', function(data){
-      this.ipaddr = data;
-    });
+    // https://stackoverflow.com/questions/391979/how-to-get-clients-ip-address-using-javascript
+    $.getJSON('https://json.geoiplookup.io/?callback=?',function(json){
+      this.ipaddr = json;
+    }.bind(this));
   },
- 
+
   event: function(eventCode, message) {
     let logdata = {
       "app-id":this.id, 
@@ -27,8 +27,6 @@ const vrllogger = {
       }
     }
 
-    //$.post(this.url, logdata, function(result){console.log(result)});
-
     $.ajax({
             url: this.url,
             type: "POST",
@@ -37,10 +35,11 @@ const vrllogger = {
             contentType: "application/json; charset=utf-8"
         });
 
-    var message = JSON.stringify(logdata);
-    console.log(logdata);
+    //var message = JSON.stringify(logdata);
+    //console.log(logdata);
   }
 };
- 
+
 // Start logger immediately
 vrllogger.init();
+

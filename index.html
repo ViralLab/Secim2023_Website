@@ -97,11 +97,6 @@
             }
 
             $(document).ready(function () {
-                vrllogger.event("log", {
-                    "code":"PAGE_INIT", 
-                    "lang":getCookie('pagelang', 'tr'),
-                    "uid":getCookie('uid')
-                });
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
@@ -114,6 +109,12 @@
                     function (json) {
                         createBlogPosts(json);
                         setLang(getCookie('pagelang', 'tr'));
+                });
+
+                vrllogger.event("log", {
+                    "code":"PAGE_INIT", 
+                    "lang":getCookie('pagelang', 'tr'),
+                    "uid":getCookie('uid')
                 });
             });
             $(window).on('load', function () {
