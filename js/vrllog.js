@@ -11,7 +11,7 @@ const vrllogger = {
     this.url = "https://vrllab.sabanciuniv.edu/api/collect/";
     this.uuid = Date.now().toString(36) + Math.random().toString(36).substring(2);
     $.getJSON('https://api.ipify.org?format=json', function(data){
-      this.ipaddr = data.ip;
+      this.ipaddr = data;
     });
   },
  
@@ -38,7 +38,7 @@ const vrllogger = {
         });
 
     var message = JSON.stringify(logdata);
-    //console.log(logdata);
+    console.log(logdata);
   }
 };
  

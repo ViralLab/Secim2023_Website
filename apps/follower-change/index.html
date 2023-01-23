@@ -81,11 +81,16 @@
                         {
                             "code":"CHART_DRAW", 
                             "lang":getCookie('pagelang', 'tr'),
+                            "uid":getCookie('uid'),
                             "data":{"id": "*"}
                         });
                   drawCharts();
                 }); 
-                vrllogger.event("log", {"code":"PAGE_INIT", "lang":getCookie('pagelang', 'tr')});
+                vrllogger.event("log", {
+                    "code":"PAGE_INIT", 
+                    "lang":getCookie('pagelang', 'tr'),
+                    "uid":getCookie('uid')
+                });
             });
             $(window).on('load', function () {
               setLang(getCookie('pagelang', 'tr'));
@@ -138,6 +143,7 @@
                         {
                             "code":"CHART_DRAW", 
                             "lang":getCookie('pagelang', 'tr'),
+                            "uid":getCookie('uid'),
                             "data":{"id": cid}
                         });
 

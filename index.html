@@ -97,7 +97,11 @@
             }
 
             $(document).ready(function () {
-                vrllogger.event("log", {"code":"PAGE_INIT", "lang":getCookie('pagelang', 'tr')});
+                vrllogger.event("log", {
+                    "code":"PAGE_INIT", 
+                    "lang":getCookie('pagelang', 'tr'),
+                    "uid":getCookie('uid')
+                });
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'tr'));
@@ -113,6 +117,7 @@
                 });
             });
             $(window).on('load', function () {
+              setCookieIfNotExist('uid')
               setLang(getCookie('pagelang', 'tr'));
             });
         </script>
