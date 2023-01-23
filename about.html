@@ -24,6 +24,7 @@
         <script src="/js/bootstrap.bundle.min.js"></script>
         <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
         <script src="/js/multilingual.js"></script>
+        <script src="/js/vrllog.js"></script>
         
 
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -45,6 +46,7 @@
 
         <script type="text/javascript">
             $(document).ready(function () {
+                vrllogger.event("log", {"code":"PAGE_INIT", "lang":getCookie('pagelang', 'tr')});
                 $('[data-toggle="tooltip"]').tooltip();
                 $('#header-container').load('/components/header.html', function() {
                   setLang(getCookie('pagelang', 'en'));
