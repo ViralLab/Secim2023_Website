@@ -1,5 +1,30 @@
 [
     {
+        "id": "sarkac-post",
+        "isVisible": true,
+        "languages": ["tr"],
+        "url": "/posts/230123/",
+        "type": "Report",
+        "date": "23/01/2023",
+        "img": "schema.jpg",
+        "title": {
+            "en": "Post for Sarkaç on social bots and disinformation campaigns",
+            "tr": "Sarkaç için `Sosyal botlar ve dezenformasyon kampanyaları nedir?`"
+        },
+        "description": {
+            "en": "This post written for Turkish audience",
+            "tr": "Bilim Akademisinin çevirimiçi yayını olan Sarkaç'ta yayınlanan yazımız"
+        },
+        "links": [
+            {
+                "type": "obp",
+                "text": "Sarkac",
+                "url": "https://sarkac.org/2023/01/sosyal-botlar-ve-dezenformasyon-kampanyalari-nedir/"
+            }
+        ]
+    },
+
+    {
         "id": "follower-change",
         "isVisible": true,
         "languages": ["tr", "en"],
