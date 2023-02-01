@@ -59,6 +59,7 @@
                             vegaEmbed('#live'+$(obj).attr('id') , pdata).then(function(result) {}).catch(console.error);
                             $('#btn'+$(obj).attr('id')).hide();
                         };
+                        setLang(getCookie('pagelang', 'tr'));
                     }).done(function() {
                         $('#wait-message').hide();
                         setLang(getCookie('pagelang', 'tr'));
@@ -85,6 +86,7 @@
                             "data":{"id": "*"}
                         });
                   drawCharts();
+                  setLang(getCookie('pagelang', 'tr'));
                 }); 
                 vrllogger.event("log", {
                     "code":"PAGE_INIT", 
