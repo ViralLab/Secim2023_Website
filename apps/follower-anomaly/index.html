@@ -30,6 +30,41 @@
         <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
         <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
 
+        <style>
+          .pagination-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+          }
+
+          .pagination-button {
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            margin-right: 5px;
+            cursor: pointer;
+            background-color: #fff;
+            color: #333;
+          }
+
+          .pagination-button.active {
+            background-color: #333;
+            color: #fff;
+          }
+
+          .pagination-button:hover {
+            background-color: #eee;
+          }
+
+          .pagination-ellipsis {
+            margin-right: 5px;
+          }
+
+          .pagination-ellipsis:before {
+            content: "...";
+          }
+        </style>
+
 
         <title>#Secim2023</title>
 
@@ -81,11 +116,6 @@
         <script src="/js/vue.global.min.js"></script>
 
         <script type="module">
-            //import pdata from './user_followers.json' assert { type: "json" };
-            //import chart from './template-chart.json' assert { type: "json" };
-
-            //var pdata = cdata.slice(0,10);
-
             const { createApp, ref, computed } = Vue;
             createApp({
               data() {
@@ -99,7 +129,8 @@
                     sortBy_order:'num_followers',
                     chart: null,
                     currentCid: null,
-
+                    perPage: 25, // The number of users to display per page
+                    currentPage: 1,
                 }
               },
               beforeMount: function() {
@@ -110,7 +141,6 @@
                   if (this.sortBy_order === propertyName) {
                     this.ascending = !this.ascending;
                     this.ascending_bot = !this.ascending_bot;
-
                   } else {
                     this.sortBy_order = propertyName;
                     this.ascending = true;
@@ -125,6 +155,8 @@
                     $.getJSON('./profile_details.json',function(json){
                         this.profiles = json;
                     }.bind(this));
+
+                    setLang(getCookie('pagelang', 'tr'));
                 },
                 redraw(cid,pol) {
                   this.currentCid = cid
@@ -180,28 +212,59 @@
                     if (pol.sortBy === "bot_score")
                     {
                       temp2 = "linear"
-
                     }else{
                       temp2 = "log"
-
                     }
 
                     chartd["encoding"]["fill"]["scale"]["type"] = temp2;
-
-
                     chartd["encoding"]["tooltip"] = tooltip;
 
                     vegaEmbed('#livechart-'+cid , chartd).then(function(result) {}).catch(console.error);
                     $('#btnchart-'+cid).hide();
 
-
-
-                  setLang(getCookie('pagelang', 'tr'));
+                    setLang(getCookie('pagelang', 'tr'));
 
                     }.bind(this));
+                   setLang(getCookie('pagelang', 'tr'));
                 }
               },
               computed: {
+                pageCount() {
+                  return Math.ceil(this.filteredData.length / this.perPage);
+                },
+                visiblePages() {
+                  let start, end;
+                  if (this.pageCount <= 9) {
+                    start = 1;
+                    end = this.pageCount;
+                  } else {
+                    if (this.currentPage <= 5) {
+                      start = 1;
+                      end = 9;
+                    } else if (this.currentPage >= this.pageCount - 4) {
+                      start = this.pageCount - 8;
+                      end = this.pageCount;
+                    } else {
+                      start = this.currentPage - 4;
+                      end = this.currentPage + 4;
+                    }
+                  }
+                  
+                  this.$nextTick(function () {
+                    setLang(getCookie('pagelang', 'tr'));
+                  })
+
+                  return Array.from({length: end - start + 1}, (_, i) => start + i);
+                },
+                // The users to display on the current page
+                currentPageData() {
+                  const startIndex = (this.currentPage - 1) * this.perPage;
+                  const endIndex = startIndex + this.perPage;
+                  setLang(getCookie('pagelang', 'tr'));
+
+                  return this.filteredData.slice(startIndex, endIndex);
+
+                },
                 filteredData(){
                     console.log('Working')
                     let tempProf = this.profiles;
@@ -248,10 +311,11 @@
                     const sortedArray = [];
                     for (let i = 0; i < entries.length; i++) {
                         const profile = entries[i][1];
-                        profile['sortBy'] = 'bot_score';
+                        profile['sortBy'] = 'bot_score'; 
                         sortedArray.push(profile);
                     }
 
+                    this.currentPage = 1;
                     console.log(sortedArray);
                     setLang(getCookie('pagelang', 'tr'));
                     return sortedArray;
@@ -278,7 +342,7 @@
         <div id="header-container"></div>
 
         <div class="container">
-            <div class="row my-5 justify-content-center" >
+            <div class="row my-3 justify-content-center" >
                 <div class="col-11">
                     <div id="app">
 
@@ -304,16 +368,20 @@
 
                           <div class="mb-3">
                             <div class="btn-group me-2" role="group">
-                              <button type="button" class="btn btn-outline-secondary" v-on:click="setSortBy('num_followers')" class="{ active: sortBy_order === 'num_followers' }">
+                              <button type="span" class="btn btn-secondary" disabled>
                                 <i v-if="ascending" class="fa fa-sort-up"></i>
                                 <i v-else class="fa fa-sort-down"></i>&nbsp;
-                                <span tlang="en">Order by Follower Score</span>
-                                <span tlang="tr">Takipçi sayısına göre sırala</span>
+                                <span tlang="en">Order by</span>
+                                <span tlang="tr">Sırala</span>
+                              </button>
+                              <button type="button" class="btn btn-outline-secondary" v-on:click="setSortBy('num_followers')" class="{ active: sortBy_order === 'num_followers' }">
+                                
+                                <span tlang="en">Follower count</span>
+                                <span tlang="tr">Takipçi sayısı</span>
                             </button>
                             <button type="button" class="btn btn-outline-secondary" v-on:click="setSortBy('mean_bot_score')" class="{ active: sortBy_order === 'mean_bot_score' }">
-
-                              <span tlang="en">Order by Bot Score</span>
-                              <span tlang="tr">Bot oranına göre sırala</span>
+                              <span tlang="en">Bot score</span>
+                              <span tlang="tr">Bot skoru</span>
                           </button>
                             </div>
                         </div>
@@ -328,7 +396,7 @@
                         </h2>
                       </div>
 
-                      <div class="card" style="margin-bottom:1em;" v-for="pol in filteredData" :key="pol.screen_name">
+                      <div class="card" style="margin-bottom:1em;" v-for="pol in currentPageData" :key="pol.screen_name">
                         <div class="card-header">
                             <div class="row g-0">
                                 <div class="col-md-8">
@@ -343,8 +411,8 @@
                                     {{ pol.num_followers }}
                                 </h6>
                                 <h6 class="card-subtitle mb-2 text-muted">
-                                  <span tlang="en">Average bot percentage:</span>
-                                  <span tlang="tr">Ortalama bot yüzdesi:</span>
+                                  <span tlang="en">Average bot score:</span>
+                                  <span tlang="tr">Ortalama bot skoru:</span>
                                   {{ pol.mean_bot_score.toFixed(3) }}
                               </h6>
                                 </div>
@@ -385,6 +453,22 @@
                             <div v-bind:id="'livechart-' + pol.id"></div>
                         </div>
                       </div>
+
+                      <div class="pagination-container">
+                        <button v-if="currentPage > 1" @click="currentPage--" class="pagination-button">Previous</button>
+                        <button v-if="visiblePages[0] > 1" @click="currentPage = 1" class="pagination-button">1</button>
+                        <span v-if="visiblePages[0] > 2" class="fa fa-ellipsis-h"></span>&nbsp;
+                        <button v-for="pageNumber in visiblePages" :key="pageNumber" @click="currentPage = pageNumber"
+                            :class="{ 'pagination-button': true, 'active': pageNumber === currentPage }">
+                            {{ pageNumber }}
+                        </button>
+                        <span v-if="visiblePages[visiblePages.length - 1] < pageCount - 2" class="fa fa-ellipsis-h"></span>&nbsp;
+                        <button v-if="visiblePages[visiblePages.length - 1] < pageCount - 1" @click="currentPage = pageCount - 1"
+                            class="pagination-button">{{ pageCount - 1 }}</button>
+                        <button v-if="visiblePages[visiblePages.length - 1] < pageCount" @click="currentPage = pageCount"
+                            class="pagination-button">{{ pageCount }}</button>
+                        <button v-if="currentPage < pageCount" @click="currentPage++" class="pagination-button">Next</button>
+                    </div>
 
                     </div>
                 </div>
