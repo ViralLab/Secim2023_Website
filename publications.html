@@ -62,7 +62,7 @@
               },
               methods: {
                 getJson: function(){
-                    $.getJSON('/data/posts/posts.json',function(json){
+                    $.getJSON('/posts/posts.json',function(json){
                         this.posts = json;
                     }.bind(this));
                 },

@@ -30,7 +30,6 @@
         <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
         <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
         
-        
         <title>#Secim2023</title>
 
         <script type="text/javascript">
@@ -308,19 +307,30 @@
                             </div>
                             <div class="mb-3">
                                 <div class="btn-group me-2" role="group">
-                                <button type="button" class="btn btn-outline-secondary" v-on:click="ascending = !ascending" class="sort-button">
-                                    <i v-if="ascending" class="fa fa-sort-up"></i>
-                                    <i v-else class="fa fa-sort-down"></i>&nbsp;
-                                    <span tlang="en">Order</span>
-                                    <span tlang="tr">Sırala</span>
-                                </button>
-                                <button id="btnDrawAll" type="button" class="btn btn-outline-secondary">
-                                    <i class="fa fa-sync"></i>&nbsp;
-                                    <span tlang="en">Plot all charts</span>
-                                    <span tlang="tr">Tüm grafikleri hazırla</span>
-                                </button>
+                                    <button type="button" class="btn btn-outline-secondary" v-on:click="ascending = !ascending" class="sort-button">
+                                        <i v-if="ascending" class="fa fa-sort-up"></i>
+                                        <i v-else class="fa fa-sort-down"></i>&nbsp;
+                                        <span tlang="en">Order</span>
+                                        <span tlang="tr">Sırala</span>
+                                    </button>
+                                    <button id="btnDrawAll" type="button" class="btn btn-outline-secondary">
+                                        <i class="fa fa-sync"></i>&nbsp;
+                                        <span tlang="en">Plot all charts</span>
+                                        <span tlang="tr">Tüm grafikleri hazırla</span>
+                                    </button>
                                 </div>
                             </div>
+
+                            <div class="mb-3" role="alert">
+                                <i class="fa fa-circle-question"></i>&nbsp;
+                                <span tlang="en">
+                                    <i>Information about the visualization and analysis explained <a href="/posts/221226/" target="_blank">here</a></i>
+                                </span>
+                                <span tlang="tr">
+                                    <i>Analizler ve görsellerin nasıl yorumlanacağına dair <a href="/posts/221226/" target="_blank">açıklama</a></i>
+                                </span>
+                            </div>
+                            
                         </form>
 
                       <div id="wait-message" class="alert alert-light" role="alert">
