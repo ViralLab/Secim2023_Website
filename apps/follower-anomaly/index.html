@@ -191,7 +191,7 @@
                     let feature = pol.sortBy
                     let feature_titles = {
                         'count': 'Kullanıcı sayısı',
-                        'statuses_count': 'Status sayısı',
+                        'statuses_count': 'Tweet sayısı',
                         'favourites_count': 'Favori sayısı',
                         'followers_count': 'Takipçi sayısı',
                         'friends_count': 'Arkadaş sayısı',
@@ -199,8 +199,9 @@
                         'user_count': 'Kullanıcı sayısı'
                     }
                     let tooltip = [
-                    {'field': 'feature_val', 'format': '.2f', 'title': pol.sortBy, 'type': 'quantitative'},
-                    {'field': 'user_count', 'format': ',.0f', 'title': 'user_count', 'type': 'quantitative'}]
+                    {'field': 'feature_val', 'format': '.2f', 'title': feature_titles[pol.sortBy], 'type': 'quantitative'},
+                    {'field': 'user_count', 'format': ',.0f', 'title': 'Hesap sayısı', 'type': 'quantitative'},
+                    {'field': 'creation_date', 'type': 'temporal', 'title': 'Yaratılış zamanı'}]
 
                     if (feature == "count") {
                         tooltip = tooltip[1];
@@ -378,14 +379,23 @@
                                 
                                 <span tlang="en">Follower count</span>
                                 <span tlang="tr">Takipçi sayısı</span>
-                            </button>
-                            <button type="button" class="btn btn-outline-secondary" v-on:click="setSortBy('mean_bot_score')" class="{ active: sortBy_order === 'mean_bot_score' }">
-                              <span tlang="en">Bot score</span>
-                              <span tlang="tr">Bot skoru</span>
-                          </button>
+                              </button>
+                              <button type="button" class="btn btn-outline-secondary" v-on:click="setSortBy('mean_bot_score')" class="{ active: sortBy_order === 'mean_bot_score' }">
+                                <span tlang="en">Bot score</span>
+                                <span tlang="tr">Bot skoru</span>
+                              </button>
                             </div>
-                        </div>
+                          </div>
 
+                          <div class="mb-3" role="alert">
+                                <i class="fa fa-circle-question"></i>&nbsp;
+                                <span tlang="en">
+                                    <i>Information about the visualization and analysis explained <a href="/posts/230313/" target="_blank">here</a></i>
+                                </span>
+                                <span tlang="tr">
+                                    <i>Analizler ve görsellerin nasıl yorumlanacağına dair <a href="/posts/230313/" target="_blank">açıklama</a></i>
+                                </span>
+                          </div>
                         </form>
 
                       <div id="wait-message" class="alert alert-light" role="alert">
@@ -424,11 +434,11 @@
                                   <div tlang="tr">
                                       <select required class="form-select" name="sortBy" v-model="pol.sortBy" @change="redraw(pol.id, pol)">
                                           <option value="user_count">Kullanıcı sayısı</option>
-                                          <option value="statuses_count">Status sayısı</option>
+                                          <option value="statuses_count">Tweet sayısı</option>
                                           <option value="favourites_count">Favori sayısı</option>
                                           <option value="followers_count">Takipçi sayısı</option>
                                           <option value="friends_count">Arkadaş sayısı</option>
-                                          <option value="bot_score" >Bot skor</option>
+                                          <option value="bot_score" >Bot skoru</option>
                                       </select>
                                   </div>
                                   <div tlang="en">

@@ -105,7 +105,7 @@
                   setLang(getCookie('pagelang', 'tr'));
                 });
 
-                $.getJSON('data/posts/posts.json',
+                $.getJSON('posts/posts.json',
                     function (json) {
                         createBlogPosts(json);
                         setLang(getCookie('pagelang', 'tr'));
