@@ -1,5 +1,30 @@
 [
     {
+        "id": "sarkac-post-2",
+        "isVisible": true,
+        "languages": ["tr"],
+        "url": "/posts/230323/",
+        "type": "Report",
+        "date": "23/03/2023",
+        "img": "figur-2.png",
+        "title": {
+            "en": "Post for Sarkaç on how to interpret online manipulation campaigns",
+            "tr": "Sarkaç için `Çevrimiçi manipülasyon nasıl incelenmeli ve yorumlanmalı?`"
+        },
+        "description": {
+            "en": "This post written for Turkish audience",
+            "tr": "Bilim Akademisinin çevirimiçi yayını olan Sarkaç'ta yayınlanan yazımız"
+        },
+        "links": [
+            {
+                "type": "obp",
+                "text": "Sarkac",
+                "url": "https://sarkac.org/2023/03/cevrimici-manipulasyon-nasil-incelenmeli-ve-yorumlanmali/"
+            }
+        ]
+    },
+
+    {
         "id": "follower-anomaly",
         "isVisible": true,
         "languages": ["tr","en"],

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta content="#Secim2023 Project" name="VRL Lab @ Sabanci University">
+        <meta content="disinformation, social bot detection, coordinated activity detection, dezenformasyon, sosyal bot tespiti, koordinasyon tespiti" name="keywords">
+        <meta content="Copyright (c) 2022 VRL Lab @ Sabanci University" name="Copyright">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta property="og:title" content="#Secim2023 Project @ VRL Lab">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://secim2023.biz">
+        <meta property="og:image" content="http://secim2023.biz/img/secim2023-logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="400">
+        <meta property="og:description" content="Bu platform üzerinden 2023 Cumhurbaşkanlığı Seçimleri için gerçekleştirdiğimiz dezenformasyon ve koordinasyonlu aktivite ile mücadele projesine ait raporlar ve makaleler yayınlıyoruz.">
+        <link id="page_favicon" href="img/favicon.ico" rel="icon" type="image/x-icon" />
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
+        <script src="/js/multilingual.js"></script>
+
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+        <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
+        <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KMQ3V513ZY');
+        </script>
+        
+        <title>#Secim2023</title>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+                $('#header-container').load('/components/header.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+                $('#footer-container').load('/components/footer.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+            });
+            $(window).on('load', function () {
+              setLang(getCookie('pagelang', 'en'));
+            });
+        </script>
+    </head>
+
+    <body>
+
+        <div id="header-container"></div>
+        
+        <div class="container">
+            <div class="row my-5 justify-content-center">
+                <div class="col-10">
+                    
+                    <a href="https://sarkac.org/2023/03/cevrimici-manipulasyon-nasil-incelenmeli-ve-yorumlanmali/" target="_blank">
+                        <div class="alert alert-primary" role="alert" width="100%">
+                            <div class="row justify-content-center">
+                            <div class="col-2">
+                                <img src="./sarkac_logo.png" width="100px">
+                            </div>
+                            <div class="col-10">
+                                <h6>Çevrimiçi manipülasyon nasıl incelenmeli ve yorumlanmalı?</h6>
+                                Yazının orjinaline Sarkaç websayfasıdan erişebilirsiniz.                                
+                                (Onur Varol - 2023/03/23)
+                            </div>
+                            </div>
+                        </div>
+                    </a>
+                        
+                    <h4>Sosyal botlar ve dezenformasyon kampanyaları nedir?</h4>
+
+                    <p>
+                        <u>Sosyal ağlardaki kötü aktörler platformun sağladığı olanakları ve kendi keşfettikleri açıkları amaçları doğrultusunda kullanmaya çalışırlar. Manipülatif bir faaliyetin kaynağını tespit etmek, bu faaliyetleri gözlemlemekten çok daha karmaşık ve zordur.</u>
+                    </p>
+
+                    <p>
+                        Sosyal ağlar sağladıkları önemli olanakların yanında kötü aktörler için de bir oyun alanı haline gelmiş durumda. Her gün yapılan milyonlarca paylaşımın etkisini bu paylaşımların görünürlüğüne ve almış olduğu etkileşimlere bakarak ölçebiliriz fakat paylaşılan bir içeriğin doğruluğunu veya çok takipçili bir hesabın ne kadar güvenilir olduğunu sadece sayılara bakarak tespit etmek mümkün değil.
+                    </p>
+
+                    <p>
+                        Bir önceki Sarkaç yazımızda sosyal botları anlatmış, nasıl yaratıldıklarını ve tespit edilebilmeleri için kullanılan özellikleri incelemiştik. Sosyal botların özellikle dezenformasyon ve koordinasyonlu faaliyetlerin yürütülmesindeki kullanımlarını ele almıştık.  Bu yazıda ise özellikle çok takipçili hesaplara ve onların dahil olduğu manipülatif kampanyalara odaklanacağız.
+                    </p>
+
+                    <h5>Sosyal medyadaki içerikle olan ilişkimiz</h5>
+
+                    <p>
+                        Kovid-19 pandemisinde halk sağlığını olumsuz etkileyecek dezenformasyon yayan hesapların oldukça popüler olduğunu gözlemlemiştik. Bu paylaşımlar, özellikle pandeminin erken dönemindeki bilinmezlik ortamında yüz binlerce kez tekrar paylaşıldı ve iletişim kanallarındaki gerçek bilginin erişilebilirliği önünde engel oluşturdu.[1,2,3] Doğrulama kuruluşları ile Sağlık Bakanlığı gibi resmi kurumların yapmış olduğu paylaşımlar ve bilgilendirme çabaları bu sebeple önemli. Bu alandaki dezenformasyona karşı mücadele, zaman içinde bilimsel kanıtların ve somut bulguların sunulmasıyla önemli yol aldı.
+                    </p>
+
+                    <p>
+                        Siyasi tartışmalarda da aile, içinde bulunulan sosyal gruplar ve etkileşime girilen online platformlar inanç ve düşünceleri doğrudan etkiliyor.[4,5] İnanç sistemleri ve siyasi tercihler değişmesi zor olgular ve kişinin değer algılarıyla da doğrudan ilişkili; dolayısıyla kişilerin inanç ve siyasi tercihlerine dokunan dezenformasyon faaliyetleri son derece etkili. Bir içeriği kişisel yanlılıklarımız ve inançlarımız üzerinden değerlendirmek, duygusal tepkiler verebildiğimiz için oldukça yanıltıcı olabilir. Kendimizi ait gördüğümüz gruplarla ilişkili olumlu düşünce ve haberlerden mutlu olurken, “diğerleri/ötekiler” diye nitelendirmeye yatkın olduğumuz gruplar hakkında olumsuz düşünceleri olduğu haliyle kabul etmeye ve yakıştırmaya daha yatkınız.[6,7,8] Bu sebeple çevrimiçi ağlarda yayılan bilgi üzerinden ayrışma, tartışma ve diğer grupların paylaşımlarını tamamen görmezden gelerek kendi yankı odalarımız içinde kalma eğilimindeyiz.[9,10]
+                    </p>
+                    
+                    <p>
+                        Sosyal ağlarda önümüze gelen bilgileri inançlarımız üzerinden okumak yerine somut verilere odaklanarak ve alternatif yorumların da varlığını göz önüne alarak değerlendirme sorumluluğumuz var. Bu yazıda ele alacağımız gibi, bu konu özellikle siyasetçileri ve siyasetle ilgili paylaşımlar yapan çok takipçili hesapları ilgilendiriyor.
+                    </p>
+
+                    <h5>Bot takipçiler nereden, nasıl gelebilir?</h5>
+
+                    <p>
+                        Sosyal ağlardaki manipülatif faaliyetleri yorumlarken, sosyal ağlarda kişilerin kendilerini olduklarından farklı gösterebilmesi, amaçlarını açıkça belli etmeden koordinasyonlu faaliyetler düzenleyebilmeleri ve bir aktivitenin arkasındaki itici gücün kaynağını tespit etmenin zorluğu nedeniyle bazı alternatif senaryoları dikkate almalıyız.  Bunu anlayabilmek için örnek bir senaryo kurgulayalım ve olası yorumları beraber tartışalım.                        
+                    </p>
+
+                    <p>
+                        Sosyal medyada paylaşımlar yapan ve eşit derecede popüler olan iki hesaba yönelik yapılan bir analizde farklı oranlarda otomasyon davranışı sergileyen ve bot hesap olduğu düşünülen takipçiler olsun. Şekil 1 böyle iki hesabı (A ve B) ve takipçilerini temsil etsin. A’nın takipçileri arasındaki sekiz hesaptan üçü bot hesaplardan oluşmaktadır ve B için yapılan analizde sekiz hesaptan beşinin bot hesap olduğu tespit edilmiştir.                        
+                    </p>
+
+                    <img src="./figur-1.png" width="100%">
+                    <p>
+                        <i><b>Şekil 1:</b> Eşit sayıda takipçili iki örnek hesap ve bunların takipçilerine ait bot hesapların oranları temsil edilmiştir. A hesabında 3/8 oranında ve B hesabında 5/8 oranında bot takipçi bulunmaktadır.</i>
+                    </p>
+
+                    <p>
+                        Bu bilgiler ışığında yapılabilecek farklı yorumlar aşağıdaki gibi olabilir:
+                        <ol>
+                            <li>B hesabı bot takipçiler alarak popüler gözükmeye çalışmaktadır.</li>
+                            <li>Bot hesapların B hesabını, bu hesabı destekleyenler tarafından ve B hesabının haberi olmadan takip etmesi sağlanmıştır.</li>
+                            <li>A ve B hesabı, sahip olduğu belli özellikler sebebiyle (ağ içindeki konumu, içeriklerinin aldığı etkileşim veya kalitesi vb.) bot hesaplar için farklı seviyelerde cazip hedefler olmaktadırlar.</li>
+                            <li>Hesapların kontrolü dışında gelişen ve platform kaynaklı olabilecek bir yanlılık sebebiyle bot hesapların B hesabını takip etmesi daha fazla gerçekleşmiştir.</li>
+                        </ol>
+                    </p>
+
+                    <p>
+                        Bu senaryoların hepsi olası senaryolar. A ve B bu durumdan tamamen habersiz olabilir veya kontrolleri dahilinde gerçekleşmiş olabilir. Burada B hesabının ait olduğu kişi veya kuruma dair tutumumuz bu senaryolara olan yaklaşımlarımızı etkileyecektir. Tam olarak da bu sebeple daha dikkatli planlanmış ve sosyal medya kullanıcılarının algılarını ve beklentilerini manipüle etmeyi planlayan senaryoların da var olabileceği ihtimaline olanak vermeliyiz.
+                    </p>
+
+                    <h5>Kötü niyetli aktörler hesapların güvenilirliğine zarar verebilir</h5>
+
+                    <p>
+                        Şekil 2’de olası bir başka senaryoya dair tasviri görebilirsiniz. Burada takipçiler arasındaki botların bir kısmı kötü niyetli bir aktör tarafından bu hesabın takipçi sayısını arttırmak amacıyla ve hesabın bilgisi dışında kullanılmıştır. Bu aktör aynı zamanda bot hesapların varlığına dair bilgiyi gazetecilerle ve araştırmacılarla paylaşarak bahsi geçen hesabın detaylı incelenmesini talep etmiştir ve bu hesabı botları kullanmakla suçlamaktadır.
+                    </p>
+
+                    <img src="./figur-2.png" width="100%">
+
+                    <p>
+                        <i><b>Şekil 2:</b> Senaryoda söz konusu hesap bot hesaplar, kötü bir aktör tarafından takip ettiriliyor ve sonrasında gazeteciler/araştırmacılar uyarılarak hesabın güvenilirliğine zarar vermek için kullanılıyor.</i>
+                    </p>
+
+                    <p>
+                        Bu senaryo her ne kadar gerçekleşmesi zor gözükse de bize şu soruları sordurmalı: Bot hesapların varlığından kim fayda sağlıyor? Eğer bot takipçilerin hesaba ölçülebilen bir faydası yoksa bu durumda bot takipçili hesapların sorumluluğu ne olmalıdır? <b>Twitter gibi sosyal ağlarda kazanılan takipçilerin muhasebesi çoğunlukla sayılar üzerinden tutulur. Ancak tespit edilen bot hesapların, takipçi sayılarına olan olumsuz etkilerine rağmen, engellenmesi ve takipten çıkarılması sağlıklı bir iletişim ağının oluşturulması ve olası bir itibar saldırısının önüne geçilmesi için önemlidir.</b>
+                    </p>
+
+                    <p>
+                        Bu tür planlı bir manipülasyon sonucu gerçekleştirilebilecek senaryoların kaynağını tespit etmek oldukça zordur. Burada disiplinler arası yaklaşım kullanılarak bu hesapların içinde bulunduğu konum, diğer hesaplarla etkileşimleri ve motivasyonları da dikkatle incelenmeli ve <b>olası bir manipülasyondan kimin fayda sağlayacağının muhasebesi titizlikle yapılmalıdır</b>. Bu durumda bile erişilebilir olan verilerle yapılabilecek çıkarım kısıtlı olacaktır. Ancak sosyal medya firmalarında, kullanıcılara ait aktiviteler, IP adresleri vb. bilgiler de olduğundan daha detaylı bir analiz yapılması mümkün olabilir.[11]
+                    </p>
+
+                    <h5>Platform kaynaklı yanlılıklar ve sorunlar</h5>
+
+                    <p>
+                        Platformların da gözlemlenen bot takipçi sayısı üzerinde bir etkisi var. Örneğin sistemin yaptığı öneriler kullanıcılara ait bilgiler üzerinden sağlanıyor. Bu öneri sistemlerindeki algoritmik yanlılıklar da sistem davranışında istenmeyen haksızlıkların oluşmasına neden oluyor. Örneğin Facebook üzerinde yapılan reklam ödemelerinin şeffaflık raporunda, Donald Trump’ı destekleyen kampanyaların daha az maliyetle, daha geniş kitlelere ulaşabildiği gözlemlenmişti.[12] Burada paylaşılan reklam içeriklerinin ilgi çekiciliği ve platform üzerinde farklı siyasi görüşlerden olan kullanıcı sayılarındaki farklar bir siyasi gruba avantaj sağlamıştı ve seçim kampanyalarını yürütenler sistemlerdeki bu yanlılıkları tespit edip erişimlerini ve kampanya maliyetlerini optimize etmişti. Facebook’un sahip olduğu bu yanlı sistemin sorunları üzerine akademik çalışmalar yapıldı[13] ve bu çalışmalar sonucunda açılan dava neticesinde Facebook’un demografik belirteçler üzerinden reklam verme özellikleri sınırlandı. Buna rağmen yapılan deneysel çalışmalar sistemin içinde bulundurduğu diğer kişilere özel bilgilerden yanlılıkların devam ettiğini gösteriyor.[14]  Makine öğrenmesi sistemlerindeki yanlılıkları kaldırmak üzerine yapılan araştırmalar son 5-10 yıldır hız kazandı çünkü sağlıktan hukuka, bankacılıktan insan kaynaklarındaki iş süreçlerine kadar pek çok makine öğrenmesi sisteminde bu zafiyetler mevcut.
+                    </p>
+
+                    <p>
+                        Sosyal medyanın kullanıcılara sunduğu hesap önerileri de bir tavsiye sistemi ile seçiliyor. Hesap yaratılış aşamasında yani sistemin kullanıcı hakkında IP adresi ve internet tarayıcısı ayarları gibi sınırlı ilk bilgilere sahip olduğu durumda dahi bu öneriler yapılabiliyor. Platform üzerinde geçirilen zaman, kullanıcıdan toplanan etkileşim ve ilgi alanlarına dair veriler arttıkça yapılan öneriler kişiselleştiriliyor.
+                    </p>
+
+                    <p>
+                        Hesap yaratıldığında siyaset ile ilgilendiğini belirten ve İstanbul’dan, İzmir’den, Ankara’dan, Trabzon’dan veya Hakkari’den hesabını ilk kez açan bir sosyal medya kullanıcısına Twitter hangi hesapları önerirdi? Aynı şekilde İstanbul’dan bağlanan ve hesabının dilini İngilizce, Türkçe, Rusça veya Arapça olarak ayarlayan kullanıcılar için hangi hesaplar tavsiye edilirdi? Kişiselleştirme adına yapılan farklı öneriler çoğunlukla bir fayda amacıyla tasarlanır ancak farklı ülkelerde, zamanlarda, dillerde yaratılan bot hesaplar için bu kişiselleştirilmiş önerilerin rolü nedir?
+                    </p>
+
+                    <p>
+                        Gözlemlenen bazı bot faaliyetlerinde platformların rolü olabileceğini de göz önüne almalıyız. Görünürlüğünü arttırmak isteyen ve bunun için içeriklerinde popüler hesapları etiketleyen botları 2016 Amerikan başkanlık seçimlerinde gözlemlemiştik.[15] Benzer sebeplerle Twitter’da trend olan konuları hedef alan ve kendi içeriklerini bu hashtagler ile kullanarak görünürlük kazanmaya çalışan hesaplara da Twitter üzerinde denk gelmek mümkün.[16] Bu hesapların yaratılmasında sistematik bir efor gerekli çünkü platformlar, kimlik doğrulamasını telefona gelen bir SMS veya e-posta üzerinden gerçekleştiriyor ve yeni yaratılan hesapları daha yakından gözlemliyor. Yeni hesapların başka hesapları takip etmesi ve profil bilgilerinin doldurulması bekleniyor, Twitter şüpheli gördüğü hesapları kısa sürede kapatabiliyor. Platformların sahte hesapları azaltmak için aldığı bu önlemler yüzünden sahte hesap yaratanlar, ilk karşılarına çıkan hesapları takip etme eğiliminde olabilirler. Bu da platformun öncelikli olarak önerdiği hesapların bot takipçi sayısının artmasına neden olabilir. Bu durum Şekil 3 ile temsil edildiği şekilde gerçekleşebilir.
+                    </p>
+
+                    <img src="./figur-3.png" width="100%">
+                    <p>
+                        <i><b>Şekil 3:</b> Sosyal medya öneri sistemlerinden faydalanan 4 hesap (solda) en öncelikli yapılan önerileri veya kendi ilgi alanları ağırlıklı (mavi ve kırmızı ile temsil edilen) tercihler yaparak takip etmektedir. Bu durumda 1 ve 7 numaralı hesapların takipçileri sistemin önerileri ve hesapların davranışları neticesinde farklı şekilde değişebilir.</i>
+                    </p>
+
+                    <h5>Seçim 2023 için bazı araçlar</h5>
+
+                    <p>
+                        Bu yazıda sahte takipçilere ve takipçilerin hesabın görünür popülarite metriklerini manipüle etme amacıyla kullanılmasına ve bunları yorumlarken dikkat edilmesi gereken faktörlere odaklandık. Sosyal ağlarda manipülasyon ve koordinasyonlu faaliyetler düzenlemenin pek çok başka mekanizması da mevcut.[17]
+                    </p>
+
+                    <p>
+                        İçeriklerin bot hesaplar tarafından beğenilmesi ile görünürlüğünün ve paylaşım metriklerinin manipülasyonu, ülke genelinde trend olacak içeriklerin botlar kullanılarak manipüle edilmesi[18] de bunlara örnek verilebilir ve sosyal medya kullanıcılarının etkileştikleri içerik ve hesaplara şüpheli yaklaşmaları bu nedenle önemlidir. <b>Dezenformasyonun yayılmasında izlenen stratejilerden birisinin de, yayılması amaçlanan içeriğin popüler hesaplar aracılığıyla görünür kılınması olduğunu biliyoruz.[19] Özellikle siyasetçilerin takipçilerinden gelen paylaşımlarla etkileşirken çok dikkatli olması ve kötü niyetli aktörlerin çabalarına fırsat vermemesi gerekli.</b>
+                    </p>
+
+                    <p>
+                        Sabancı Üniversitesi yürüttüğümüz #Secim2023 projesinde[20] siyasilere ait hesapları detaylı olarak inceliyoruz. Sahte takipçilerin veya bot hesapların sosyal medya hesaplarının popülerliklerini veya görünürlüklerini manipüle etmek için kullanıldığını geçmiş araştırmalarımızda göstermiştik[21,22,23]. Yaklaşmakta olan 2023 seçimleri için geliştirdiğimiz anomali takipçi tespit sistemi ile de farklı örüntüleri tespit ediyor ve paylaşıyoruz, siyasilerin takipçi sayılarındaki günlük değişimleri başka bir ara yüz üzerinden takip ediyoruz. Erişilebilir ara yüzler ve veri kaynakları ile hesaplamalı sosyal bilimler yaklaşımlarını seçim döneminde gözlemlenebilecek dezenformasyon ve çevirim içi manipülasyon faaliyetlerinin tespitinde kullanmayı amaçlıyoruz.
+                    </p>
+
+                    <p>
+                        <iframe width="100%" src="https://www.youtube.com/embed/mDvg7Hq0Fjs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+                    </p>
+
+
+                    <h5>Notlar/Kaynaklar</h5>
+
+                    <ol>
+                        <li>Himelein-Wachowiak, M., Giorgi, S., Devoto, A., Rahman, M., Ungar, L., Schwartz, H. A., … &amp; Curtis, B. (2021). Bots and misinformation spread on social media: Implications for COVID-19. Journal of medical Internet research, 23(5), e26933.</li>
+
+                        <li>Yang, K. C., Pierri, F., Hui, P. M., Axelrod, D., Torres-Lugo, C., Bryden, J., &amp; Menczer, F. (2021). The COVID-19 infodemic: twitter versus facebook. Big Data &amp; Society, 8(1), 20539517211013861.</li>
+
+                        <li>Gallotti, R., Valle, F., Castaldo, N., Sacco, P., &amp; De Domenico, M. (2020). Assessing the risks of ‘infodemics’ in response to COVID-19 epidemics. Nature human behaviour, 4(12), 1285-1293.</li>
+
+                        <li>Swigger, N. (2013). The online citizen: Is social media changing citizens’ beliefs about democratic values?. Political behavior, 35(3), 589-603.</li>
+
+                        <li>Enders, A. M., Uscinski, J. E., Seelig, M. I., Klofstad, C. A., Wuchty, S., Funchion, J. R., … &amp; Stoler, J. (2021). The relationship between social media use and beliefs in conspiracy theories and misinformation. Political behavior, 1-24.</li>
+
+                        <li>Sherif, M. (1988). The robbers cave experiment: Intergroup conflict and cooperation.[Orig. pub. as Intergroup conflict and group relations]. Wesleyan University Press.</li>
+
+                        <li>Brewer, M. B. (1999). The psychology of prejudice: Ingroup love and outgroup hate?. Journal of social issues, 55(3), 429-444.</li>
+
+                        <li>Yarchi, M., Baden, C., &amp; Kligler-Vilenchik, N. (2021). Political polarization on the digital sphere: A cross-platform, over-time analysis of interactional, positional, and affective polarization on social media. Political Communication, 38(1-2), 98-139.</li>
+
+                        <li>Heatherly, K. A., Lu, Y., &amp; Lee, J. K. (2017). Filtering out the other side? Cross-cutting and like-minded discussions on social networking sites. New Media &amp; Society, 19(8), 1271-1289.</li>
+
+                        <li>Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W., &amp; Starnini, M. (2021). The echo chamber effect on social media. Proceedings of the National Academy of Sciences, 118(9), e2023301118.</li>
+
+                        <li>Pasquetto, I. V., Swire-Thompson, B., Amazeen, M. A., Benevenuto, F., Brashier, N. M., Bond, R. M., … &amp; Yang, K. C. (2020). Tackling misinformation: What researchers could do with social media data. The Harvard Kennedy School Misinformation Review.</li>
+
+                        <li>Bump, P. (2018) Trump’s Facebook advertising advantage explained, https://www.washingtonpost.com/news/politics/wp/2018/02/27/trumps-facebook-advertising-advantage-explained/</li>
+
+                        <li>Ali, M., Sapiezynski, P., Bogen, M., Korolova, A., Mislove, A., &amp; Rieke, A. (2019). Discrimination through optimization: How Facebook’s Ad delivery can lead to biased outcomes. Proceedings of the ACM on human-computer interaction, 3(CSCW), 1-30.</li>
+
+                        <li>Sapiezynski, P., Ghosh, A., Kaplan, L., Rieke, A., &amp; Mislove, A. (2022, July). Algorithms that” Don’t See Color” Measuring Biases in Lookalike and Special Ad Audiences. In Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society (pp. 609-616).</li>
+
+                        <li>Shao, C., Ciampaglia, G. L., Varol, O., Yang, K. C., Flammini, A., &amp; Menczer, F. (2018). The spread of low-credibility content by social bots. Nature communications, 9(1), 1-9.</li>
+
+                        <li>Cresci, S., Lillo, F., Regoli, D., Tardelli, S., &amp; Tesconi, M. (2019). Cashtag piggybacking: Uncovering spam and bot activity in stock microblogs on Twitter. ACM Transactions on the Web (TWEB), 13(2), 1-27.</li>
+
+                        <li>Varol, O., &amp; Uluturk, I. (2018). Deception strategies and threats for online discussions. First Monday.</li>
+
+                        <li>Elmas, T., Overdorf, R., Özkalay, A. F., &amp; Aberer, K. (2021, September). Ephemeral astroturfing attacks: The case of fake twitter trends. In 2021 IEEE European Symposium on Security and Privacy (EuroS&amp;P) (pp. 403-422). IEEE.</li>
+
+                        <li>Shao, C., Ciampaglia, G. L., Varol, O., Yang, K. C., Flammini, A., &amp; Menczer, F. (2018). The spread of low-credibility content by social bots. Nature communications, 9(1), 1-9.</li>
+
+                        <li>Najafi, A., Mugurtay, N., Demirci, E., Demirkiran, S., Karadeniz, H. A., &amp; Varol, O. (2022). # Secim2023: First Public Dataset for Studying Turkish General Election. arXiv preprint arXiv:2211.13121.</li>
+
+                        <li>Varol, O., &amp; Uluturk, I. (2020). Journalists on Twitter: self-branding, audiences, and involvement of bots. Journal of Computational Social Science, 3(1), 83-101.</li>
+
+                        <li>Varol, O., Ferrara, E., Davis, C., Menczer, F., &amp; Flammini, A. (2017, May). Online human-bot interactions: Detection, estimation, and characterization. In Proceedings of the international AAAI conference on web and social media (Vol. 11, No. 1, pp. 280-289).</li>
+
+                        <li>Ferrara, E., Varol, O., Davis, C., Menczer, F., &amp; Flammini, A. (2016). The rise of social bots. Communications of the ACM, 59(7), 96-104.</li>
+
+                    </ol>
+                </div>
+            </div>
+        </div>
+        
+        <div id="footer-container"></div>
+
+    </body>
+</html>
