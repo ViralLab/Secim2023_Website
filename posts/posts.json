@@ -102,7 +102,7 @@
     {
         "id": "imamoglu-case",
         "isVisible": true,
-        "languages": ["tr"],
+        "languages": ["tr","en"],
         "url": "/posts/221219/",
         "type": "Analysis",
         "date": "19/12/2022",
@@ -145,7 +145,8 @@
                 "text": "ArXiv",
                 "url": "https://arxiv.org/abs/2211.13121"
             }
-        ]
+        ],
+        "citation": "Najafi, A., Mugurtay, N., Demirci, E., Demirkiran, S., Karadeniz, H. A., & Varol, O. (2022). # Secim2023: First Public Dataset for Studying Turkish General Election. arXiv preprint arXiv:2211.13121."
     }
 
 ]
