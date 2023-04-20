@@ -1,5 +1,25 @@
 [
     {
+        "id": "milletvekili",
+        "isVisible": false,
+        "languages": ["tr"],
+        "url": "/posts/230420/",
+        "type": "Report",
+        "date": "20/04/2023",
+        "img": "cinsiyetDagilimi.png",
+        "title": {
+            "en": "Education and gender distribution of parliamentary candidates",
+            "tr": "Milletvekili adaylarının partilere göre eğitim ve cinsiyet dağılımı"
+        },
+        "description": {
+            "en": "This is a report written in Turkish about candidates' demographic analysis",
+            "tr": "Milletvekili adaylarının partilere göre eğitim ve cinsiyet dağılımı analizi"
+        },
+        "links": [
+        ]
+    },
+
+    {
         "id": "sarkac-post-2",
         "isVisible": true,
         "languages": ["tr"],
