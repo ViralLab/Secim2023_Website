@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "1113930630096719872",
         "name": "Zafer Partisi",
@@ -8,6 +8,41 @@
         "description": "Zafer Partisi Resmi Twitter Hesab\u0131d\u0131r.\n\nZafer Partisi'ne \u00fcye olmak i\u00e7in https://t.co/lZ7K911LLp\n\n#\u00dcmit\u00d6zda\u011f #ZaferPartisi #BirlikteZafere",
         "screen_name": "zaferpartisi",
         "stats": {
+            "2023-04-27": {
+                "status": 2476,
+                "friends": 4,
+                "followers": 262281
+            },
+            "2023-04-26": {
+                "status": 2475,
+                "friends": 4,
+                "followers": 262025
+            },
+            "2023-04-25": {
+                "status": 2472,
+                "friends": 4,
+                "followers": 261619
+            },
+            "2023-04-24": {
+                "status": 2468,
+                "friends": 4,
+                "followers": 261229
+            },
+            "2023-04-23": {
+                "status": 2463,
+                "friends": 4,
+                "followers": 261072
+            },
+            "2023-04-22": {
+                "status": 2456,
+                "friends": 4,
+                "followers": 260899
+            },
+            "2023-04-21": {
+                "status": 2454,
+                "friends": 4,
+                "followers": 260764
+            },
             "2023-04-20": {
                 "status": 2449,
                 "friends": 4,
@@ -19857,12 +19892,276 @@
                 "nfav": 664,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650207651676971009": {
+                "created_at": "Sun Apr 23 18:38:58 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, Genel Ba\u015fkan Yard\u0131mc\u0131lar\u0131m\u0131z ve Gaziantep Milletvekili Adaylar\u0131m\u0131z ile birli\u2026 https://t.co/iFDXqcpR5F",
+                "nretweet": 91,
+                "nfav": 428,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650183906430181378": {
+                "created_at": "Sun Apr 23 17:04:36 +0000 2023",
+                "text": "Zafer Partisi #T\u00fcrkiyeG\u00f6\u00e7menistanOlmas\u0131n istiyor... https://t.co/5ge4LhdSLA",
+                "nretweet": 258,
+                "nfav": 766,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650041045239857153": {
+                "created_at": "Sun Apr 23 07:36:56 +0000 2023",
+                "text": "Atat\u00fcrk\u2019\u00fcn dedi\u011fi gibi; \u201cT\u00fcrk Milleti\u2019nin istikbali bug\u00fcnk\u00fc \u00e7ocuklar\u0131n isabetli g\u00f6r\u00fc\u015f\u00fc ve yorulmak istidad\u0131nda olma\u2026 https://t.co/TZNpbbY9qd",
+                "nretweet": 111,
+                "nfav": 565,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650019838310449152": {
+                "created_at": "Sun Apr 23 06:12:39 +0000 2023",
+                "text": "RT @umitozdag: Ulu \u00d6nder Mustafa Kemal Atat\u00fcrk\u2019\u00fcn T\u00fcrk Milleti\u2019ne en b\u00fcy\u00fck hediyesi olan Milli Egemenli\u011fin k\u0131ymetinin \u00e7ok daha iyi anla\u015f\u0131ld\u2026",
+                "nretweet": 726,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649798024594333696": {
+                "created_at": "Sat Apr 22 15:31:15 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131lar\u0131m\u0131z Prof. Dr. Ali \u015eehirlio\u011flu, Seyit Y\u00fccel ve Ankara \u0130l Ba\u015fkan\u0131m\u0131z Neslihan Irvana, Memlek\u2026 https://t.co/svlI96v8Z2",
+                "nretweet": 77,
+                "nfav": 443,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649777837593772033": {
+                "created_at": "Sat Apr 22 14:11:02 +0000 2023",
+                "text": "Te\u015fekk\u00fcrler Kahramanmara\u015f\u2026\n\n#ZaferPartisi \n#\u00dcmit\u00d6zda\u011f\n#Ata\u0130ttifak\u0131 https://t.co/yAiB8xp4yb",
+                "nretweet": 93,
+                "nfav": 490,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649768601518317570": {
+                "created_at": "Sat Apr 22 13:34:20 +0000 2023",
+                "text": "Genel Merkezimize bayramla\u015fma ziyaretine gelen @GelecekPartiTR ve @SaadetPartisi heyetlerine te\u015fekk\u00fcr eder, iyi bay\u2026 https://t.co/RQkWVJPCtZ",
+                "nretweet": 56,
+                "nfav": 359,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649740051855683588": {
+                "created_at": "Sat Apr 22 11:40:53 +0000 2023",
+                "text": "Memleket Partisi ve T\u00fcrkiye De\u011fi\u015fim Partisi heyetleri Zafer Partisi Genel Merkezi'nde Genel Sekreterimiz Cezmi Pola\u2026 https://t.co/9GLfrpP9Iv",
+                "nretweet": 60,
+                "nfav": 404,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649713954686394368": {
+                "created_at": "Sat Apr 22 09:57:11 +0000 2023",
+                "text": "Ba\u011f\u0131ms\u0131z T\u00fcrkiye Partisi heyeti, bayramla\u015fmak \u00fczere Zafer Partisi Genel Merkezi'nde Genel Sekreterimiz Cezmi Polat\u2026 https://t.co/vup7eOYwgF",
+                "nretweet": 71,
+                "nfav": 470,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649712739730829312": {
+                "created_at": "Sat Apr 22 09:52:21 +0000 2023",
+                "text": "RT @umitozdag: Kahramanmara\u015f-Gaziantep aras\u0131nda Suriyeli bir tarikat merkez olu\u015fturmu\u015f. Afganistan-Pakistan s\u0131n\u0131r\u0131ndaki medrese zihniyeti T\u2026",
+                "nretweet": 3031,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649703604867964928": {
+                "created_at": "Sat Apr 22 09:16:04 +0000 2023",
+                "text": "Kahramanmara\u015f\u2019ta depremde hayat\u0131n\u0131 kaybeden vatanda\u015flar\u0131m\u0131z\u0131n defnedildi\u011fi Kap\u0131\u00e7am Mezarl\u0131\u011f\u0131\u2019nday\u0131z. \n\nF\u0131trat de\u011fil\u2026 https://t.co/nJyJpHz8v5",
+                "nretweet": 104,
+                "nfav": 498,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649461710862909453": {
+                "created_at": "Fri Apr 21 17:14:52 +0000 2023",
+                "text": "Gaziantep\u2019in \u00dcmit\u2019i var. \u00c7ok yak\u0131nda Zafer de Gaziantep\u2019in olacak\u2026\n\n#ZaferPartisi\n#\u00dcmit\u00d6zda\u011f\n#Ata\u0130ttifak\u0131\u2026 https://t.co/cxSYg302gF",
+                "nretweet": 117,
+                "nfav": 660,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649305418672353280": {
+                "created_at": "Fri Apr 21 06:53:49 +0000 2023",
+                "text": "Zafer Partisi'ne, Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f'a ve Milletvekili Adaylar\u0131m\u0131za g\u00f6sterdi\u011finiz ilgi ve verdi\u011f\u2026 https://t.co/zDUZfg7uy9",
+                "nretweet": 170,
+                "nfav": 795,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649140871051214848": {
+                "created_at": "Thu Apr 20 19:59:57 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, yar\u0131n (21 Nisan Cuma) Gaziantep halk\u0131yla bulu\u015fuyor.\n\n#GaziantepinZaferi\u2026 https://t.co/oppiLTDldn",
+                "nretweet": 126,
+                "nfav": 515,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649110120033288197": {
+                "created_at": "Thu Apr 20 17:57:46 +0000 2023",
+                "text": "S\u0131\u011f\u0131nmac\u0131 ve ka\u00e7aklar\u0131n \u00fclkelerine d\u00f6nmesi i\u00e7in Zafer Partisi ve Ata \u0130ttifak\u0131'n\u0131n Cumhurba\u015fkan\u0131 Aday\u0131 Dr. Sinan O\u011fa\u2026 https://t.co/GulQigT1zw",
+                "nretweet": 273,
+                "nfav": 1140,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649063690551828480": {
+                "created_at": "Thu Apr 20 14:53:16 +0000 2023",
+                "text": "Te\u015fekk\u00fcrler \u0130skenderun, te\u015fekk\u00fcrler K\u0131r\u0131khan\u2026\n\n#ZaferPartisi \n#\u00dcmit\u00d6zda\u011f\n#Ata\u0130ttifak\u0131\n#OAnGeliyor https://t.co/GSequj5JOo",
+                "nretweet": 73,
+                "nfav": 370,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648989635744333825": {
+                "created_at": "Thu Apr 20 09:59:00 +0000 2023",
+                "text": "RT @umitozdag: S\u0131\u011f\u0131nmac\u0131lar eczanede ilac\u0131 bedava al\u0131yorlar, T\u00fcrkler para ile. B\u00f6yle devam etsin diyorsan\u0131z hangi partiye oy verirseniz ver\u2026",
+                "nretweet": 1408,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648983840159854593": {
+                "created_at": "Thu Apr 20 09:35:58 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, Hatay D\u00f6rtyol\u2019da, Alparslan T\u00fcrke\u015f Park\u0131 ve \u00e7evresinde vatanda\u015flarla bir ara\u2026 https://t.co/2HNyAhuSWl",
+                "nretweet": 107,
+                "nfav": 549,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648746447502811136": {
+                "created_at": "Wed Apr 19 17:52:39 +0000 2023",
+                "text": "Zafer B\u00fcy\u00fck T\u00fcrk Milleti'nin olacak... https://t.co/LNaXGkr9gW",
+                "nretweet": 265,
+                "nfav": 1418,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648708018752700418": {
+                "created_at": "Wed Apr 19 15:19:57 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, Adana Milletvekili Adaylar\u0131m\u0131z ile birlikte Adana Ticaret Odas\u0131'n\u0131 ziyaret e\u2026 https://t.co/AnhRXF4WtU",
+                "nretweet": 102,
+                "nfav": 480,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648656320503992320": {
+                "created_at": "Wed Apr 19 11:54:32 +0000 2023",
+                "text": "Mersin i\u015fgale dur diyecek! T\u00fcrk Milleti Zafer Partisi'ne oy vererek, 13 milyon s\u0131\u011f\u0131nmac\u0131 ve ka\u00e7a\u011f\u0131n \u00fclkelerine d\u00f6nm\u2026 https://t.co/rthKA3Ogjk",
+                "nretweet": 150,
+                "nfav": 641,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648625500292542472": {
+                "created_at": "Wed Apr 19 09:52:03 +0000 2023",
+                "text": "RT @umitozdag: Sevgili Adanal\u0131lar, Zafer Partisi Adana 1. Sira aday\u0131 Abdurrahman Bilir gibi vatansever, ba\u015far\u0131l\u0131 Adanal\u0131 hem\u015fehrinizi mi se\u2026",
+                "nretweet": 811,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648598497191514112": {
+                "created_at": "Wed Apr 19 08:04:45 +0000 2023",
+                "text": "RT @umitozdag: Zafer Partisi olarak s\u00f6z veriyoruz; Hayat pahal\u0131l\u0131\u011f\u0131n\u0131 sistemli \u015fekilde ortadan kald\u0131raca\u011f\u0131z!\nNas\u0131l m\u0131?\n\u0130zleyin... https://t\u2026",
+                "nretweet": 1323,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648560825207013377": {
+                "created_at": "Wed Apr 19 05:35:04 +0000 2023",
+                "text": "Ekonomiden Sorumlu Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Dr. Aslan Yaman, bu ak\u015fam (19 Nisan \u00c7ar\u015famba) saat 21.15\u2019te Elips Haber\u2026 https://t.co/ziEFTvAoER",
+                "nretweet": 70,
+                "nfav": 253,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648418437582974979": {
+                "created_at": "Tue Apr 18 20:09:16 +0000 2023",
+                "text": "Se\u00e7im \u0130\u015flerinden Sorumlu Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Dr. L\u00fctf\u00fc \u015eahsuvaroplu, yar\u0131n ak\u015fam (19 Nisan \u00c7ar\u015famba) saat 20.3\u2026 https://t.co/rIT2lcBSxD",
+                "nretweet": 77,
+                "nfav": 350,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648392758292258819": {
+                "created_at": "Tue Apr 18 18:27:13 +0000 2023",
+                "text": "RT @umitozdag: Bizim TV'de \u015eaban Sevin\u00e7'in sorular\u0131n\u0131 yan\u0131tl\u0131yorum https://t.co/jDoB59Put5",
+                "nretweet": 521,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648348514986934272": {
+                "created_at": "Tue Apr 18 15:31:25 +0000 2023",
+                "text": "RT @umitozdag: \ud83e\udd72\ud83d\ude4f\ud83d\ude4f https://t.co/pihSwenwtz",
+                "nretweet": 1615,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648334895025115136": {
+                "created_at": "Tue Apr 18 14:37:18 +0000 2023",
+                "text": "Te\u015fekk\u00fcrler Mersin...\n#ZaferPartisi \n#\u00dcmit\u00d6zda\u011f\n#Ata\u0130ttifak\u0131\n#OAnGeliyor https://t.co/ubIeEvGKxp",
+                "nretweet": 92,
+                "nfav": 477,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648333946327900161": {
+                "created_at": "Tue Apr 18 14:33:32 +0000 2023",
+                "text": "RT @umitozdag: Bu ak\u015fam Adana\u2019da olaca\u011f\u0131m. Adana Emniyet M\u00fcd\u00fcrl\u00fc\u011f\u00fc bana koruma ekibi vermeyi reddettmi\u015f.  Adana Emniyet m\u00fcd\u00fcr\u00fcne iletilmek\u2026",
+                "nretweet": 1335,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648265004418834432": {
+                "created_at": "Tue Apr 18 09:59:34 +0000 2023",
+                "text": "Mersin'de adeta \u015eam ve Halep'e d\u00f6n\u00fc\u015ft\u00fcr\u00fclm\u00fc\u015f caddeler var. 130 i\u015f yerinden sadece 9 T\u00fcrk kalm\u0131\u015f, onlar da gitmeye h\u2026 https://t.co/krM6pDJFbU",
+                "nretweet": 682,
+                "nfav": 3140,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648243769970401280": {
+                "created_at": "Tue Apr 18 08:35:12 +0000 2023",
+                "text": "RT @umitozdag: Karar ver T\u00fcrkiye. Atat\u00fcrk\u2019\u00fcn ordusu mu tarikatlar\u0131n ordusu mu? https://t.co/mIKopw39PP",
+                "nretweet": 2397,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648035857624887299": {
+                "created_at": "Mon Apr 17 18:49:02 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, Mersin Milletvekili Adaylar\u0131m\u0131z ile birlikte, Kuva-y\u0131 Milliye Caddesi'nde  e\u2026 https://t.co/BKxOd3YV6c",
+                "nretweet": 124,
+                "nfav": 662,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647979372870082561": {
+                "created_at": "Mon Apr 17 15:04:35 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Prof. Dr. \u00dcmit \u00d6zda\u011f, yar\u0131n ak\u015fam (18 Nisan Sal\u0131) saat 21.00\u2019de Bizim TV ekranlar\u0131nda \u015eaban Sevin\u00e7\u2026 https://t.co/Q36O8oSWF4",
+                "nretweet": 148,
+                "nfav": 540,
+                "isRt": false,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "umitozdag",
-                692
+                701
             ],
             [
                 "ikoncuk",
@@ -19941,6 +20240,10 @@
                 3
             ],
             [
+                "SaadetPartisi",
+                3
+            ],
+            [
                 "MemleketimParti",
                 3
             ],
@@ -19961,7 +20264,7 @@
                 2
             ],
             [
-                "SaadetPartisi",
+                "GelecekPartiTR",
                 2
             ],
             [
@@ -20041,10 +20344,6 @@
                 1
             ],
             [
-                "GelecekPartiTR",
-                1
-            ],
-            [
                 "TDP_turkiye",
                 1
             ],
@@ -20064,15 +20363,23 @@
         "top-hashtags": [
             [
                 "ZaferPartisi",
-                84
+                88
             ],
             [
                 "\u00dcmit\u00d6zda\u011f",
-                44
+                48
             ],
             [
                 "T\u00fcrkiyeninZaferi",
                 12
+            ],
+            [
+                "OAnGeliyor",
+                8
+            ],
+            [
+                "Ata\u0130ttifak\u0131",
+                8
             ],
             [
                 "Hatay",
@@ -20080,10 +20387,6 @@
             ],
             [
                 "Canl\u0131Yay\u0131n",
-                6
-            ],
-            [
-                "OAnGeliyor",
                 6
             ],
             [
@@ -20096,10 +20399,6 @@
             ],
             [
                 "Kilis",
-                4
-            ],
-            [
-                "Ata\u0130ttifak\u0131",
                 4
             ],
             [
@@ -24307,70 +24606,94 @@
             "2023-04": [
                 [
                     "genel",
-                    27
+                    43
                 ],
                 [
                     "zafer",
-                    24
+                    34
                 ],
                 [
                     "partisi",
-                    21
+                    30
                 ],
                 [
                     "prof",
-                    21
+                    29
                 ],
                 [
                     "\u00fcmit",
-                    18
+                    26
                 ],
                 [
                     "ba\u015fkan\u0131m\u0131z",
-                    16
+                    24
                 ],
                 [
                     "\u00f6zda\u011f",
-                    16
-                ],
-                [
-                    "birlikte",
-                    12
-                ],
-                [
-                    "milletvekili",
-                    11
+                    22
                 ],
                 [
                     "t\u00fcrk",
-                    10
+                    15
                 ],
                 [
-                    "ata",
-                    8
+                    "milletvekili",
+                    15
                 ],
                 [
-                    "saat",
-                    8
-                ],
-                [
-                    "adaylar\u0131m\u0131z",
-                    8
+                    "birlikte",
+                    14
                 ],
                 [
                     "ak\u015fam",
-                    7
+                    11
                 ],
                 [
-                    "i\u0307ttifak\u0131",
-                    6
+                    "saat",
+                    11
+                ],
+                [
+                    "adaylar\u0131m\u0131z",
+                    11
+                ],
+                [
+                    "ba\u015fkan",
+                    9
+                ],
+                [
+                    "ata",
+                    9
+                ],
+                [
+                    "nisan",
+                    9
+                ],
+                [
+                    "#\u00fcmit\u00f6zda\u011f",
+                    8
                 ],
                 [
                     "cumhurba\u015fkan\u0131",
-                    6
+                    7
                 ],
                 [
                     "sinan",
+                    7
+                ],
+                [
+                    "t\u00fcrkiye",
+                    7
+                ],
+                [
+                    "...",
+                    7
+                ],
+                [
+                    "yard\u0131mc\u0131m\u0131z",
+                    6
+                ],
+                [
+                    "i\u0307ttifak\u0131",
                     6
                 ],
                 [
@@ -24378,16 +24701,52 @@
                     6
                 ],
                 [
-                    "ba\u015fkan",
-                    5
-                ],
-                [
-                    "nisan",
-                    5
-                ],
-                [
                     "21.00",
+                    6
+                ],
+                [
+                    "atat\u00fcrk",
+                    6
+                ],
+                [
+                    "te\u015fekk\u00fcrler",
+                    6
+                ],
+                [
+                    "\u0307ttifak\u0131",
+                    6
+                ],
+                [
+                    "adana",
+                    6
+                ],
+                [
+                    "gaziantep",
                     5
+                ],
+                [
+                    "sorumlu",
+                    5
+                ],
+                [
+                    "aday\u0131",
+                    5
+                ],
+                [
+                    "b\u00fcy\u00fck",
+                    5
+                ],
+                [
+                    "yar\u0131n",
+                    5
+                ],
+                [
+                    "milyon",
+                    4
+                ],
+                [
+                    "s\u0131\u011f\u0131nmac\u0131",
+                    4
                 ],
                 [
                     "ekonomi",
@@ -24398,15 +24757,7 @@
                     4
                 ],
                 [
-                    "yard\u0131mc\u0131m\u0131z",
-                    4
-                ],
-                [
-                    "t\u00fcrkiye",
-                    4
-                ],
-                [
-                    "#\u00fcmit\u00f6zda\u011f",
+                    "se\u00e7im",
                     4
                 ],
                 [
@@ -24414,20 +24765,12 @@
                     4
                 ],
                 [
-                    "i\u0307stanbul",
+                    "milleti",
                     4
                 ],
                 [
-                    "milyon",
-                    3
-                ],
-                [
-                    "sorumlu",
-                    3
-                ],
-                [
-                    "se\u00e7im",
-                    3
+                    "i\u0307stanbul",
+                    4
                 ],
                 [
                     "aday\u0131m\u0131z",
@@ -24442,11 +24785,11 @@
                     3
                 ],
                 [
-                    "aday\u0131",
+                    "\u00fclkelerine",
                     3
                 ],
                 [
-                    "b\u00fcy\u00fck",
+                    "l\u00fctf\u00fc",
                     3
                 ],
                 [
@@ -24458,52 +24801,8 @@
                     3
                 ],
                 [
-                    "atat\u00fcrk",
+                    "ilgi",
                     3
-                ],
-                [
-                    "...",
-                    3
-                ],
-                [
-                    "b\u00f6lge",
-                    3
-                ],
-                [
-                    "chp",
-                    3
-                ],
-                [
-                    "babaeski",
-                    3
-                ],
-                [
-                    "tekirda\u011f",
-                    3
-                ],
-                [
-                    "kuleli",
-                    3
-                ],
-                [
-                    "esnaf",
-                    3
-                ],
-                [
-                    "evine",
-                    2
-                ],
-                [
-                    "s\u0131\u011f\u0131nmac\u0131",
-                    2
-                ],
-                [
-                    "se\u00e7men",
-                    2
-                ],
-                [
-                    "s\u00fcrd\u00fcr\u00fclebilir",
-                    2
                 ]
             ]
         }
@@ -24890,602 +25189,602 @@
                     "sina_gurel",
                     "zaferpartisi",
                     {
-                        "weight": 110
+                        "weight": 120
                     }
                 ],
                 [
                     "sina_gurel",
                     "mevlutcavusoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "umitozdag",
                     {
-                        "weight": 14391
+                        "weight": 15784
                     }
                 ],
                 [
                     "zaferpartisi",
                     "kampananews2022",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "zaferpartisi",
                     {
-                        "weight": 481
+                        "weight": 526
                     }
                 ],
                 [
                     "zaferpartisi",
                     "rterdogan",
                     {
-                        "weight": 43
+                        "weight": 47
                     }
                 ],
                 [
                     "zaferpartisi",
                     "tunaaltuna",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "kilicdarogluk",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "zaferpartisi",
                     "meral_aksener",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "zaferpartisi",
                     "zaferpartisi_34",
                     {
-                        "weight": 43
+                        "weight": 47
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ZaferPartisi_34",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "sevdaozbk",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "SevdaOzbk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "orkunercengiz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "azizergen60",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "AzizErgen60",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "odatv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "herkesicinchp",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "draslanyaman",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ismailcatakli",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "zaferpartisi16",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "zaferpartisi",
                     "haberinizcomtr",
                     {
-                        "weight": 48
+                        "weight": 53
                     }
                 ],
                 [
                     "zaferpartisi",
                     "Haberinizcomtr",
                     {
-                        "weight": 48
+                        "weight": 53
                     }
                 ],
                 [
                     "zaferpartisi",
                     "sevdagultuncer",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "SevdaGulTuncer",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "dspgenelmerkez",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "anavatan1983",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "gelecekpartitr",
                     {
-                        "weight": 11
+                        "weight": 13
                     }
                 ],
                 [
                     "zaferpartisi",
                     "tdp_turkiye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "saadetpartisi",
                     {
-                        "weight": 22
+                        "weight": 25
                     }
                 ],
                 [
                     "zaferpartisi",
                     "_demokratparti",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "milliyolgm",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "btp_parti",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "memleketimparti",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "rprefahpartisi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "yvzah",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "yusufelmas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "YusufElmas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "akparti",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "mevlutcavusoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "business",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ugur_tarhan",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "zaferpartisi",
                     "bartusoral",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "seyityucel06",
                     {
-                        "weight": 42
+                        "weight": 46
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ostimosb",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "BartuSoral",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "mehmet_z_bodur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "eserguneysel",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "lutfusahsuvar",
                     {
-                        "weight": 46
+                        "weight": 51
                     }
                 ],
                 [
                     "zaferpartisi",
                     "oguzhanugur",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "elazig_valiligi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "SedatTimur161",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "tubaemlek",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "melihaltinok",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "zaferpartisi",
                     "dedeler",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ayhan_ogan",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "zaferpartisi",
                     "abdulkdir_selvi",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "zaferpartisi",
                     "erenegilmez",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "add_genelmerkez",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "suleymansoylu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "beyaztv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "melissabagci_",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "inankalender",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "veryansintvcom",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ikoncuk",
                     {
-                        "weight": 902
+                        "weight": 984
                     }
                 ],
                 [
                     "zaferpartisi",
                     "erdal_bahcivan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "aliturksen",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "ebulentkutlu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "kahvekolx",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "sabire67",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "burakmengu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "asileryasar",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "alidincercolak",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "zaferpartisi",
                     "Alidincercolak",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "zaferpartisi",
                     "alagzmehmet",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "zaferpartisi",
                     "AlagzMehmet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "sgkgundem",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "haberturktv",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "zaferpartisi",
                     "bbnturktv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "zaferpartisi",
                     "LutfuSahsuvar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "trtkurumsal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "HaberturkTV",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "fatihaltayli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "krad27142249",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "SeyitYucel06",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
@@ -25499,371 +25798,378 @@
                     "zaferpartisi",
                     "avsongulmercan",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "zaferpartisi",
                     "drsinanogan",
                     {
-                        "weight": 41
+                        "weight": 52
                     }
                 ],
                 [
                     "zaferpartisi",
                     "DrSinanOgan",
                     {
-                        "weight": 28
+                        "weight": 36
                     }
                 ],
                 [
                     "zaferpartisi",
                     "mansuryavas06",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "zaferpartisi",
                     "elaleylaumur",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "zaferpartisi",
                     "halktvcomtr",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "zaferpartisi",
                     "kucukkayaismail",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "umitozdag",
                     "rterdogan",
                     {
-                        "weight": 32
+                        "weight": 35
                     }
                 ],
                 [
                     "umitozdag",
                     "kilicdarogluk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "umitozdag",
                     "meral_aksener",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "umitozdag",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "odatv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "herkesicinchp",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "ismailcatakli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "tunaaltuna",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "sevdagultuncer",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "yusufelmas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "sevdaozbk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "ostimosb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "oguzhanugur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "tubaemlek",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "erenegilmez",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "veryansintvcom",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "aliturksen",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "burakmengu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "asileryasar",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "umitozdag",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "ikoncuk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "umitozdag",
                     "bbnturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "trtkurumsal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "umitozdag",
                     "drsinanogan",
                     {
-                        "weight": 8
+                        "weight": 10
                     }
                 ],
                 [
                     "umitozdag",
                     "mansuryavas06",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "meral_aksener",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "herkesicinchp",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "ismailcatakli",
                     "suleymansoylu",
                     {
-                        "weight": 11
+                        "weight": 12
+                    }
+                ],
+                [
+                    "gelecekpartitr",
+                    "saadetpartisi",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "saadetpartisi",
                     "memleketimparti",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "btp_parti",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "milliyolgm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "btp_parti",
                     "memleketimparti",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "melihaltinok",
                     "dedeler",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "melihaltinok",
                     "ayhan_ogan",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "melihaltinok",
                     "abdulkdir_selvi",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "dedeler",
                     "ayhan_ogan",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "dedeler",
                     "abdulkdir_selvi",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "ayhan_ogan",
                     "abdulkdir_selvi",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "beyaztv",
                     "melissabagci_",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "ikoncuk",
                     "sgkgundem",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ikoncuk",
                     "asileryasar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "burakmengu",
                     "asileryasar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "haberturktv",
                     "fatihaltayli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "drsinanogan",
                     "halktvcomtr",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "drsinanogan",
                     "kucukkayaismail",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "halktvcomtr",
                     "kucukkayaismail",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ]
             ]
@@ -26176,15 +26482,15 @@
                     "zaferpartisi",
                     "\u00fcmit\u00f6zda\u011f",
                     {
-                        "weight": 435,
-                        "weight_plain": 56
+                        "weight": 482,
+                        "weight_plain": 66
                     }
                 ],
                 [
                     "zaferpartisi",
                     "canl\u0131yay\u0131n",
                     {
-                        "weight": 45,
+                        "weight": 50,
                         "weight_plain": 0
                     }
                 ],
@@ -26192,7 +26498,7 @@
                     "zaferpartisi",
                     "foxtv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26200,7 +26506,7 @@
                     "zaferpartisi",
                     "t\u00fcrban",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26208,7 +26514,7 @@
                     "zaferpartisi",
                     "t\u00fcrkiyeninzaferkongresi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26216,15 +26522,15 @@
                     "zaferpartisi",
                     "l\u00fctf\u00fc\u015fahsuvaro\u011flu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "egeadalar\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26232,15 +26538,15 @@
                     "zaferpartisi",
                     "30a\u011fustoszaferbayram\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "\u00e7anakkale",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26248,7 +26554,7 @@
                     "zaferpartisi",
                     "\u015fanl\u0131urfa",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26256,7 +26562,7 @@
                     "zaferpartisi",
                     "kilis",
                     {
-                        "weight": 33,
+                        "weight": 36,
                         "weight_plain": 0
                     }
                 ],
@@ -26264,7 +26570,7 @@
                     "zaferpartisi",
                     "bal\u0131kesirinzaferi",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -26272,7 +26578,7 @@
                     "zaferpartisi",
                     "i\u0307zmirinzaferi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26280,7 +26586,7 @@
                     "zaferpartisi",
                     "ayd\u0131n\u0131nzaferi",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -26288,7 +26594,7 @@
                     "zaferpartisi",
                     "hatay",
                     {
-                        "weight": 33,
+                        "weight": 36,
                         "weight_plain": 0
                     }
                 ],
@@ -26296,7 +26602,7 @@
                     "zaferpartisi",
                     "efeaydal",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26304,7 +26610,7 @@
                     "zaferpartisi",
                     "flashhabertv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26312,7 +26618,7 @@
                     "zaferpartisi",
                     "halktv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26320,7 +26626,7 @@
                     "zaferpartisi",
                     "teketek",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26328,7 +26634,7 @@
                     "zaferpartisi",
                     "g\u00f6\u00e7mensorunu",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26336,7 +26642,7 @@
                     "zaferpartisi",
                     "zankatv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26344,47 +26650,47 @@
                     "zaferpartisi",
                     "kad\u0131nlar\u0131nzaferi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "d\u00fcnyakad\u0131nlarg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "t\u00fcrkiyeninzaferi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zaferpartisi",
                     "oangeliyor",
                     {
-                        "weight": 11,
-                        "weight_plain": 4
+                        "weight": 18,
+                        "weight_plain": 8
                     }
                 ],
                 [
                     "zaferpartisi",
                     "atai\u0307ttifak\u0131",
                     {
-                        "weight": 5,
-                        "weight_plain": 2
+                        "weight": 12,
+                        "weight_plain": 8
                     }
                 ],
                 [
                     "\u00fcmit\u00f6zda\u011f",
                     "canl\u0131yay\u0131n",
                     {
-                        "weight": 56,
+                        "weight": 62,
                         "weight_plain": 0
                     }
                 ],
@@ -26392,7 +26698,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "foxtv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26400,7 +26706,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "t\u00fcrban",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26408,7 +26714,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "t\u00fcrkiyeninzaferkongresi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26416,15 +26722,15 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "l\u00fctf\u00fc\u015fahsuvaro\u011flu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "\u00fcmit\u00f6zda\u011f",
                     "egeadalar\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26432,7 +26738,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "\u00e7anakkale",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26440,7 +26746,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "\u015fanl\u0131urfa",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26448,7 +26754,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "kilis",
                     {
-                        "weight": 33,
+                        "weight": 36,
                         "weight_plain": 0
                     }
                 ],
@@ -26456,7 +26762,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "bal\u0131kesirinzaferi",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -26464,7 +26770,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "i\u0307zmirinzaferi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26472,7 +26778,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "ayd\u0131n\u0131nzaferi",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -26480,7 +26786,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "hatay",
                     {
-                        "weight": 33,
+                        "weight": 36,
                         "weight_plain": 0
                     }
                 ],
@@ -26488,7 +26794,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "adana",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26496,7 +26802,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "adanan\u0131nzaferi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26504,7 +26810,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "efeaydal",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26512,7 +26818,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "flashhabertv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26520,7 +26826,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "halktv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26528,7 +26834,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "teketek",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26536,7 +26842,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "g\u00f6\u00e7mensorunu",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26544,7 +26850,7 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "zankatv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26552,23 +26858,23 @@
                     "\u00fcmit\u00f6zda\u011f",
                     "oangeliyor",
                     {
-                        "weight": 4,
-                        "weight_plain": 0
+                        "weight": 8,
+                        "weight_plain": 2
                     }
                 ],
                 [
                     "\u00fcmit\u00f6zda\u011f",
                     "atai\u0307ttifak\u0131",
                     {
-                        "weight": 1,
-                        "weight_plain": 1
+                        "weight": 6,
+                        "weight_plain": 6
                     }
                 ],
                 [
                     "canl\u0131yay\u0131n",
                     "foxtv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26576,7 +26882,7 @@
                     "canl\u0131yay\u0131n",
                     "adana",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26584,7 +26890,7 @@
                     "canl\u0131yay\u0131n",
                     "adanan\u0131nzaferi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26592,23 +26898,23 @@
                     "24kas\u0131m",
                     "\u00f6\u011fretmenlerg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "d\u00fczce",
                     "deprem",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "deprem",
                     "birliktea\u015faca\u011f\u0131z",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -26616,23 +26922,23 @@
                     "taksim",
                     "ter\u00f6r",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "taksim",
                     "patlama",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "taksim",
                     "i\u0307stiklalcaddesi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26640,7 +26946,7 @@
                     "patlama",
                     "i\u0307stiklalcaddesi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26648,63 +26954,63 @@
                     "\u00f6zg\u00fcrl\u00fck",
                     "zafer",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "\u00f6zg\u00fcrl\u00fck",
                     "sans\u00fcryasas\u0131nahay\u0131r",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zafer",
                     "sans\u00fcryasas\u0131nahay\u0131r",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zafer",
                     "gidecekler",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zafer",
                     "hesapverecekler",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zafer",
                     "mutluy\u0131llar",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "t\u00fcrkiyeninzaferi",
                     "ya\u015f\u0131m\u0131z1yolumuzbir",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "t\u00fcrkiyeninzaferi",
                     "hudutnamustur",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26712,7 +27018,7 @@
                     "17a\u011fustos1999",
                     "marmaradepremi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26720,7 +27026,7 @@
                     "kayseri",
                     "develi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26728,7 +27034,7 @@
                     "15temmuz",
                     "fet\u00f6",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26736,7 +27042,7 @@
                     "bodrum",
                     "cennetkoyu",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26744,7 +27050,7 @@
                     "gitmiyorum",
                     "gidecekler",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26752,79 +27058,79 @@
                     "gidecekler",
                     "hesapverecekler",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "sel",
                     "kastamonu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "sel",
                     "bart\u0131n",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "sel",
                     "karab\u00fck",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kastamonu",
                     "bart\u0131n",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kastamonu",
                     "karab\u00fck",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "bart\u0131n",
                     "karab\u00fck",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "erzincan",
                     "i\u0307li\u00e7",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "hudutnamustur",
                     "hatayagiri\u015fimizyasakland\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "adana",
                     "adanan\u0131nzaferi",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26832,7 +27138,7 @@
                     "kad\u0131n\u0131mzaferpartiliyim",
                     "sevdaozbek",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26840,7 +27146,7 @@
                     "kad\u0131n\u0131mzaferpartiliyim",
                     "kad\u0131n",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26848,7 +27154,7 @@
                     "sevdaozbek",
                     "kad\u0131n",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26856,31 +27162,31 @@
                     "hay\u0131rl\u0131ramazanlar",
                     "ramazan",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "nevruzbayram\u0131",
                     "t\u00fcrk\u00fcnbayram\u0131nevruz",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kad\u0131nlar\u0131nzaferi",
                     "d\u00fcnyakad\u0131nlarg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "esenyurt",
                     "suriyeliler",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26888,15 +27194,15 @@
                     "d\u00fcnyakul\u00fcpler\u015fampiyonas\u0131",
                     "vak\u0131fbank",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "i\u0307stanbul",
                     "f\u0131rt\u0131na",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -26904,8 +27210,8 @@
                     "oangeliyor",
                     "atai\u0307ttifak\u0131",
                     {
-                        "weight": 8,
-                        "weight_plain": 1
+                        "weight": 13,
+                        "weight_plain": 4
                     }
                 ]
             ]

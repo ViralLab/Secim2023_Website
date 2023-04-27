@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "760073225934168064",
         "name": "Demokrat Parti",
@@ -8,6 +8,41 @@
         "description": "Demokrat Parti Resmi Twitter Hesab\u0131 - \nDemocrat Party Official Account",
         "screen_name": "_DemokratParti",
         "stats": {
+            "2023-04-27": {
+                "status": 1589,
+                "friends": 22,
+                "followers": 28814
+            },
+            "2023-04-26": {
+                "status": 1586,
+                "friends": 22,
+                "followers": 28781
+            },
+            "2023-04-25": {
+                "status": 1582,
+                "friends": 22,
+                "followers": 28750
+            },
+            "2023-04-24": {
+                "status": 1577,
+                "friends": 22,
+                "followers": 28689
+            },
+            "2023-04-23": {
+                "status": 1575,
+                "friends": 22,
+                "followers": 28656
+            },
+            "2023-04-22": {
+                "status": 1572,
+                "friends": 22,
+                "followers": 28616
+            },
+            "2023-04-21": {
+                "status": 1567,
+                "friends": 22,
+                "followers": 28572
+            },
             "2023-04-20": {
                 "status": 1566,
                 "friends": 22,
@@ -13883,12 +13918,188 @@
                 "nfav": 116,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650106874509901826": {
+                "created_at": "Sun Apr 23 11:58:31 +0000 2023",
+                "text": "RT @cenginyurt52: Bug\u00fcn saat 15 de K\u0131r\u0131kkale de olaca\u011f\u0131z.\nHerkese g\u00fczel bir pazar diliyorum.\n#SanaS\u00d6z yine baharlar gelecek. https://t.co/T\u2026",
+                "nretweet": 69,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650106727830900736": {
+                "created_at": "Sun Apr 23 11:57:56 +0000 2023",
+                "text": "RT @DpGultekinUysal: Milletimizin bayram\u0131n\u0131, Milletimizin kendi kaderini tayin etmesine vesile Meclisimizin varl\u0131\u011f\u0131n\u0131, Egemenli\u011fimizin bayr\u2026",
+                "nretweet": 212,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649811598666616834": {
+                "created_at": "Sat Apr 22 16:25:11 +0000 2023",
+                "text": "RT @SalihUzunTDV: Kar\u015f\u0131yaka\u2019da bayramla\u015ft\u0131k.\n#BirlikteBasaraca\u011f\u0131z \n#Millet\u0130ttifak\u0131 \n@drcemiltugay \n@Chpkyakailcebsk \n@chpizmiril \n@dpizmir\u2026",
+                "nretweet": 52,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649811514063200261": {
+                "created_at": "Sat Apr 22 16:24:51 +0000 2023",
+                "text": "RT @cenginyurt52: Bir oy Kemal'e,\nBir oy Cemal'e.\n#SanaS\u00d6z yine baharlar gelecek. https://t.co/OA8iQuC4P5",
+                "nretweet": 368,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649706973338783744": {
+                "created_at": "Sat Apr 22 09:29:27 +0000 2023",
+                "text": "RT @DpGultekinUysal: Se\u00e7imin en kritik d\u00f6nemine girdi\u011fimiz Cumhurba\u015fkan\u0131 Aday\u0131m\u0131z Sn. K\u0131l\u0131\u00e7daro\u011flu\u2019na kar\u015f\u0131 yap\u0131lan sald\u0131r\u0131lardan anla\u015f\u0131l\u0131y\u2026",
+                "nretweet": 405,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649309035319967744": {
+                "created_at": "Fri Apr 21 07:08:11 +0000 2023",
+                "text": "Halil \u0130brahim Sofras\u0131 Bulu\u015fmalar\u0131; https://t.co/dsiDji05T4",
+                "nretweet": 13,
+                "nfav": 42,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1649290043037458432": {
+                "created_at": "Fri Apr 21 05:52:43 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n G\u00fcltekin Uysal @DpGultekinUysal \u0130zmir B\u00fcy\u00fck\u015fehir Belediye Ba\u015fkan\u0131 Say\u0131n Tun\u00e7 Soyer\u2026 https://t.co/OtG9E8JYyI",
+                "nretweet": 55,
+                "nfav": 299,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649281991831871488": {
+                "created_at": "Fri Apr 21 05:20:43 +0000 2023",
+                "text": "Nicelerine eri\u015fmek dile\u011fi, ac\u0131lardan, kederlerden uzak bayramlara kavu\u015fmak duas\u0131yla... https://t.co/v7y4VF2cE3",
+                "nretweet": 66,
+                "nfav": 357,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649281019323850753": {
+                "created_at": "Fri Apr 21 05:16:51 +0000 2023",
+                "text": "RT @DpGultekinUysal: Bu m\u00fcbarek Ramazan Bayram\u0131n\u0131 Osmaniye\u2019de Zafer Camii\u2019nde kar\u015f\u0131lad\u0131k.\nDepremdeki kay\u0131plar\u0131m\u0131z\u0131n \u00fcz\u00fcnt\u00fcs\u00fc ile buruk bir\u2026",
+                "nretweet": 192,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649277962502516736": {
+                "created_at": "Fri Apr 21 05:04:43 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n G\u00fcltekin Uysal @DpGultekinUysal @FOXhaber ekranlar\u0131nda canl\u0131 yay\u0131nda",
+                "nretweet": 12,
+                "nfav": 63,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648996686121795584": {
+                "created_at": "Thu Apr 20 10:27:01 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n G\u00fcltekin Uysal Osmaniye'de!\n\nHAL\u0130L \u0130BRAH\u0130M SOFRASI / Bayram Yeme\u011fi\n\nGenel Ba\u015fkan\u0131m\u0131z Say\u0131n G\u2026 https://t.co/LtFMWIFjOG",
+                "nretweet": 57,
+                "nfav": 193,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648785627431698434": {
+                "created_at": "Wed Apr 19 20:28:21 +0000 2023",
+                "text": "RT @DpGultekinUysal: \u015eah-\u0131 Merdan Hz. Ali ne g\u00fczel buyurmu\u015f;\n\n\"Kalp temiz olursa, dilden g\u00fczel s\u00f6zler \u00e7\u0131kar.\"",
+                "nretweet": 2774,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648616924073324548": {
+                "created_at": "Wed Apr 19 09:17:59 +0000 2023",
+                "text": "RT @cenginyurt52: B\u0130RLE\u015eE B\u0130RLE\u015eE KAZANACA\u011eIZ. \nAlt\u0131nordu Suba\u015f\u0131 mahallesinde k\u0131ymetli vatanda\u015flar\u0131m\u0131zla ve esnaflar\u0131m\u0131zla bir araya gelere\u2026",
+                "nretweet": 66,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648616905412943872": {
+                "created_at": "Wed Apr 19 09:17:54 +0000 2023",
+                "text": "RT @cenginyurt52: B\u0130RLE\u015eE B\u0130RLE\u015eE KAZANACA\u011eIZ. \nAlt\u0131nordu sokaklar\u0131nda k\u0131ymetli vatanda\u015flar\u0131m\u0131zla ve esnaflar\u0131m\u0131zla bir araya gelerek,\n13.\u2026",
+                "nretweet": 54,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648616876769943558": {
+                "created_at": "Wed Apr 19 09:17:47 +0000 2023",
+                "text": "RT @cenginyurt52: B\u0130RLE\u015eE B\u0130RLE\u015eE KAZANACA\u011eIZ. \nAlt\u0131nordu sokaklar\u0131nda k\u0131ymetli hem\u015fehrilerimizi ziyaretlerimize devam ediyoruz.\n13. Cumhur\u2026",
+                "nretweet": 117,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648616366386151426": {
+                "created_at": "Wed Apr 19 09:15:46 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Say\u0131n \u0130lay Aksoy @ilay_aksoy Bu Ak\u015fam Saat 21.00'de @flashhabertvcom ekranlar\u0131nda canl\u0131 ya\u2026 https://t.co/4LGffPxajh",
+                "nretweet": 17,
+                "nfav": 87,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648283692530380802": {
+                "created_at": "Tue Apr 18 11:13:50 +0000 2023",
+                "text": "RT @SalihUzunTDV: Daha organizeyiz,\nDaha diren\u00e7liyiz,\nDaha m\u00fccadeleciyiz\u2026\n\n#BirlikteBa\u015faraca\u011f\u0131z \n#Millet\u0130ttifak\u0131 \n@cigli_chp \n@dpizmir \n@ch\u2026",
+                "nretweet": 107,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648283626612613121": {
+                "created_at": "Tue Apr 18 11:13:34 +0000 2023",
+                "text": "RT @cenginyurt52: Ankara\u2019da iftar sonras\u0131 Karde\u015fler taksi dura\u011f\u0131nda  \u015fof\u00f6r esnaf\u0131m\u0131z\u0131 ziyaret ederek 13.Cumhurba\u015fkan\u0131 aday\u0131m\u0131z Sn Kemal K\u0131l\u2026",
+                "nretweet": 126,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648283434354196483": {
+                "created_at": "Tue Apr 18 11:12:49 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Say\u0131n B\u00fclent \u015eahinalp @SahinalpBulent Bu Ak\u015fam 21.55'te @tv5televizyonu ekranlar\u0131nda \"Kuli\u2026 https://t.co/y8HFDXducY",
+                "nretweet": 16,
+                "nfav": 51,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648259776265027584": {
+                "created_at": "Tue Apr 18 09:38:48 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Say\u0131n \u0130lay Aksoy @ilay_aksoy Bug\u00fcn 13.30'da @halktvcomtr ekranlar\u0131nda canl\u0131 yay\u0131n konu\u011fu o\u2026 https://t.co/peqCZ7Hp2G",
+                "nretweet": 11,
+                "nfav": 41,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647992234946469888": {
+                "created_at": "Mon Apr 17 15:55:41 +0000 2023",
+                "text": "RT @DpGultekinUysal: Devleti\u00a0\"millet i\u00e7in\" bilen, milletin zenginli\u011fini devletin zenginli\u011fi i\u00e7in temel addeden, kalk\u0131nmay\u0131 demokrasinin \u00e7ar\u2026",
+                "nretweet": 95,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647992167179100167": {
+                "created_at": "Mon Apr 17 15:55:25 +0000 2023",
+                "text": "RT @DpGultekinUysal: Hakk\u0131n, hukukun, do\u011frulu\u011fun, bizleri Millet \nyapan de\u011ferlerin kadrinin bilinece\u011fi,\nkimsenin fikirleri ve tercihleri i\u00e7\u2026",
+                "nretweet": 136,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "DpGultekinUysal",
-                667
+                675
             ],
             [
                 "dpgenelbaskani",
@@ -13896,31 +14107,31 @@
             ],
             [
                 "cenginyurt52",
-                119
+                125
             ],
             [
                 "ilay_aksoy",
-                61
+                63
             ],
             [
                 "SahinalpBulent",
-                49
+                50
             ],
             [
                 "halktvcomtr",
-                44
+                45
+            ],
+            [
+                "tv5televizyonu",
+                37
             ],
             [
                 "tele1comtr",
                 36
             ],
             [
-                "tv5televizyonu",
-                36
-            ],
-            [
                 "flashhabertvcom",
-                34
+                35
             ],
             [
                 "NeslihanCev",
@@ -13932,7 +14143,7 @@
             ],
             [
                 "FOXhaber",
-                21
+                22
             ],
             [
                 "FaikTUNAY",
@@ -14141,6 +14352,10 @@
                 3
             ],
             [
+                "BirlikteBa\u015faraca\u011f\u0131z",
+                2
+            ],
+            [
                 "Yeter",
                 2
             ],
@@ -14221,8 +14436,12 @@
                 2
             ],
             [
-                "BirlikteBa\u015faraca\u011f\u0131z",
-                1
+                "SanaS\u00d6z",
+                2
+            ],
+            [
+                "Millet\u0130ttifak\u0131",
+                2
             ],
             [
                 "Milletimiz\u0130\u00e7inBuraday\u0131z",
@@ -14278,14 +14497,6 @@
             ],
             [
                 "T\u00dc\u0130K",
-                1
-            ],
-            [
-                "Tobb",
-                1
-            ],
-            [
-                "LozanAntla\u015fmas\u0131",
                 1
             ]
         ],
@@ -25582,59 +25793,155 @@
             ],
             "2023-04": [
                 [
-                    "genel",
-                    6
-                ],
-                [
-                    "ba\u015fkan",
-                    6
-                ],
-                [
-                    "yard\u0131mc\u0131m\u0131z",
-                    6
-                ],
-                [
                     "say\u0131n",
-                    6
+                    14
                 ],
                 [
-                    "ak\u015fam",
-                    6
+                    "genel",
+                    13
                 ],
                 [
                     "ekranlar\u0131nda",
-                    6
+                    10
+                ],
+                [
+                    "ba\u015fkan",
+                    9
+                ],
+                [
+                    "yard\u0131mc\u0131m\u0131z",
+                    9
+                ],
+                [
+                    "ak\u015fam",
+                    8
                 ],
                 [
                     "canl\u0131",
-                    5
-                ],
-                [
-                    "yay\u0131n",
-                    5
+                    8
                 ],
                 [
                     "i\u0307lay",
-                    4
+                    6
                 ],
                 [
                     "aksoy",
-                    4
+                    6
                 ],
                 [
                     "saat",
+                    6
+                ],
+                [
+                    "yay\u0131n",
+                    6
+                ],
+                [
+                    "bi\u0307rle\u015fe",
+                    6
+                ],
+                [
+                    "k\u0131ymetli",
+                    4
+                ],
+                [
+                    "ba\u015fkan\u0131m\u0131z",
                     4
                 ],
                 [
                     "21.00",
-                    2
+                    3
                 ],
                 [
                     "b\u00fclent",
-                    2
+                    3
                 ],
                 [
                     "\u015fahinalp",
+                    3
+                ],
+                [
+                    "g\u00fczel",
+                    3
+                ],
+                [
+                    "g\u00fcltekin",
+                    3
+                ],
+                [
+                    "uysal",
+                    3
+                ],
+                [
+                    "kazanaca\u011fiz",
+                    3
+                ],
+                [
+                    "alt\u0131nordu",
+                    3
+                ],
+                [
+                    "diliyorum",
+                    2
+                ],
+                [
+                    "iftar",
+                    2
+                ],
+                [
+                    "esnaf\u0131m\u0131z\u0131",
+                    2
+                ],
+                [
+                    "ziyaret",
+                    2
+                ],
+                [
+                    "baharlar",
+                    2
+                ],
+                [
+                    "gelecek",
+                    2
+                ],
+                [
+                    "milletimizin",
+                    2
+                ],
+                [
+                    "bayram\u0131n\u0131",
+                    2
+                ],
+                [
+                    "\u0307ttifak\u0131",
+                    2
+                ],
+                [
+                    "cumhurba\u015fkan\u0131",
+                    2
+                ],
+                [
+                    "aday\u0131m\u0131z",
+                    2
+                ],
+                [
+                    "vatanda\u015flar\u0131m\u0131zla",
+                    2
+                ],
+                [
+                    "esnaflar\u0131m\u0131zla",
+                    2
+                ],
+                [
+                    "araya",
+                    2
+                ],
+                [
+                    "sokaklar\u0131nda",
+                    2
+                ],
+                [
+                    "millet",
                     2
                 ],
                 [
@@ -25683,102 +25990,6 @@
                 ],
                 [
                     "haber",
-                    1
-                ],
-                [
-                    "konu\u011fuyum",
-                    1
-                ],
-                [
-                    "g\u00fcndemi",
-                    1
-                ],
-                [
-                    "konu\u015fuyoruz",
-                    1
-                ],
-                [
-                    "i\u0307yi",
-                    1
-                ],
-                [
-                    "seyirler",
-                    1
-                ],
-                [
-                    "diliyorum",
-                    1
-                ],
-                [
-                    "https://t.co/fuwrvmhtwy",
-                    1
-                ],
-                [
-                    "iftar\u0131m\u0131z\u0131",
-                    1
-                ],
-                [
-                    "ordulular",
-                    1
-                ],
-                [
-                    "vakf\u0131n\u0131n",
-                    1
-                ],
-                [
-                    "d\u00fczenlemi\u015f",
-                    1
-                ],
-                [
-                    "iftar",
-                    1
-                ],
-                [
-                    "program\u0131nda",
-                    1
-                ],
-                [
-                    "hem\u015ferilemizle",
-                    1
-                ],
-                [
-                    "birlikte",
-                    1
-                ],
-                [
-                    "ger\u00e7ekle\u015ftirdik",
-                    1
-                ],
-                [
-                    "allah",
-                    1
-                ],
-                [
-                    "afyonkarahisar",
-                    1
-                ],
-                [
-                    "k\u00fclt\u00fcr",
-                    1
-                ],
-                [
-                    "turizm",
-                    1
-                ],
-                [
-                    "derne\u011fi",
-                    1
-                ],
-                [
-                    "sand\u0131kl\u0131l\u0131lar",
-                    1
-                ],
-                [
-                    "vakf\u0131",
-                    1
-                ],
-                [
-                    "tertip",
                     1
                 ]
             ]
@@ -26415,6 +26626,34 @@
                 [
                     "tgrthabertv",
                     {}
+                ],
+                [
+                    "salihuzuntdv",
+                    {}
+                ],
+                [
+                    "drcemiltugay",
+                    {}
+                ],
+                [
+                    "chpkyakailcebsk",
+                    {}
+                ],
+                [
+                    "chpizmiril",
+                    {}
+                ],
+                [
+                    "dpizmir",
+                    {}
+                ],
+                [
+                    "SalihUzunTDV",
+                    {}
+                ],
+                [
+                    "cigli_chp",
+                    {}
                 ]
             ],
             "edges": [
@@ -26422,1218 +26661,1218 @@
                     "dpgultekinuysal",
                     "_demokratparti",
                     {
-                        "weight": 7064
+                        "weight": 7741
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "krtkulturtv",
                     {
-                        "weight": 101
+                        "weight": 111
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "tele1comtr",
                     {
-                        "weight": 132
+                        "weight": 144
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "halktvcomtr",
                     {
-                        "weight": 139
+                        "weight": 153
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "caddetvtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "iyiparti",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "haberturktv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ankaramasasi",
                     {
-                        "weight": 61
+                        "weight": 68
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "foxhaber",
                     {
-                        "weight": 66
+                        "weight": 74
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "demokrasivakfi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "tv100",
                     {
-                        "weight": 39
+                        "weight": 43
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "liderhabercomtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "kararhaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "alibabacan",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "devapartisi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "flashhabertvcom",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "armagan_caglaya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "umitozdag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "herkesicinchp",
                     {
-                        "weight": 21
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "saadetpartisi",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "t_karamollaoglu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "dpiscehisar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "foxturkiye",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ted1928",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "spehlivanoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "adana_bld",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "zeydankaralar01",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "meral_aksener",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ipekkozbey",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "kilicdarogluk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ahmet_davutoglu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "siring",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "trabzonspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "dw_turkce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "arayishaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "bbnturktv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "cumhuriyetgzt",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "essertac",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "bizimtvcomtr",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "sabansevinc2",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "tv5televizyonu",
                     {
-                        "weight": 60
+                        "weight": 66
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "cenginyurt52",
                     {
-                        "weight": 96
+                        "weight": 105
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "haberglobal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "savaskerimoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "kucukkayaismail",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "hataybsb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "docdrlutfusavas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ekremerayarda",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "erkindelikanli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "serdarfaralyali",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "merdanyanardag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "rprefahpartisi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "erbakanfatih",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "tyahuditoplumu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ertugrulgunay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "mehmetalikayaci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "karagozilker",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "haberturk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "kanal3tv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "bursadabugun",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "gribolgeorg",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "etvturkiye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "mustafa_destici",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "gazetesozcu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "gelecekpartitr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "yildarado",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "ismaildukel",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "mansuryavas06",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "gencdemokratgm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgultekinuysal",
                     "nevsinmengu",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "_demokratparti",
                     "krtkulturtv",
                     {
-                        "weight": 306
+                        "weight": 337
                     }
                 ],
                 [
                     "_demokratparti",
                     "cenginyurt52",
                     {
-                        "weight": 1676
+                        "weight": 1850
                     }
                 ],
                 [
                     "_demokratparti",
                     "tele1comtr",
                     {
-                        "weight": 391
+                        "weight": 427
                     }
                 ],
                 [
                     "_demokratparti",
                     "ilay_aksoy",
                     {
-                        "weight": 703
+                        "weight": 778
                     }
                 ],
                 [
                     "_demokratparti",
                     "halktvcomtr",
                     {
-                        "weight": 443
+                        "weight": 489
                     }
                 ],
                 [
                     "_demokratparti",
                     "sahinalpbulent",
                     {
-                        "weight": 496
+                        "weight": 546
                     }
                 ],
                 [
                     "_demokratparti",
                     "caddetvtr",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "_demokratparti",
                     "DpGultekinUysal",
                     {
-                        "weight": 4419
+                        "weight": 4841
                     }
                 ],
                 [
                     "_demokratparti",
                     "flashhabertvcom",
                     {
-                        "weight": 343
+                        "weight": 378
                     }
                 ],
                 [
                     "_demokratparti",
                     "tv5televizyonu",
                     {
-                        "weight": 415
+                        "weight": 456
                     }
                 ],
                 [
                     "_demokratparti",
                     "serhanyucel",
                     {
-                        "weight": 78
+                        "weight": 86
                     }
                 ],
                 [
                     "_demokratparti",
                     "kanalfirat",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "bilalozkan33",
                     {
-                        "weight": 35
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "iyiparti",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "_demokratparti",
                     "faiktunay",
                     {
-                        "weight": 134
+                        "weight": 147
                     }
                 ],
                 [
                     "_demokratparti",
                     "_demokratparti",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "_demokratparti",
                     "haberturktv",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "_demokratparti",
                     "HaberturkTV",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "FaikTUNAY",
                     {
-                        "weight": 76
+                        "weight": 83
                     }
                 ],
                 [
                     "_demokratparti",
                     "neslihancev",
                     {
-                        "weight": 342
+                        "weight": 374
                     }
                 ],
                 [
                     "_demokratparti",
                     "ankaramasasi",
                     {
-                        "weight": 130
+                        "weight": 144
                     }
                 ],
                 [
                     "_demokratparti",
                     "tv52ordu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "kararhaber",
                     {
-                        "weight": 42
+                        "weight": 46
                     }
                 ],
                 [
                     "_demokratparti",
                     "foxhaber",
                     {
-                        "weight": 193
+                        "weight": 215
                     }
                 ],
                 [
                     "_demokratparti",
                     "FOXhaber",
                     {
-                        "weight": 25
+                        "weight": 28
                     }
                 ],
                 [
                     "_demokratparti",
                     "artitv_",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "demokrasivakfi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "serhat_emanet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "tv100",
                     {
-                        "weight": 127
+                        "weight": 139
                     }
                 ],
                 [
                     "_demokratparti",
                     "3smedya_resmi",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "turkishindy",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "TurkishIndy",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "atalipparlak",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "gokhanpinarbasi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "yirmiucderece",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ilavetvarif07",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "liderhabercomtr",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "alibabacan",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "devapartisi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "dpfatmayavuz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "DPFatmaYavuz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "armagan_caglaya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "hilalkoylu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "haberturk",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "_demokratparti",
                     "umitozdag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "herkesicinchp",
                     {
-                        "weight": 21
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "saadetpartisi",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "_demokratparti",
                     "t_karamollaoglu",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "dpiscehisar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "Dpiscehisar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "gencdemokratgm",
                     {
-                        "weight": 165
+                        "weight": 180
                     }
                 ],
                 [
                     "_demokratparti",
                     "avardayilmaz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "foxturkiye",
                     {
-                        "weight": 74
+                        "weight": 81
                     }
                 ],
                 [
                     "_demokratparti",
                     "enveraysevera",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "SahinalpBulent",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ted1928",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "spehlivanoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "tvden09",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "adana_bld",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "zeydankaralar01",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "meral_aksener",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "_demokratparti",
                     "mersinkanal33",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ipekkozbey",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "bidebunuizle",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "dpankara",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "kilicdarogluk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ahmet_davutoglu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "ankaragucu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "AnkaraMasasi",
                     {
-                        "weight": 50
+                        "weight": 56
                     }
                 ],
                 [
                     "_demokratparti",
                     "NeslihanCev",
                     {
-                        "weight": 25
+                        "weight": 28
                     }
                 ],
                 [
                     "_demokratparti",
                     "siring",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "trabzonspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "dw_turkce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "noktatv24",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "Noktatv24",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "arayishaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "aliarifakturk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "bbnturktv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "buketaydin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "cumhuriyetgzt",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "essertac",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "bizimtvcomtr",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "_demokratparti",
                     "sabansevinc2",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "gelecekpartitr",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "tvnet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "haberglobal",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "_demokratparti",
                     "savaskerimoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "erkindelikanli",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "okanyucel93",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "kucukkayaismail",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "hataybsb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "docdrlutfusavas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "gazetesozcu",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "_demokratparti",
                     "ekremerayarda",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "serdarfaralyali",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "merdanyanardag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "rprefahpartisi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "erbakanfatih",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "tyahuditoplumu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ankahabera",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "ertugrulgunay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "keremkircuval",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "mehmetalikayaci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "karagozilker",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
@@ -27647,1218 +27886,1351 @@
                     "_demokratparti",
                     "daktilo1984",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "enesturbil",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "tv42resmi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "kanal3tv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "bursadabugun",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "gribolgeorg",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "etvturkiye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "mustafa_destici",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "KararHaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "kanal26_tv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "kanal5tr",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "Kanal5TR",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "yildarado",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ozlemgurses",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ismaildukel",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "mansuryavas06",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "tbmmresmi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "dpgenelbaskani",
                     {
-                        "weight": 1672
+                        "weight": 1824
                     }
                 ],
                 [
                     "_demokratparti",
                     "nozdebir",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "babialitv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "zankamedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ank_kentkonseyi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "atokurumsal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ATOkurumsal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "tturkiyemtv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "ankarabbld",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "tahaakgul",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "bkocamaz33",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "BKocamaz33",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "ayferyilmaztr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "AyferYilmaztr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "kocadonmehmet",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "KocadonMehmet",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "mmesutozakcan",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "efelerbelediye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "MmesutOzakcan",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "_demokratparti",
                     "hotonmedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "Hotonmedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "guncelpost",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "flashtv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "_demokratparti",
                     "egeturktv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "dp_1946",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "_demokratparti",
                     "turkcell",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "_demokratparti",
                     "vodafonetr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "_demokratparti",
                     "turktelekom",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "_demokratparti",
                     "rterdogan",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "_demokratparti",
                     "suleymansoylu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "_demokratparti",
                     "akaraismailoglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "_demokratparti",
                     "nevsinmengu",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "_demokratparti",
                     "tvpolemik",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "_demokratparti",
                     "tgrthabertv",
                     {
-                        "weight": 6
+                        "weight": 7
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "salihuzuntdv",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "drcemiltugay",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "chpkyakailcebsk",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "chpizmiril",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "dpizmir",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "SalihUzunTDV",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "_demokratparti",
+                    "cigli_chp",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "krtkulturtv",
                     "cenginyurt52",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "krtkulturtv",
                     "neslihancev",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "krtkulturtv",
                     "ilay_aksoy",
                     {
-                        "weight": 17
+                        "weight": 20
                     }
                 ],
                 [
                     "krtkulturtv",
                     "sahinalpbulent",
                     {
-                        "weight": 45
+                        "weight": 50
                     }
                 ],
                 [
                     "krtkulturtv",
                     "savaskerimoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "krtkulturtv",
                     "dpgenelbaskani",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "krtkulturtv",
                     "foxhaber",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "krtkulturtv",
                     "halktvcomtr",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "cenginyurt52",
                     "tele1comtr",
                     {
-                        "weight": 99
+                        "weight": 108
                     }
                 ],
                 [
                     "cenginyurt52",
                     "halktvcomtr",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "cenginyurt52",
                     "flashhabertvcom",
                     {
-                        "weight": 86
+                        "weight": 94
                     }
                 ],
                 [
                     "cenginyurt52",
                     "caddetvtr",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "cenginyurt52",
                     "tv52ordu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "cenginyurt52",
                     "kararhaber",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "cenginyurt52",
                     "foxhaber",
                     {
-                        "weight": 85
+                        "weight": 94
                     }
                 ],
                 [
                     "cenginyurt52",
                     "ilavetvarif07",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "tv5televizyonu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "ankaramasasi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "tv100",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "cenginyurt52",
                     "buketaydin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "tvnet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "ekremerayarda",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "erkindelikanli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "serdarfaralyali",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "keremkircuval",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cenginyurt52",
                     "haberglobal",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "cenginyurt52",
                     "turkcell",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "cenginyurt52",
                     "vodafonetr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "cenginyurt52",
                     "turktelekom",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "cenginyurt52",
                     "rterdogan",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "tele1comtr",
                     "neslihancev",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "tele1comtr",
                     "ilay_aksoy",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "tele1comtr",
                     "enveraysevera",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tele1comtr",
                     "merdanyanardag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tele1comtr",
                     "ismaildukel",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tele1comtr",
                     "sahinalpbulent",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "flashhabertvcom",
                     {
-                        "weight": 114
+                        "weight": 128
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "faiktunay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "halktvcomtr",
                     {
-                        "weight": 91
+                        "weight": 103
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "tvden09",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "tvpolemik",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "ilay_aksoy",
                     "foxhaber",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "halktvcomtr",
                     "neslihancev",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "halktvcomtr",
                     "serhanyucel",
                     {
-                        "weight": 37
+                        "weight": 41
                     }
                 ],
                 [
                     "halktvcomtr",
                     "ipekkozbey",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "halktvcomtr",
                     "siring",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "halktvcomtr",
                     "sahinalpbulent",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "halktvcomtr",
                     "ozlemgurses",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "halktvcomtr",
                     "dpgenelbaskani",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "halktvcomtr",
                     "foxhaber",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "caddetvtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "tv5televizyonu",
                     {
-                        "weight": 190
+                        "weight": 210
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "yirmiucderece",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "flashhabertvcom",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "bidebunuizle",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "okanyucel93",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sahinalpbulent",
                     "tgrthabertv",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "faiktunay",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "neslihancev",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "gokhanpinarbasi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "neslihancev",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "faiktunay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "mehmetalikayaci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "dpgenelbaskani",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "serhanyucel",
                     "kanalfirat",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "serhanyucel",
                     "ankaramasasi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bilalozkan33",
                     "mersinkanal33",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "iyiparti",
                     "meral_aksener",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "iyiparti",
                     "dpgenelbaskani",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "faiktunay",
                     "serhat_emanet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "faiktunay",
                     "rterdogan",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "faiktunay",
                     "suleymansoylu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "faiktunay",
                     "akaraismailoglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "haberturktv",
                     "neslihancev",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "neslihancev",
                     "3smedya_resmi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "neslihancev",
                     "haberturk",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "neslihancev",
                     "foxhaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "neslihancev",
                     "enveraysevera",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "devapartisi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "alibabacan",
                     "kilicdarogluk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "meral_aksener",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "kilicdarogluk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "meral_aksener",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "dpgenelbaskani",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "gencdemokratgm",
                     "avardayilmaz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "foxturkiye",
                     "dpgenelbaskani",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "foxturkiye",
                     "karagozilker",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "ted1928",
                     "spehlivanoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tvden09",
                     "dpgenelbaskani",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "adana_bld",
                     "zeydankaralar01",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "kilicdarogluk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "dpgenelbaskani",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ahmet_davutoglu",
                     "gelecekpartitr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "cumhuriyetgzt",
                     "essertac",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bizimtvcomtr",
                     "sabansevinc2",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bizimtvcomtr",
                     "dpgenelbaskani",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "erkindelikanli",
                     "ekremerayarda",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erkindelikanli",
                     "serdarfaralyali",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hataybsb",
                     "docdrlutfusavas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ekremerayarda",
                     "serdarfaralyali",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "rprefahpartisi",
                     "erbakanfatih",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "karagozilker",
                     "dpgenelbaskani",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "kanal3tv",
                     "dpgenelbaskani",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "babialitv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "zankamedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "tturkiyemtv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "hotonmedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "flashtv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "egeturktv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "dpgenelbaskani",
                     "dp_1946",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "mmesutozakcan",
                     "efelerbelediye",
                     {
+                        "weight": 12
+                    }
+                ],
+                [
+                    "turkcell",
+                    "vodafonetr",
+                    {
                         "weight": 11
                     }
                 ],
                 [
                     "turkcell",
-                    "vodafonetr",
-                    {
-                        "weight": 10
-                    }
-                ],
-                [
-                    "turkcell",
                     "turktelekom",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "vodafonetr",
                     "turktelekom",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "rterdogan",
                     "suleymansoylu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "rterdogan",
                     "akaraismailoglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "suleymansoylu",
                     "akaraismailoglu",
                     {
-                        "weight": 10
+                        "weight": 11
+                    }
+                ],
+                [
+                    "salihuzuntdv",
+                    "drcemiltugay",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "salihuzuntdv",
+                    "chpkyakailcebsk",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "salihuzuntdv",
+                    "chpizmiril",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "salihuzuntdv",
+                    "dpizmir",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "salihuzuntdv",
+                    "cigli_chp",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "drcemiltugay",
+                    "chpkyakailcebsk",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "drcemiltugay",
+                    "chpizmiril",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "drcemiltugay",
+                    "dpizmir",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "chpkyakailcebsk",
+                    "chpizmiril",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "chpkyakailcebsk",
+                    "dpizmir",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "chpizmiril",
+                    "dpizmir",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "dpizmir",
+                    "cigli_chp",
+                    {
+                        "weight": 1
                     }
                 ]
             ]
@@ -29100,6 +29472,14 @@
                 [
                     "\u00e7alarsaat",
                     {}
+                ],
+                [
+                    "birliktebasaraca\u011f\u0131z",
+                    {}
+                ],
+                [
+                    "milleti\u0307ttifak\u0131",
+                    {}
                 ]
             ],
             "edges": [
@@ -29107,23 +29487,31 @@
                     "yar\u0131n\u0131nt\u00fcrkiyesi",
                     "birlikteba\u015faraca\u011f\u0131z",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "yar\u0131n\u0131nt\u00fcrkiyesi",
                     "yenisiyasetk\u00fclt\u00fcr\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
+                    }
+                ],
+                [
+                    "birlikteba\u015faraca\u011f\u0131z",
+                    "milleti\u0307ttifak\u0131",
+                    {
+                        "weight": 1,
+                        "weight_plain": 0
                     }
                 ],
                 [
                     "yeter",
                     "yeter",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29131,7 +29519,7 @@
                     "canli",
                     "olaylarveg\u00f6r\u00fc\u015fler",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29139,7 +29527,7 @@
                     "canli",
                     "li\u0307derhaber",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29147,15 +29535,15 @@
                     "bi\u0307rli\u0307ktekazanaca\u011fiz",
                     "yenisiyasetk\u00fclt\u00fcr\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "\u00f6sym",
                     "g\u00fcmr\u00fckler",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29163,7 +29551,7 @@
                     "\u00f6sym",
                     "t\u00fci\u0307k",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29171,7 +29559,7 @@
                     "g\u00fcmr\u00fckler",
                     "t\u00fci\u0307k",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29179,71 +29567,71 @@
                     "anadoluefes",
                     "europaleaguefinal",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "19may\u0131s",
                     "ataturkuanmagenclikvesporbayram\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "19may\u0131s",
                     "19mayis1919",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "19may\u0131s",
                     "19mayisbagimsizlikatesi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "ataturkuanmagenclikvesporbayram\u0131",
                     "19mayis1919",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "ataturkuanmagenclikvesporbayram\u0131",
                     "19mayisbagimsizlikatesi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "19mayis1919",
                     "19mayisbagimsizlikatesi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "23nisanulusalegemenlikvecocukbayram\u0131",
                     "23nisankutluolsun",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "canl\u0131",
                     "demokratparti",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -29251,7 +29639,7 @@
                     "canl\u0131",
                     "ankaramasas\u0131",
                     {
-                        "weight": 25,
+                        "weight": 28,
                         "weight_plain": 0
                     }
                 ],
@@ -29259,7 +29647,7 @@
                     "canl\u0131",
                     "ankara",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29267,7 +29655,7 @@
                     "demokratparti",
                     "ankaramasas\u0131",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -29275,39 +29663,39 @@
                     "demokratparti",
                     "herkesi\u0307\u00e7inhizmett\u00fcrkiyemi\u0307\u00e7ingayret",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "demokratparti",
                     "mahkumde\u011filsindemokratpartivar",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "parmakboyas\u0131",
                     "secim",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "parmakboyas\u0131",
                     "baskabirt\u00fcrkiye",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "parmakboyas\u0131",
                     "iradenesahip\u00e7\u0131k",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29315,103 +29703,103 @@
                     "parmakboyas\u0131",
                     "i\u0307radenesahip\u00e7\u0131k",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "secim",
                     "baskabirt\u00fcrkiye",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "18martcanakkalezaferi",
                     "18mart1915",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "istiklalmars\u0131m\u0131z100yas\u0131nda",
                     "mehmetakifersoy",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "babalarguenue",
                     "babalargunu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "babalarguenue",
                     "babalargunukutluolsun",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "babalargunu",
                     "babalargunukutluolsun",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "k\u0131r\u0131ms\u00fcrg\u00fcn\u00fc",
                     "18may\u0131s\u0131unutma",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "k\u0131r\u0131ms\u00fcrg\u00fcn\u00fc",
                     "18mayis1944",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "18may\u0131s\u0131unutma",
                     "18mayis1944",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "elaz\u0131gdeprem",
                     "deprem",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "mustafakemalataturk",
                     "10kasim",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "ankarakentkonseyi",
                     "verimlilikveteknolojifuar\u01312019",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29419,23 +29807,23 @@
                     "d\u00fcnyag\u00fcre\u015f\u015fampiyonas\u0131",
                     "r\u0131zakayaalp",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "herkesi\u0307\u00e7inhizmett\u00fcrkiyemi\u0307\u00e7ingayret",
                     "mahkumde\u011filsindemokratpartivar",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "mu\u011flakazanacak",
                     "yata\u011fankazanacak",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29443,7 +29831,7 @@
                     "\u00e7ok\u015f\u00fck\u00fcr",
                     "harbidenyeter",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -29451,39 +29839,47 @@
                     "regaipkandili",
                     "hay\u0131rl\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "30agustoszaferbayrami",
                     "kutlu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "30agustoszaferbayrami",
                     "olsun",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kutlu",
                     "olsun",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "cemalenginyurt",
                     "\u00e7alarsaat",
                     {
-                        "weight": 3,
+                        "weight": 4,
+                        "weight_plain": 0
+                    }
+                ],
+                [
+                    "birliktebasaraca\u011f\u0131z",
+                    "milleti\u0307ttifak\u0131",
+                    {
+                        "weight": 1,
                         "weight_plain": 0
                     }
                 ]

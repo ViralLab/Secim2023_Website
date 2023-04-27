@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "19942168",
         "name": "Saadet Partisi",
@@ -8,6 +8,41 @@
         "description": "Saadet Partisi Resm\u00ee Twitter Hesab\u0131\n#\u0130nsancaYa\u015fam",
         "screen_name": "SaadetPartisi",
         "stats": {
+            "2023-04-27": {
+                "status": 20181,
+                "friends": 23,
+                "followers": 364761
+            },
+            "2023-04-26": {
+                "status": 20174,
+                "friends": 22,
+                "followers": 364544
+            },
+            "2023-04-25": {
+                "status": 20171,
+                "friends": 22,
+                "followers": 364308
+            },
+            "2023-04-24": {
+                "status": 20168,
+                "friends": 22,
+                "followers": 364062
+            },
+            "2023-04-23": {
+                "status": 20163,
+                "friends": 22,
+                "followers": 363797
+            },
+            "2023-04-22": {
+                "status": 20134,
+                "friends": 22,
+                "followers": 363653
+            },
+            "2023-04-21": {
+                "status": 20123,
+                "friends": 22,
+                "followers": 363359
+            },
             "2023-04-20": {
                 "status": 20120,
                 "friends": 22,
@@ -29041,12 +29076,500 @@
                 "nfav": 473,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650154560495788034": {
+                "created_at": "Sun Apr 23 15:08:00 +0000 2023",
+                "text": "\u0130LK TURDA B\u0130T\u0130REL\u0130M! https://t.co/CVGZ7URl2Y",
+                "nretweet": 1037,
+                "nfav": 12096,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1650147320787337216": {
+                "created_at": "Sun Apr 23 14:39:14 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, 23 Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131 vesilesiyle Genel Merkezimizde \u00e7oc\u2026 https://t.co/WeICgJqfIn",
+                "nretweet": 144,
+                "nfav": 804,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650143705129533441": {
+                "created_at": "Sun Apr 23 14:24:52 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Ankara \u0130l Te\u015fkilat\u0131m\u0131z ile bayramla\u015ft\u0131. https://t.co/OaOorfBtuA",
+                "nretweet": 75,
+                "nfav": 547,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650136464087306240": {
+                "created_at": "Sun Apr 23 13:56:05 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Mustafa Kaya, \u2018G\u00fcn\u00fcn G\u00fcndemi\u2019 program\u0131nda O\u011fuz Haksever'in canl\u0131 yay\u0131n konu\u011fu olacakt\u0131r.\u2026 https://t.co/LNFuJ4YizD",
+                "nretweet": 39,
+                "nfav": 165,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650031753900466177": {
+                "created_at": "Sun Apr 23 07:00:00 +0000 2023",
+                "text": "\u00c7ocuklar b\u00fcy\u00fcmeden \u00fclkemizin g\u00fczel yar\u0131nlar\u0131n\u0131 hep birlikte kurmak dile\u011fiyle;\n\n23 Nisan Ulusal Egemenlik ve \u00c7ocuk B\u2026 https://t.co/s8xMrerEVH",
+                "nretweet": 528,
+                "nfav": 4192,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649835210396106752": {
+                "created_at": "Sat Apr 22 17:59:01 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Demokrasi ve At\u0131l\u0131m Partisi'ne bayram ziyaretinde bulundular. https://t.co/hFOWxUsbSw",
+                "nretweet": 17,
+                "nfav": 82,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649831733922078720": {
+                "created_at": "Sat Apr 22 17:45:12 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Cumhuriyet Halk Partisi'ne bayram ziyaretinde bulundular. https://t.co/FPH9JIBYjM",
+                "nretweet": 15,
+                "nfav": 127,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649830708251172864": {
+                "created_at": "Sat Apr 22 17:41:07 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Vatan Partisi'ne bayram ziyaretinde bulundular. https://t.co/N2vNYbHrEx",
+                "nretweet": 13,
+                "nfav": 59,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649821309696606213": {
+                "created_at": "Sat Apr 22 17:03:47 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Halklar\u0131n Demokratik Partisi'ne bayram ziyaretinde bulundular. https://t.co/N1DLgpxMjf",
+                "nretweet": 12,
+                "nfav": 81,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649815281475244033": {
+                "created_at": "Sat Apr 22 16:39:49 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Milli Yol Partisi'ne bayram ziyaretinde bulundular. https://t.co/ojsAnZCo7P",
+                "nretweet": 14,
+                "nfav": 74,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649807117950373889": {
+                "created_at": "Sat Apr 22 16:07:23 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz H\u00fcr Dava Partisi'ne bayram ziyaretinde bulundular. https://t.co/MHhTqcnH0K",
+                "nretweet": 14,
+                "nfav": 69,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649798007141924870": {
+                "created_at": "Sat Apr 22 15:31:11 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Zafer Partisi'ne bayram ziyaretinde bulundular. https://t.co/Opcgan0Gnv",
+                "nretweet": 14,
+                "nfav": 74,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649779752083881984": {
+                "created_at": "Sat Apr 22 14:18:38 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz T\u00fcrkiye De\u011fi\u015fim Partisi'ne bayram ziyaretinde bulundular. https://t.co/olXvcT6cpg",
+                "nretweet": 15,
+                "nfav": 77,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649775779910242307": {
+                "created_at": "Sat Apr 22 14:02:51 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Yeniden Refah Partisi'ne bayram ziyaretinde bulundular. https://t.co/1waxlEj1aQ",
+                "nretweet": 18,
+                "nfav": 107,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649765198444593152": {
+                "created_at": "Sat Apr 22 13:20:49 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Demokrat Parti'ye bayram ziyaretinde bulundular. https://t.co/R9hB4K4ILX",
+                "nretweet": 14,
+                "nfav": 92,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649764741957689344": {
+                "created_at": "Sat Apr 22 13:19:00 +0000 2023",
+                "text": "Zafer Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/ZwezKY1ZsS",
+                "nretweet": 25,
+                "nfav": 212,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649762579596582912": {
+                "created_at": "Sat Apr 22 13:10:24 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz \u0130yi Parti'ye bayram ziyaretinde bulundular. https://t.co/mAOgVm8RIf",
+                "nretweet": 15,
+                "nfav": 82,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649761208512151552": {
+                "created_at": "Sat Apr 22 13:04:57 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Demokratik Sol Parti'ye bayram ziyaretinde bulundular. https://t.co/Or5bEJuo5j",
+                "nretweet": 14,
+                "nfav": 78,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649759308328886275": {
+                "created_at": "Sat Apr 22 12:57:24 +0000 2023",
+                "text": "T\u00fcrkiye De\u011fi\u015fim Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/OmEuVqTJ9I",
+                "nretweet": 23,
+                "nfav": 202,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649758513688723458": {
+                "created_at": "Sat Apr 22 12:54:15 +0000 2023",
+                "text": "Milli Yol Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/1HFFH24ZZm",
+                "nretweet": 25,
+                "nfav": 200,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649757382250045443": {
+                "created_at": "Sat Apr 22 12:49:45 +0000 2023",
+                "text": "Ya\u015far Canbay Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Gelecek Partisi'ne bayram ziyaretinde bulundular. https://t.co/hH0CBfE7Ql",
+                "nretweet": 19,
+                "nfav": 101,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649756887020195841": {
+                "created_at": "Sat Apr 22 12:47:47 +0000 2023",
+                "text": "Yakup Budak Ba\u015fkanl\u0131\u011f\u0131ndaki Genel Merkez Heyetimiz Memleket Partisi'ne bayram ziyaretinde bulundular. https://t.co/Zs2Ps1y1tx",
+                "nretweet": 15,
+                "nfav": 80,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649735046096621569": {
+                "created_at": "Sat Apr 22 11:21:00 +0000 2023",
+                "text": "Yeniden Refah Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/JXzmSMjZbp",
+                "nretweet": 62,
+                "nfav": 344,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649732871676895234": {
+                "created_at": "Sat Apr 22 11:12:21 +0000 2023",
+                "text": "Halklar\u0131n Demokratik Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/DsB7FYzlJV",
+                "nretweet": 44,
+                "nfav": 518,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649724169184235521": {
+                "created_at": "Sat Apr 22 10:37:46 +0000 2023",
+                "text": "Gelecek Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/l3lzeLBAUY",
+                "nretweet": 54,
+                "nfav": 468,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649717055078187008": {
+                "created_at": "Sat Apr 22 10:09:30 +0000 2023",
+                "text": "Demokrasi ve At\u0131l\u0131m Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/lkP5c3fUA4",
+                "nretweet": 34,
+                "nfav": 243,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649713673739415552": {
+                "created_at": "Sat Apr 22 09:56:04 +0000 2023",
+                "text": "Cumhuriyet Halk Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/nqc3hegzxC",
+                "nretweet": 119,
+                "nfav": 1371,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649710591966052360": {
+                "created_at": "Sat Apr 22 09:43:49 +0000 2023",
+                "text": "H\u00fcr Dava Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/As5crGeCao",
+                "nretweet": 31,
+                "nfav": 286,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649704595365527552": {
+                "created_at": "Sat Apr 22 09:20:00 +0000 2023",
+                "text": "Demokratik Sol Parti heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/SFK6uqmlaK",
+                "nretweet": 34,
+                "nfav": 209,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649702078695219201": {
+                "created_at": "Sat Apr 22 09:10:00 +0000 2023",
+                "text": "Memleket Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/UUCfL3YHRJ",
+                "nretweet": 47,
+                "nfav": 316,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649699332734566401": {
+                "created_at": "Sat Apr 22 08:59:05 +0000 2023",
+                "text": "Vatan Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/f9hamSEoEi",
+                "nretweet": 32,
+                "nfav": 240,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649688740921503752": {
+                "created_at": "Sat Apr 22 08:17:00 +0000 2023",
+                "text": "\u0130yi Parti heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/g1Z5fDMkHK",
+                "nretweet": 85,
+                "nfav": 876,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649686224276160512": {
+                "created_at": "Sat Apr 22 08:07:00 +0000 2023",
+                "text": "B\u00fcy\u00fck Birlik Partisi heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/O0bT3G3bjd",
+                "nretweet": 44,
+                "nfav": 328,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649684182212198401": {
+                "created_at": "Sat Apr 22 07:58:53 +0000 2023",
+                "text": "Demokrat Parti heyeti bayram vesilesiyle partimizi ziyaret etti. https://t.co/TKcE09sIb8",
+                "nretweet": 56,
+                "nfav": 574,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649474579725688834": {
+                "created_at": "Fri Apr 21 18:06:00 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Mersin'de Millet \u0130ttifak\u0131 \u0130l Ba\u015fkanlar\u0131 ile ak\u015fam yeme\u011finde bir araya geldi. https://t.co/sUP8gJFC7w",
+                "nretweet": 136,
+                "nfav": 967,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649466204677980160": {
+                "created_at": "Fri Apr 21 17:32:43 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Mersin Toroslar \u0130l\u00e7e Ba\u015fkanl\u0131\u011f\u0131m\u0131zda te\u015fkilat mensuplar\u0131m\u0131zla bayramla\u015ft\u0131. https://t.co/Wz7bcm4xKp",
+                "nretweet": 111,
+                "nfav": 844,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649457718736945178": {
+                "created_at": "Fri Apr 21 16:59:00 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu Konya'da\n\n\ud83d\uddd324 Nisan Pazartesi | 20.30 \n\ud83d\udccdBera Otel https://t.co/MhdFPUYjyg",
+                "nretweet": 136,
+                "nfav": 770,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649386918306512897": {
+                "created_at": "Fri Apr 21 12:17:40 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z B\u00fclent Kaya, \u2018Enine Boyuna\u2019 program\u0131nda H\u00fclya H\u00f6kenek'in canl\u0131 yay\u0131n konu\u011fu olacakt\u0131r.\n\n\ud83d\uddd3\u2026 https://t.co/DbyqKRVtG8",
+                "nretweet": 52,
+                "nfav": 294,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649333400090689536": {
+                "created_at": "Fri Apr 21 08:45:00 +0000 2023",
+                "text": "\u00c7e\u00e7enistan ba\u011f\u0131ms\u0131zl\u0131k m\u00fccadelesinin milyon birinci generali Cevher Dudayev'i \u015fehadetinin 25. y\u0131l\u0131nda rahmetle an\u0131y\u2026 https://t.co/PeOSwZN4Ig",
+                "nretweet": 115,
+                "nfav": 534,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649331288870879232": {
+                "created_at": "Fri Apr 21 08:36:37 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Adana'da Halil \u0130brahim Sofras\u0131 Bulu\u015fmas\u0131nda vatanda\u015flar\u0131m\u0131zla bayramla\u015ft\u0131. https://t.co/a5qTIrQkFP",
+                "nretweet": 133,
+                "nfav": 1030,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649306047687819266": {
+                "created_at": "Fri Apr 21 06:56:19 +0000 2023",
+                "text": "Adana | Halil \u0130brahim Sofras\u0131 Bayramla\u015fma Program\u0131\n\nhttps://t.co/e9d2qWb0Tg",
+                "nretweet": 56,
+                "nfav": 221,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649296908907675648": {
+                "created_at": "Fri Apr 21 06:20:00 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Adana Asri Mezarl\u0131\u011f\u0131nda \u015fehitlerimizi ziyaret etti. https://t.co/PDfT8Z23A2",
+                "nretweet": 182,
+                "nfav": 1514,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649292235756675075": {
+                "created_at": "Fri Apr 21 06:01:26 +0000 2023",
+                "text": "Bayramda birliktelik, birliktelikte bayram vard\u0131r.\n\nDayan\u0131\u015fma ve birliktelikle bayram gibi g\u00fcnlere kavu\u015faca\u011f\u0131z. Mil\u2026 https://t.co/GrJrjqITZ3",
+                "nretweet": 190,
+                "nfav": 871,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649290721092829187": {
+                "created_at": "Fri Apr 21 05:55:24 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Adana Sabanc\u0131 Merkez Camii'nde k\u0131ld\u0131\u011f\u0131 Bayram namaz\u0131ndan sonra vatanda\u015flar\u0131m\u0131\u2026 https://t.co/FO7H2zsoJ3",
+                "nretweet": 255,
+                "nfav": 2064,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649285001819693056": {
+                "created_at": "Fri Apr 21 05:32:41 +0000 2023",
+                "text": "RT @T_Karamollaoglu: \u00dclkemizde ve yery\u00fcz\u00fc \u00fczerinde hakk\u0131n ve adaletin hakim olmas\u0131 duas\u0131, huzur, bar\u0131\u015f, bereket ve esenlik dileklerimle; az\u2026",
+                "nretweet": 882,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649109486366228502": {
+                "created_at": "Thu Apr 20 17:55:15 +0000 2023",
+                "text": "Bu se\u00e7imde oylar CHP\u2019ye, SAADET MECL\u0130SE! https://t.co/1WP606r41H",
+                "nretweet": 1841,
+                "nfav": 11363,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649030635611103233": {
+                "created_at": "Thu Apr 20 12:41:55 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z B\u00fclent Kaya, \u2018G\u00fcndem \u00d6zel\u2019 program\u0131nda Soner Da\u011f\u0131stanl\u0131'n\u0131n canl\u0131 yay\u0131n konu\u011fu olacakt\u0131r.\u2026 https://t.co/gdK6X8uHFu",
+                "nretweet": 49,
+                "nfav": 405,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649015756611354624": {
+                "created_at": "Thu Apr 20 11:42:48 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Ramazan Bayram\u0131n\u0131n 1. G\u00fcn\u00fcnde Adana ve Mersin'de https://t.co/CbtAUoSIKQ",
+                "nretweet": 222,
+                "nfav": 1362,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648761751981154350": {
+                "created_at": "Wed Apr 19 18:53:28 +0000 2023",
+                "text": "Kutupla\u015fmay\u0131, \u00f6tekile\u015ftirmeyi ve \u201ckimlik siyaseti\u201dni de\u011fil g\u00fczel \u00e2hlak\u0131, adaleti, hakkaniyeti ve samimiyeti se\u00e7erek\u2026 https://t.co/hZGgN3YC8H",
+                "nretweet": 5211,
+                "nfav": 43250,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1648710550862577669": {
+                "created_at": "Wed Apr 19 15:30:01 +0000 2023",
+                "text": "Deprem g\u00fcn\u00fc \u00e7ad\u0131r satman\u0131n affedilecek bir taraf\u0131 yok!\nDeprem g\u00fcn\u00fc \u00e7ad\u0131r satman\u0131n af dilenecek bir taraf\u0131 var! https://t.co/qefsjicxaR",
+                "nretweet": 618,
+                "nfav": 2186,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648649232746700800": {
+                "created_at": "Wed Apr 19 11:26:22 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Ankara Masas\u0131 Youtube Kanal\u0131nda G\u00fcrkan Zengin'in sorular\u0131n\u0131 yan\u0131tl\u0131yor.\n\nhttps://t.co/cPqucQECNx",
+                "nretweet": 92,
+                "nfav": 397,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648404058170970117": {
+                "created_at": "Tue Apr 18 19:12:07 +0000 2023",
+                "text": "Edirne\u2019den Kars\u2019a, Hatay\u2019dan Samsun\u2019a!\n\n\u00dclkemizin d\u00f6rt bir taraf\u0131nda h\u0131zl\u0131 ve yayg\u0131n kalk\u0131nma hamlelerimizle bir \u201c\u00fc\u2026 https://t.co/QY1KNl2NzV",
+                "nretweet": 315,
+                "nfav": 2194,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1648251451074912257": {
+                "created_at": "Tue Apr 18 09:05:43 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Ankara Masas\u0131 YouTube kanal\u0131nda G\u00fcrkan Zengin\u2019in canl\u0131 yay\u0131n konu\u011fu olacakt\u0131r\u2026 https://t.co/RZHklCoumy",
+                "nretweet": 194,
+                "nfav": 868,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648064009407549455": {
+                "created_at": "Mon Apr 17 20:40:54 +0000 2023",
+                "text": "Se\u00e7im kaybetme korkusuyla milyonlarca vatanda\u015f\u0131m\u0131z\u0131 ter\u00f6r parantezine s\u0131k\u0131\u015ft\u0131rmak isteyenlere inat biz, her daim ka\u2026 https://t.co/oSXYGlQF0H",
+                "nretweet": 971,
+                "nfav": 8505,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1648044909214179328": {
+                "created_at": "Mon Apr 17 19:25:00 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Millet \u0130ttifak\u0131 Cumhurba\u015fkan\u0131 Aday\u0131m\u0131z Kemal K\u0131l\u0131\u00e7daro\u011flu ile birlikte Beylik\u2026 https://t.co/PQPaP73kof",
+                "nretweet": 191,
+                "nfav": 1576,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648041493305651215": {
+                "created_at": "Mon Apr 17 19:11:25 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Millet \u0130ttifak\u0131 Cumhurba\u015fkan\u0131 Aday\u0131m\u0131z Kemal K\u0131l\u0131\u00e7daro\u011flu ile birlikte Beylik\u2026 https://t.co/M0mGzQgFO0",
+                "nretweet": 260,
+                "nfav": 1875,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648010107089715201": {
+                "created_at": "Mon Apr 17 17:06:42 +0000 2023",
+                "text": "RT @T_Karamollaoglu: Beylikd\u00fcz\u00fc Kadir Gecesi \u0130ftar Program\u0131\n\nhttps://t.co/7AEJytP53D",
+                "nretweet": 232,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647978263594008576": {
+                "created_at": "Mon Apr 17 15:00:10 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Temel Karamollao\u011flu, Genel \u0130dare Kurulu \u00dcyemiz Mustafa Balta'n\u0131n cenaze merasimine kat\u0131ld\u0131. https://t.co/DYtSNEwbdc",
+                "nretweet": 87,
+                "nfav": 716,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647894080049872896": {
+                "created_at": "Mon Apr 17 09:25:39 +0000 2023",
+                "text": "T\u00fcrkiye Cumhuriyeti 8. Cumhurba\u015fkan\u0131 Turgut \u00d6zal'\u0131 vefat\u0131n\u0131n y\u0131l d\u00f6n\u00fcm\u00fcnde rahmetle an\u0131yoruz. https://t.co/9v4NQUywPb",
+                "nretweet": 65,
+                "nfav": 391,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647866231981236226": {
+                "created_at": "Mon Apr 17 07:35:00 +0000 2023",
+                "text": "Adalet, bar\u0131\u015f ve huzur kayna\u011f\u0131 ilahi mesajlar\u0131n yery\u00fcz\u00fcne indi\u011fi Kadir Gecemiz m\u00fcbarek; ibadetlerimiz kabul olsun. https://t.co/tpQkPIyAOY",
+                "nretweet": 166,
+                "nfav": 812,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647781109436907520": {
+                "created_at": "Mon Apr 17 01:56:45 +0000 2023",
+                "text": "Ba\u015f\u0131m\u0131z sa\u011f olsun...\n\nSamimiyetine ve gayretine \u015fahit oldu\u011fumuz Yalova \u0130l Sorumlumuz ve Genel \u0130dare Kurulu \u00dcyemiz M\u2026 https://t.co/xmrS4REXJR",
+                "nretweet": 88,
+                "nfav": 551,
+                "isRt": false,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "T_Karamollaoglu",
-                263
+                265
             ],
             [
                 "SaadetGundemCom",
@@ -33059,86 +33582,194 @@
             "2023-04": [
                 [
                     "genel",
-                    23
+                    57
                 ],
                 [
-                    "program\u0131nda",
-                    10
+                    "bayram",
+                    32
                 ],
                 [
                     "ba\u015fkan\u0131m\u0131z",
-                    10
+                    24
                 ],
                 [
                     "temel",
-                    10
+                    24
                 ],
                 [
                     "karamollao\u011flu",
-                    10
+                    24
+                ],
+                [
+                    "merkez",
+                    16
+                ],
+                [
+                    "vesilesiyle",
+                    16
+                ],
+                [
+                    "ziyaret",
+                    16
+                ],
+                [
+                    "heyeti",
+                    15
+                ],
+                [
+                    "partimizi",
+                    15
+                ],
+                [
+                    "partisi",
+                    14
+                ],
+                [
+                    "ba\u015fkanl\u0131\u011f\u0131ndaki",
+                    14
+                ],
+                [
+                    "heyetimiz",
+                    14
+                ],
+                [
+                    "ziyaretinde",
+                    14
+                ],
+                [
+                    "bulundular",
+                    14
+                ],
+                [
+                    "program\u0131nda",
+                    13
                 ],
                 [
                     "canl\u0131",
-                    9
+                    13
                 ],
                 [
                     "yay\u0131n",
-                    9
-                ],
-                [
-                    "ba\u015fkan",
-                    8
-                ],
-                [
-                    "yard\u0131mc\u0131m\u0131z",
-                    8
+                    13
                 ],
                 [
                     "konu\u011fu",
-                    8
+                    12
+                ],
+                [
+                    "ba\u015fkan",
+                    11
+                ],
+                [
+                    "yard\u0131mc\u0131m\u0131z",
+                    11
                 ],
                 [
                     "millet",
-                    8
+                    11
                 ],
                 [
-                    "kaya",
-                    6
+                    "partisi'ne",
+                    11
                 ],
                 [
                     "olacakt\u0131r",
-                    6
+                    10
+                ],
+                [
+                    "kaya",
+                    9
                 ],
                 [
                     "i\u0307ttifak\u0131",
-                    6
+                    9
                 ],
                 [
                     "cumhurba\u015fkan\u0131",
-                    5
+                    8
+                ],
+                [
+                    "yakup",
+                    8
+                ],
+                [
+                    "budak",
+                    8
                 ],
                 [
                     "aday\u0131m\u0131z",
-                    5
+                    7
                 ],
                 [
                     "kemal",
-                    4
+                    6
                 ],
                 [
                     "k\u0131l\u0131\u00e7daro\u011flu",
-                    4
+                    6
                 ],
                 [
-                    "sorular\u0131n\u0131",
-                    4
+                    "ya\u015far",
+                    6
                 ],
                 [
-                    "y\u0131l",
-                    4
+                    "canbay",
+                    6
                 ],
                 [
                     "b\u00fclent",
+                    5
+                ],
+                [
+                    "sorular\u0131n\u0131",
+                    5
+                ],
+                [
+                    "y\u0131l",
+                    5
+                ],
+                [
+                    "t\u00fcrkiye",
+                    5
+                ],
+                [
+                    "mustafa",
+                    5
+                ],
+                [
+                    "ankara",
+                    5
+                ],
+                [
+                    "\u00e7ocuk",
+                    4
+                ],
+                [
+                    "i\u0307l",
+                    4
+                ],
+                [
+                    "parti",
+                    4
+                ],
+                [
+                    "birlikte",
+                    4
+                ],
+                [
+                    "nisan",
+                    4
+                ],
+                [
+                    "demokratik",
+                    4
+                ],
+                [
+                    "adana",
+                    4
+                ],
+                [
+                    "gelecek",
                     3
                 ],
                 [
@@ -33146,116 +33777,8 @@
                     3
                 ],
                 [
-                    "t\u00fcrkiye'nin",
-                    3
-                ],
-                [
-                    "seccade",
-                    3
-                ],
-                [
-                    "bulu\u015fmas\u0131",
-                    3
-                ],
-                [
-                    "mustafa",
-                    3
-                ],
-                [
-                    "a\u00e7\u0131k",
-                    2
-                ],
-                [
-                    "net",
-                    2
-                ],
-                [
-                    "k\u00fcbra",
-                    2
-                ],
-                [
-                    "par",
-                    2
-                ],
-                [
-                    "\u00e7ocuk",
-                    2
-                ],
-                [
-                    "partisi",
-                    2
-                ],
-                [
-                    "i\u0307stanbul",
-                    2
-                ],
-                [
-                    "ba\u015fkanl\u0131\u011f\u0131",
-                    2
-                ],
-                [
                     "i\u0307ftar",
-                    2
-                ],
-                [
-                    "milletvekili",
-                    2
-                ],
-                [
-                    "hay\u0131rl\u0131",
-                    2
-                ],
-                [
-                    "serap",
-                    2
-                ],
-                [
-                    "kar\u015f\u0131",
-                    2
-                ],
-                [
-                    "erdo\u011fan",
-                    2
-                ],
-                [
-                    "say\u0131n",
-                    2
-                ],
-                [
-                    "geldi",
-                    2
-                ],
-                [
-                    "ba\u015fkent",
-                    2
-                ],
-                [
-                    "deniz",
-                    2
-                ],
-                [
-                    "sayg\u0131",
-                    2
-                ],
-                [
-                    "\u00f6zt\u00fcrk'\u00fcn",
-                    2
-                ],
-                [
-                    "t\u00fcrkiye",
-                    2
-                ],
-                [
-                    "ankara",
-                    2
-                ],
-                [
-                    "meclis'te",
-                    2
-                ],
-                [
-                    "ola\u011fan\u00fcst\u00fc",
-                    2
+                    3
                 ]
             ]
         }
@@ -33502,21 +34025,21 @@
                     "t_karamollaoglu",
                     "saadetpartisi",
                     {
-                        "weight": 2427
+                        "weight": 2676
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "armagan_caglaya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "antalyasaadet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -33530,49 +34053,49 @@
                     "t_karamollaoglu",
                     "ozngndgdu",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadetgundemcom",
                     {
-                        "weight": 141
+                        "weight": 155
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetGundemCom",
                     {
-                        "weight": 308
+                        "weight": 334
                     }
                 ],
                 [
                     "saadetpartisi",
                     "birolaydinsp",
                     {
-                        "weight": 104
+                        "weight": 113
                     }
                 ],
                 [
                     "saadetpartisi",
                     "azmimustafakaya",
                     {
-                        "weight": 69
+                        "weight": 76
                     }
                 ],
                 [
                     "saadetpartisi",
                     "T_Karamollaoglu",
                     {
-                        "weight": 276
+                        "weight": 304
                     }
                 ],
                 [
                     "saadetpartisi",
                     "mesutdogan060",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -33586,266 +34109,266 @@
                     "saadetpartisi",
                     "avbulentkaya",
                     {
-                        "weight": 44
+                        "weight": 50
                     }
                 ],
                 [
                     "saadetpartisi",
                     "omerfarukyaz",
                     {
-                        "weight": 48
+                        "weight": 54
                     }
                 ],
                 [
                     "saadetpartisi",
                     "akadirkaraduman",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadetkadin",
                     {
-                        "weight": 18
+                        "weight": 19
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetKadin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadeteurope",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetEurope",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "saadetpartisi",
                     "spfatihbeyazit",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadetistanbul",
                     {
-                        "weight": 82
+                        "weight": 91
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetIstanbul",
                     {
-                        "weight": 82
+                        "weight": 91
                     }
                 ],
                 [
                     "saadetpartisi",
                     "serafeddinkilic",
                     {
-                        "weight": 82
+                        "weight": 88
                     }
                 ],
                 [
                     "saadetpartisi",
                     "mahmutarikansp",
                     {
-                        "weight": 42
+                        "weight": 46
                     }
                 ],
                 [
                     "saadetpartisi",
                     "sabritekir",
                     {
-                        "weight": 32
+                        "weight": 34
                     }
                 ],
                 [
                     "saadetpartisi",
                     "armagan_caglaya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "kilicdarogluk",
                     {
-                        "weight": 31
+                        "weight": 41
                     }
                 ],
                 [
                     "saadetpartisi",
                     "meral_aksener",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "alibabacan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ersan_bilgin",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "saadetpartisi",
                     "beytiyeekinci",
                     {
-                        "weight": 34
+                        "weight": 38
                     }
                 ],
                 [
                     "saadetpartisi",
                     "hasanbitmez",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadetpartisi",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetPartisi",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "saadetpartisi",
                     "trabzonspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "HasanBitmez",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "birolaydinSP",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ibayrakcisp",
                     {
-                        "weight": 16
+                        "weight": 17
                     }
                 ],
                 [
                     "saadetpartisi",
                     "saadetankara",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "saadetpartisi",
                     "SaadetAnkara",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "saadetpartisi",
                     "antalyasaadet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "AntalyaSaadet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "gencsaadetist",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "saadetpartisi",
                     "spfatihaydin",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "saadetpartisi",
                     "dlkgul",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "bolupartsi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "BoluPartsi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ruhatmengi2",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -33887,63 +34410,63 @@
                     "saadetpartisi",
                     "AzmiMustafaKaya",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "saadetpartisi",
                     "hasimasnuk",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "saadetpartisi",
                     "HasimAsnuk",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "saadetpartisi",
                     "zorahmett",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ZorAhmett",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "saadetpartisi",
                     "abdullahakin",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "saadetpartisi",
                     "ozngndgdu",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "saadetgundemcom",
                     "birolaydinsp",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "saadetgundemcom",
                     "mesutdogan060",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -33957,35 +34480,35 @@
                     "saadetgundemcom",
                     "avbulentkaya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "meral_aksener",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ahmet_davutoglu",
                     "alibabacan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ahmet_davutoglu",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ]
             ]
@@ -34018,15 +34541,15 @@
                     "gen\u00e7li\u011fink\u0131ymeti",
                     "19may\u0131s",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "cebimizemisokal\u0131mba\u015fkan",
                     "otoparkvard\u0131dabizmi\u00e7ekmedik",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -34034,7 +34557,7 @@
                     "cebimizemisokal\u0131mba\u015fkan",
                     "kald\u0131r\u0131mi\u0307stilaalt\u0131nda",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -34042,7 +34565,7 @@
                     "otoparkvard\u0131dabizmi\u00e7ekmedik",
                     "kald\u0131r\u0131mi\u0307stilaalt\u0131nda",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ]

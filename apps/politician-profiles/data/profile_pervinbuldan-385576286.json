@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "385576286",
         "name": "Pervin BULDAN",
@@ -8,6 +8,41 @@
         "description": "HDP E\u015f Genel Ba\u015fkan\u0131",
         "screen_name": "PervinBuldan",
         "stats": {
+            "2023-04-27": {
+                "status": 5822,
+                "friends": 230,
+                "followers": 739406
+            },
+            "2023-04-26": {
+                "status": 5820,
+                "friends": 230,
+                "followers": 739161
+            },
+            "2023-04-25": {
+                "status": 5816,
+                "friends": 230,
+                "followers": 738887
+            },
+            "2023-04-24": {
+                "status": 5815,
+                "friends": 230,
+                "followers": 738596
+            },
+            "2023-04-23": {
+                "status": 5815,
+                "friends": 230,
+                "followers": 738324
+            },
+            "2023-04-22": {
+                "status": 5812,
+                "friends": 230,
+                "followers": 738092
+            },
+            "2023-04-21": {
+                "status": 5812,
+                "friends": 229,
+                "followers": 737856
+            },
             "2023-04-20": {
                 "status": 5810,
                 "friends": 229,
@@ -27840,12 +27875,76 @@
                 "nfav": 0,
                 "isRt": true,
                 "isQuote": false
+            },
+            "1649801193139453954": {
+                "created_at": "Sat Apr 22 15:43:50 +0000 2023",
+                "text": "Yo\u011furt\u00e7u Park\u0131'nda ayn\u0131 co\u015fkuyla, birlik beraberlik ruhuyla, daha insanca ve \u00f6zg\u00fcr bir ya\u015fam umudunu ye\u015fertip b\u00fcy\u00fct\u2026 https://t.co/0JVxFhSxPN",
+                "nretweet": 56,
+                "nfav": 213,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649761424057552902": {
+                "created_at": "Sat Apr 22 13:05:49 +0000 2023",
+                "text": "https://t.co/4K8yUBnZVU",
+                "nretweet": 43,
+                "nfav": 351,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649720736259399680": {
+                "created_at": "Sat Apr 22 10:24:08 +0000 2023",
+                "text": "Adalet aramak su\u00e7 de\u011fildir. Cumartesi insanlar\u0131na g\u00f6zalt\u0131 yapmak vicdans\u0131zl\u0131kt\u0131r. https://t.co/SCEWkwXoAa",
+                "nretweet": 13,
+                "nfav": 169,
+                "isRt": false,
+                "isQuote": true
+            },
+            "1649118049071398918": {
+                "created_at": "Thu Apr 20 18:29:16 +0000 2023",
+                "text": "RT @yesilsolgencler: \u00d6zg\u00fcrl\u00fck, demokrasi, ekoloji ve daha ya\u015fan\u0131l\u0131r bir d\u00fcnya i\u00e7in bir araya geldik. Bizlere dayat\u0131lan betonla\u015fm\u0131\u015f \u015fehirler\u2026",
+                "nretweet": 159,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649035758991441920": {
+                "created_at": "Thu Apr 20 13:02:17 +0000 2023",
+                "text": "RT @YesillerSol: 15 May\u0131s\u2019ta \u00e7ifte bayram ya\u015famak dile\u011fiyle: Bayram\u0131n\u0131z kutlu olsun!\n\nE\u015f S\u00f6zc\u00fclerimiz ve HDP E\u015f Genel Ba\u015fkanlar\u0131n\u0131n ortak a\u2026",
+                "nretweet": 201,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648633089919156225": {
+                "created_at": "Wed Apr 19 10:22:13 +0000 2023",
+                "text": "RT @yesilsolmersin: Mersin karar\u0131n\u0131 verdi: \u201cTam 1 ay sonra AKP\u2019nin ve Erdo\u011fan\u2019\u0131n gidi\u015fini kutlayaca\u011f\u0131z.\" #Kazanaca\u011f\u0131z #Ba\u015faraca\u011f\u0131z #Buraday\u2026",
+                "nretweet": 41,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648353613620690945": {
+                "created_at": "Tue Apr 18 15:51:41 +0000 2023",
+                "text": "RT @HDPgenelmerkezi: Biz'ler #Buraday\u0131z Ye\u015fil Sol Parti'deyiz. \n\nKimler bizimle? https://t.co/kb6e9dELN0",
+                "nretweet": 175,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648040153586319360": {
+                "created_at": "Mon Apr 17 19:06:06 +0000 2023",
+                "text": "RT @HDPgenelmerkezi: Bar\u0131\u015fa, karde\u015fli\u011fe ve huzura vesile olmas\u0131, ortak ya\u015fam\u0131 ve insani de\u011ferleri egemen k\u0131lmas\u0131 dile\u011fiyle, halklar\u0131m\u0131z\u0131n v\u2026",
+                "nretweet": 65,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "HDPgenelmerkezi",
-                324
+                326
             ],
             [
                 "PervinBuldan",
@@ -49936,7 +50035,7 @@
             "2023-04": [
                 [
                     "genel",
-                    4
+                    5
                 ],
                 [
                     "ba\u015fkan\u0131m\u0131z",
@@ -49952,11 +50051,11 @@
                 ],
                 [
                     "ye\u015fil",
-                    3
+                    4
                 ],
                 [
                     "sol",
-                    3
+                    4
                 ],
                 [
                     "parti",
@@ -49972,6 +50071,14 @@
                 ],
                 [
                     "s\u00f6zc\u00fcs\u00fc",
+                    2
+                ],
+                [
+                    "dile\u011fiyle",
+                    2
+                ],
+                [
+                    "ortak",
                     2
                 ],
                 [
@@ -52156,6 +52263,22 @@
                 [
                     "kurdettin",
                     {}
+                ],
+                [
+                    "yesilsolgencler",
+                    {}
+                ],
+                [
+                    "yesillersol",
+                    {}
+                ],
+                [
+                    "YesillerSol",
+                    {}
+                ],
+                [
+                    "yesilsolmersin",
+                    {}
                 ]
             ],
             "edges": [
@@ -52163,217 +52286,217 @@
                     "hdpgenelmerkezi",
                     "pervinbuldan",
                     {
-                        "weight": 4171
+                        "weight": 4507
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "medyascopetv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "dilanararat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "hdpkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "egepostasii",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "hdpizmir",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "ayserdem",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "barisbloku",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "idrisbaluken",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "filizker",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "diskinsesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "saruhanoluc",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "yuksekkamuran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "garopaylan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "figenyuksekdag",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "byapmal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "ayseerdembodrum",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "hdpdemirtas",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "payebilind",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpgenelmerkezi",
                     "sakiksirri",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPgenelmerkezi",
                     {
-                        "weight": 3950
+                        "weight": 4269
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kurdihdp",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "KurdiHDP",
                     {
-                        "weight": 156
+                        "weight": 168
                     }
                 ],
                 [
                     "pervinbuldan",
                     "esik_platform",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpkadin",
                     {
-                        "weight": 1546
+                        "weight": 1667
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPkadin",
                     {
-                        "weight": 1195
+                        "weight": 1289
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gazetekarinca",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "GazeteKarinca",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "artigercek",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meraldanis",
                     {
-                        "weight": 565
+                        "weight": 608
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ad_hdp",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -52387,7 +52510,7 @@
                     "pervinbuldan",
                     "pervinbuldan",
                     {
-                        "weight": 3187
+                        "weight": 3431
                     }
                 ],
                 [
@@ -52401,154 +52524,154 @@
                     "pervinbuldan",
                     "maturkce",
                     {
-                        "weight": 126
+                        "weight": 136
                     }
                 ],
                 [
                     "pervinbuldan",
                     "MAturkce",
                     {
-                        "weight": 126
+                        "weight": 136
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cmrtesianneleri",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "CmrtesiAnneleri",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "filizker",
                     {
-                        "weight": 377
+                        "weight": 406
                     }
                 ],
                 [
                     "pervinbuldan",
                     "FilizKer",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "demokrathaber",
                     {
-                        "weight": 117
+                        "weight": 126
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DemokratHaber",
                     {
-                        "weight": 104
+                        "weight": 112
                     }
                 ],
                 [
                     "pervinbuldan",
                     "avhuseyinkacmaz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ahmetturkhdp",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AhmetTurkHDP",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "zelalalal",
                     {
-                        "weight": 661
+                        "weight": 711
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Zelalalal",
                     {
-                        "weight": 624
+                        "weight": 672
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpcocuk",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpistanbul",
                     {
-                        "weight": 1276
+                        "weight": 1375
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPistanbul",
                     {
-                        "weight": 756
+                        "weight": 815
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayserdem",
                     {
-                        "weight": 299
+                        "weight": 322
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sykpgenelmerkez",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ezilenler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sosyalistkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "youtube",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nuran_imir",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
@@ -52569,266 +52692,266 @@
                     "pervinbuldan",
                     "pinaraydinlar",
                     {
-                        "weight": 234
+                        "weight": 252
                     }
                 ],
                 [
                     "pervinbuldan",
                     "PinarAYDINLAR",
                     {
-                        "weight": 156
+                        "weight": 168
                     }
                 ],
                 [
                     "pervinbuldan",
                     "karlovali12",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sakiksirri",
                     {
-                        "weight": 403
+                        "weight": 434
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpgencmeclis",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPgencmeclis",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cerenonder_",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hakkaritv",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "niyalapla",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "basak__demirtas",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "barikatistanbul",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Basak__Demirtas",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "serpilkemalbay",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "SerpilKemalbay",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpdemirtas",
                     {
-                        "weight": 2206
+                        "weight": 2375
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aysesurucuurfa",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AyseSurucuUrfa",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpbursa",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPbursa",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdponline",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPonline",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "fkurtulan33",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayseacar_b",
                     {
-                        "weight": 216
+                        "weight": 234
                     }
                 ],
                 [
                     "pervinbuldan",
                     "umutdede16",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "UmutDede16",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdphakkari_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mithatsancarr",
                     {
-                        "weight": 169
+                        "weight": 182
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPHakkari_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "zuleyhagulum",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdppendik1",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hudakaya777",
                     {
-                        "weight": 260
+                        "weight": 280
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HudaKaya777",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdp_mugla",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDP_Mugla",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "salihro",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdp_ist_kadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDP_ist_kadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gazeteduvar",
                     {
-                        "weight": 156
+                        "weight": 168
                     }
                 ],
                 [
@@ -52842,357 +52965,357 @@
                     "pervinbuldan",
                     "muratsarisac",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mahmutkonuk10",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ferhatencu",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "FerhatEncu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yeniyasamgazete",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "medyascopetv",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "feleknasuca",
                     {
-                        "weight": 136
+                        "weight": 146
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Feleknasuca",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nupelonline",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yuksekovahaber",
                     {
-                        "weight": 182
+                        "weight": 196
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ferhatttunc",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ozgepam",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cuneytyyavuz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "perodundar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "artitv_",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ArtiTV_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayhanbilgen",
                     {
-                        "weight": 104
+                        "weight": 112
                     }
                 ],
                 [
                     "pervinbuldan",
                     "keskineren1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "KeskinEren1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nudakaya",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "figenleyiz",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Figenleyiz",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "tayiptemel",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "TayipTemel",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dikencomtr",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DikenComTr",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "istabip",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "muratcepnihdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "MuratCepniHDP",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "drridvanturan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DrRidvanTuran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sezaitemelli",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "SezaiTemelli",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "zeynokuray",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "tuncerbakirhan",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meldaonur",
                     {
-                        "weight": 130
+                        "weight": 140
                     }
                 ],
                 [
                     "pervinbuldan",
                     "barisatay",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sirin_unal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "iznews_tr",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "birdidemvarmis",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "lusam_cigdem",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "puleragema",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gunes_zalekarad",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Gunes_ZaleKarad",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpekoloji",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPekoloji",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "oakarsucelik",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "garopaylan",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "GaroPaylan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sibelyigitalp",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Sibelyigitalp",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -53213,294 +53336,294 @@
                     "pervinbuldan",
                     "ihsankacarr",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "bianet_org",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hsncml",
                     {
-                        "weight": 195
+                        "weight": 210
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yetkinreport",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "YetkinReport",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "besnatosun",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aykolhuseyin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AykolHuseyin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "skorurfincanci",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "SKorurFincanci",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "medyascope",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "betlkoca13",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "BetlKoca13",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ozgurrgundem",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "OzgurrGundem",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "leylaguvenkcd",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "LeylaGuvenkcd",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "vahap_coskun",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "baydemirosman",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpyerelyonetim",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdkmugla",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HdkMugla",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "OtekilerinG",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dilan_dirayet",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "av_mkaraman",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rosakadinderne1",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ercnaltuntas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "asliaydintasbas",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rojbintugan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "RojbinTugan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dipnoty",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DipnotY",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "jinnewsturkce",
                     {
-                        "weight": 23
+                        "weight": 26
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdp_wan",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "bediaozgokce",
                     {
-                        "weight": 130
+                        "weight": 140
                     }
                 ],
                 [
                     "pervinbuldan",
                     "muazzezorhn",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mendere98649032",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nadiryldrm_",
                     {
-                        "weight": 117
+                        "weight": 126
                     }
                 ],
                 [
                     "pervinbuldan",
                     "figenyuksekdag",
                     {
-                        "weight": 123
+                        "weight": 133
                     }
                 ],
                 [
                     "pervinbuldan",
                     "FigenYuksekdag",
                     {
-                        "weight": 45
+                        "weight": 49
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hurayse",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ahmetyildirihdp",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
@@ -53514,266 +53637,266 @@
                     "pervinbuldan",
                     "ozgrdemokrasi",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ozgr_demokrasi",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "koncabesime",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "t24comtr",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "saruhanoluc",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "SaruhanOluc",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ekurkcuhdp",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ekurkcuHDP",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rry04",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Rry04",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "metinyzer",
                     {
-                        "weight": 356
+                        "weight": 382
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mizginirgathdp",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "onanarzum",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yasinyobaz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dbpkadinmeclisi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DBPKadinMeclisi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dilanararat",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "demosarastirma",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ameddiclet",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ameddicleT",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "evrenselgzt",
                     {
-                        "weight": 130
+                        "weight": 140
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gazetesujin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Gazete__Sujin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpamed21",
                     {
-                        "weight": 35
+                        "weight": 38
                     }
                 ],
                 [
                     "pervinbuldan",
                     "imamtascier",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPAMED21",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hurriyet",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpizmir",
                     {
-                        "weight": 377
+                        "weight": 406
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPizmir",
                     {
-                        "weight": 117
+                        "weight": 126
                     }
                 ],
                 [
                     "pervinbuldan",
                     "egepostasii",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "egepostasicom",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cezaevikomisyon",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "CezaeviKomisyon",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "candundaradasi",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdkistanbul3blg",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpbagcilar",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDKistanbul3Blg",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "baysal_nurcan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -53787,77 +53910,77 @@
                     "pervinbuldan",
                     "ilknur_birol",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ilknur_Birol",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ziyapir",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "necipcapraz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ocalandilek",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dokuz8haber",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "milliyet",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "haberdar",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Haberdar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cekimyk06",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yildirimgulser",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
@@ -53871,98 +53994,98 @@
                     "pervinbuldan",
                     "hdpkadikoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HdpKadikoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "oguzguven_",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "selmairmakhdp",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cngzkync",
                     {
-                        "weight": 260
+                        "weight": 280
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yasgoksu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hayatin_sesi",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ilhan_comak",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dogan_erbas44",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayolcu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "zeynepderya",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "suatcorlu",
                     {
-                        "weight": 195
+                        "weight": 210
                     }
                 ],
                 [
                     "pervinbuldan",
                     "idrisbaluken",
                     {
-                        "weight": 130
+                        "weight": 140
                     }
                 ],
                 [
                     "pervinbuldan",
                     "esenyurt_hdp",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
@@ -53983,686 +54106,686 @@
                     "pervinbuldan",
                     "leylametin04",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "OcalanDilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meminadiyaman_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rozelin58",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mstanrikulu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nazimdikbas",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "haykobagdat",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "siirdlek",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "diclehaberajans",
                     {
-                        "weight": 59
+                        "weight": 61
                     }
                 ],
                 [
                     "pervinbuldan",
                     "abdullahzeydan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AbdullahZeydan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "arjin6563",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "satdeniz",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yeniakit",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cetin2014f",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Ferdacetinff",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "asiyekolcakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "beycantaskiran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "baris_bloku",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "eczozgurozel",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "oydere",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dfikrisaglar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "arzuyldzz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hhilaall",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "diyarbakir_soz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "barisbloku",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "lemanyurtsever",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Lemanyurtsever",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dayanismanet",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "evrimkepenek",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sark_postasi",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "140journos",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpgop1",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "celalbaslangic",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "CelalBaslangic",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "EzidiReliefFund",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mutludc",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kristiekenney",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "imc_televizyonu",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hisyarozsoy",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "tugbatekerek",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kadinozgurluk",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "matilda_rd",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sfkfeminist",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meltemakyl",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hayat_tv",
                     {
-                        "weight": 91
+                        "weight": 98
                     }
                 ],
                 [
                     "pervinbuldan",
                     "MeltemAkyl",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpsariyer",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPsariyer",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "banuguven",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "diskinsesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "faysalsaryldz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "FaysalSaryldz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "abcgazete",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aslanferit21",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Meryemce_34",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mitka_g",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Mitka_G",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "herkesicinchp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ohdistanbul",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ohd_istanbul",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpkartal",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPkartal",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "CewatE",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cetinyilmazhdp",
                     {
-                        "weight": 143
+                        "weight": 154
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpkartalkadin",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpistanbul3bol",
                     {
-                        "weight": 1586
+                        "weight": 1708
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yoltv",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ozgurradyo",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "todesarten",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "agosgazetesi",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Todesarten",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dhainternet",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "profdrbeyzaustn",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "guneri_turkan",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "guneristann",
                     {
-                        "weight": 43
+                        "weight": 47
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meydansondakika",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "MeydanSonDakika",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meral_alkan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "meralkan_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ProfDrBeyzaUstn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "odpbilgi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "solpartibilgi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yuksekkamuran",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "denizoyildiz",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hilal_kaplan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gunesdasli",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sakineesen",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sakineESEN",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nazanstnda",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "serbestiyet",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dedeler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "serbestiyetweb",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kilicaslan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "birgun_gazetesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "BirGun_Gazetesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ankarakader",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "nudelf",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
@@ -54676,91 +54799,91 @@
                     "pervinbuldan",
                     "_perivadisi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "DBP_GenelMerkez",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "deniz_sivas03",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Deniz_sivas03",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dermannazim",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "durumurat58",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "erkankarabay",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ErkanKarabay",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Nav_Roj",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yikit_m",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "leylazanainfo",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aysegul__dogan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "fusundemirel",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -54774,231 +54897,231 @@
                     "pervinbuldan",
                     "ImakHulya",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "on4anahaber",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpkurdi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "arif_kosar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ceydak",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "fehim_isik",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AGOSgazetesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dortayaklisehir",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdphaber",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hakikatadalet",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mehmetucum",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "goklevent",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "azadaltun",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ozgurgundm",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ahmethc",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "halitztrk1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpbeylikduzu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPbeylikduzu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdpsilivri",
                     {
-                        "weight": 182
+                        "weight": 196
                     }
                 ],
                 [
                     "pervinbuldan",
                     "alikenanoglu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDPSilivri",
                     {
-                        "weight": 104
+                        "weight": 112
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayseberktay",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "byapmal",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "BYapmal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cmlbzn",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "tuncelsebahat",
                     {
-                        "weight": 221
+                        "weight": 238
                     }
                 ],
                 [
                     "pervinbuldan",
                     "abdulhakimdas",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "abatumlu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ABATUMLU",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yilmazgedik",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sibelhurtas",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Sibelhurtas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Urfa_Flash",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55012,28 +55135,28 @@
                     "pervinbuldan",
                     "hzenderlioglu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "tarkankaynar",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "baranzisan21",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "BaranZisan21",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55047,70 +55170,70 @@
                     "pervinbuldan",
                     "radikal",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayla_akat",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Ayla_Akat",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ekurkcu",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "vatan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "alidogant",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "drsinanogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mkayaa",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "karamanzeynep21",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ayseerdembodrum",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -55124,21 +55247,21 @@
                     "pervinbuldan",
                     "toprakbinnaz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sakine_oz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sedefkucuk",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -55152,168 +55275,168 @@
                     "pervinbuldan",
                     "vivetchka",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hdkkadin",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HDKKadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mulkiyebirtane",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "siring",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "derbedermsluman",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "halilimrek",
                     {
-                        "weight": 117
+                        "weight": 126
                     }
                 ],
                 [
                     "pervinbuldan",
                     "orhanerdoan76",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "fehimtastekin",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "payebilind",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "karsumerve",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "buldansedat",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "fatihportakal",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rt_erdogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "profdrihsanoglu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "foxturkiye",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yurtgazetesi",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aliusta69",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AliUsta69",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "femekdar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "erenbaskin",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "feridealkim",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kizilirmakilkay",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "vyslsmsk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55327,133 +55450,133 @@
                     "pervinbuldan",
                     "bdpgenelmerkez",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "redurakdeniz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "selim_0676",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ylcnd06",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "gunayaslan1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "GunayAslan1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "izlesene",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "vsozdar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "VSozdar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sever_engin",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "huriyekrdnz",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Huriyekrdnz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ibrahimsediyani",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "IbrahimSediyani",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "akdogan_a",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "eyshannn",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "aliborancan",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "hergunyenibilg",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "HergunYeniBilg",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -55467,196 +55590,196 @@
                     "pervinbuldan",
                     "ccancu",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "serhad76",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "asterion03",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "b98097822",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "songulozata",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cengizakak",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "CengizAkak",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "musaasa",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "barut_usta",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mustafaaydogan",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "MustafaAydogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "cancandan73",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sirsureyya",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "zubeydezumrut",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ZubeydeZumrut",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "bagerpayiz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "makbulealtintas",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ajturk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "AJTurk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "sazonder",
                     {
-                        "weight": 52
+                        "weight": 56
                     }
                 ],
                 [
                     "pervinbuldan",
                     "uzgunbaligi",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "pervinbuldan",
                     "haberturk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "Haberturk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "rojinagiri",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kavfuat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "bdpmalatya",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "BDPmalatya",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "mihdiperincek1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55670,14 +55793,14 @@
                     "pervinbuldan",
                     "bdpdemirtas",
                     {
-                        "weight": 22
+                        "weight": 23
                     }
                 ],
                 [
                     "pervinbuldan",
                     "leventtuzel",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55733,7 +55856,7 @@
                     "pervinbuldan",
                     "DepremKrizKoord",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
@@ -55747,7 +55870,7 @@
                     "pervinbuldan",
                     "brskrhn",
                     {
-                        "weight": 24
+                        "weight": 27
                     }
                 ],
                 [
@@ -55761,105 +55884,133 @@
                     "pervinbuldan",
                     "afeticinfeminst",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "pervinbuldan",
                     "ErdalEr79",
                     {
-                        "weight": 16
+                        "weight": 18
                     }
                 ],
                 [
                     "pervinbuldan",
                     "dsnymn21",
                     {
-                        "weight": 12
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "onerentorun",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "pervinbuldan",
                     "OnerenTorun",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "pervinbuldan",
                     "JinenTja",
                     {
-                        "weight": 28
+                        "weight": 32
                     }
                 ],
                 [
                     "pervinbuldan",
                     "yeniyasam_siz",
                     {
-                        "weight": 12
+                        "weight": 14
                     }
                 ],
                 [
                     "pervinbuldan",
                     "YesilSolsecim",
                     {
-                        "weight": 8
+                        "weight": 10
                     }
                 ],
                 [
                     "pervinbuldan",
                     "disadisaem",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "pervinbuldan",
                     "izadyan_",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "pervinbuldan",
                     "kurdettin",
                     {
-                        "weight": 4
+                        "weight": 6
+                    }
+                ],
+                [
+                    "pervinbuldan",
+                    "yesilsolgencler",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "pervinbuldan",
+                    "yesillersol",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "pervinbuldan",
+                    "YesillerSol",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "pervinbuldan",
+                    "yesilsolmersin",
+                    {
+                        "weight": 2
                     }
                 ],
                 [
                     "hdpkadin",
                     "ayserdem",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "sykpgenelmerkez",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "ezilenler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "sosyalistkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -55873,168 +56024,168 @@
                     "hdpkadin",
                     "dilanararat",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "hdpkadin",
                     "hudakaya777",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpkadin",
                     "feleknasuca",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpkadin",
                     "ocalandilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "koncabesime",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "filizker",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpkadin",
                     "asiyekolcakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "beycantaskiran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "hdpistanbul3bol",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpkadin",
                     "hdpistanbul",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpkadin",
                     "yoltv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "ozgurradyo",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkadin",
                     "tuncelsebahat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meraldanis",
                     "yasinyobaz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meraldanis",
                     "fkurtulan33",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "maturkce",
                     "basak__demirtas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "hudakaya777",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "filizker",
                     "hayatin_sesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "ekurkcuhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "mstanrikulu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "hdpistanbul",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "ayserdem",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "filizker",
                     "nudelf",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "zelalalal",
                     "ozgepam",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -56048,1183 +56199,1183 @@
                     "zelalalal",
                     "ihsankacarr",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "zelalalal",
                     "artitv_",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hudakaya777",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpistanbul",
                     "idrisbaluken",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "dogan_erbas44",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hdpgop1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hdpkartal",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hdpistanbul3bol",
                     {
-                        "weight": 104
+                        "weight": 112
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hdpbagcilar",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpistanbul",
                     "yoltv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "ozgurradyo",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "cetinyilmazhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "hdpdemirtas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "garopaylan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "profdrbeyzaustn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul",
                     "suatcorlu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpistanbul",
                     "ayserdem",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "sykpgenelmerkez",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "ezilenler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "sosyalistkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "suatcorlu",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "ayserdem",
                     "barisbloku",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "idrisbaluken",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "meral_alkan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayserdem",
                     "hudakaya777",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sykpgenelmerkez",
                     "ezilenler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sykpgenelmerkez",
                     "sosyalistkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ezilenler",
                     "sosyalistkadin",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "youtube",
                     "umutdede16",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "aysesurucuurfa",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "muratsarisac",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "mahmutkonuk10",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "selmairmakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "ferhatencu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "mithatsancarr",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "ocalandilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "ziyapir",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "dogan_erbas44",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "ayolcu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "zeynepderya",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "suatcorlu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "pinaraydinlar",
                     "karamanzeynep21",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sakiksirri",
                     "hdpdemirtas",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "sakiksirri",
                     "payebilind",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sakiksirri",
                     "kurdettin",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "mutludc",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "kristiekenney",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "imc_televizyonu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "hisyarozsoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "cetinyilmazhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "hdpdemirtas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "payebilind",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "fatihportakal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "rt_erdogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "profdrihsanoglu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpdemirtas",
                     "foxturkiye",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "aysesurucuurfa",
                     "muratsarisac",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "aysesurucuurfa",
                     "mahmutkonuk10",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdponline",
                     "ekurkcu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdponline",
                     "sirsureyya",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdponline",
                     "idrisbaluken",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdphakkari_",
                     "mithatsancarr",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "feleknasuca",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "selmairmakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "ferhatencu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "ocalandilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "ziyapir",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "140journos",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mithatsancarr",
                     "kilicaslan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "dilanararat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "feleknasuca",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "hdpkartal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "garopaylan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "profdrbeyzaustn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hudakaya777",
                     "suatcorlu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "muratsarisac",
                     "mahmutkonuk10",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ferhatencu",
                     "selmairmakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ferhatencu",
                     "ocalandilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ferhatencu",
                     "ziyapir",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "feleknasuca",
                     "hdpamed21",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "feleknasuca",
                     "imamtascier",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "feleknasuca",
                     "dilanararat",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "ferhatttunc",
                     "esenyurt_hdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ferhatttunc",
                     "idrisbaluken",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sezaitemelli",
                     "garopaylan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "barisatay",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "sirin_unal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "herkesicinchp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "tarkankaynar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "dortayaklisehir",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meldaonur",
                     "tuncelsebahat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "barisatay",
                     "sirin_unal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "cngzkync",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "hdpkartal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "profdrbeyzaustn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "saruhanoluc",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "yuksekkamuran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "figenyuksekdag",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "garopaylan",
                     "hdpistanbul3bol",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hsncml",
                     "t24comtr",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "yetkinreport",
                     "yetkinreport",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "baydemirosman",
                     "dokuz8haber",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "baydemirosman",
                     "figenyuksekdag",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdp_wan",
                     "bediaozgokce",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdp_wan",
                     "muazzezorhn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "bediaozgokce",
                     "muazzezorhn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "nadiryldrm_",
                     "hdkistanbul3blg",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "nadiryldrm_",
                     "hdpbagcilar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "figenyuksekdag",
                     "leylametin04",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "figenyuksekdag",
                     "dokuz8haber",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "figenyuksekdag",
                     "saruhanoluc",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "figenyuksekdag",
                     "yuksekkamuran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ozgrdemokrasi",
                     "ozgrdemokrasi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "saruhanoluc",
                     "yuksekkamuran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ekurkcuhdp",
                     "hurriyet",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ekurkcuhdp",
                     "mstanrikulu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "evrenselgzt",
                     "halilimrek",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "evrenselgzt",
                     "hayat_tv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpamed21",
                     "imamtascier",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpizmir",
                     "egepostasii",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdkistanbul3blg",
                     "hdpbagcilar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpbagcilar",
                     "hdpistanbul3bol",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "ziyapir",
                     "selmairmakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ziyapir",
                     "ocalandilek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ocalandilek",
                     "selmairmakhdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "dokuz8haber",
                     "baris_bloku",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "dokuz8haber",
                     "eczozgurozel",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "haberdar",
                     "haberdar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "dogan_erbas44",
                     "hdpgop1",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayolcu",
                     "zeynepderya",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ayolcu",
                     "suatcorlu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "zeynepderya",
                     "suatcorlu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "idrisbaluken",
                     "esenyurt_hdp",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "idrisbaluken",
                     "barisbloku",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "idrisbaluken",
                     "sirsureyya",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "haykobagdat",
                     "siirdlek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "diclehaberajans",
                     "evrimkepenek",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "satdeniz",
                     "yeniakit",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "asiyekolcakhdp",
                     "beycantaskiran",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "baris_bloku",
                     "eczozgurozel",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "140journos",
                     "kilicaslan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mutludc",
                     "kristiekenney",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "mutludc",
                     "imc_televizyonu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "mutludc",
                     "hisyarozsoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "kristiekenney",
                     "imc_televizyonu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "kristiekenney",
                     "hisyarozsoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "imc_televizyonu",
                     "hisyarozsoy",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "meltemakyl",
                     "hayat_tv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hayat_tv",
                     "arif_kosar",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hayat_tv",
                     "ceydak",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hayat_tv",
                     "fehim_isik",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hayat_tv",
                     "halilimrek",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpkartal",
                     "profdrbeyzaustn",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul3bol",
                     "yoltv",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul3bol",
                     "ozgurradyo",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul3bol",
                     "erkankarabay",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
                     "hdpistanbul3bol",
                     "ayseberktay",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpistanbul3bol",
                     "abdulhakimdas",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "todesarten",
                     "agosgazetesi",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "guneri_turkan",
                     "tuncelsebahat",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "serbestiyet",
                     "dedeler",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "arif_kosar",
                     "ceydak",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "arif_kosar",
                     "fehim_isik",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "ceydak",
                     "fehim_isik",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "dortayaklisehir",
                     "hdphaber",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hakikatadalet",
                     "mehmetucum",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hakikatadalet",
                     "goklevent",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "mehmetucum",
                     "goklevent",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "hdpsilivri",
                     "alikenanoglu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -57238,35 +57389,35 @@
                     "tuncelsebahat",
                     "toprakbinnaz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "tuncelsebahat",
                     "sakine_oz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "tuncelsebahat",
                     "sedefkucuk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "radikal",
                     "siring",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "alidogant",
                     "drsinanogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -57294,70 +57445,70 @@
                     "toprakbinnaz",
                     "sakine_oz",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "toprakbinnaz",
                     "sedefkucuk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "sakine_oz",
                     "sedefkucuk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "fatihportakal",
                     "rt_erdogan",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "fatihportakal",
                     "profdrihsanoglu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "fatihportakal",
                     "foxturkiye",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "rt_erdogan",
                     "profdrihsanoglu",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "rt_erdogan",
                     "foxturkiye",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "profdrihsanoglu",
                     "foxturkiye",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "kizilirmakilkay",
                     "vyslsmsk",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ]
             ]
@@ -57679,6 +57830,14 @@
                 [
                     "buraday\u0131zkad\u0131nlarlade\u011fi\u015ftirece\u011fiz",
                     {}
+                ],
+                [
+                    "kazanaca\u011f\u0131z",
+                    {}
+                ],
+                [
+                    "ba\u015faraca\u011f\u0131z",
+                    {}
                 ]
             ],
             "edges": [
@@ -57686,7 +57845,7 @@
                     "buldan",
                     "sancar",
                     {
-                        "weight": 85,
+                        "weight": 92,
                         "weight_plain": 0
                     }
                 ],
@@ -57694,7 +57853,7 @@
                     "buldan",
                     "ya\u015fas\u0131nhdp",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57702,7 +57861,7 @@
                     "buldan",
                     "buldan",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57710,7 +57869,7 @@
                     "buldan",
                     "roboskikatliam\u0131",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57718,7 +57877,7 @@
                     "buldan",
                     "hdpba\u015fe\u011fmez",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57726,23 +57885,23 @@
                     "ayseldo\u011fan",
                     "shireenabuaqleh",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "vazge\u00e7miyoruz",
                     "i\u0307stanbuls\u00f6zle\u015fmesi10ya\u015f\u0131nda",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "ekolojibulu\u015fmas\u0131",
                     "hepbirlikte",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57750,7 +57909,7 @@
                     "tbmm",
                     "hdp",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57758,7 +57917,7 @@
                     "tbmm",
                     "chp",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57766,7 +57925,7 @@
                     "tbmm",
                     "akparti",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57774,7 +57933,7 @@
                     "hdp",
                     "chp",
                     {
-                        "weight": 26,
+                        "weight": 28,
                         "weight_plain": 0
                     }
                 ],
@@ -57782,7 +57941,7 @@
                     "hdp",
                     "akparti",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57790,7 +57949,7 @@
                     "hdp",
                     "esenyurtmitingi",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57798,7 +57957,7 @@
                     "hdp",
                     "samielvan",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57806,7 +57965,7 @@
                     "hdp",
                     "cumartesianneleri",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57814,7 +57973,7 @@
                     "hdp",
                     "hdpyeoyver",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57822,7 +57981,7 @@
                     "hdp",
                     "1m15",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57830,7 +57989,7 @@
                     "hdp",
                     "i\u0307stanbul",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57838,7 +57997,7 @@
                     "hdp",
                     "be\u015fikta\u015f",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57854,7 +58013,7 @@
                     "chp",
                     "akparti",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57862,7 +58021,7 @@
                     "infazduzenlemesindeesitlik",
                     "infazdaesitliki\u0307stiyoruz",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57870,15 +58029,15 @@
                     "halep\u00e7e",
                     "halep\u00e7e",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "dad\u00easerhatberdan",
                     "anaserhat\u0131b\u0131rakt\u0131lar",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57886,7 +58045,7 @@
                     "ameddikare",
                     "emdikarin",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57894,7 +58053,7 @@
                     "ameddikare",
                     "emlivirin",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57902,7 +58061,7 @@
                     "emdikarin",
                     "emlivirin",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57910,7 +58069,7 @@
                     "konca",
                     "kerestecio\u011flu",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57918,15 +58077,15 @@
                     "hdpnins\u00f6z\u00fcvar",
                     "4kas\u0131m",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "newroz",
                     "na",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57934,7 +58093,7 @@
                     "newroz",
                     "hayir",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57942,7 +58101,7 @@
                     "na",
                     "hayir",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57950,7 +58109,7 @@
                     "hayir",
                     "8mart",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57958,15 +58117,15 @@
                     "hay\u0131rhepimizkazanal\u0131m",
                     "ten\u00eanabe",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "ko\u00e7yi\u011fit",
                     "k\u0131\u015fanak",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57974,7 +58133,7 @@
                     "kad\u0131nlareylemde",
                     "g\u00fcltank\u0131\u015fanak",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57982,7 +58141,7 @@
                     "kad\u0131nlareylemde",
                     "halki\u0307radesiesiral\u0131namaz",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57990,7 +58149,7 @@
                     "g\u00fcltank\u0131\u015fanak",
                     "halki\u0307radesiesiral\u0131namaz",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -57998,7 +58157,7 @@
                     "periscope",
                     "y\u00fcksekda\u011f",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58006,7 +58165,7 @@
                     "y\u00fcksekda\u011f",
                     "savasahayir",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58014,39 +58173,39 @@
                     "televizyonumadokunma",
                     "sesimedokunma",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "gazeteciliksu\u00e7de\u011fildir",
                     "bengazeteciyim",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "gazeteciliksu\u00e7de\u011fildir",
                     "\u00f6zg\u00fcrg\u00fcndem",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "zulmekar\u015f\u0131herg\u00fcn4tesura",
                     "\u00e7ocuklar\u00f6lmesinma\u00e7agelsin",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "cumartesianneleri",
                     "meting\u00f6ktepe",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58054,7 +58213,7 @@
                     "cumartesianneleri",
                     "samielvan",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58062,39 +58221,39 @@
                     "beyaztoros",
                     "beyaztoros",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "bar\u0131\u015fatecrituygulanamaz",
                     "freedomfor\u00f6calan",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "bar\u0131\u015fatecrituygulanamaz",
                     "i\u0307mral\u0131tecridineson",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "freedomfor\u00f6calan",
                     "i\u0307mral\u0131tecridineson",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "e\u015fittemsil",
                     "yar\u0131yar\u0131ya",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58102,7 +58261,7 @@
                     "demirta\u015f",
                     "b\u00fcy\u00fcki\u0307nsanl\u0131k",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58110,23 +58269,23 @@
                     "g\u00fcntekrark\u00f6m\u00fcrkaras\u0131",
                     "somay\u0131unutma",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "justiceforfarinaz",
                     "mahabad",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "1may\u0131s",
                     "1m15",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58134,7 +58293,7 @@
                     "1m15",
                     "i\u0307stanbul",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58142,7 +58301,7 @@
                     "1m15",
                     "be\u015fikta\u015f",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58150,7 +58309,7 @@
                     "i\u0307stanbul",
                     "be\u015fikta\u015f",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58158,31 +58317,31 @@
                     "bijiberxwedanekobane",
                     "bijiberxwedanaypg",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "bijiberxwedanekobane",
                     "bijiyekitiyakurdan",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "bijiberxwedanaypg",
                     "bijiyekitiyakurdan",
                     {
-                        "weight": 13,
-                        "weight_plain": 13
+                        "weight": 14,
+                        "weight_plain": 14
                     }
                 ],
                 [
                     "s\u00fcre\u00e7",
                     "ajturkgorus",
                     {
-                        "weight": 13,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -58190,7 +58349,7 @@
                     "jinnewshaber",
                     "senyasarailesii\u0307cinadalet",
                     {
-                        "weight": 5,
+                        "weight": 6,
                         "weight_plain": 0
                     }
                 ],
@@ -58198,7 +58357,15 @@
                     "d\u00eesajind\u00eesajiyan",
                     "buraday\u0131zkad\u0131nlarlade\u011fi\u015ftirece\u011fiz",
                     {
-                        "weight": 3,
+                        "weight": 4,
+                        "weight_plain": 0
+                    }
+                ],
+                [
+                    "kazanaca\u011f\u0131z",
+                    "ba\u015faraca\u011f\u0131z",
+                    {
+                        "weight": 1,
                         "weight_plain": 0
                     }
                 ]

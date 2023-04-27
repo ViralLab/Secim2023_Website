@@ -1,7 +1,7 @@
 [
     {
         "id": "milletvekili",
-        "isVisible": false,
+        "isVisible": true,
         "languages": ["tr"],
         "url": "/posts/230420/",
         "type": "Report",

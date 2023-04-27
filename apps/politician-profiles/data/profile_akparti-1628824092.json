@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "1628824092",
         "name": "AK Parti",
@@ -8,6 +8,41 @@
         "description": "Adalet ve Kalk\u0131nma Partisi resmi Twitter hesab\u0131",
         "screen_name": "Akparti",
         "stats": {
+            "2023-04-27": {
+                "status": 42808,
+                "friends": 401,
+                "followers": 3268394
+            },
+            "2023-04-26": {
+                "status": 42796,
+                "friends": 401,
+                "followers": 3266462
+            },
+            "2023-04-25": {
+                "status": 42762,
+                "friends": 401,
+                "followers": 3264480
+            },
+            "2023-04-24": {
+                "status": 42740,
+                "friends": 401,
+                "followers": 3263167
+            },
+            "2023-04-23": {
+                "status": 42715,
+                "friends": 401,
+                "followers": 3262169
+            },
+            "2023-04-22": {
+                "status": 42701,
+                "friends": 401,
+                "followers": 3261041
+            },
+            "2023-04-21": {
+                "status": 42691,
+                "friends": 401,
+                "followers": 3260020
+            },
             "2023-04-20": {
                 "status": 42673,
                 "friends": 401,
@@ -35915,16 +35950,960 @@
                 "nfav": 6433,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650240767695151106": {
+                "created_at": "Sun Apr 23 20:50:33 +0000 2023",
+                "text": "RT @RTErdogan: Ge\u00e7ti\u011fimiz aylarda kurdu\u011fumuz Alevi-Bekta\u015fi K\u00fclt\u00fcr ve Cemevi Ba\u015fkanl\u0131\u011f\u0131 ile Alevi-Bekta\u015fi karde\u015flerimizin her meselesine \u00e7\u00f6z\u2026",
+                "nretweet": 5857,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650240720228196353": {
+                "created_at": "Sun Apr 23 20:50:22 +0000 2023",
+                "text": "RT @RTErdogan: Y\u00fcksek yerlilik oran\u0131yla, ileri teknolojisiyle, d\u00fcnyadaki benzerlerinden \u00fcst\u00fcn \u00f6zellikleriyle yeni Altay tank\u0131m\u0131z\u0131 bug\u00fcn Sil\u2026",
+                "nretweet": 8706,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650229609185591296": {
+                "created_at": "Sun Apr 23 20:06:13 +0000 2023",
+                "text": "81 ilimizde kuraca\u011f\u0131m\u0131z TEKNOFEST at\u00f6lyelerini proje geli\u015ftiren gen\u00e7 giri\u015fimcilerimizin kullan\u0131mlar\u0131na sunup hayall\u2026 https://t.co/XX0rkXazqf",
+                "nretweet": 938,
+                "nfav": 2396,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650199552123719685": {
+                "created_at": "Sun Apr 23 18:06:47 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan'\u0131n kat\u0131l\u0131m\u0131yla Yeni Altay Tank\u0131 testler i\u00e7in T\u00fcrk Silahl\u0131 Kuvvetlerine\u00a0teslim\u2026 https://t.co/457Vmydv0i",
+                "nretweet": 917,
+                "nfav": 2768,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650198839851114498": {
+                "created_at": "Sun Apr 23 18:03:57 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Sakarya'n\u0131n Arifiye il\u00e7esinde Yeni Altay Tank\u0131n\u0131n testler i\u00e7in TSK\u2019ya teslim\u2026 https://t.co/kZmEhsZM6n",
+                "nretweet": 707,
+                "nfav": 1935,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650196313181397000": {
+                "created_at": "Sun Apr 23 17:53:54 +0000 2023",
+                "text": "RT @RTErdogan: \u0130\u015fte benim g\u00f6nl\u00fcm\u00fcn sultan\u0131, gen\u00e7li\u011fimden beri sevdam olan Sakarya... \n \nTe\u015fekk\u00fcrler Sakarya, te\u015fekk\u00fcrler Akyaz\u0131! \ud83c\uddf9\ud83c\uddf7 https:/\u2026",
+                "nretweet": 6438,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650196230364880896": {
+                "created_at": "Sun Apr 23 17:53:35 +0000 2023",
+                "text": "RT @RTErdogan: Y\u0131lmad\u0131k, pes etmedik, geri ad\u0131m atmad\u0131k ve ba\u015fard\u0131k. \u0130\u015fte yeni nesil Altay tank\u0131m\u0131z... \ud83c\uddf9\ud83c\uddf7 https://t.co/HFDsLyrKaA",
+                "nretweet": 9522,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650186135866597377": {
+                "created_at": "Sun Apr 23 17:13:28 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Yeni Altay tank\u0131m\u0131z\u0131n bu co\u011frafyada Silahl\u0131 Kuvvetlerimiz i\u00e7in \u00e7ok \u00f6nemli bir g\u00fc\u00e7 \u00e7arp\u2026 https://t.co/XF6CXKtUgs",
+                "nretweet": 744,
+                "nfav": 1968,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650182829563584514": {
+                "created_at": "Sun Apr 23 17:00:20 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Yeni Altay tank\u0131yla savunma sanayi at\u0131l\u0131mlar\u0131m\u0131z\u0131 ta\u00e7land\u0131rmay\u0131\u00a0hedefliyoruz. https://t.co/kr0Rhkb0K3",
+                "nretweet": 840,
+                "nfav": 1949,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650165534993047552": {
+                "created_at": "Sun Apr 23 15:51:36 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Yeni Altay Tank\u0131n\u0131n Testler i\u00e7in TSK\u2019ya Teslimi Program\u0131'nda konu\u015fuyor... https://t.co/3eiY89KY2P",
+                "nretweet": 1197,
+                "nfav": 4233,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650158083698458626": {
+                "created_at": "Sun Apr 23 15:22:00 +0000 2023",
+                "text": "2028 y\u0131l\u0131 sonunda \u00fclkemizdeki toplam istihdam\u0131 38 milyona y\u00fckseltece\u011fiz.\n\nT\u00fcrkiye Y\u00fczy\u0131l\u0131 i\u00e7in do\u011fru ad\u0131mlarla\u00a0yola\u2026 https://t.co/iVQkRuikKL",
+                "nretweet": 1553,
+                "nfav": 3532,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650156430366855168": {
+                "created_at": "Sun Apr 23 15:15:26 +0000 2023",
+                "text": "RT @RTErdogan: Bug\u00fcn Sakarya'da resm\u00ee a\u00e7\u0131l\u0131\u015f\u0131n\u0131 yapt\u0131\u011f\u0131m\u0131z Akyaz\u0131 Spor Kompleksimizin \u015fehrimize hay\u0131rl\u0131 olmas\u0131n\u0131 diliyorum. https://t.co/w0\u2026",
+                "nretweet": 3608,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650155465941057539": {
+                "created_at": "Sun Apr 23 15:11:36 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Sakarya'da ''Akyaz\u0131 Recep Tayyip Erdo\u011fan Spor Kompleksi A\u00e7\u0131l\u0131\u015f T\u00f6reni''ne\u00a0ka\u2026 https://t.co/6td9agJnJO",
+                "nretweet": 887,
+                "nfav": 2518,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650150445971587072": {
+                "created_at": "Sun Apr 23 14:51:39 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Enflasyonu kal\u0131c\u0131 olarak tek haneli rakamlara d\u00fc\u015f\u00fcrecek ad\u0131mlar\u0131 kararl\u0131l\u0131kla atmay\u0131\u00a0s\u2026 https://t.co/f4Vx2cRBfZ",
+                "nretweet": 848,
+                "nfav": 1926,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650150415105662976": {
+                "created_at": "Sun Apr 23 14:51:31 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Darbeyle, kaosla, siyasi ve ekonomik tuzaklarla dize getiremedikleri T\u00fcrkiye'yi \u00e7\u00f6kert\u2026 https://t.co/ltcyi6Q7nX",
+                "nretweet": 782,
+                "nfav": 1660,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650146732217364480": {
+                "created_at": "Sun Apr 23 14:36:53 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: TCG Anadolu'nun iki kat\u0131 b\u00fcy\u00fckl\u00fc\u011f\u00fcnde u\u00e7ak gemisi\u00a0de\u00a0yapaca\u011f\u0131z. https://t.co/r06usE5AXd",
+                "nretweet": 909,
+                "nfav": 2202,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650143315063447552": {
+                "created_at": "Sun Apr 23 14:23:19 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Diyarbak\u0131r'da 51 vatanda\u015f\u0131m\u0131z\u0131n \u00f6l\u00fcm\u00fcne neden olan Selo'yu \u00e7\u0131karacakm\u0131\u015f, ter\u00f6ristba\u015f\u0131\u2026 https://t.co/jC4FUIXKBP",
+                "nretweet": 917,
+                "nfav": 2309,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650125002757541888": {
+                "created_at": "Sun Apr 23 13:10:33 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Akyaz\u0131 Recep Tayyip Erdo\u011fan Spor Kompleksi A\u00e7\u0131l\u0131\u015f T\u00f6reni'nde konu\u015fuyor... https://t.co/JaltKCqOmP",
+                "nretweet": 1368,
+                "nfav": 4811,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650103033148190720": {
+                "created_at": "Sun Apr 23 11:43:15 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, 23 Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131 dolay\u0131s\u0131yla Dolmabah\u00e7e \u00c7al\u0131\u015fma Of\u2026 https://t.co/L3KubRubcs",
+                "nretweet": 893,
+                "nfav": 2026,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650101676664078336": {
+                "created_at": "Sun Apr 23 11:37:51 +0000 2023",
+                "text": "Y\u0131ll\u0131k y\u00fczde 5,5 b\u00fcy\u00fcme oran\u0131yla 2028 y\u0131l\u0131 sonunda 1 bu\u00e7uk trilyon dolar milli gelir b\u00fcy\u00fckl\u00fc\u011f\u00fcne ve 16 bin dolarl\u0131k\u2026 https://t.co/Tvs1nBDxQf",
+                "nretweet": 1853,
+                "nfav": 4067,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650100099085639681": {
+                "created_at": "Sun Apr 23 11:31:35 +0000 2023",
+                "text": "RT @RTErdogan: Co\u015fkuyla kutlad\u0131\u011f\u0131m\u0131z #23Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131 vesilesiyle bug\u00fcnk\u00fc Cumhurba\u015fkanl\u0131\u011f\u0131 Kabinesi Toplant\u0131m\u0131z\u0131\u2026",
+                "nretweet": 5218,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650100055943028738": {
+                "created_at": "Sun Apr 23 11:31:25 +0000 2023",
+                "text": "RT @RTErdogan: \u0130hti\u015fam, gurur, #23Nisan! \ud83c\uddf9\ud83c\uddf7 https://t.co/UnK8h3tcvz",
+                "nretweet": 17371,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650100037857300480": {
+                "created_at": "Sun Apr 23 11:31:21 +0000 2023",
+                "text": "RT @RTErdogan: 23 Nisan Mill\u00ee Egemenlik ve \u00c7ocuk Bayram\u0131m\u0131z vesilesiyle depremzede \u00e7ocuklar\u0131m\u0131zla bulu\u015fuyoruz.\n\nhttps://t.co/8CTkeAZ5WE",
+                "nretweet": 4779,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650098104857776130": {
+                "created_at": "Sun Apr 23 11:23:40 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, T\u00fcrk Silahl\u0131 Kuvvetlerinin en b\u00fcy\u00fck sava\u015f gemisi yerli ve milli \u00fcretim TCG A\u2026 https://t.co/HAEUamGkpS",
+                "nretweet": 809,
+                "nfav": 2321,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650080321587625984": {
+                "created_at": "Sun Apr 23 10:13:00 +0000 2023",
+                "text": "RT @RTErdogan: D\u00fcn sadece yap\u0131m\u0131 tamamlanan ilk k\u00f6y evlerimizi teslim etmekle kalmad\u0131k, \u00e7ift\u00e7ilerimize de K\u0131rsal D\u00f6n\u00fc\u015f\u00fcm Projemiz ile 10 ye\u2026",
+                "nretweet": 7951,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649851259703156737": {
+                "created_at": "Sat Apr 22 19:02:47 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Kahramanmara\u015f'ta vatanda\u015flarla bayramla\u015fma program\u0131na kat\u0131ld\u0131. https://t.co/AB3cNW7smZ",
+                "nretweet": 1087,
+                "nfav": 2890,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649847608121212934": {
+                "created_at": "Sat Apr 22 18:48:17 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Karanl\u0131k pazarl\u0131klar\u0131n\u0131 gizlemek i\u00e7in durduk yere etnik k\u00f6ken, mezhep tart\u0131\u015fmas\u0131 a\u00e7\u0131yo\u2026 https://t.co/MyuZliTQ1B",
+                "nretweet": 640,
+                "nfav": 1206,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649845632566272001": {
+                "created_at": "Sat Apr 22 18:40:26 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Karadeniz gaz\u0131yla \u00fclkemize, de\u011feri 500 milyar dolar ile 1 trilyon dolar aras\u0131nda hesap\u2026 https://t.co/wqVf2WKTtj",
+                "nretweet": 774,
+                "nfav": 1489,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649844093302841344": {
+                "created_at": "Sat Apr 22 18:34:19 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Sak\u0131n bizi deprem turistleriyle kar\u0131\u015ft\u0131rmay\u0131n. Cumhur \u0130ttifak\u0131, zillet ittifak\u0131na benz\u2026 https://t.co/ypj3CddLfl",
+                "nretweet": 496,
+                "nfav": 848,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649835462843060225": {
+                "created_at": "Sat Apr 22 18:00:01 +0000 2023",
+                "text": "Y\u00fcreklerde 100 y\u0131ll\u0131k cumhuriyet sevdas\u0131yla \u015fimdi asal\u0131m bayraklar\u0131. 23 Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131 kut\u2026 https://t.co/duQM7iiZr2",
+                "nretweet": 6077,
+                "nfav": 14546,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649827957949743104": {
+                "created_at": "Sat Apr 22 17:30:12 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Kahramanmara\u015f'ta konteyner kent ziyareti ve depremzede vatanda\u015flarla bayramla\u015fma program\u0131\u2026 https://t.co/7TLvti29I6",
+                "nretweet": 1528,
+                "nfav": 4980,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649821418509463560": {
+                "created_at": "Sat Apr 22 17:04:13 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Gaziantep Nurda\u011f\u0131 Belp\u0131nar k\u00f6y\u00fc, ''K\u00f6y Evleri Anahtar Teslim T\u00f6reni''ne kat\u0131\u2026 https://t.co/JsVuJbpLYG",
+                "nretweet": 1201,
+                "nfav": 3524,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649816367007236100": {
+                "created_at": "Sat Apr 22 16:44:08 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: S\u00f6zle\u015fmeli \u00fcretim modeliyle aile tipi i\u015fletmelerde b\u00fcy\u00fckba\u015f ve besi hayvanc\u0131l\u0131\u011f\u0131n\u0131 des\u2026 https://t.co/JFdr0DLdYJ",
+                "nretweet": 681,
+                "nfav": 1255,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649815628751011844": {
+                "created_at": "Sat Apr 22 16:41:12 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Afet alanlar\u0131 d\u0131\u015f\u0131ndaki vatanda\u015flardan k\u0131rsal d\u00f6n\u00fc\u015f\u00fcmden yararlanmak isteyenlere '\u0130lk\u2026 https://t.co/OGx8Jd3TiM",
+                "nretweet": 671,
+                "nfav": 1316,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649810794698141698": {
+                "created_at": "Sat Apr 22 16:22:00 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Afet alanlar\u0131ndaki k\u00f6y evlerimizde hayat\u0131n\u0131 s\u00fcrd\u00fcrecek \u00e7ift\u00e7ilerimize Ziraat Bankas\u0131 v\u2026 https://t.co/CclecmTWgv",
+                "nretweet": 485,
+                "nfav": 913,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649803782627237888": {
+                "created_at": "Sat Apr 22 15:54:08 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u015eu ana kadar 105 binin \u00fczerinde konutun yap\u0131m s\u00fcrecini ba\u015flatt\u0131k. Bunlar\u0131n yar\u0131ya yak\u0131\u2026 https://t.co/S4qogRVEFw",
+                "nretweet": 603,
+                "nfav": 1169,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649799455397298176": {
+                "created_at": "Sat Apr 22 15:36:56 +0000 2023",
+                "text": "M\u00fcjdeler olsun! Evlerde mutfak ve s\u0131cak su t\u00fcketimindeki do\u011fal gaz 1 y\u0131l \u00fccretsiz. \u00d6n\u00fcm\u00fczdeki 1 ay boyunca \u0131s\u0131nma d\u2026 https://t.co/Z5cGuLm5Cv",
+                "nretweet": 2332,
+                "nfav": 6539,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649790779064451072": {
+                "created_at": "Sat Apr 22 15:02:28 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Gaziantep Nurda\u011f\u0131 Belp\u0131nar ve Mesth\u00fcy\u00fck K\u00f6yleri, Kahramanmara\u015f T\u00fcrko\u011flu \u00d6zbek K\u00f6y\u00fc K\u00f6y Ev\u2026 https://t.co/WN3YOw8QZS",
+                "nretweet": 1869,
+                "nfav": 6857,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649703209617838080": {
+                "created_at": "Sat Apr 22 09:14:29 +0000 2023",
+                "text": "RT @omerrcelik: \u0130stanbul\u2019da Bah\u00e7elievler Kocasinan \u0130rtibat B\u00fcromuz \u00f6n\u00fcnde ger\u00e7ekle\u015fen silahl\u0131 sald\u0131r\u0131 giri\u015fimini lanetliyoruz. \n\nSiyaset ku\u2026",
+                "nretweet": 631,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649424518044057600": {
+                "created_at": "Fri Apr 21 14:47:04 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, \"\u0130stanbul\u2019da Y\u00fczy\u0131l\u0131n D\u00f6n\u00fc\u015f\u00fcm\u00fc Temel Atma ve Toplu A\u00e7\u0131l\u0131\u015f T\u00f6reni\u201dne kat\u0131ld\u0131. https://t.co/LFB3WU4wlt",
+                "nretweet": 1337,
+                "nfav": 4303,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649418197211250796": {
+                "created_at": "Fri Apr 21 14:21:57 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130stanbul'da kira yard\u0131m tutar\u0131n\u0131 3 bin 500 liradan 5 bin 250 liraya y\u00fckseltiyoruz. https://t.co/SF1ZLgzPUe",
+                "nretweet": 1262,
+                "nfav": 3731,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649416460698099714": {
+                "created_at": "Fri Apr 21 14:15:03 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Oturduklar\u0131 evlerinin riskli yap\u0131 tespitini yapt\u0131ran vatanda\u015flar\u0131m\u0131z\u0131n ister yerinde i\u2026 https://t.co/JCitK2rgEA",
+                "nretweet": 1182,
+                "nfav": 3048,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649411070866386945": {
+                "created_at": "Fri Apr 21 13:53:38 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Bug\u00fcne kadar 3,3 milyon konutu kentsel d\u00f6n\u00fc\u015f\u00fcmle yenilerken 1,2 milyon konutu da TOK\u0130\u2026 https://t.co/DnYcA5t7nG",
+                "nretweet": 1065,
+                "nfav": 2730,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649408538400227328": {
+                "created_at": "Fri Apr 21 13:43:34 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, restorasyonu tamamlanan Sultanahmet Camii\u2019nin a\u00e7\u0131l\u0131\u015f\u0131na kat\u0131ld\u0131. https://t.co/kurX8g2F0j",
+                "nretweet": 1037,
+                "nfav": 2952,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649394599348293632": {
+                "created_at": "Fri Apr 21 12:48:11 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Gaziosmanpa\u015fa Meydan\u0131'nda, Kentsel D\u00f6n\u00fc\u015f\u00fcm Projeleri Anahtar Teslim ve Temel Atma T\u00f6reni\u2019\u2026 https://t.co/iXWuufMxOL",
+                "nretweet": 1487,
+                "nfav": 5688,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649374403963293697": {
+                "created_at": "Fri Apr 21 11:27:56 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, restorasyonu tamamlanan Sultanahmet Camii'nin A\u00e7\u0131l\u0131\u015f T\u00f6reni\u2019nde konu\u015fuyor\u2026 https://t.co/Z63QtpFPxi",
+                "nretweet": 1559,
+                "nfav": 5892,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649324762370387968": {
+                "created_at": "Fri Apr 21 08:10:40 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Ayasofya-i Kebir Cami-i \u015eerifi\u2019nde bayram namaz\u0131 sonras\u0131 a\u00e7\u0131klamalarda bulun\u2026 https://t.co/C3nj1PPk7C",
+                "nretweet": 1105,
+                "nfav": 3607,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649307150223646720": {
+                "created_at": "Fri Apr 21 07:00:41 +0000 2023",
+                "text": "Bu \u00fclkede herkes birbiri i\u00e7in var, birlikte var.\n\nRamazan Bayram\u0131m\u0131z m\u00fcbarek olsun. #RamazanBayram\u0131 https://t.co/8GtbAhSK34",
+                "nretweet": 4640,
+                "nfav": 12943,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649284520351531010": {
+                "created_at": "Fri Apr 21 05:30:46 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Ayasofya-i Kebir Cami-i \u015eerifi\u2019nde bayram namaz\u0131 sonras\u0131 a\u00e7\u0131klamalarda bulunuyor\u2026 https://t.co/XMPyvqAqoh",
+                "nretweet": 1973,
+                "nfav": 9139,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649149487888101384": {
+                "created_at": "Thu Apr 20 20:34:12 +0000 2023",
+                "text": "RT @RTErdogan: Bug\u00fcn Karadeniz do\u011fal gaz\u0131m\u0131z\u0131 devreye alarak 85 milyonu sevindirirken, milletimize ger\u00e7ekten b\u00fcy\u00fck bir gurur ya\u015fat\u0131rken elb\u2026",
+                "nretweet": 17270,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649148312388268040": {
+                "created_at": "Thu Apr 20 20:29:32 +0000 2023",
+                "text": "\"Karadeniz do\u011fal gaz\u0131m\u0131z\u0131n \u00fclkemize, milletimize hay\u0131rl\u0131 olmas\u0131n\u0131\u00a0diliyorum.\" #M\u00fcjdelerOlsun https://t.co/IlhdEjUIAJ",
+                "nretweet": 1100,
+                "nfav": 3341,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649144306895056911": {
+                "created_at": "Thu Apr 20 20:13:37 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Filyos T\u00fcrkiye Petrolleri Liman\u0131'nda \"Karadeniz Do\u011fal Gaz\u0131 Devreye Alma T\u00f6re\u2026 https://t.co/mRhR7yeTAh",
+                "nretweet": 1049,
+                "nfav": 3311,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649143560384442368": {
+                "created_at": "Thu Apr 20 20:10:39 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Filyos T\u00fcrkiye Petrolleri Liman\u0131'nda \u00e7al\u0131\u015fanlarla\u00a0iftar\u00a0yapt\u0131. #M\u00fcjdelerOlsun https://t.co/F6TjwmLjeC",
+                "nretweet": 1103,
+                "nfav": 3662,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649142634869403649": {
+                "created_at": "Thu Apr 20 20:06:58 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan\u2019\u0131n Karadeniz Do\u011fal Gaz\u0131 Devreye Alma T\u00f6reni'nden \u00f6ne \u00e7\u0131kan a\u00e7\u0131klamalar\u0131. #M\u00fcjdelerOlsun",
+                "nretweet": 1222,
+                "nfav": 3796,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649141413433470990": {
+                "created_at": "Thu Apr 20 20:02:07 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Vatanda\u015flar\u0131m\u0131z\u0131n evlerindeki mutfaklar\u0131nda ve s\u0131cak su t\u00fcketiminde kulland\u0131klar\u0131 do\u011fa\u2026 https://t.co/c4nyctvpcY",
+                "nretweet": 1219,
+                "nfav": 3544,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649136460703096832": {
+                "created_at": "Thu Apr 20 19:42:26 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Tam kapasiteye \u00e7\u0131kt\u0131\u011f\u0131m\u0131zda \u00fclkemizin y\u0131ll\u0131k ihtiyac\u0131n\u0131n yakla\u015f\u0131k y\u00fczde 30'unu buradan\u2026 https://t.co/lROyzlCFpQ",
+                "nretweet": 1596,
+                "nfav": 5528,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649132500164177921": {
+                "created_at": "Thu Apr 20 19:26:42 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130kinci bayram\u0131m\u0131z \u00fclkemizin enerji ba\u011f\u0131ms\u0131zl\u0131\u011f\u0131 yolunda tarihi bir ad\u0131m olan Karadeniz\u2026 https://t.co/LZosN0PHym",
+                "nretweet": 1373,
+                "nfav": 4458,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649123968136118289": {
+                "created_at": "Thu Apr 20 18:52:47 +0000 2023",
+                "text": "RT @RTErdogan: 1 y\u0131l boyunca evlerimizdeki mutfak ve s\u0131cak su t\u00fcketimi i\u00e7in gereken do\u011fal gaz \u00fccretsiz olacakt\u0131r.\n\nAyr\u0131ca \u00f6n\u00fcm\u00fczdeki 1 ay b\u2026",
+                "nretweet": 30924,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649123939103145984": {
+                "created_at": "Thu Apr 20 18:52:40 +0000 2023",
+                "text": "RT @RTErdogan: D\u00fcnyada 6-7 y\u0131l s\u00fcren ke\u015ffedilen gaz\u0131 kullan\u0131labilir hale getirme s\u00fcresini biz tempomuzla \u00fc\u00e7 y\u0131l\u0131n alt\u0131na indirdik.\n\nYakla\u015f\u0131\u2026",
+                "nretweet": 18298,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649112518269480961": {
+                "created_at": "Thu Apr 20 18:07:18 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Karadeniz Do\u011fal Gaz\u0131 Devreye Alma T\u00f6reni'nde konu\u015fuyor... #M\u00fcjdelerOlsun https://t.co/AT4w9NTgHz",
+                "nretweet": 2296,
+                "nfav": 8826,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649087461090553859": {
+                "created_at": "Thu Apr 20 16:27:43 +0000 2023",
+                "text": "RT @RTErdogan: #M\u00fcjdelerOlsun, Karadeniz do\u011fal gaz\u0131m\u0131z T\u00fcrkiye Y\u00fczy\u0131l\u0131\u2019na arma\u011fan olsun. \ud83c\uddf9\ud83c\uddf7 https://t.co/hEvSivxx8q",
+                "nretweet": 18925,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649053935133687810": {
+                "created_at": "Thu Apr 20 14:14:30 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: T\u00fcrkiye, Birle\u015fmi\u015f Milletler Biyolojik \u00c7e\u015fitlilik S\u00f6zle\u015fmesi'nin 16. Taraflar Konferan\u2026 https://t.co/6LfhQs4307",
+                "nretweet": 1012,
+                "nfav": 2446,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649052617799274496": {
+                "created_at": "Thu Apr 20 14:09:16 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130klim de\u011fi\u015fikli\u011fi, biyolojik \u00e7e\u015fitlilik kayb\u0131 ve kirlilik olarak adland\u0131r\u0131lan \u00fc\u00e7l\u00fc gez\u2026 https://t.co/eUHZFzTkeb",
+                "nretweet": 979,
+                "nfav": 2579,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649051875529089032": {
+                "created_at": "Thu Apr 20 14:06:19 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Topkap\u0131 Saray\u0131'nda restorasyonu tamamlanan birimlerin a\u00e7\u0131l\u0131\u015f\u0131n\u0131 ger\u00e7ekle\u015ftir\u2026 https://t.co/LzTKXSrxLW",
+                "nretweet": 905,
+                "nfav": 2435,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649046014618390528": {
+                "created_at": "Thu Apr 20 13:43:02 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Enerji ve \u0130klim Konulu B\u00fcy\u00fck Ekonomiler Forumu\u2019na canl\u0131 ba\u011flant\u0131 ile kat\u0131l\u0131yor\u2026 https://t.co/Bsh4XS2HeN",
+                "nretweet": 1163,
+                "nfav": 4024,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649028823185252353": {
+                "created_at": "Thu Apr 20 12:34:43 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, annesi Tenzile Erdo\u011fan ve babas\u0131 Ahmet Erdo\u011fan'\u0131n kabrini ziyaret etti. https://t.co/NGwrGGiCJd",
+                "nretweet": 1074,
+                "nfav": 4107,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649013050618548227": {
+                "created_at": "Thu Apr 20 11:32:03 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Topkap\u0131 Saray\u0131\u2019nda restorasyonu tamamlanan birimlerin a\u00e7\u0131l\u0131\u015f program\u0131nda konu\u015fuyor\u2026 https://t.co/Pt4uUCeUBi",
+                "nretweet": 1413,
+                "nfav": 5236,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648769110417760286": {
+                "created_at": "Wed Apr 19 19:22:43 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Denizli'de, EGS Kongre ve K\u00fclt\u00fcr Merkezi'nde d\u00fczenlenen iftarda vatanda\u015flarl\u2026 https://t.co/PQzq4z5tzm",
+                "nretweet": 1175,
+                "nfav": 3545,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648754660667162625": {
+                "created_at": "Wed Apr 19 18:25:18 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: 7'li koalisyonun i\u00e7inde debelendi\u011fi gaflet \u00e7ukurunu mahcubiyetle takip ediyoruz. \u00dc\u00e7 g\u00fc\u2026 https://t.co/FtQF15eFnj",
+                "nretweet": 671,
+                "nfav": 1264,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648752018519912449": {
+                "created_at": "Wed Apr 19 18:14:48 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u00dclkesi i\u00e7in hayal kuran, \u00fclkesinin gelece\u011fi i\u00e7in dertlenen hi\u00e7bir insan\u0131m\u0131z\u0131 d\u0131\u015far\u0131da\u2026 https://t.co/ZaFUqRlwie",
+                "nretweet": 683,
+                "nfav": 1385,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648749474179604494": {
+                "created_at": "Wed Apr 19 18:04:41 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Denizli \u00d6zay G\u00f6nl\u00fcm Meydan\u0131'nda d\u00fczenlenen mitinge kat\u0131ld\u0131.\u2026 https://t.co/vMLBjxrTIs",
+                "nretweet": 1107,
+                "nfav": 3520,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648741006886715393": {
+                "created_at": "Wed Apr 19 17:31:02 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Denizli\u2019de vatanda\u015flarla iftar program\u0131nda konu\u015fuyor\u2026 https://t.co/x8ZlCoUn9x",
+                "nretweet": 1389,
+                "nfav": 5158,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648726671531311110": {
+                "created_at": "Wed Apr 19 16:34:05 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Bir g\u00fcn \u015fu kadar milyar dolar buldum, \u00fclkeye getirece\u011fim diyor, arkas\u0131na bak\u0131yorsunuz\u2026 https://t.co/VelGp48iPO",
+                "nretweet": 661,
+                "nfav": 1211,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648723669550596098": {
+                "created_at": "Wed Apr 19 16:22:09 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Bunlarda aile kutsiyeti diye bir \u015fey yok ama biz ailemizin kutsiyetine inan\u0131yoruz. https://t.co/A1BCwH0uie",
+                "nretweet": 665,
+                "nfav": 1310,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648722766479097868": {
+                "created_at": "Wed Apr 19 16:18:33 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u00c7ok \u00e7al\u0131\u015ft\u0131k, iyi haz\u0131rland\u0131k, \u015fimdi de in\u015fallah 14 May\u0131s\u2019ta ben vatanda\u015flar\u0131mla birli\u2026 https://t.co/qcXlGyhBJl",
+                "nretweet": 412,
+                "nfav": 719,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648719215820525570": {
+                "created_at": "Wed Apr 19 16:04:27 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Geliyorlarm\u0131\u015f, gelince bu \u0130HA'lar\u0131, S\u0130HA'lar\u0131, AKINCI'lar\u0131 filan satacaklarm\u0131\u015f. Sen ki\u2026 https://t.co/hYPN9qyCSn",
+                "nretweet": 446,
+                "nfav": 754,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648706103507816448": {
+                "created_at": "Wed Apr 19 15:12:21 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Denizli Mitingi'nde konu\u015fuyor... https://t.co/1zlyjrHzNm",
+                "nretweet": 1710,
+                "nfav": 6664,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648673805793992704": {
+                "created_at": "Wed Apr 19 13:04:00 +0000 2023",
+                "text": "Son 1 hafta nas\u0131l ge\u00e7ti? https://t.co/ioksJzGxYU",
+                "nretweet": 2148,
+                "nfav": 4532,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648624092940054530": {
+                "created_at": "Wed Apr 19 09:46:28 +0000 2023",
+                "text": "Yediden yetmi\u015fe hep birlikte biz T\u00fcrkiye\u2019yiz.\n\nDo\u011frusu AK Parti https://t.co/f90cLH8oZ8",
+                "nretweet": 4468,
+                "nfav": 12185,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648449392482062341": {
+                "created_at": "Tue Apr 18 22:12:16 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, TRT Haber ortak yay\u0131n\u0131nda g\u00fcndeme ili\u015fkin a\u00e7\u0131klamalarda bulundu. https://t.co/9uINcYQbvA",
+                "nretweet": 1043,
+                "nfav": 3052,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648433490160136192": {
+                "created_at": "Tue Apr 18 21:09:05 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, TRT ortak yay\u0131n\u0131nda konu\u015fuyor\u2026\n\nhttps://t.co/vN1Eblup2k",
+                "nretweet": 1455,
+                "nfav": 6137,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648418215993720836": {
+                "created_at": "Tue Apr 18 20:08:23 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, TRT ortak yay\u0131n\u0131nda konu\u015fuyor\u2026\n\nhttps://t.co/tOjdlTmkdR",
+                "nretweet": 1734,
+                "nfav": 5877,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648403438814785539": {
+                "created_at": "Tue Apr 18 19:09:40 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Eski\u015fehir'de, Gen\u00e7lik Bulu\u015fmalar\u0131 iftar\u0131na kat\u0131ld\u0131. https://t.co/Cz4e6rM30F",
+                "nretweet": 1190,
+                "nfav": 2929,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648398783787442190": {
+                "created_at": "Tue Apr 18 18:51:10 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Gen\u00e7leri anlamak, mutfakta video \u00e7ekerek veya otob\u00fcs kap\u0131s\u0131nda raks ederek de\u011fil onlar\u2026 https://t.co/6FJr9uTL06",
+                "nretweet": 725,
+                "nfav": 1307,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648397824088842240": {
+                "created_at": "Tue Apr 18 18:47:21 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Togg'un \u00fcretimi ve piyasaya girmesiyle T\u00fcrkiye otomobil sekt\u00f6r\u00fcnde de\u011fi\u015fen trendleri i\u2026 https://t.co/pG2NTBCtTa",
+                "nretweet": 664,
+                "nfav": 992,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648396472101093377": {
+                "created_at": "Tue Apr 18 18:41:59 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130stanbul Finans Merkezi, 15 sene i\u00e7inde milli gelire yakla\u015f\u0131k 130 milyar dolar katk\u0131 y\u2026 https://t.co/Sj6K2ZlCKm",
+                "nretweet": 648,
+                "nfav": 941,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648395550360993792": {
+                "created_at": "Tue Apr 18 18:38:19 +0000 2023",
+                "text": "K\u0131rm\u0131z\u0131n\u0131n yan\u0131na beyaz gelince akan sular durur, kenetleniriz. \n\nAK Parti T\u00fcrkiye\u2019nin partisi. Do\u011frusu AK Parti https://t.co/u9coVr7Rip",
+                "nretweet": 3873,
+                "nfav": 10358,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648378412703137813": {
+                "created_at": "Tue Apr 18 17:30:13 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Gen\u00e7lik Bulu\u015fmalar\u0131 Eski\u015fehir \u0130ftar\u0131 Program\u0131\u2019nda konu\u015fuyor...\n\nhttps://t.co/XnG56yeZ9x",
+                "nretweet": 1403,
+                "nfav": 4403,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648375612132802572": {
+                "created_at": "Tue Apr 18 17:19:05 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z ve Parti S\u00f6zc\u00fcm\u00fcz \u00d6mer \u00c7elik: \u015eunun herkes taraf\u0131ndan bilinmesi gerekir ki Cumhurba\u015fkan\u0131m\u0131\u2026 https://t.co/6GP7rgcJl3",
+                "nretweet": 974,
+                "nfav": 2231,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648375128848318478": {
+                "created_at": "Tue Apr 18 17:17:10 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z ve Parti S\u00f6zc\u00fcm\u00fcz \u00d6mer \u00c7elik: Aziz milletimiz \u00e7ok iyi bilmektedir ki b\u00fct\u00fcn \u00f6mr\u00fcn\u00fc milletin\u2026 https://t.co/ix1ilVlVc5",
+                "nretweet": 1026,
+                "nfav": 2246,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648365001801908224": {
+                "created_at": "Tue Apr 18 16:36:56 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan bu ak\u015fam saat 22.30\u2019da TRT ortak yay\u0131n\u0131na konuk olacak. https://t.co/0FtM0TkxHq",
+                "nretweet": 1675,
+                "nfav": 3995,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648363387343060997": {
+                "created_at": "Tue Apr 18 16:30:31 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Eski\u015fehir'de, Toplu A\u00e7\u0131l\u0131\u015f T\u00f6reni'ne kat\u0131ld\u0131. https://t.co/wUVkccir8x",
+                "nretweet": 1258,
+                "nfav": 3817,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648355782524542978": {
+                "created_at": "Tue Apr 18 16:00:18 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130lk yerli elektrikli lokomotif E5000'in lokomotif ve alt sistemlerinin tasar\u0131m\u0131, imala\u2026 https://t.co/nSqu2CZQra",
+                "nretweet": 653,
+                "nfav": 1122,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648354813644513281": {
+                "created_at": "Tue Apr 18 15:56:27 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u0130ktidara geldi\u011fimiz g\u00fcnden beri nice sald\u0131r\u0131larla bo\u011fu\u015ftuk, \u00e7ok uzun m\u00fccadeleler ve be\u2026 https://t.co/f47RK36mp6",
+                "nretweet": 587,
+                "nfav": 882,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648347428054089728": {
+                "created_at": "Tue Apr 18 15:27:06 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Biliyorlar ki e\u011fer Cumhur \u0130ttifak\u0131 i\u015fba\u015f\u0131nda olursa ter\u00f6ristlere bu \u00fclkede aman yok. 1\u2026 https://t.co/mB6OZn5fmP",
+                "nretweet": 711,
+                "nfav": 1148,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648344898586771459": {
+                "created_at": "Tue Apr 18 15:17:03 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Yeni bir se\u00e7imin arifesinde T\u00fcrkiye, yine ray\u0131ndan \u00e7\u0131kart\u0131lmaya, kazan\u0131mlar\u0131ndan edilm\u2026 https://t.co/wMc3gb4M0H",
+                "nretweet": 588,
+                "nfav": 894,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648336891270385665": {
+                "created_at": "Tue Apr 18 14:45:14 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Eski\u015fehir Toplu A\u00e7\u0131l\u0131\u015f T\u00f6reni'nde konu\u015fuyor...\n\nhttps://t.co/cvMbyjCoP9",
+                "nretweet": 1448,
+                "nfav": 5149,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648332430707683330": {
+                "created_at": "Tue Apr 18 14:27:30 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Afyonkarahisar M\u00fczesi'nin a\u00e7\u0131l\u0131\u015f\u0131na kat\u0131ld\u0131. #MilletinAdam\u0131Afyonda https://t.co/HwUyjyV3ew",
+                "nretweet": 949,
+                "nfav": 2070,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648321473126211584": {
+                "created_at": "Tue Apr 18 13:43:58 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, Afyonkarahisar'\u0131n Zafer Meydan\u0131'nda d\u00fczenlenen mitinge kat\u0131ld\u0131.\u2026 https://t.co/w1V5WUMuhM",
+                "nretweet": 965,
+                "nfav": 2387,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648312083300114432": {
+                "created_at": "Tue Apr 18 13:06:39 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Ankara-Afyonkarahisar-\u0130zmir YHT hatt\u0131n\u0131n yap\u0131m\u0131 devam ediyor. Bu hatt\u0131n 2025 y\u0131l\u0131nda t\u2026 https://t.co/9Q4BNo5tk8",
+                "nretweet": 686,
+                "nfav": 1128,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648311051891404804": {
+                "created_at": "Tue Apr 18 13:02:33 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: 20 y\u0131ld\u0131r sadece eser ve hizmet siyasetiyle bu \u00fclkede neler ba\u015far\u0131labilece\u011fini c\u00fcmle a\u2026 https://t.co/DFfVra8xRC",
+                "nretweet": 670,
+                "nfav": 1177,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648309684980334594": {
+                "created_at": "Tue Apr 18 12:57:07 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Afyonkarahisar M\u00fczesi A\u00e7\u0131l\u0131\u015f T\u00f6reni'nde konu\u015fuyor... #MilletinAdam\u0131Afyonda \n\nhttps://t.co/yu6NCAHOSq",
+                "nretweet": 1103,
+                "nfav": 3099,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648304751744802816": {
+                "created_at": "Tue Apr 18 12:37:31 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Bay bay Kemal'e sesleniyorum, bizim emperyalizme kar\u015f\u0131 duru\u015fumuzu \u00f6\u011frenmek istiyorsan\u2026 https://t.co/CnKYFlI2zn",
+                "nretweet": 428,
+                "nfav": 719,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648301170685796352": {
+                "created_at": "Tue Apr 18 12:23:17 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Cumhuriyetimizin 100'\u00fcnc\u00fc y\u0131l\u0131nda T\u00fcrkiye Y\u00fczy\u0131l\u0131'na giden yolu Afyonkarahisar'dan ba\u015f\u2026 https://t.co/UpF40d1z0B",
+                "nretweet": 474,
+                "nfav": 826,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648287586346057729": {
+                "created_at": "Tue Apr 18 11:29:18 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Afyonkarahisar Mitingi'nde konu\u015fuyor... #MilletinAdam\u0131Afyonda\n\nhttps://t.co/2fx7WK2v2S",
+                "nretweet": 1434,
+                "nfav": 5815,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648062531955576851": {
+                "created_at": "Mon Apr 17 20:35:01 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, kat\u0131ld\u0131\u011f\u0131 ''B\u00fcy\u00fck \u00dcsk\u00fcdar \u0130ftar\u0131'' sonras\u0131, Nevmekan'da gen\u00e7lerle bir araya\u2026 https://t.co/mZmm5BCe8o",
+                "nretweet": 1308,
+                "nfav": 4408,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648034698138906628": {
+                "created_at": "Mon Apr 17 18:44:25 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, \u00dcsk\u00fcdar\u2019da, \u0130stanbul'un \u00e7e\u015fitli il\u00e7elerine bar\u0131nmak i\u00e7in gelen depremzede va\u2026 https://t.co/PvXgr6iWzJ",
+                "nretweet": 1434,
+                "nfav": 4130,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648016311664910377": {
+                "created_at": "Mon Apr 17 17:31:22 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, \u0130stanbul'daki depremzede vatanda\u015flarla bir araya geldi\u011fi iftar program\u0131nda konu\u015fuyor...\n\nhttps://t.co/pDbLpQVUSA",
+                "nretweet": 1648,
+                "nfav": 5935,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648015527321673739": {
+                "created_at": "Mon Apr 17 17:28:15 +0000 2023",
+                "text": "RT @RTErdogan: \u0130stanbul\u2019da acilen d\u00f6n\u00fc\u015ft\u00fcrmemiz gereken 1,5 milyon riskli konut var. Bunun i\u00e7in \u0130stanbul\u2019un Avrupa ve Anadolu Yakas\u0131\u2019nda 50\u2026",
+                "nretweet": 7432,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648015514327719944": {
+                "created_at": "Mon Apr 17 17:28:11 +0000 2023",
+                "text": "RT @RTErdogan: Yeni Fikirtepe Projesi\u2019nin ilk etab\u0131nda in\u015fa etti\u011fimiz 1.648 konutu hak sahibi vatanda\u015flar\u0131m\u0131za teslim ettik.\n\n\u0130n\u015fallah \u00f6n\u00fcm\u2026",
+                "nretweet": 6977,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647988011399884801": {
+                "created_at": "Mon Apr 17 15:38:54 +0000 2023",
+                "text": "M\u00fcbarek #KadirGecesi \u2019nin \u0130slam alemine ve b\u00fct\u00fcn insanl\u0131\u011fa huzur ve selamet getirmesini Cenab-\u0131 Hak\u2019tan\u00a0niyaz\u00a0ederi\u2026 https://t.co/WPnwM8x12X",
+                "nretweet": 1571,
+                "nfav": 4032,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647973673071001600": {
+                "created_at": "Mon Apr 17 14:41:56 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Erdo\u011fan, Fikirtepe Kentsel D\u00f6n\u00fc\u015f\u00fcm Projesi 1. Etap Anahtar Teslimi ile 2. ve 3. Etaplarda Kentsel\u2026 https://t.co/12k3MQmJgY",
+                "nretweet": 1408,
+                "nfav": 4606,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647957379554717696": {
+                "created_at": "Mon Apr 17 13:37:11 +0000 2023",
+                "text": "RT @RTErdogan: 10 y\u0131ll\u0131k \u00e7etin bir m\u00fccadelenin, her a\u015famas\u0131 zorlukla dolu 10 y\u0131ll\u0131k bir eme\u011fin \u00fcr\u00fcn\u00fc olan \u0130stanbul Finans Merkezi\u2019nin a\u00e7\u0131l\u0131\u2026",
+                "nretweet": 10025,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647956621685932032": {
+                "created_at": "Mon Apr 17 13:34:10 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Recep Tayyip Erdo\u011fan, \u0130stanbul Finans Merkezi A\u00e7\u0131l\u0131\u015f T\u00f6reni\u2019ne kat\u0131ld\u0131. https://t.co/3q7yIdfq0q",
+                "nretweet": 1237,
+                "nfav": 3133,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647944503452368897": {
+                "created_at": "Mon Apr 17 12:46:01 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Muhalefetin T\u00fcrkiye'yi y\u00f6netebilecek, \u00fclkemizi hedeflerine, milletimizi de hayallerine\u2026 https://t.co/19KU0M38mj",
+                "nretweet": 1307,
+                "nfav": 3461,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647943090328551424": {
+                "created_at": "Mon Apr 17 12:40:24 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: \u00d6mr\u00fcn\u00fcn 40 y\u0131l\u0131nda meydanlar\u0131n nabz\u0131n\u0131 tutan, meydanlar\u0131n dilini okuyan bir siyaset\u00e7i\u2026 https://t.co/r0C7ZVZxy9",
+                "nretweet": 1246,
+                "nfav": 2781,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647941710956093447": {
+                "created_at": "Mon Apr 17 12:34:55 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z @RTErdogan: Tarihte \u0130stanbul, nas\u0131l bu \u00fclkenin finans merkeziyse \u015fimdi yeniden bu finans merkezi o\u2026 https://t.co/FwLZt8ZVGk",
+                "nretweet": 1131,
+                "nfav": 2376,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647935298515488768": {
+                "created_at": "Mon Apr 17 12:09:26 +0000 2023",
+                "text": "RT @RTErdogan: \u0130stanbul Finans Merkezi A\u00e7\u0131l\u0131\u015f T\u00f6reni\n\nhttps://t.co/Voc73RWoBO",
+                "nretweet": 6839,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "RTErdogan",
-                2156
+                2216
             ],
             [
                 "omerrcelik",
-                182
+                183
             ],
             [
                 "AKGenclikGM",
@@ -36153,6 +37132,10 @@
                 5
             ],
             [
+                "M\u00fcjdelerOlsun",
+                5
+            ],
+            [
                 "YeniLigGemlik",
                 3
             ],
@@ -36161,7 +37144,15 @@
                 3
             ],
             [
+                "23Nisan",
+                3
+            ],
+            [
                 "Hatay",
+                3
+            ],
+            [
+                "MilletinAdam\u0131Afyonda",
                 3
             ],
             [
@@ -36170,6 +37161,10 @@
             ],
             [
                 "AnnelerG\u00fcn\u00fc",
+                2
+            ],
+            [
+                "RamazanBayram\u0131",
                 2
             ],
             [
@@ -36269,19 +37264,11 @@
                 1
             ],
             [
-                "RamazanBayram\u0131",
-                1
-            ],
-            [
                 "1May\u0131s",
                 1
             ],
             [
                 "Aile\u0130ftar\u0131",
-                1
-            ],
-            [
-                "23Nisan",
                 1
             ],
             [
@@ -36310,14 +37297,6 @@
             ],
             [
                 "Pazarc\u0131k",
-                1
-            ],
-            [
-                "Erzurum",
-                1
-            ],
-            [
-                "\u00f6nceinsan",
                 1
             ]
         ],
@@ -38749,46 +39728,74 @@
             "2023-04": [
                 [
                     "cumhurba\u015fkan\u0131m\u0131z",
-                    168
+                    255
                 ],
                 [
                     "erdo\u011fan",
-                    61
+                    107
                 ],
                 [
                     "recep",
-                    36
+                    62
                 ],
                 [
                     "tayyip",
-                    36
+                    62
+                ],
+                [
+                    "konu\u015fuyor",
+                    32
                 ],
                 [
                     "genel",
+                    30
+                ],
+                [
+                    "t\u00fcrkiye",
                     28
+                ],
+                [
+                    "...",
+                    23
+                ],
+                [
+                    "a\u00e7\u0131l\u0131\u015f",
+                    21
+                ],
+                [
+                    "milyar",
+                    19
+                ],
+                [
+                    "kat\u0131ld\u0131",
+                    19
                 ],
                 [
                     "\u015fehir",
                     19
                 ],
                 [
-                    "t\u00fcrkiye",
-                    18
-                ],
-                [
-                    "konu\u015fuyor",
-                    18
-                ],
-                [
-                    "milyar",
-                    16
+                    "parti",
+                    19
                 ],
                 [
                     "konut",
+                    17
+                ],
+                [
+                    "milyon",
                     16
                 ],
                 [
-                    "parti",
+                    "yeni",
+                    16
+                ],
+                [
+                    "teslim",
+                    15
+                ],
+                [
+                    "program\u0131nda",
                     14
                 ],
                 [
@@ -38796,7 +39803,7 @@
                     14
                 ],
                 [
-                    "milyon",
+                    "i\u0307stanbul",
                     13
                 ],
                 [
@@ -38804,11 +39811,39 @@
                     13
                 ],
                 [
-                    "...",
-                    12
+                    "iftar",
+                    13
                 ],
                 [
                     "deprem",
+                    13
+                ],
+                [
+                    "ba\u015fkan",
+                    13
+                ],
+                [
+                    "yard\u0131mc\u0131m\u0131z",
+                    13
+                ],
+                [
+                    "s\u00f6zc\u00fcm\u00fcz",
+                    13
+                ],
+                [
+                    "d\u00fczenlenen",
+                    12
+                ],
+                [
+                    "nde",
+                    12
+                ],
+                [
+                    "ortak",
+                    12
+                ],
+                [
+                    "t\u00f6reni",
                     12
                 ],
                 [
@@ -38816,11 +39851,11 @@
                     12
                 ],
                 [
-                    "a\u00e7\u0131l\u0131\u015f",
+                    "b\u00fcy\u00fck",
                     11
                 ],
                 [
-                    "program\u0131nda",
+                    "k\u00f6y",
                     11
                 ],
                 [
@@ -38828,124 +39863,68 @@
                     11
                 ],
                 [
+                    "son",
+                    11
+                ],
+                [
                     "y\u0131lda",
                     11
                 ],
                 [
-                    "ba\u015fkan",
-                    11
-                ],
-                [
-                    "yard\u0131mc\u0131m\u0131z",
-                    11
-                ],
-                [
-                    "s\u00f6zc\u00fcm\u00fcz",
-                    11
-                ],
-                [
-                    "kat\u0131ld\u0131",
-                    10
-                ],
-                [
-                    "iftar",
-                    10
-                ],
-                [
-                    "son",
-                    10
-                ],
-                [
-                    "teslim",
-                    9
-                ],
-                [
-                    "d\u00fczenlenen",
-                    9
-                ],
-                [
-                    "nde",
-                    9
-                ],
-                [
                     "\u00f6mer",
-                    9
+                    11
                 ],
                 [
                     "\u00e7elik",
-                    9
-                ],
-                [
-                    "\u011frusuakparti",
-                    9
-                ],
-                [
-                    "ba\u011fc\u0131lar",
-                    8
+                    11
                 ],
                 [
                     "\u00fclkemizin",
-                    8
+                    10
                 ],
                 [
-                    "metro",
-                    8
+                    "do\u011fal",
+                    10
                 ],
                 [
-                    "ortak",
-                    8
+                    "karadeniz",
+                    10
                 ],
                 [
                     "program\u0131",
-                    8
+                    10
                 ],
                 [
                     "ilk",
-                    8
-                ],
-                [
-                    "lider",
-                    7
-                ],
-                [
-                    "b\u00fcy\u00fck",
-                    7
-                ],
-                [
-                    "k\u00f6y",
-                    7
-                ],
-                [
-                    "se\u00e7im",
-                    7
-                ],
-                [
-                    "temel",
-                    7
-                ],
-                [
-                    "atma",
-                    7
-                ],
-                [
-                    "sa\u011fl\u0131k",
-                    7
-                ],
-                [
-                    "sadece",
-                    7
-                ],
-                [
-                    "yeni",
-                    7
-                ],
-                [
-                    "t\u00f6reni",
-                    7
+                    10
                 ],
                 [
                     "nda",
-                    6
+                    9
+                ],
+                [
+                    "toplu",
+                    9
+                ],
+                [
+                    "temel",
+                    9
+                ],
+                [
+                    "atma",
+                    9
+                ],
+                [
+                    "sadece",
+                    9
+                ],
+                [
+                    "dolar",
+                    9
+                ],
+                [
+                    "y\u0131ll\u0131k",
+                    9
                 ]
             ]
         }
@@ -39472,84 +40451,84 @@
                     "rterdogan",
                     "akparti",
                     {
-                        "weight": 17547
+                        "weight": 19167
                     }
                 ],
                 [
                     "rterdogan",
                     "rtedijital",
                     {
-                        "weight": 19
+                        "weight": 22
                     }
                 ],
                 [
                     "rterdogan",
                     "omerrcelik",
                     {
-                        "weight": 62
+                        "weight": 64
                     }
                 ],
                 [
                     "rterdogan",
                     "tcbestepe",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "akparti",
                     "RTErdogan",
                     {
-                        "weight": 3173
+                        "weight": 3474
                     }
                 ],
                 [
                     "akparti",
                     "omerrcelik",
                     {
-                        "weight": 2455
+                        "weight": 2623
                     }
                 ],
                 [
                     "akparti",
                     "akgenclikgm",
                     {
-                        "weight": 51
+                        "weight": 56
                     }
                 ],
                 [
                     "akparti",
                     "AKGenclikGM",
                     {
-                        "weight": 51
+                        "weight": 56
                     }
                 ],
                 [
                     "akparti",
                     "rtedijital",
                     {
-                        "weight": 19
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "RTEdijital",
                     {
-                        "weight": 19
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "numankurtulmus",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "akparti",
                     "NumanKurtulmus",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -39570,812 +40549,812 @@
                     "akparti",
                     "fuatoktay",
                     {
-                        "weight": 37
+                        "weight": 41
                     }
                 ],
                 [
                     "akparti",
                     "keciorenbeltr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "mhilmiguler",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "sivasbeltr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "fatmasahin",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "FatmaSahin",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "avadursun",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "asimbalci",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "zeybekbaskan",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "mehmetozhaseki",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "avsenlikoglu",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "u_ibrahim_altay",
                     {
-                        "weight": 98
+                        "weight": 108
                     }
                 ],
                 [
                     "akparti",
                     "gaziantepbeld",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "akparti",
                     "GaziantepBeld",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "akparti",
                     "tahirbuyukakin",
                     {
-                        "weight": 58
+                        "weight": 64
                     }
                 ],
                 [
                     "akparti",
                     "baskanmemduhbyk",
                     {
-                        "weight": 58
+                        "weight": 64
                     }
                 ],
                 [
                     "akparti",
                     "ercancimen29",
                     {
-                        "weight": 58
+                        "weight": 64
                     }
                 ],
                 [
                     "akparti",
                     "musbelediye",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "MusBelediye",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "ntanglay",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "Ntanglay",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "savcisayan",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "akparti",
                     "SavciSayan",
                     {
-                        "weight": 19
+                        "weight": 21
                     }
                 ],
                 [
                     "akparti",
                     "hayrettingng",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "sirnakbel",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "SirnakBel",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "belediye51",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "baskanzorluoglu",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "dromerselimalan",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "akparti",
                     "dr_faruk_ozlu",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "Dr_Faruk_Ozlu",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "crmbelediyesi",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "akparti",
                     "afyonbelediyesi",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "akparti",
                     "mustafademirbsb",
                     {
-                        "weight": 58
+                        "weight": 64
                     }
                 ],
                 [
                     "akparti",
                     "evrendincertr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "avhamzadag",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "akkadingm",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "akparti",
                     "AKKADINGM",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "akparti",
                     "mustafaelitas",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "yuregirbld",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "ciftcibnymn",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "daricabeltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "Daricabeltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "avniorki",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "AvniOrki",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "termebelediyesi",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "TermeBelediyesi",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "mehmetsekmen",
                     {
-                        "weight": 58
+                        "weight": 64
                     }
                 ],
                 [
                     "akparti",
                     "bagcilarbld",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "BagcilarBld",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "ilhanocaklisile",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "murataydintr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "ahmetcinpendik",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "sehzadebelediye",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "merambelediyesi",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "MeramBelediyesi",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "yasinkartoglu",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "sanliurfabld",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "akparti",
                     "tokatbelediye",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "TokatBelediye",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "rizebelediye",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "malatyabeltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "MalatyaBelTr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "akaraismailoglu",
                     {
-                        "weight": 46
+                        "weight": 51
                     }
                 ],
                 [
                     "akparti",
                     "pursaklarbld",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "muratkosemamak",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "MuratKoseMamak",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "cubukbelediyesi",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "tuncerkaplan",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "omerrarisoy",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "uskudarbld",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "ismetyildirimtr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "drsadiyazici",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "zinnurbuyukgoz",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "mehmetsavran50",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "usakbld",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "avhilmibilgin",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "baskanozdemirr",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "osmanzolan",
                     {
-                        "weight": 38
+                        "weight": 42
                     }
                 ],
                 [
                     "akparti",
                     "servetramazann",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "basdegirmen32",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "hibrahimasgin",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "HibrahimASGIN",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "selahattingrkn",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "mehmet_yarka",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "Mehmet_Yarka",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "yucelyilmazyy",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "zabeyazgul",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "alinuraktas70",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "Alinuraktas70",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "erdalarikan12",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "Erdalarikan12",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "baskansaygili71",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "eyuperoglu60",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "EyupEroglu60",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akparti",
                     "sahin_serifoglu",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "akparti",
                     "murat_kurum",
                     {
-                        "weight": 35
+                        "weight": 39
                     }
                 ],
                 [
                     "akparti",
                     "drfahrettinkoca",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "varank",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "prof_mahmutozer",
                     {
-                        "weight": 44
+                        "weight": 49
                     }
                 ],
                 [
                     "akparti",
                     "mevlutcavusoglu",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "vahitkirisci",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "akparti",
                     "fatih_donmez",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "mehmetnuriersoy",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "bybekirbozdag",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "akparti",
                     "suleymansoylu",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "akparti",
                     "bilimerzurum",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "bitlisbld",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "BitlisBld",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "akparti",
                     "balikesirbld",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "duzcebld",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "bingolbel",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "aksaraybel",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "buyuksehirkm",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "akparti",
                     "deryayanikashb",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "akparti",
                     "tcbestepe",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
@@ -40396,7 +41375,7 @@
                     "mehmetsekmen",
                     "bilimerzurum",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ]
             ]
@@ -40457,7 +41436,7 @@
                     "gaziantep",
                     "nurda\u011f\u0131",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40465,7 +41444,7 @@
                     "gaziantep",
                     "i\u0307slahiye",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40473,7 +41452,7 @@
                     "gaziantep",
                     "deprem",
                     {
-                        "weight": 20,
+                        "weight": 22,
                         "weight_plain": 0
                     }
                 ],
@@ -40481,7 +41460,7 @@
                     "gaziantep",
                     "gaziantepb\u00fcy\u00fck\u015fehir",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40489,7 +41468,7 @@
                     "nurda\u011f\u0131",
                     "i\u0307slahiye",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40497,7 +41476,7 @@
                     "nurda\u011f\u0131",
                     "deprem",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40505,7 +41484,7 @@
                     "i\u0307slahiye",
                     "deprem",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40513,7 +41492,7 @@
                     "deprem",
                     "\u00f6nceinsan",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40521,7 +41500,7 @@
                     "deprem",
                     "gaziantepb\u00fcy\u00fck\u015fehir",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -40529,7 +41508,7 @@
                     "ad\u0131yaman",
                     "giresun",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ]

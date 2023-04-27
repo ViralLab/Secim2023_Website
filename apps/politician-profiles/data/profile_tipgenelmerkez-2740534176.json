@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "2740534176",
         "name": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi",
@@ -8,6 +8,41 @@
         "description": "T\u0130P Resmi Twitter Hesab\u0131",
         "screen_name": "tipgenelmerkez",
         "stats": {
+            "2023-04-27": {
+                "status": 6449,
+                "friends": 7,
+                "followers": 566124
+            },
+            "2023-04-26": {
+                "status": 6434,
+                "friends": 7,
+                "followers": 565021
+            },
+            "2023-04-25": {
+                "status": 6412,
+                "friends": 7,
+                "followers": 564183
+            },
+            "2023-04-24": {
+                "status": 6395,
+                "friends": 7,
+                "followers": 564020
+            },
+            "2023-04-23": {
+                "status": 6371,
+                "friends": 7,
+                "followers": 562717
+            },
+            "2023-04-22": {
+                "status": 6357,
+                "friends": 7,
+                "followers": 561217
+            },
+            "2023-04-21": {
+                "status": 6341,
+                "friends": 7,
+                "followers": 559773
+            },
             "2023-04-20": {
                 "status": 6332,
                 "friends": 7,
@@ -34523,20 +34558,756 @@
                 "nfav": 0,
                 "isRt": true,
                 "isQuote": false
+            },
+            "1650251644838223872": {
+                "created_at": "Sun Apr 23 21:33:46 +0000 2023",
+                "text": "RT @erkbas: \u0130stanbul Bayrampa\u015fa Se\u00e7im \u0130rtibat B\u00fcromuzu halk\u0131m\u0131z\u0131n co\u015fkusu ve g\u00fcnden g\u00fcne b\u00fcy\u00fcyen deste\u011fiyle a\u00e7t\u0131k.\n\n\u00c7ocuklar\u0131m\u0131z\u0131n ve \u00fclkem\u2026",
+                "nretweet": 180,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650248222990893062": {
+                "created_at": "Sun Apr 23 21:20:11 +0000 2023",
+                "text": "RT @KampanyaSenin: Milyonlarca liral\u0131k reklamlara ihtiyac\u0131m\u0131z yok.\n\nBiz emek\u00e7ileriz, o meclise girece\u011fiz!\n#Halk\u0131nKampanyas\u0131 #T\u0130PSeninMeclis\u2026",
+                "nretweet": 80,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650236741171793923": {
+                "created_at": "Sun Apr 23 20:34:33 +0000 2023",
+                "text": "RT @TipIstanbul: \u0130stanbul 2. B\u00f6lge Milletvekili Aday\u0131m\u0131z M\u0131sra \u00d6z, bug\u00fcn \u00c7a\u011fda\u015f Ya\u015fam\u0131 Destekleme Derne\u011fi 23 Nisan etkinli\u011fine kat\u0131ld\u0131, ard\u2026",
+                "nretweet": 45,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650230122828513282": {
+                "created_at": "Sun Apr 23 20:08:15 +0000 2023",
+                "text": "\u00c7ok g\u00fczeldin Bayrampa\u015fa!\n\nGenel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f ve \u0130stanbul 2. B\u00f6lge Mv. Adaylar\u0131m\u0131z Ahmet \u015e\u0131k ile M\u0131sra \u00d6z'\u00fcn\u2026 https://t.co/xMy5CnkxZS",
+                "nretweet": 300,
+                "nfav": 2950,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650216084081917952": {
+                "created_at": "Sun Apr 23 19:12:28 +0000 2023",
+                "text": "RT @KampanyaSenin: Adana Milletvekili Aday\u0131m\u0131z Duygu Y\u0131lmaz:\n\n\"Y\u00fcz binlerce \u00f6\u011fretmenden bir tanesiyim. \u00d6\u011fretmenli\u011fi bilin\u00e7li olarak kimliks\u2026",
+                "nretweet": 58,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650215187297837056": {
+                "created_at": "Sun Apr 23 19:08:54 +0000 2023",
+                "text": "RT @KampanyaSenin: MYK \u00dcyemiz ve Mersin Milletvekili Aday\u0131m\u0131z Hakan G\u00fcne\u015f:\n\n\"T\u0130P, halk\u0131n suretinden bir meclis yaratma \u00e7abas\u0131nda. Sizleri s\u2026",
+                "nretweet": 47,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650207704676171777": {
+                "created_at": "Sun Apr 23 18:39:10 +0000 2023",
+                "text": "Et ve S\u00fct Kurumu \u00f6n\u00fcnde metreler s\u00fcren kuyruklar #Erdo\u011fanlaM\u00fcmk\u00fcn https://t.co/Xe5NktYmxr",
+                "nretweet": 347,
+                "nfav": 1700,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650195143792754689": {
+                "created_at": "Sun Apr 23 17:49:16 +0000 2023",
+                "text": "1 Dolar 19,40 / 1 Euro 21,53 Lira! #Erdo\u011fanlaM\u00fcmk\u00fcn https://t.co/BX7dRQBgqU",
+                "nretweet": 739,
+                "nfav": 4726,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650182753294471171": {
+                "created_at": "Sun Apr 23 17:00:01 +0000 2023",
+                "text": "Her konuda uzla\u015famad\u0131\u011f\u0131n\u0131z partilerle neden ayn\u0131 ittifaktas\u0131n\u0131z? Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn s\u0131k\u00e7a sorulan\u2026 https://t.co/VWYyUNqzYA",
+                "nretweet": 111,
+                "nfav": 390,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650182749926625280": {
+                "created_at": "Sun Apr 23 17:00:01 +0000 2023",
+                "text": "Kad\u0131nlar meclise y\u00fcr\u00fcyor, #\u0130stanbulS\u00f6zle\u015fmesi geri geliyor.\n\nYar\u0131 yolda b\u0131rakan ta\u015f olsun!\n#T\u0130PSeninMeclisSenin https://t.co/KY8GfQFBBb",
+                "nretweet": 180,
+                "nfav": 1204,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650165648448798720": {
+                "created_at": "Sun Apr 23 15:52:03 +0000 2023",
+                "text": "So\u011fan\u0131n kilosu 30 lira! #Erdo\u011fanlaM\u00fcmk\u00fcn https://t.co/4FTRWI8goq",
+                "nretweet": 578,
+                "nfav": 3737,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650162408969707521": {
+                "created_at": "Sun Apr 23 15:39:11 +0000 2023",
+                "text": "RT @TipIstanbul: Bayrampa\u015fa Se\u00e7im \u0130rtibat B\u00fcromuzun a\u00e7\u0131l\u0131\u015f\u0131 i\u00e7in topland\u0131k!\n\n#T\u0130PSeninMeclisSenin https://t.co/WN5asgl9iU",
+                "nretweet": 131,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650157036720607233": {
+                "created_at": "Sun Apr 23 15:17:50 +0000 2023",
+                "text": "RT @tipsakarya: T\u0130P Senin, Sakarya Senin!\n\nGenel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn'\u00fcn kat\u0131l\u0131m\u0131yla yap\u0131lacak olan 28. D\u00f6nem milletvekili adayla\u2026",
+                "nretweet": 48,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650141222571319297": {
+                "created_at": "Sun Apr 23 14:15:00 +0000 2023",
+                "text": "\"Tek Adam diye \u00e7\u0131kt\u0131\u011f\u0131n\u0131z yolda \u00e7ocuklar\u0131 tek \u00f6\u011f\u00fcnle ge\u00e7inmeye mahkum ettiniz.\"\n\nGenel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f'\u0131n\u2026 https://t.co/s3mQd7bKFq",
+                "nretweet": 206,
+                "nfav": 1571,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650133672677326852": {
+                "created_at": "Sun Apr 23 13:45:00 +0000 2023",
+                "text": "\u015ee\u015f kap\u0131s\u0131n\u0131 yekle, S\u00fclale Devri'ni zevkle kapat\u0131yorsan #Halk\u0131nKampanyas\u0131 Malzeme \u00c7antas\u0131'na yeni eklenen g\u00f6rseller\u2026 https://t.co/rRzXYj3B8P",
+                "nretweet": 182,
+                "nfav": 1037,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650113949797580800": {
+                "created_at": "Sun Apr 23 12:26:37 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f TBMM Genel Kurulu #23Nisan \u00d6zel Oturumu\u2019nda konu\u015fuyor https://t.co/SDStvjryMX",
+                "nretweet": 705,
+                "nfav": 3512,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650104233440559110": {
+                "created_at": "Sun Apr 23 11:48:01 +0000 2023",
+                "text": "1. T\u0130P'ten bu yana sosyalizm m\u00fccadelemizin par\u00e7as\u0131 olan, Sosyalist T\u00fcrkiye Partisi'nin genel ba\u015fkanl\u0131\u011f\u0131n\u0131 \u00fcstlenen\u2026 https://t.co/MPXwBxLjvk",
+                "nretweet": 172,
+                "nfav": 1011,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650097832450224128": {
+                "created_at": "Sun Apr 23 11:22:35 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f, ilerleyen saatlerde TBMM Genel Kurulu #23Nisan \u00f6zel oturumunda s\u00f6z alacak.",
+                "nretweet": 71,
+                "nfav": 542,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650092148975362048": {
+                "created_at": "Sun Apr 23 11:00:00 +0000 2023",
+                "text": "\u0130ttifaklar se\u00e7imi nas\u0131l etkileyecek? Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn s\u0131k\u00e7a sorulan sorular\u0131 yan\u0131tlad\u0131.   \n\nTam\u2026 https://t.co/xmGCIczSyY",
+                "nretweet": 90,
+                "nfav": 395,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650084108733669377": {
+                "created_at": "Sun Apr 23 10:28:03 +0000 2023",
+                "text": "RT @tipavusturya: Hatay Milletvekilimiz ve Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Bar\u0131\u015f Atay, 24 Nisan'da Viyana'ya geliyor! T\u00fcm yolda\u015flar\u0131m\u0131z\u0131 halk bulu\u2026",
+                "nretweet": 47,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650081465793650688": {
+                "created_at": "Sun Apr 23 10:17:33 +0000 2023",
+                "text": "RT @TipliOgrenciler: \"Son 21!\" https://t.co/WK1CUWv2H0",
+                "nretweet": 388,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650070107794681859": {
+                "created_at": "Sun Apr 23 09:32:25 +0000 2023",
+                "text": "RT @tipalmanya: T\u00fcrkiye \u0130\u015f\u00e7i Partisi Genel Ba\u015fkan Yard\u0131mc\u0131s\u0131 ve Hatay Milletvekili @barisatay e\u015fli\u011finde ger\u00e7ekle\u015ftirilecek halk bulu\u015fmas\u0131na\u2026",
+                "nretweet": 45,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650070063129427969": {
+                "created_at": "Sun Apr 23 09:32:14 +0000 2023",
+                "text": "RT @tip_isvicre: Hatay milletvekilimiz ve genel ba\u015fkan yard\u0131mc\u0131m\u0131z Bar\u0131\u015f Atay, 25 Nisan'da Z\u00fcrih'e geliyor! T\u00fcm yolda\u015flar\u0131m\u0131z\u0131 halk bulu\u015fma\u2026",
+                "nretweet": 33,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650063390017048576": {
+                "created_at": "Sun Apr 23 09:05:43 +0000 2023",
+                "text": "Egemenli\u011fi Saray\u2019dan al\u0131p halk\u0131n egemenli\u011fi i\u00e7in ilk ad\u0131m\u0131 atan Meclis\u2019in kurulu\u015funun 103. y\u0131ld\u00f6n\u00fcm\u00fcn\u00fc kutluyor, ba\u2026 https://t.co/HTXwHZ4dHa",
+                "nretweet": 1363,
+                "nfav": 8515,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649820361096323075": {
+                "created_at": "Sat Apr 22 17:00:00 +0000 2023",
+                "text": "Hak\u00e7a, e\u015fit bir d\u00fczen i\u00e7in...\n\n\u0130\u015f\u00e7iler meclise y\u00fcr\u00fcyor, yar\u0131 yolda b\u0131rakan ta\u015f olsun!\n#T\u0130PSeninMeclisSenin https://t.co/ntqBzUPdA1",
+                "nretweet": 397,
+                "nfav": 3050,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649798304400564227": {
+                "created_at": "Sat Apr 22 15:32:22 +0000 2023",
+                "text": "RT @TipMugla: Fethiye \u00e7ok g\u00fczel gelsenize \ud83d\ude09\n\n#T\u0130PSenin Mu\u011fla Senin. https://t.co/nP6MHHxNfZ",
+                "nretweet": 105,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649797711569248258": {
+                "created_at": "Sat Apr 22 15:30:00 +0000 2023",
+                "text": "\u0130zmir'den Antalya'ya, Antalya'dan Ankara'ya dola\u015fan bu ses eme\u011fin, kad\u0131n\u0131n, gencin sesi. Senin sesin!\n\nOylar T\u0130P'e,\u2026 https://t.co/4PefH83I8H",
+                "nretweet": 761,
+                "nfav": 6387,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649797417498288134": {
+                "created_at": "Sat Apr 22 15:28:50 +0000 2023",
+                "text": "RT @tipfransa: T\u0130P Fransa Halk Bulu\u015fmas\u0131 | 19.04.2023\n#TipSeninMeclisSenin https://t.co/8HOPLvUGdW",
+                "nretweet": 178,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649797212124372994": {
+                "created_at": "Sat Apr 22 15:28:01 +0000 2023",
+                "text": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi Mersin Milletvekili Aday Tan\u0131t\u0131m\u0131 #Canl\u0131 https://t.co/e05SoBW1zj",
+                "nretweet": 187,
+                "nfav": 1602,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649787588117504000": {
+                "created_at": "Sat Apr 22 14:49:47 +0000 2023",
+                "text": "RT @TipIstanbul: \u0130stanbul 2. B\u00f6lge Milletvekili Aday\u0131m\u0131z M\u0131sra \u00d6z, Ortak\u00f6y \u0130skele'deki stant \u00e7al\u0131\u015fmam\u0131za kat\u0131ld\u0131, ard\u0131ndan Ortak\u00f6y esnaf\u0131n\u0131\u2026",
+                "nretweet": 90,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649785641935286278": {
+                "created_at": "Sat Apr 22 14:42:03 +0000 2023",
+                "text": "RT @KampanyaSenin: Adana Milletvekili Adaylar\u0131m\u0131z\u0131 Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f'\u0131n kat\u0131ld\u0131\u011f\u0131 etkinlikle tan\u0131tt\u0131k.\n\nY\u00fcr\u00fcyoruz, birbirimizi asl\u2026",
+                "nretweet": 53,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649739827393486848": {
+                "created_at": "Sat Apr 22 11:40:00 +0000 2023",
+                "text": "Ekim Devrimi'nin \u00f6nderi #VladimirLenin 153 ya\u015f\u0131nda.\n\nM\u00fccadele miras\u0131n\u0131 gelece\u011fe ta\u015f\u0131yoruz! https://t.co/9h9H6eJuUu",
+                "nretweet": 441,
+                "nfav": 3210,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649733954352869378": {
+                "created_at": "Sat Apr 22 11:16:39 +0000 2023",
+                "text": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi Adana Milletvekili Aday Tan\u0131t\u0131m\u0131 #Canl\u0131 https://t.co/LodIOvoV10",
+                "nretweet": 172,
+                "nfav": 1213,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649733882168631298": {
+                "created_at": "Sat Apr 22 11:16:22 +0000 2023",
+                "text": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi 5 y\u0131lda neleri ba\u015fard\u0131?  Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn s\u0131k\u00e7a sorulan sorular\u0131 yan\u0131tlad\u0131\u2026 https://t.co/HxAXopw5Yp",
+                "nretweet": 110,
+                "nfav": 584,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649706020124368898": {
+                "created_at": "Sat Apr 22 09:25:39 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Bar\u0131\u015f Atay Meng\u00fcll\u00fco\u011flu'nun kat\u0131l\u0131m\u0131yla Hollanda'n\u0131n Schiedam ve Eindhoven \u015fehirlerinde ha\u2026 https://t.co/kPBVTIKGXm",
+                "nretweet": 143,
+                "nfav": 1436,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649703097915129857": {
+                "created_at": "Sat Apr 22 09:14:03 +0000 2023",
+                "text": "RT @tipfransa: Paris'teki bulu\u015fmam\u0131zda bizi yaln\u0131z b\u0131rakmayan t\u00fcm dostlar\u0131m\u0131za te\u015fekk\u00fcr ederiz. Oylar T\u0130P'e, oylar \u00e7ark ba\u015fa\u011fa! #TipSeninMe\u2026",
+                "nretweet": 93,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649694161476497410": {
+                "created_at": "Sat Apr 22 08:38:32 +0000 2023",
+                "text": "RT @tipgenelmerkez: AKP'den ancak hep birlikte, yan yana, omuz omuza olursak kurtulaca\u011f\u0131z. \n\nBa\u011f\u0131\u015f \u00e7a\u011fr\u0131m\u0131za cevap veren binlerce yurtta\u015f\u0131m\u2026",
+                "nretweet": 2623,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649691588753252352": {
+                "created_at": "Sat Apr 22 08:28:19 +0000 2023",
+                "text": "RT @tipgenelmerkez: Merakla beklenen g\u00fcn geliyor.\nTRT Yarg\u0131, \u00e7ok yak\u0131nda yay\u0131n hayat\u0131na ba\u015fl\u0131yor.\n15 May\u0131s\u2019ta g\u00f6r\u00fc\u015fmek, pardon hesapla\u015fmak\u2026",
+                "nretweet": 2110,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649513931319156736": {
+                "created_at": "Fri Apr 21 20:42:22 +0000 2023",
+                "text": "Sera Kad\u0131gil:\n\n\"\u015eimdiki gen\u00e7 nesil haks\u0131zl\u0131klar\u0131, hak yiyenleri g\u00f6rerek b\u00fcy\u00fcd\u00fc. O y\u00fczden ilkeli bir duru\u015f ar\u0131yor. \u00c7\u2026 https://t.co/N6FOINQRWT",
+                "nretweet": 61,
+                "nfav": 549,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649513929268252673": {
+                "created_at": "Fri Apr 21 20:42:21 +0000 2023",
+                "text": "Parti S\u00f6zc\u00fcm\u00fcz Sera Kad\u0131gil, S\u00f6zc\u00fc TV ekranlar\u0131nda \u0130pek \u00d6zbey ile Nokta At\u0131\u015f\u0131 program\u0131na konuk oldu:\n\n\"#\u0130lkOyumT\u0130Pe\u2026 https://t.co/CIpYZcYr32",
+                "nretweet": 228,
+                "nfav": 2177,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649491347529777159": {
+                "created_at": "Fri Apr 21 19:12:37 +0000 2023",
+                "text": "AKP'den ancak hep birlikte, yan yana, omuz omuza olursak kurtulaca\u011f\u0131z. \n\nBa\u011f\u0131\u015f \u00e7a\u011fr\u0131m\u0131za cevap veren binlerce yurtt\u2026 https://t.co/ZgjD3T83e7",
+                "nretweet": 2623,
+                "nfav": 23046,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649471325029670945": {
+                "created_at": "Fri Apr 21 17:53:04 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f, Spektrum Podcast'te Son D\u00fczl\u00fck program\u0131n\u0131n konu\u011fu oldu.\n\nSpotify \u00fczerinden dinleyebilir\u2026 https://t.co/aUNPVqAGW7",
+                "nretweet": 81,
+                "nfav": 387,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649442876512665601": {
+                "created_at": "Fri Apr 21 16:00:01 +0000 2023",
+                "text": "Merakla beklenen g\u00fcn geliyor.\nTRT Yarg\u0131, \u00e7ok yak\u0131nda yay\u0131n hayat\u0131na ba\u015fl\u0131yor.\n15 May\u0131s\u2019ta g\u00f6r\u00fc\u015fmek, pardon hesapla\u015f\u2026 https://t.co/kbQNtNmjnB",
+                "nretweet": 2110,
+                "nfav": 12884,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649435091930693633": {
+                "created_at": "Fri Apr 21 15:29:05 +0000 2023",
+                "text": "RT @erkbas: Say\u0131n Kemal K\u0131l\u0131\u00e7daro\u011flu\u2019na Ad\u0131yaman ziyaretinde sabahtan bu yana s\u00fcren ve iktidar taraf\u0131ndan provokasyon amac\u0131yla planland\u0131\u011f\u0131\u2026",
+                "nretweet": 9731,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649417421302779904": {
+                "created_at": "Fri Apr 21 14:18:52 +0000 2023",
+                "text": "Erkan Ba\u015f:\n\n\"\u00dcz\u00fclerek s\u00f6yl\u00fcyorum, '\u00fcnl\u00fc' diye tart\u0131\u015f\u0131lan isimlerden bir tanesi M\u0131sra \u00d6z. Evlad\u0131n\u0131 tren kazas\u0131nda ka\u2026 https://t.co/7nru4A8O9e",
+                "nretweet": 253,
+                "nfav": 2292,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649417419134230531": {
+                "created_at": "Fri Apr 21 14:18:52 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f:\n\n\"Hayalimi s\u00f6yl\u00fcyorum; TRT Yarg\u0131 diye bir kanal olu\u015ftural\u0131m. B\u00fct\u00fcn bu yarg\u0131lama s\u00fcre\u00e7le\u2026 https://t.co/OZF2AT3dpR",
+                "nretweet": 1425,
+                "nfav": 11459,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649403335668113409": {
+                "created_at": "Fri Apr 21 13:22:54 +0000 2023",
+                "text": "Halk\u0131n K\u0131rm\u0131z\u0131 \u00c7izgileri #fatura\n\nGelir garantisi olmayan yurtta\u015flar\u0131m\u0131z\u0131n enerji kullan\u0131m\u0131 faturalar\u0131n\u0131 kamu b\u00fct\u00e7e\u2026 https://t.co/UlxdBrR6X2",
+                "nretweet": 150,
+                "nfav": 973,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649370510684311552": {
+                "created_at": "Fri Apr 21 11:12:28 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f, Medyascope ekranlar\u0131nda G\u00fcl\u00e7in Karaba\u011f ve I\u015f\u0131n Eli\u00e7in ile Oyunuzu \u0130steyenler Anlat\u0131yor\u2026 https://t.co/E5tSwP0Yv9",
+                "nretweet": 87,
+                "nfav": 488,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649366540511264770": {
+                "created_at": "Fri Apr 21 10:56:41 +0000 2023",
+                "text": "T\u00fcrkiye hangi ko\u015fullarda se\u00e7imlere gidiyor?\n\nGenel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn s\u0131k\u00e7a sorulan sorular\u0131 yan\u0131tlad\u0131.\u2026 https://t.co/uhyHyI0aKv",
+                "nretweet": 202,
+                "nfav": 877,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649362811011645443": {
+                "created_at": "Fri Apr 21 10:41:52 +0000 2023",
+                "text": "RT @TipliOgrenciler: \"Son 23!\" https://t.co/K5t1QNdxrr",
+                "nretweet": 382,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649358864695848965": {
+                "created_at": "Fri Apr 21 10:26:11 +0000 2023",
+                "text": "RT @KampanyaSenin: B\u0130-TE-CEK! \u270a\n\n#Halk\u0131nKampanyas\u0131 #T\u0130PSeninMeclisSenin https://t.co/1N1BwpLA6R",
+                "nretweet": 83,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649344450789818368": {
+                "created_at": "Fri Apr 21 09:28:55 +0000 2023",
+                "text": "RT @erkbas: \u201cYaprak d\u00f6ker bir yan\u0131m\u0131z\nBir yan\u0131m\u0131z bahar bah\u00e7e\u201d\n\nDepremde kaybetti\u011fimiz binlerce insan\u0131n ac\u0131s\u0131 y\u00fcreklerimizde ve benzer ac\u0131l\u2026",
+                "nretweet": 1946,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649294820790214656": {
+                "created_at": "Fri Apr 21 06:11:42 +0000 2023",
+                "text": "RT @tipgenelmerkez: Sosyal medyada ve sokak \u00e7al\u0131\u015fmalar\u0131nda s\u0131k\u00e7a kar\u015f\u0131la\u015ft\u0131\u011f\u0131m\u0131z sorular\u0131 Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn yan\u0131tlad\u0131.\u2026",
+                "nretweet": 366,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649294798212284417": {
+                "created_at": "Fri Apr 21 06:11:36 +0000 2023",
+                "text": "RT @tipgenelmerkez: Halk\u0131m\u0131z\u0131n yan\u0131nda, halk\u0131m\u0131z\u0131n katk\u0131lar\u0131yla, #Halk\u0131nKampanyas\u0131'yla y\u00fcr\u00fcyoruz.\n\nSiz de T\u00fcrkiye \u0130\u015f\u00e7i Partisi'ne ba\u011f\u0131\u015fta b\u2026",
+                "nretweet": 496,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649118567386710031": {
+                "created_at": "Thu Apr 20 18:31:20 +0000 2023",
+                "text": "RT @KampanyaSenin: \u0130stanbul 2. B\u00f6lge Milletvekili Adaylar\u0131m\u0131z Ahmet \u015e\u0131k ve M\u0131sra \u00d6z, Berkin Elvan'\u0131n annesi G\u00fcls\u00fcm Elvan'a ziyarette bulund\u2026",
+                "nretweet": 108,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649113091345465350": {
+                "created_at": "Thu Apr 20 18:09:34 +0000 2023",
+                "text": "Sosyal medyada ve sokak \u00e7al\u0131\u015fmalar\u0131nda s\u0131k\u00e7a kar\u015f\u0131la\u015ft\u0131\u011f\u0131m\u0131z sorular\u0131 Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Do\u011fan Erg\u00fcn yan\u0131tlad\u2026 https://t.co/bFaLs3gPfj",
+                "nretweet": 366,
+                "nfav": 1118,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649103133669310473": {
+                "created_at": "Thu Apr 20 17:30:00 +0000 2023",
+                "text": "Halk\u0131m\u0131z\u0131n yan\u0131nda, halk\u0131m\u0131z\u0131n katk\u0131lar\u0131yla, #Halk\u0131nKampanyas\u0131'yla y\u00fcr\u00fcyoruz.\n\nSiz de T\u00fcrkiye \u0130\u015f\u00e7i Partisi'ne ba\u011f\u0131\u015f\u2026 https://t.co/jJJPh6l396",
+                "nretweet": 496,
+                "nfav": 3597,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649089512667222017": {
+                "created_at": "Thu Apr 20 16:35:53 +0000 2023",
+                "text": "RT @TipliOgrenciler: \"Son 24!\" https://t.co/HDWZaVc3u8",
+                "nretweet": 175,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649074070858747904": {
+                "created_at": "Thu Apr 20 15:34:31 +0000 2023",
+                "text": "\"Korkmadan, y\u0131lmadan, b\u0131kmadan g\u00fc\u00e7l\u00fcn\u00fcn de\u011fil hakl\u0131n\u0131n yan\u0131nda olaca\u011f\u0131z. S\u00f6z veriyoruz!\"\n\nParti S\u00f6zc\u00fcm\u00fcz Sera Kad\u0131g\u2026 https://t.co/q0Sxw7rIHK",
+                "nretweet": 205,
+                "nfav": 2171,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649053826673172484": {
+                "created_at": "Thu Apr 20 14:14:04 +0000 2023",
+                "text": "RT @KampanyaSenin: #Halk\u0131nKampanyas\u0131, halk\u0131n kampanyas\u0131d\u0131r.\n\n\ud83e\uddd0Her yere T\u0130P yaz\u0131yoruz, g\u00f6rmeyen kalm\u0131yor. https://t.co/kJbkJZKB9u",
+                "nretweet": 137,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649048562645499904": {
+                "created_at": "Thu Apr 20 13:53:09 +0000 2023",
+                "text": "RT @KampanyaSenin: Parti S\u00f6zc\u00fcm\u00fcz ve \u0130stanbul 1. B\u00f6lge Milletvekili Aday\u0131m\u0131z Sera Kad\u0131gil, Erenk\u00f6y Semt Pazar\u0131'nda yurtta\u015flar\u0131m\u0131zla bulu\u015ftu\u2026",
+                "nretweet": 69,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649044293192122371": {
+                "created_at": "Thu Apr 20 13:36:11 +0000 2023",
+                "text": "Halk\u0131n K\u0131rm\u0131z\u0131 \u00c7izgileri #Ekonomi\n\nTa\u015feron \u00e7al\u0131\u015ft\u0131rmay\u0131 yasaklayaca\u011f\u0131z. #T\u0130PSenin https://t.co/fNYmp5VtDA",
+                "nretweet": 249,
+                "nfav": 1128,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649030644662513664": {
+                "created_at": "Thu Apr 20 12:41:57 +0000 2023",
+                "text": "RT @KampanyaSenin: Ankara Milletvekili Aday\u0131m\u0131z Av. Yelda Ko\u00e7ak, ANKA Haber Ajans\u0131'na konu\u015ftu:\n\n\"T\u00fcm T\u00fcrkiye g\u00f6r\u00fcyor: Kad\u0131nlar\u0131n kazan\u0131lm\u0131\u015f\u2026",
+                "nretweet": 79,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648679159462350854": {
+                "created_at": "Wed Apr 19 13:25:17 +0000 2023",
+                "text": "RT @KampanyaSenin: \u0130zmir Mv. Aday\u0131m\u0131z \u0130rfan De\u011firmenci, Enver Aysever YouTube kanal\u0131n\u0131n konu\u011fu oldu:\n\n\u201c\u0130zmir laikli\u011fin kalesi, laiklik T\u0130P\u2019\u2026",
+                "nretweet": 155,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648677647033966593": {
+                "created_at": "Wed Apr 19 13:19:16 +0000 2023",
+                "text": "RT @KampanyaSenin: Mu\u011fla Mv. Aday\u0131m\u0131z Mehmet Aslantu\u011f, Fatih Portakal YouTube kanal\u0131n\u0131n konu\u011fu oldu:\n\n\"Hayat\u0131m boyunca bir tamahk\u00e2rl\u0131\u011fa hi\u00e7\u2026",
+                "nretweet": 238,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648661345439563778": {
+                "created_at": "Wed Apr 19 12:14:30 +0000 2023",
+                "text": "Londra'da Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Bar\u0131\u015f Atay Meng\u00fcll\u00fco\u011flu'nun kat\u0131l\u0131m\u0131yla halk bulu\u015fmam\u0131z\u0131 ger\u00e7ekle\u015ftirdik.\n\nKat\u0131l\u2026 https://t.co/pByrKCR0Oj",
+                "nretweet": 209,
+                "nfav": 2215,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648635867978772481": {
+                "created_at": "Wed Apr 19 10:33:15 +0000 2023",
+                "text": "RT @tipgenelmerkez: U\u00e7aklar\u0131nla vedala\u015f! https://t.co/Mwjl5cpOO6",
+                "nretweet": 2243,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648630075653341185": {
+                "created_at": "Wed Apr 19 10:10:14 +0000 2023",
+                "text": "RT @KampanyaSenin: \u0130stanbul Mv. Aday\u0131m\u0131z M\u0131sra \u00d6z, S\u00f6zc\u00fc TV'nin konu\u011fu oldu:\n\n\"Hukukun \u00e7al\u0131\u015fmas\u0131n\u0131n \u00f6n\u00fcnde siyasi bir engel oldu\u011funu d\u00fc\u015f\u00fcn\u00fc\u2026",
+                "nretweet": 116,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648392726969196546": {
+                "created_at": "Tue Apr 18 18:27:06 +0000 2023",
+                "text": "#Halk\u0131nKampanyas\u0131 sizin katk\u0131lar\u0131n\u0131zla emek\u00e7iyi, genci, kad\u0131n\u0131 meclise ta\u015f\u0131yacak.\n\nSiz de T\u00fcrkiye \u0130\u015f\u00e7i Partisi'ni,\u2026 https://t.co/Ez0Q02RV3Y",
+                "nretweet": 514,
+                "nfav": 3700,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648382602359742481": {
+                "created_at": "Tue Apr 18 17:46:52 +0000 2023",
+                "text": "Aylin A\u00e7\u0131kg\u00f6z:\n\n\"Gen\u00e7li\u011fin enerjisi ve kad\u0131nlar\u0131n iradesinin verdi\u011fi temsiliyetle buraday\u0131m. Biz biliyoruz, 26 g\u00fcn\u2026 https://t.co/evWzK0SB14",
+                "nretweet": 68,
+                "nfav": 502,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648381559618019328": {
+                "created_at": "Tue Apr 18 17:42:43 +0000 2023",
+                "text": "PM \u00dcyemiz ve Hatay Milletvekili Aday\u0131m\u0131z Aylin A\u00e7\u0131kg\u00f6z:\n\n\"Yeni bir T\u00fcrkiye'yi in\u015fa edece\u011fiz. Antakyam\u0131z\u0131 b\u00fct\u00fcn k\u00fclt\u2026 https://t.co/VoET8RzPTG",
+                "nretweet": 70,
+                "nfav": 652,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648377741509640224": {
+                "created_at": "Tue Apr 18 17:27:33 +0000 2023",
+                "text": "\u0130stanbul Mv. Ahmet \u015e\u0131k, Hatay Milletvekili Aday Tan\u0131t\u0131m\u0131 etkinli\u011fimizde konu\u015ftu:\n\n\"Burada bir se\u00e7im \u00e7al\u0131\u015fmas\u0131 i\u00e7in\u2026 https://t.co/C9Lr1SV0H6",
+                "nretweet": 327,
+                "nfav": 3356,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648340619377475584": {
+                "created_at": "Tue Apr 18 15:00:03 +0000 2023",
+                "text": "Halk\u0131n K\u0131rm\u0131z\u0131 \u00c7izgileri'ni \u00e7ekiyoruz!\n\nMYK \u00dcyemiz Can Soyer ve \u0130stanbul \u0130l S\u00f6zc\u00fcm\u00fcz Melis Aky\u00fcrek'in sesinden 2023\u2026 https://t.co/QI7iI7mxr7",
+                "nretweet": 117,
+                "nfav": 536,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648336560188686340": {
+                "created_at": "Tue Apr 18 14:43:55 +0000 2023",
+                "text": "RT @erkbas: Yola \u00e7\u0131karken \u201cbizi sadece halk\u0131m\u0131z ayakta tutar\u201d demi\u015ftik. \u015eimdi halk\u0131n deste\u011fiyle meclise y\u00fcr\u00fcyor, halk\u0131n ba\u011f\u0131\u015flar\u0131yla kampan\u2026",
+                "nretweet": 1797,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648298312863285251": {
+                "created_at": "Tue Apr 18 12:11:56 +0000 2023",
+                "text": "U\u00e7aklar\u0131nla vedala\u015f! https://t.co/Mwjl5cpOO6",
+                "nretweet": 2243,
+                "nfav": 20620,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648285918460104706": {
+                "created_at": "Tue Apr 18 11:22:41 +0000 2023",
+                "text": "Hatay Milletvekili Aday\u0131m\u0131z Can Atalay, Eski Hatay Valisi ve Hatay \u0130l Sa\u011fl\u0131k M\u00fcd\u00fcr\u00fc hakk\u0131nda su\u00e7 duyurusunda bulund\u2026 https://t.co/DXBMFDITIG",
+                "nretweet": 502,
+                "nfav": 2733,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648280841158631424": {
+                "created_at": "Tue Apr 18 11:02:30 +0000 2023",
+                "text": "RT @tipgenelmerkez: \"\u0130\u015f\u00e7i \u00e7ocuklar\u0131na yetimli\u011fi kader olarak sunan iktidar\u0131 reddediyoruz. S\u0131rf bu y\u00fczden bile y\u0131k\u0131lmay\u0131 hak ediyorsunuz, y\u0131\u2026",
+                "nretweet": 459,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648280821332168706": {
+                "created_at": "Tue Apr 18 11:02:26 +0000 2023",
+                "text": "RT @tipgenelmerkez: #Halk\u0131nKampanyas\u0131 halk\u0131n katk\u0131lar\u0131yla b\u00fcy\u00fcyor. \n\nBir kuru\u015f hazine yard\u0131m\u0131 almayan T\u00fcrkiye \u0130\u015f\u00e7i Partisi, al\u0131nteriyle ya\u015f\u2026",
+                "nretweet": 825,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648278157571788800": {
+                "created_at": "Tue Apr 18 10:51:50 +0000 2023",
+                "text": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi'nin Hatay Milletvekili Adaylar\u0131 tan\u0131t\u0131l\u0131yor #Canl\u0131 https://t.co/ZrvORHzQu7",
+                "nretweet": 260,
+                "nfav": 2235,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648269453094797312": {
+                "created_at": "Tue Apr 18 10:17:15 +0000 2023",
+                "text": "RT @TipliOgrenciler: \"Son 26!\" https://t.co/fVI6s1pnYp",
+                "nretweet": 379,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648259685613551616": {
+                "created_at": "Tue Apr 18 09:38:26 +0000 2023",
+                "text": "Param\u0131z yoksa halk\u0131m\u0131z var!\n\n#Halk\u0131nKampanyas\u0131\n#T\u0130PSeninMeclisSenin https://t.co/vksei6HGw2",
+                "nretweet": 299,
+                "nfav": 1727,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648055142736973848": {
+                "created_at": "Mon Apr 17 20:05:40 +0000 2023",
+                "text": "Yar\u0131 yolda b\u0131rakan ta\u015f olsun, billboard yoksa duvarlar var!\n\n\u27a1\ufe0fhttps://t.co/GuY0wIGF2o\n#Halk\u0131nKampanyas\u0131\u2026 https://t.co/5Osseb6VL3",
+                "nretweet": 457,
+                "nfav": 3486,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648038687576317952": {
+                "created_at": "Mon Apr 17 19:00:16 +0000 2023",
+                "text": "#Halk\u0131nKampanyas\u0131 halk\u0131n katk\u0131lar\u0131yla b\u00fcy\u00fcyor. \n\nBir kuru\u015f hazine yard\u0131m\u0131 almayan T\u00fcrkiye \u0130\u015f\u00e7i Partisi, al\u0131nteriyle\u2026 https://t.co/z4gzggNtjp",
+                "nretweet": 825,
+                "nfav": 4324,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648014903905771520": {
+                "created_at": "Mon Apr 17 17:25:46 +0000 2023",
+                "text": "T\u00fcrkiye \u0130\u015f\u00e7i Partisi Ankara Milletvekili Aday Tan\u0131t\u0131m\u0131 #Canl\u0131 https://t.co/K7SSNJs7zE",
+                "nretweet": 335,
+                "nfav": 2557,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647993331992133632": {
+                "created_at": "Mon Apr 17 16:00:03 +0000 2023",
+                "text": "\"\u0130\u015f\u00e7i \u00e7ocuklar\u0131na yetimli\u011fi kader olarak sunan iktidar\u0131 reddediyoruz. S\u0131rf bu y\u00fczden bile y\u0131k\u0131lmay\u0131 hak ediyorsunuz\u2026 https://t.co/sscygHHpKe",
+                "nretweet": 459,
+                "nfav": 2995,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647957942967123969": {
+                "created_at": "Mon Apr 17 13:39:25 +0000 2023",
+                "text": "MYK \u00dcyemiz ve Antalya Milletvekili Aday\u0131m\u0131z Yunus Ba\u015faran:\n\n\"Paraya ihtiyac\u0131m\u0131z olmas\u0131na ra\u011fmen adayl\u0131k ba\u015fvurular\u0131\u2026 https://t.co/fyUl4Ht7yk",
+                "nretweet": 265,
+                "nfav": 1634,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647950842450911236": {
+                "created_at": "Mon Apr 17 13:11:12 +0000 2023",
+                "text": "Erkan Ba\u015f:\n\n\"Mecliste her partinin say\u0131s\u0131z patronu var, servetlerine servet kat\u0131yorlar. Peki, mecliste emek\u00e7ilerin\u2026 https://t.co/IPfEwDoeGj",
+                "nretweet": 126,
+                "nfav": 986,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647944450797101058": {
+                "created_at": "Mon Apr 17 12:45:49 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Erkan Ba\u015f, K\u00fc\u00e7\u00fck\u00e7ekmece Atakent Mahallesi halk\u0131yla bulu\u015ftu:\n\n\"Bu se\u00e7imde sand\u0131\u011fa gitti\u011fimizde bir\u2026 https://t.co/Keh5cPz77W",
+                "nretweet": 362,
+                "nfav": 3373,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647917830652809217": {
+                "created_at": "Mon Apr 17 11:00:02 +0000 2023",
+                "text": "RT @KampanyaSenin: \u0130zmir 2. B\u00f6lge Milletvekili Aday\u0131m\u0131z \u0130rfan De\u011firmenci:\n\n\"Tek ba\u015f\u0131na m\u00fccadele zor. Arkanda g\u00fc\u00e7l\u00fc bir siyasi \u00f6rg\u00fct\u00fcn olmal\u2026",
+                "nretweet": 143,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647906705643020289": {
+                "created_at": "Mon Apr 17 10:15:49 +0000 2023",
+                "text": "PM \u00dcyemiz ve Bursa 1. B\u00f6lge Milletvekili Aday\u0131m\u0131z Hakan Ko\u00e7ak, Nil\u00fcfer Se\u00e7im \u0130rtibat B\u00fcromuzun a\u00e7\u0131l\u0131\u015f\u0131nda konu\u015ftu:\u2026 https://t.co/uBVXWbxNsg",
+                "nretweet": 143,
+                "nfav": 772,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647894480660430850": {
+                "created_at": "Mon Apr 17 09:27:15 +0000 2023",
+                "text": "Fa\u015fist \u00e7eteler taraf\u0131ndan katledili\u015finin 24. y\u0131l d\u00f6n\u00fcm\u00fcnde yolda\u015f\u0131m\u0131z #H\u00fcseyinDuman\u2019\u0131 mezar\u0131 ba\u015f\u0131nda and\u0131k.\n\nH\u00fcseyi\u2026 https://t.co/e9Wp6hkD3J",
+                "nretweet": 179,
+                "nfav": 1039,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647855940333346817": {
+                "created_at": "Mon Apr 17 06:54:06 +0000 2023",
+                "text": "RT @tipgenelmerkez: Bug\u00fcn neredeydik?\n\nAit oldu\u011fumuz yerde, halk\u0131m\u0131z\u0131n aras\u0131nda. #T\u0130PSeninMeclisSenin https://t.co/efFIIDz1HD",
+                "nretweet": 525,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "TipIstanbul",
-                141
+                144
             ],
             [
                 "TipliOgrenciler",
-                137
+                141
             ],
             [
                 "erkbas",
-                99
+                103
             ],
             [
                 "tipizmiril",
@@ -34544,7 +35315,7 @@
             ],
             [
                 "tipgenelmerkez",
-                81
+                89
             ],
             [
                 "TipEkoloji",
@@ -34567,16 +35338,16 @@
                 40
             ],
             [
+                "KampanyaSenin",
+                40
+            ],
+            [
                 "tip_ankara",
                 34
             ],
             [
-                "KampanyaSenin",
-                27
-            ],
-            [
                 "TipMugla",
-                26
+                27
             ],
             [
                 "tipamed21",
@@ -34608,7 +35379,7 @@
             ],
             [
                 "barisatay",
-                16
+                17
             ],
             [
                 "sahmetsahmet",
@@ -34631,6 +35402,10 @@
                 12
             ],
             [
+                "tipsakarya",
+                11
+            ],
+            [
                 "ElbistanTip",
                 11
             ],
@@ -34640,10 +35415,6 @@
             ],
             [
                 "tipkonya",
-                10
-            ],
-            [
-                "tipsakarya",
                 10
             ],
             [
@@ -34730,7 +35501,7 @@
         "top-hashtags": [
             [
                 "T\u0130PSenin",
-                74
+                76
             ],
             [
                 "T\u0130PeKat\u0131l",
@@ -34745,16 +35516,16 @@
                 52
             ],
             [
+                "T\u0130PSeninMeclisSenin",
+                48
+            ],
+            [
                 "PartinleY\u00fcr\u00fc",
                 47
             ],
             [
                 "1May\u0131s",
                 47
-            ],
-            [
-                "T\u0130PSeninMeclisSenin",
-                42
             ],
             [
                 "canl\u0131",
@@ -34782,7 +35553,11 @@
             ],
             [
                 "\u0130stanbulS\u00f6zle\u015fmesi",
-                20
+                21
+            ],
+            [
+                "Halk\u0131nKampanyas\u0131",
+                19
             ],
             [
                 "ErkanBa\u015f",
@@ -34809,6 +35584,14 @@
                 10
             ],
             [
+                "Canl\u0131",
+                10
+            ],
+            [
+                "23Nisan",
+                10
+            ],
+            [
                 "EnesKara",
                 10
             ],
@@ -34825,15 +35608,7 @@
                 8
             ],
             [
-                "23Nisan",
-                8
-            ],
-            [
                 "Deprem",
-                8
-            ],
-            [
-                "Halk\u0131nKampanyas\u0131",
                 8
             ],
             [
@@ -34870,10 +35645,6 @@
             ],
             [
                 "15OcaktaKartalday\u0131z",
-                6
-            ],
-            [
-                "Canl\u0131",
                 6
             ],
             [
@@ -39983,87 +40754,171 @@
             "2023-04": [
                 [
                     "erkan",
-                    53
-                ],
-                [
-                    "ba\u015f",
-                    51
-                ],
-                [
-                    "\u0307pseninmeclissenin",
-                    42
+                    64
                 ],
                 [
                     "genel",
-                    38
+                    62
                 ],
                 [
-                    "ba\u015fkan\u0131m\u0131z",
-                    30
-                ],
-                [
-                    "ekranlar\u0131nda",
-                    28
+                    "ba\u015f",
+                    60
                 ],
                 [
                     "milletvekili",
-                    28
+                    48
+                ],
+                [
+                    "\u0307pseninmeclissenin",
+                    48
+                ],
+                [
+                    "ba\u015fkan\u0131m\u0131z",
+                    39
                 ],
                 [
                     "aday\u0131m\u0131z",
-                    25
+                    39
+                ],
+                [
+                    "ekranlar\u0131nda",
+                    30
                 ],
                 [
                     "program\u0131n\u0131n",
-                    19
+                    20
                 ],
                 [
                     "ti\u0307p",
-                    13
+                    18
                 ],
                 [
-                    "konu\u011fu",
-                    13
+                    "t\u00fcrkiye",
+                    18
+                ],
+                [
+                    "i\u0307stanbul",
+                    18
+                ],
+                [
+                    "i\u0307\u015f\u00e7i",
+                    17
                 ],
                 [
                     "son",
-                    12
+                    17
                 ],
                 [
-                    "konuk",
-                    12
+                    "konu\u011fu",
+                    17
                 ],
                 [
                     "halk",
-                    12
+                    17
+                ],
+                [
+                    "halk\u0131n",
+                    17
                 ],
                 [
                     "sera",
-                    12
+                    16
+                ],
+                [
+                    "\u0131nkampanyas\u0131",
+                    15
+                ],
+                [
+                    "b\u00f6lge",
+                    15
+                ],
+                [
+                    "ba\u015fkan",
+                    15
                 ],
                 [
                     "kad\u0131gil",
-                    12
+                    15
+                ],
+                [
+                    "yard\u0131mc\u0131m\u0131z",
+                    14
+                ],
+                [
+                    "konuk",
+                    13
                 ],
                 [
                     "saat",
                     11
                 ],
                 [
+                    "se\u00e7im",
+                    11
+                ],
+                [
+                    "hatay",
+                    11
+                ],
+                [
+                    "\u00fcyemiz",
+                    10
+                ],
+                [
+                    "partisi",
+                    10
+                ],
+                [
+                    "do\u011fan",
+                    10
+                ],
+                [
+                    "k\u0131rm\u0131z\u0131",
+                    10
+                ],
+                [
                     "spor",
                     9
                 ],
                 [
-                    "i\u0307stanbul",
+                    "myk",
                     9
                 ],
                 [
-                    "b\u00f6lge",
+                    "meclise",
+                    9
+                ],
+                [
+                    "yay\u0131n",
+                    9
+                ],
+                [
+                    "\u0307psenin",
+                    8
+                ],
+                [
+                    "erg\u00fcn",
+                    8
+                ],
+                [
+                    "parti",
+                    8
+                ],
+                [
+                    "s\u00f6zc\u00fcm\u00fcz",
                     8
                 ],
                 [
                     "ayd\u0131n",
                     8
+                ],
+                [
+                    "halk\u0131m\u0131z\u0131n",
+                    8
+                ],
+                [
+                    "can",
+                    7
                 ],
                 [
                     "art\u0131",
@@ -40078,11 +40933,11 @@
                     7
                 ],
                 [
-                    "se\u00e7im",
+                    "yolda",
                     7
                 ],
                 [
-                    "k\u0131rm\u0131z\u0131",
+                    "s\u00f6zc\u00fc",
                     7
                 ],
                 [
@@ -40090,96 +40945,12 @@
                     7
                 ],
                 [
-                    "yay\u0131n",
-                    7
-                ],
-                [
-                    "halk\u0131n",
+                    "i\u0307zmir",
                     7
                 ],
                 [
                     "politikalar\u0131",
                     6
-                ],
-                [
-                    "\u00e7al\u0131\u015fma",
-                    6
-                ],
-                [
-                    "myk",
-                    6
-                ],
-                [
-                    "program\u0131",
-                    6
-                ],
-                [
-                    "a\u015fa\u011f\u0131daki",
-                    6
-                ],
-                [
-                    "tar\u0131m",
-                    6
-                ],
-                [
-                    "tv100",
-                    6
-                ],
-                [
-                    "\u0131nkampanyas\u0131",
-                    6
-                ],
-                [
-                    "\u0307psenin",
-                    6
-                ],
-                [
-                    "\u00fclkenin",
-                    6
-                ],
-                [
-                    "\u00e7sin",
-                    6
-                ],
-                [
-                    "\u00fcyemiz",
-                    5
-                ],
-                [
-                    "can",
-                    5
-                ],
-                [
-                    "program\u0131na",
-                    5
-                ],
-                [
-                    "t\u0131klayarak",
-                    5
-                ],
-                [
-                    "izleyebilirsiniz",
-                    5
-                ],
-                [
-                    "u\u011fur",
-                    5
-                ],
-                [
-                    "d\u00fcndar",
-                    5
-                ],
-                [
-                    "\u0131npanoramas\u0131",
-                    5
-                ],
-                [
-                    "g\u00fczel",
-                    5
-                ],
-                [
-                    "kar\u015f\u0131",
-                    5
                 ]
             ]
         }
@@ -40743,6 +41514,14 @@
                 [
                     "KampanyaSenin",
                     {}
+                ],
+                [
+                    "tipavusturya",
+                    {}
+                ],
+                [
+                    "tipfransa",
+                    {}
                 ]
             ],
             "edges": [
@@ -40750,21 +41529,21 @@
                     "tipgenelmerkez",
                     "tipgenelmerkez",
                     {
-                        "weight": 1270
+                        "weight": 1390
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipliogrenciler",
                     {
-                        "weight": 1169
+                        "weight": 1306
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipliOgrenciler",
                     {
-                        "weight": 1466
+                        "weight": 1603
                     }
                 ],
                 [
@@ -40778,126 +41557,126 @@
                     "tipgenelmerkez",
                     "tipkocaeli",
                     {
-                        "weight": 97
+                        "weight": 103
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipKocaeli",
                     {
-                        "weight": 86
+                        "weight": 91
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "mersin_tip",
                     {
-                        "weight": 392
+                        "weight": 416
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipemek",
                     {
-                        "weight": 200
+                        "weight": 222
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipEmek",
                     {
-                        "weight": 200
+                        "weight": 222
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "adana_tip",
                     {
-                        "weight": 602
+                        "weight": 624
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "serakadigil",
                     {
-                        "weight": 281
+                        "weight": 301
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipli_kadinlar",
                     {
-                        "weight": 627
+                        "weight": 692
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "Tipli_Kadinlar",
                     {
-                        "weight": 627
+                        "weight": 692
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "erkbas",
                     {
-                        "weight": 1377
+                        "weight": 1528
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipmugla",
                     {
-                        "weight": 231
+                        "weight": 244
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipMugla",
                     {
-                        "weight": 231
+                        "weight": 244
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "webhelptr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipistanbul",
                     {
-                        "weight": 1283
+                        "weight": 1377
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipIstanbul",
                     {
-                        "weight": 1283
+                        "weight": 1377
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipekoloji",
                     {
-                        "weight": 786
+                        "weight": 856
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipEkoloji",
                     {
-                        "weight": 764
+                        "weight": 832
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "babalatv",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
@@ -40918,497 +41697,497 @@
                     "tipgenelmerkez",
                     "tipkultursanat",
                     {
-                        "weight": 164
+                        "weight": 181
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipKulturSanat",
                     {
-                        "weight": 164
+                        "weight": 181
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ankahabera",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipbolu",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipBolu",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "halktvcomtr",
                     {
-                        "weight": 27
+                        "weight": 29
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "siring",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipizmiril",
                     {
-                        "weight": 1548
+                        "weight": 1616
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "manisatip",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ManisaTip",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "rterdogan",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "sahmetsahmet",
                     {
-                        "weight": 248
+                        "weight": 270
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipkonya",
                     {
-                        "weight": 140
+                        "weight": 144
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "inat_dergi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipbalikesir",
                     {
-                        "weight": 242
+                        "weight": 254
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipintrelations",
                     {
-                        "weight": 160
+                        "weight": 175
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "frontepopolare",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipaydin",
                     {
-                        "weight": 142
+                        "weight": 154
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipAydin",
                     {
-                        "weight": 142
+                        "weight": 154
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tip_ankara",
                     {
-                        "weight": 582
+                        "weight": 622
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipnederland",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tcmeb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipamed21",
                     {
-                        "weight": 490
+                        "weight": 520
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "barisatay",
                     {
-                        "weight": 222
+                        "weight": 239
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "gencliksporbak",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipusak",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipUsak",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "nureddinnebati",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipgebze",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipGebze",
                     {
-                        "weight": 44
+                        "weight": 45
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "izgazete",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "medyascope",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipalmanya",
                     {
-                        "weight": 44
+                        "weight": 50
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "adaletsosyalizm",
                     {
-                        "weight": 86
+                        "weight": 98
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "halkevleri",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "dgnergun",
                     {
-                        "weight": 143
+                        "weight": 156
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tip_isvicre",
                     {
-                        "weight": 25
+                        "weight": 30
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipsakarya",
                     {
-                        "weight": 220
+                        "weight": 236
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tip_tekirdag",
                     {
-                        "weight": 185
+                        "weight": 194
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "samsuntip1",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipkars",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipeskisehir",
                     {
-                        "weight": 162
+                        "weight": 172
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "bursatip",
                     {
-                        "weight": 142
+                        "weight": 152
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipgaziantep",
                     {
-                        "weight": 100
+                        "weight": 104
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipGaziantep",
                     {
-                        "weight": 100
+                        "weight": 104
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipurfa",
                     {
-                        "weight": 430
+                        "weight": 458
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "hakangunesh",
                     {
-                        "weight": 198
+                        "weight": 216
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ilkeber",
                     {
-                        "weight": 66
+                        "weight": 72
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "migros_turkiye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "filikakultur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "FilikaKultur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ilerihaber",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "eemreorman",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "bahadir_ozgr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "hakki_ozdal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "timursoykan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tip_edirne",
                     {
-                        "weight": 72
+                        "weight": 74
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "cmrtesianneleri",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tip_hatay",
                     {
-                        "weight": 1290
+                        "weight": 1406
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "dw_turkce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "artitv_",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "gulmez_sevgi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "TipDuzce",
                     {
-                        "weight": 33
+                        "weight": 34
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "balikuzmani",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipbritanya",
                     {
-                        "weight": 124
+                        "weight": 136
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipcanakkale",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "metcihan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "kayseri_tip",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipmus49",
                     {
-                        "weight": 38
+                        "weight": 40
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "denizlitip",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "DenizliTip",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
@@ -41492,7 +42271,7 @@
                     "tipgenelmerkez",
                     "tipadiyaman02",
                     {
-                        "weight": 38
+                        "weight": 40
                     }
                 ],
                 [
@@ -41632,126 +42411,140 @@
                     "tipgenelmerkez",
                     "elbistantip",
                     {
-                        "weight": 107
+                        "weight": 118
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ElbistanTip",
                     {
-                        "weight": 107
+                        "weight": 118
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "afadbaskanlik",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "suleymansoylu",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ctisik",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "fatihaltayli",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "tipantalya",
                     {
-                        "weight": 130
+                        "weight": 148
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "bengushap",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "ugurdundarsozcu",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "misra_oz",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "kartonsangrev",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "kampanyasenin",
                     {
-                        "weight": 27
+                        "weight": 67
                     }
                 ],
                 [
                     "tipgenelmerkez",
                     "KampanyaSenin",
                     {
-                        "weight": 145
+                        "weight": 301
+                    }
+                ],
+                [
+                    "tipgenelmerkez",
+                    "tipavusturya",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "tipgenelmerkez",
+                    "tipfransa",
+                    {
+                        "weight": 4
                     }
                 ],
                 [
                     "tipliogrenciler",
                     "serakadigil",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tipliogrenciler",
                     "tcmeb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipliogrenciler",
                     "barisatay",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "tipliogrenciler",
                     "gencliksporbak",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipliogrenciler",
                     "rterdogan",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
@@ -41765,49 +42558,49 @@
                     "tipkocaeli",
                     "tipsakarya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mersin_tip",
                     "erkbas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mersin_tip",
                     "serakadigil",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mersin_tip",
                     "migros_turkiye",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipemek",
                     "webhelptr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipemek",
                     "kartonsangrev",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "adana_tip",
                     "serakadigil",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -41828,21 +42621,21 @@
                     "serakadigil",
                     "erkbas",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "serakadigil",
                     "tcmeb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "serakadigil",
                     "tipli_kadinlar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -41856,35 +42649,35 @@
                     "tipli_kadinlar",
                     "gulmez_sevgi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipli_kadinlar",
                     "balikuzmani",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipli_kadinlar",
                     "misra_oz",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "erkbas",
                     "halktvcomtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erkbas",
                     "siring",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -41898,35 +42691,35 @@
                     "erkbas",
                     "rterdogan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erkbas",
                     "erkbas",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "erkbas",
                     "ilkeber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erkbas",
                     "metcihan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erkbas",
                     "tipaydin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -41961,56 +42754,56 @@
                     "erkbas",
                     "tipintrelations",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "erkbas",
                     "ctisik",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "erkbas",
                     "fatihaltayli",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "erkbas",
                     "bengushap",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "erkbas",
                     "ugurdundarsozcu",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "tipistanbul",
                     "bahadir_ozgr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipistanbul",
                     "hakki_ozdal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipistanbul",
                     "timursoykan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -42031,49 +42824,49 @@
                     "tipekoloji",
                     "tipekoloji",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "halktvcomtr",
                     "siring",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "manisatip",
                     "barisatay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sahmetsahmet",
                     "adaletsosyalizm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tipintrelations",
                     "frontepopolare",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "barisatay",
                     "gencliksporbak",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "barisatay",
                     "tipcanakkale",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -42087,84 +42880,91 @@
                     "barisatay",
                     "afadbaskanlik",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "barisatay",
                     "suleymansoylu",
                     {
-                        "weight": 8
+                        "weight": 9
+                    }
+                ],
+                [
+                    "barisatay",
+                    "tipalmanya",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "dgnergun",
                     "hakangunesh",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dgnergun",
                     "dgnergun",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "dgnergun",
                     "ilkeber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hakangunesh",
                     "ilkeber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hakangunesh",
                     "hakangunesh",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "ilkeber",
                     "ilkeber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ilerihaber",
                     "eemreorman",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bahadir_ozgr",
                     "hakki_ozdal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bahadir_ozgr",
                     "timursoykan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hakki_ozdal",
                     "timursoykan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -42821,6 +43621,14 @@
                 [
                     "ti\u0307psenin",
                     {}
+                ],
+                [
+                    "ti\u0307pseninmeclissenin",
+                    {}
+                ],
+                [
+                    "ekonomi",
+                    {}
                 ]
             ],
             "edges": [
@@ -42828,23 +43636,23 @@
                     "tart\u0131\u015fmas\u0131zhay\u0131r",
                     "laiklikyoksa\u00f6zg\u00fcrl\u00fckyok",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "emekve\u00f6zg\u00fcrl\u00fcki\u0307\u00e7in",
                     "canli",
                     {
-                        "weight": 22,
-                        "weight_plain": 22
+                        "weight": 24,
+                        "weight_plain": 24
                     }
                 ],
                 [
                     "canli",
                     "halkmeydan\u0131",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -42852,63 +43660,63 @@
                     "eytneyibekliyor",
                     "kocas\u00f6zvaratamayok",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "eytneyibekliyor",
                     "s\u00f6zle\u015fmeliyekadro",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "eytneyibekliyor",
                     "y\u00fczbin\u00f6\u011fretmenloading",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kocas\u00f6zvaratamayok",
                     "s\u00f6zle\u015fmeliyekadro",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kocas\u00f6zvaratamayok",
                     "y\u00fczbin\u00f6\u011fretmenloading",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "s\u00f6zle\u015fmeliyekadro",
                     "y\u00fczbin\u00f6\u011fretmenloading",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "halkmeydan\u0131",
                     "biz\u00e7\u00f6zeriz\u00e7\u00fcnk\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "halkmeydan\u0131",
                     "halkmeydan\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -42916,71 +43724,71 @@
                     "g\u00fcndem\u00f6zel",
                     "canl\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "canl\u0131",
                     "teketek",
                     {
-                        "weight": 5,
-                        "weight_plain": 5
+                        "weight": 6,
+                        "weight_plain": 6
                     }
                 ],
                 [
                     "canl\u0131",
                     "kaydage\u00e7sin",
                     {
-                        "weight": 12,
-                        "weight_plain": 8
+                        "weight": 18,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "\u00e7ocukistismar\u0131",
                     "sesimizmecliste",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "yerinburas\u0131",
                     "3aral\u0131kd\u00fcnyaengellilerg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "amasra",
                     "hesapla\u015faca\u011f\u0131z",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "hesapla\u015faca\u011f\u0131z",
                     "sans\u00fcryasas\u0131nahay\u0131r",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "hesapla\u015faca\u011f\u0131z",
                     "gezi9ya\u015f\u0131nda",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "hesapla\u015faca\u011f\u0131z",
                     "h\u00fck\u00fcmeti\u0307stifa",
                     {
-                        "weight": 16,
+                        "weight": 17,
                         "weight_plain": 5
                     }
                 ],
@@ -42988,8 +43796,8 @@
                     "hesapla\u015faca\u011f\u0131z",
                     "h\u00fck\u00fcmetistifa",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -43036,39 +43844,39 @@
                     "bart\u0131n",
                     "kazade\u011filcinayet",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "sans\u00fcryasas\u0131nahay\u0131r",
                     "sans\u00fcryasas\u0131ge\u00e7erse",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "emek\u00f6zg\u00fcrl\u00fck",
                     "canl\u0131yay\u0131n",
                     {
-                        "weight": 22,
-                        "weight_plain": 22
+                        "weight": 24,
+                        "weight_plain": 24
                     }
                 ],
                 [
                     "erkanba\u015f",
                     "g\u00fcl\u015fen",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "dat\u00e7a",
                     "\u00e7e\u015fme",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43076,15 +43884,15 @@
                     "ekb\u00fct\u00e7e",
                     "asgari\u00fccret",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "anaireseis",
                     "patras",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43092,7 +43900,7 @@
                     "anaireseis",
                     "athens",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43100,24 +43908,24 @@
                     "konut",
                     "kira",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "1may\u0131s",
                     "partinley\u00fcr\u00fc",
                     {
-                        "weight": 341,
-                        "weight_plain": 220
+                        "weight": 372,
+                        "weight_plain": 240
                     }
                 ],
                 [
                     "1may\u0131s",
                     "partinle",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -43132,7 +43940,7 @@
                     "partinley\u00fcr\u00fc",
                     "1mayis",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -43140,7 +43948,7 @@
                     "partinley\u00fcr\u00fc",
                     "1may\u0131s2022",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43148,7 +43956,7 @@
                     "partinley\u00fcr\u00fc",
                     "yasas\u0131n1may\u0131s",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43164,39 +43972,39 @@
                     "enflasyon",
                     "su\u00e7lusukim",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "newroz2022",
                     "newrozpirozbe",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "newrozpirozbe",
                     "newroz2023",
                     {
-                        "weight": 5,
-                        "weight_plain": 5
+                        "weight": 6,
+                        "weight_plain": 6
                     }
                 ],
                 [
                     "8m2022",
                     "8martd\u00fcnyaemek\u00e7ikad\u0131nlarg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "8m2022",
                     "de\u011fi\u015ftirecekg\u00fcc\u00fcm\u00fczvar",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43204,7 +44012,7 @@
                     "8m2022",
                     "8mart",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43212,7 +44020,7 @@
                     "de\u011fi\u015ftirecekg\u00fcc\u00fcm\u00fczvar",
                     "8mart",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43220,15 +44028,15 @@
                     "yerinial",
                     "ti\u0307pekat\u0131l",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "yerinial",
                     "haydiba\u015fl\u0131yoruz",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43236,7 +44044,7 @@
                     "ti\u0307pekat\u0131l",
                     "art\u0131kyeter",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43244,8 +44052,8 @@
                     "ti\u0307pekat\u0131l",
                     "biryolvar",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -43300,7 +44108,7 @@
                     "biryolvar",
                     "biryolvar",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43308,7 +44116,7 @@
                     "biryolvar",
                     "inat",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43316,7 +44124,7 @@
                     "biryolvar",
                     "i\u0307nad\u0131ni\u0307radendir",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43324,7 +44132,7 @@
                     "biryolvar",
                     "ge\u00e7inemiyoruz",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43332,7 +44140,7 @@
                     "cemaatyurtlar\u0131kapat\u0131ls\u0131n",
                     "eneskara",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43340,15 +44148,15 @@
                     "art\u0131kyeter",
                     "ge\u00e7inemiyoruz",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "ge\u00e7inemiyoruz",
                     "12aral\u0131kkartal",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43356,15 +44164,15 @@
                     "ge\u00e7inemiyoruz",
                     "ge\u00e7inemiyoruz",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "h\u00fck\u00fcmeti\u0307stifa",
                     "25kas\u0131mdataksimdeyiz",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43380,7 +44188,7 @@
                     "25kas\u0131mdataksimdeyiz",
                     "25kas\u0131mdataksimt\u00fcneldeyiz",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43388,31 +44196,31 @@
                     "25kas\u0131mdasokaklarday\u0131z",
                     "25kas\u0131m",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "h\u00fck\u00fcmetistifa",
                     "dolar13tl",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "dolar11tl",
                     "bitirdiniz\u00fclkeyi",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "i\u0307klimadaleti",
                     "cop26",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -43468,8 +44276,8 @@
                     "suru\u00e7katliam\u0131",
                     "suru\u00e7i\u0307\u00e7inadalet",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -43638,6 +44446,14 @@
                     {
                         "weight": 6,
                         "weight_plain": 6
+                    }
+                ],
+                [
+                    "i\u0307stanbuls\u00f6zle\u015fmesi",
+                    "ti\u0307pseninmeclissenin",
+                    {
+                        "weight": 1,
+                        "weight_plain": 1
                     }
                 ],
                 [
@@ -43844,7 +44660,7 @@
                     "elbistan",
                     "earthquake",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -43852,7 +44668,7 @@
                     "elbistan",
                     "hatay",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -43860,15 +44676,15 @@
                     "hatay",
                     "deprem",
                     {
-                        "weight": 120,
-                        "weight_plain": 30
+                        "weight": 132,
+                        "weight_plain": 33
                     }
                 ],
                 [
                     "uzaktan",
                     "deprem",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -43876,7 +44692,7 @@
                     "8m2023",
                     "elimelinde",
                     {
-                        "weight": 12,
+                        "weight": 14,
                         "weight_plain": 0
                     }
                 ],
@@ -43884,7 +44700,7 @@
                     "8m2023",
                     "8marttafeministi\u0307syan",
                     {
-                        "weight": 6,
+                        "weight": 7,
                         "weight_plain": 0
                     }
                 ],
@@ -43892,7 +44708,7 @@
                     "elimelinde",
                     "8marttafeministi\u0307syan",
                     {
-                        "weight": 6,
+                        "weight": 7,
                         "weight_plain": 0
                     }
                 ],
@@ -43900,15 +44716,15 @@
                     "8m23",
                     "d\u00fcnyaemek\u00e7ikad\u0131nlarg\u00fcn\u00fc",
                     {
-                        "weight": 6,
-                        "weight_plain": 6
+                        "weight": 7,
+                        "weight_plain": 7
                     }
                 ],
                 [
                     "kad\u0131n",
                     "tbmm",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43916,7 +44732,7 @@
                     "kad\u0131n",
                     "meclis",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43924,7 +44740,7 @@
                     "kad\u0131n",
                     "milletvekili",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43932,7 +44748,7 @@
                     "kad\u0131n",
                     "se\u00e7im",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43940,7 +44756,7 @@
                     "tbmm",
                     "meclis",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43948,7 +44764,7 @@
                     "tbmm",
                     "milletvekili",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43956,7 +44772,7 @@
                     "tbmm",
                     "se\u00e7im",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43964,7 +44780,7 @@
                     "meclis",
                     "milletvekili",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43972,7 +44788,7 @@
                     "meclis",
                     "se\u00e7im",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43980,7 +44796,7 @@
                     "milletvekili",
                     "se\u00e7im",
                     {
-                        "weight": 4,
+                        "weight": 5,
                         "weight_plain": 0
                     }
                 ],
@@ -43988,24 +44804,40 @@
                     "k\u0131z\u0131ldere",
                     "mahir\u00e7ayan",
                     {
-                        "weight": 3,
-                        "weight_plain": 3
+                        "weight": 4,
+                        "weight_plain": 4
                     }
                 ],
                 [
                     "ti\u0307pbenim",
                     "halk\u0131nkampanyas\u0131",
                     {
-                        "weight": 1,
-                        "weight_plain": 1
+                        "weight": 2,
+                        "weight_plain": 2
                     }
                 ],
                 [
                     "halk\u0131nkampanyas\u0131",
                     "ti\u0307psenin",
                     {
+                        "weight": 4,
+                        "weight_plain": 4
+                    }
+                ],
+                [
+                    "halk\u0131nkampanyas\u0131",
+                    "ti\u0307pseninmeclissenin",
+                    {
                         "weight": 2,
-                        "weight_plain": 2
+                        "weight_plain": 1
+                    }
+                ],
+                [
+                    "ti\u0307psenin",
+                    "ekonomi",
+                    {
+                        "weight": 1,
+                        "weight_plain": 1
                     }
                 ]
             ]
