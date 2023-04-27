@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "947348684",
         "name": "H\u00dcDA PAR",
@@ -8,6 +8,41 @@
         "description": "H\u00dcDA PAR Resmi Twitter Hesab\u0131",
         "screen_name": "HurDavaPartisi",
         "stats": {
+            "2023-04-27": {
+                "status": 6688,
+                "friends": 1,
+                "followers": 87684
+            },
+            "2023-04-26": {
+                "status": 6678,
+                "friends": 1,
+                "followers": 87432
+            },
+            "2023-04-25": {
+                "status": 6674,
+                "friends": 1,
+                "followers": 87213
+            },
+            "2023-04-24": {
+                "status": 6667,
+                "friends": 1,
+                "followers": 86851
+            },
+            "2023-04-23": {
+                "status": 6660,
+                "friends": 1,
+                "followers": 86533
+            },
+            "2023-04-22": {
+                "status": 6654,
+                "friends": 1,
+                "followers": 86344
+            },
+            "2023-04-21": {
+                "status": 6648,
+                "friends": 1,
+                "followers": 86134
+            },
             "2023-04-20": {
                 "status": 6644,
                 "friends": 1,
@@ -30763,12 +30798,260 @@
                 "nfav": 2334,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650232003495698439": {
+                "created_at": "Sun Apr 23 20:15:44 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu(@zyapicioglu), 24 TV'de Esra El\u00f6n\u00fc'n\u00fcn  sundu\u011fu 'Arafta Sorular' program\u2026 https://t.co/DZK4F1bJ8H",
+                "nretweet": 307,
+                "nfav": 746,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650135806957289474": {
+                "created_at": "Sun Apr 23 13:53:29 +0000 2023",
+                "text": "RT @zyapicioglu: Bug\u00fcn Esenyurt...\n\nVatanda\u015flar\u0131m\u0131z ile bayramla\u015fmak i\u00e7in bir aradayd\u0131k. \n\nMiting havas\u0131na b\u00fcr\u00fcnen bulu\u015fmam\u0131zda bir kez dah\u2026",
+                "nretweet": 1598,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650126863967109121": {
+                "created_at": "Sun Apr 23 13:17:56 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu, \u0130stanbul'da halk bulu\u015fmas\u0131nda konu\u015ftu: \"Bug\u00fcn 'de\u011fi\u015ftik' diyorlar ama b\u2026 https://t.co/woWFNiil9B",
+                "nretweet": 1043,
+                "nfav": 3092,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650103879697088512": {
+                "created_at": "Sun Apr 23 11:46:37 +0000 2023",
+                "text": "100 y\u0131ld\u0131r ta\u015f \u00fcst\u00fcne ta\u015f koyma ad\u0131na bir \u015fey yapt\u0131klar\u0131 yok; ama bir \u015feyi \u00e7ok iyi bilirler. Kar\u015f\u0131 \u00e7\u0131karlar, itiraz\u2026 https://t.co/3ZATPD1w15",
+                "nretweet": 1079,
+                "nfav": 2686,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650092546645696512": {
+                "created_at": "Sun Apr 23 11:01:35 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu (@zyapicioglu), bug\u00fcn (23.04.2023) Saat 23:15'te 24 TV'de Esra El\u00f6n\u00fc'n\u00fcn\u2026 https://t.co/VgN6lwOQ9o",
+                "nretweet": 540,
+                "nfav": 1153,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650079078857277440": {
+                "created_at": "Sun Apr 23 10:08:04 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Zekeriya Yap\u0131c\u0131o\u011flu(@zyapicioglu) \u0130stanbul'da a\u00e7\u0131klamalarda bulunuyor.\n\u0130zlemek i\u00e7in:\u2026 https://t.co/i8eEfGwe5I",
+                "nretweet": 756,
+                "nfav": 1927,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650031037672566785": {
+                "created_at": "Sun Apr 23 06:57:10 +0000 2023",
+                "text": "RT @HudaParMedya: Parti yetkililerimiz bug\u00fcn partiler aras\u0131 kar\u015f\u0131l\u0131kl\u0131 bayramla\u015fma program\u0131nda AK Parti, Saadet Partisi, B\u00fcy\u00fck Birlik Parti\u2026",
+                "nretweet": 504,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649873570326097920": {
+                "created_at": "Sat Apr 22 20:31:26 +0000 2023",
+                "text": "Gaziantep'in Nurda\u011f\u0131 il\u00e7esinde Anahtar Teslim T\u00f6reni'nde Konu\u015fan Genel Ba\u015fkan\u0131m\u0131z Zekeriya Yap\u0131c\u0131o\u011flu:\n\n\"Ta\u015f \u00fcst\u00fcne\u2026 https://t.co/1OzMQ8Dt7m",
+                "nretweet": 1445,
+                "nfav": 5105,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649871134983110658": {
+                "created_at": "Sat Apr 22 20:21:46 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu yar\u0131n (23.04.2023) \u0130stanbul Esenyurt'a geliyor. \n\nGenel Ba\u015fkan\u0131m\u0131z yar\u0131n\u2026 https://t.co/4cUrn36EHU",
+                "nretweet": 802,
+                "nfav": 2042,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649834592218521602": {
+                "created_at": "Sat Apr 22 17:56:33 +0000 2023",
+                "text": "Genel Merkezimiz, Tunus'ta tutuklanan Nahda Lideri Ra\u015fid Gannu\u015fi'ye y\u00f6nelik yap\u0131lan bask\u0131y\u0131 k\u0131nad\u0131. A\u00e7\u0131klamada ayr\u0131\u2026 https://t.co/M98ZRQbUuI",
+                "nretweet": 665,
+                "nfav": 1600,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649824288373891076": {
+                "created_at": "Sat Apr 22 17:15:37 +0000 2023",
+                "text": "RT @zyapicioglu: Say\u0131n Cumhurba\u015fkan\u0131m\u0131z ile birlikte Gaziantep Nurda\u011f\u0131'nda yap\u0131m\u0131 tamamlanan k\u00f6y evlerinin hak sahiplerine teslim t\u00f6renine\u2026",
+                "nretweet": 2049,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649774882253594624": {
+                "created_at": "Sat Apr 22 13:59:17 +0000 2023",
+                "text": "RT @Huseyinimir06: Genel idare kurulu \u00fcyemiz Ahmet Karaaslan ve Genel merkez gen\u00e7lik kollar\u0131 ba\u015fkan\u0131m\u0131z Hamdullah Er ile birlikte gelenekse\u2026",
+                "nretweet": 401,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649744124394852354": {
+                "created_at": "Sat Apr 22 11:57:04 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu (@zyapicioglu), yar\u0131n (23.04.2023) Saat 23:15'te 24 TV'de Esra El\u00f6n\u00fc'n\u00fcn\u2026 https://t.co/qwlN9InlPZ",
+                "nretweet": 1087,
+                "nfav": 2251,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649509551396225026": {
+                "created_at": "Fri Apr 21 20:24:58 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu ve beraberindeki heyetimiz, \u0130stanbul'da Dar\u00fclacezeyi ziyaret etti. Genel\u2026 https://t.co/TLt3c2KylL",
+                "nretweet": 1068,
+                "nfav": 2793,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649474877223477259": {
+                "created_at": "Fri Apr 21 18:07:11 +0000 2023",
+                "text": "RT @zyapicioglu: Sultanahmet Camii a\u00e7\u0131l\u0131\u015f\u0131ndan sonra milletimizin yo\u011fun ilgisiyle kar\u015f\u0131la\u015ft\u0131k. \n\nBizi ba\u011fr\u0131na basan her bir karde\u015fimizin g\u00f6\u2026",
+                "nretweet": 2300,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649388342801313794": {
+                "created_at": "Fri Apr 21 12:23:19 +0000 2023",
+                "text": "RT @zyapicioglu: Say\u0131n Cumhurba\u015fkan\u0131m\u0131z ile Bayram Namaz\u0131n\u0131 Ayasofya-i Kebir Camii'nde eda ettikten sonra cami cemaatiyle bayramla\u015ft\u0131k.\n\nAr\u2026",
+                "nretweet": 2236,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649382514484563969": {
+                "created_at": "Fri Apr 21 12:00:10 +0000 2023",
+                "text": "Se\u00e7im temaslar\u0131 kapsam\u0131nda Avrupa'da bulunan Genel Ba\u015fkan Yard\u0131mc\u0131lar\u0131m\u0131zdan Mehmet H\u00fcseyin Y\u0131lmaz ve Abdurrahman C\u2026 https://t.co/YST6ucC67J",
+                "nretweet": 700,
+                "nfav": 1527,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649374828745441281": {
+                "created_at": "Fri Apr 21 11:29:37 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131lar\u0131m\u0131zdan Mehmet H\u00fcseyin Y\u0131lmaz ve Abdurrahman Cevher, beraberindeki heyetle birlikte Avrupa\u2026 https://t.co/39hJ5PsNw6",
+                "nretweet": 615,
+                "nfav": 1307,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649353574621618179": {
+                "created_at": "Fri Apr 21 10:05:10 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu, \u0130stanbul Ey\u00fcpsultan'da medfun alim, m\u00fctasavvuf, fikir ve siyaset adam\u0131\u2026 https://t.co/m7i4ActqeU",
+                "nretweet": 1230,
+                "nfav": 5620,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649276064080842755": {
+                "created_at": "Fri Apr 21 04:57:10 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131m\u0131z Say\u0131n Recep Tayyip Erdo\u011fan ve Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu, Bayram Namaz\u0131n\u0131 Ayasofya\u2026 https://t.co/4TkSOhQvpi",
+                "nretweet": 1796,
+                "nfav": 6766,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649137375878995970": {
+                "created_at": "Thu Apr 20 19:46:04 +0000 2023",
+                "text": "RT @zyapicioglu: Say\u0131n Cumhurba\u015fkan\u0131m\u0131z ile birlikte Karadeniz do\u011falgaz\u0131n\u0131n devreye al\u0131nmas\u0131 t\u00f6renine kat\u0131ld\u0131k.\n\nEnerjide d\u0131\u015fa ba\u011f\u0131ml\u0131l\u0131kta\u2026",
+                "nretweet": 2705,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649137364743200769": {
+                "created_at": "Thu Apr 20 19:46:01 +0000 2023",
+                "text": "RT @zyapicioglu: Karadeniz Do\u011fal Gaz\u0131 Devreye Alma T\u00f6reni dolay\u0131s\u0131yla Zonguldak Filyos'tay\u0131z. https://t.co/RTbki13tAA",
+                "nretweet": 3506,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649051210991927304": {
+                "created_at": "Thu Apr 20 14:03:41 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu (@zyapicioglu), Ramazan Bayram\u0131 m\u00fcnasebeti ile bir mesaj yay\u0131mlad\u0131. \n\nGe\u2026 https://t.co/SR7cFUp0k2",
+                "nretweet": 1677,
+                "nfav": 4161,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648804955308933125": {
+                "created_at": "Wed Apr 19 21:45:09 +0000 2023",
+                "text": "RT @zyapicioglu: D\u00fcnyan\u0131n pek \u00e7ok yerinden \u0130slami hareket liderleri, parti temsilcileri ve kanaat \u00f6nderleriyle iftarda bir araya geldik.\u2026",
+                "nretweet": 1952,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648775535571419138": {
+                "created_at": "Wed Apr 19 19:48:15 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu, \u0130stanbul'da partimizin iftar program\u0131nda bir\u00e7ok \u0130slam \u00fclkesinin T\u00fcrkiye\u2026 https://t.co/dsI9doDnVJ",
+                "nretweet": 839,
+                "nfav": 2290,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648695908421320704": {
+                "created_at": "Wed Apr 19 14:31:50 +0000 2023",
+                "text": "Cumhurba\u015fkan\u0131 Say\u0131n Recep Tayyip Erdo\u011fan'\u0131n kat\u0131l\u0131m\u0131yla yar\u0131n (20.04.2023) saat 18:00'da Zonguldak \u00c7aycuma'ya ba\u011fl\u0131\u2026 https://t.co/gt6D1OCCwU",
+                "nretweet": 1462,
+                "nfav": 3860,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648298924690616321": {
+                "created_at": "Tue Apr 18 12:14:22 +0000 2023",
+                "text": "RT @zyapicioglu: \u0130stanbul \u0130l Ba\u015fkanl\u0131\u011f\u0131m\u0131z\u0131n iftar\u0131nda Sivil Toplum Kurulu\u015flar\u0131'n\u0131n temsilcileri, kanaat \u00f6nderleri ve te\u015fkilat\u0131m\u0131zla iftard\u2026",
+                "nretweet": 1878,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648036655910076416": {
+                "created_at": "Mon Apr 17 18:52:12 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Say\u0131n Zekeriya Yap\u0131c\u0131o\u011flu, \u0130stanbul \u0130l Ba\u015fkanl\u0131\u011f\u0131m\u0131z  taraf\u0131ndan verilen ve bir\u00e7ok STK temsilcisi\u2026 https://t.co/Cb4yBXobGc",
+                "nretweet": 1082,
+                "nfav": 2693,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648014989524111361": {
+                "created_at": "Mon Apr 17 17:26:06 +0000 2023",
+                "text": "RT @zyapicioglu: Bin aydan daha hay\u0131rl\u0131 olan Kadir gecemizin ba\u015fta Mescid-i Aksa olmak \u00fczere \u0130slam beldelerinin kurtulu\u015funa, ya\u015fad\u0131\u011f\u0131m\u0131z de\u2026",
+                "nretweet": 2092,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647917165230669827": {
+                "created_at": "Mon Apr 17 10:57:23 +0000 2023",
+                "text": "Genel Ba\u015fkan Vekilimiz Say\u0131n \u0130shak Sa\u011flam ve beraberindeki heyet, Ad\u0131yaman\u2019da rahmetli Mehmet Yavuz\u2019un kabrini ziya\u2026 https://t.co/jdKeMInRps",
+                "nretweet": 829,
+                "nfav": 2242,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647887716766433280": {
+                "created_at": "Mon Apr 17 09:00:22 +0000 2023",
+                "text": "Genel Ba\u015fkan Vekilimiz Say\u0131n \u0130shak Sa\u011flam ve beraberindeki heyet, Ad\u0131yaman \u0130l Ba\u015fkanl\u0131\u011f\u0131m\u0131z\u0131n Kahta \u0130l\u00e7esinde depre\u2026 https://t.co/oOvucJi8Wr",
+                "nretweet": 708,
+                "nfav": 1510,
+                "isRt": false,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "zyapicioglu",
-                247
+                261
             ],
             [
                 "avishaksaglam",
@@ -30776,7 +31059,7 @@
             ],
             [
                 "HudaParMedya",
-                118
+                119
             ],
             [
                 "AvSerkanRamanli",
@@ -30835,15 +31118,15 @@
                 3
             ],
             [
+                "Huseyinimir06",
+                3
+            ],
+            [
                 "MetinKaya21_",
                 3
             ],
             [
                 "RehberOnline",
-                2
-            ],
-            [
-                "Huseyinimir06",
                 2
             ],
             [
@@ -43494,35 +43777,51 @@
             ],
             "2023-04": [
                 [
-                    "say\u0131n",
-                    51
+                    "genel",
+                    70
                 ],
                 [
-                    "genel",
-                    48
+                    "say\u0131n",
+                    69
                 ],
                 [
                     "ba\u015fkan\u0131m\u0131z",
-                    35
+                    50
                 ],
                 [
                     "zekeriya",
-                    28
+                    41
                 ],
                 [
                     "yap\u0131c\u0131o\u011flu",
-                    25
-                ],
-                [
-                    "saat",
-                    13
+                    38
                 ],
                 [
                     "ba\u015fkan",
-                    13
+                    17
+                ],
+                [
+                    "saat",
+                    16
+                ],
+                [
+                    "parti",
+                    12
+                ],
+                [
+                    "birlikte",
+                    11
                 ],
                 [
                     "rehber",
+                    11
+                ],
+                [
+                    "recep",
+                    11
+                ],
+                [
+                    "tayyip",
                     11
                 ],
                 [
@@ -43530,23 +43829,35 @@
                     10
                 ],
                 [
-                    "recep",
+                    "tv'de",
                     9
                 ],
                 [
-                    "tayyip",
+                    "cumhurba\u015fkan\u0131m\u0131z",
                     9
                 ],
                 [
-                    "parti",
+                    "2023",
+                    9
+                ],
+                [
+                    "sundu\u011fu",
                     8
                 ],
                 [
-                    "birlikte",
-                    7
+                    "cumhurba\u015fkan\u0131",
+                    8
+                ],
+                [
+                    "erdo\u011fan'\u0131n",
+                    8
                 ],
                 [
                     "nisan",
+                    7
+                ],
+                [
+                    "yar\u0131n",
                     7
                 ],
                 [
@@ -43558,19 +43869,15 @@
                     7
                 ],
                 [
-                    "sundu\u011fu",
-                    7
-                ],
-                [
-                    "cumhurba\u015fkan\u0131",
-                    7
-                ],
-                [
-                    "erdo\u011fan'\u0131n",
+                    "mehmet",
                     7
                 ],
                 [
                     "kad\u0131n",
+                    7
+                ],
+                [
+                    "kollar\u0131",
                     7
                 ],
                 [
@@ -43582,11 +43889,7 @@
                     6
                 ],
                 [
-                    "kollar\u0131",
-                    6
-                ],
-                [
-                    "tv'de",
+                    "h\u00fcseyin",
                     6
                 ],
                 [
@@ -43598,6 +43901,14 @@
                     5
                 ],
                 [
+                    "beraberindeki",
+                    5
+                ],
+                [
+                    "\u00fcyemiz",
+                    5
+                ],
+                [
                     "kahramanmara\u015f'ta",
                     5
                 ],
@@ -43606,11 +43917,19 @@
                     5
                 ],
                 [
-                    "deprem",
+                    "vekilimiz",
                     5
                 ],
                 [
-                    "cumhurba\u015fkan\u0131m\u0131z",
+                    "i\u0307shak",
+                    5
+                ],
+                [
+                    "sa\u011flam",
+                    5
+                ],
+                [
+                    "deprem",
                     5
                 ],
                 [
@@ -43618,7 +43937,15 @@
                     5
                 ],
                 [
-                    "2023",
+                    "anahtar",
+                    5
+                ],
+                [
+                    "teslim",
+                    5
+                ],
+                [
+                    "kat\u0131l\u0131m\u0131yla",
                     5
                 ],
                 [
@@ -43630,7 +43957,7 @@
                     4
                 ],
                 [
-                    "\u00fcyemiz",
+                    "ta\u015f",
                     4
                 ],
                 [
@@ -43638,60 +43965,16 @@
                     4
                 ],
                 [
-                    "mehmet",
+                    "y\u0131lmaz",
                     4
                 ],
                 [
-                    "h\u00fcseyin",
+                    "mescid-i",
                     4
                 ],
                 [
                     "sema",
                     4
-                ],
-                [
-                    "yarar",
-                    4
-                ],
-                [
-                    "anahtar",
-                    4
-                ],
-                [
-                    "kat\u0131l\u0131m\u0131yla",
-                    4
-                ],
-                [
-                    "i\u0307skenderun",
-                    3
-                ],
-                [
-                    "\u015fubat",
-                    3
-                ],
-                [
-                    "yar\u0131n",
-                    3
-                ],
-                [
-                    "temaslarda",
-                    3
-                ],
-                [
-                    "giden",
-                    3
-                ],
-                [
-                    "ilk",
-                    3
-                ],
-                [
-                    "malatya'da",
-                    3
-                ],
-                [
-                    "gi\u0307k",
-                    3
                 ]
             ]
         }
@@ -43955,6 +44238,10 @@
                 [
                     "antephudapar",
                     {}
+                ],
+                [
+                    "Huseyinimir06",
+                    {}
                 ]
             ],
             "edges": [
@@ -43962,399 +44249,399 @@
                     "zyapicioglu",
                     "hurdavapartisi",
                     {
-                        "weight": 2605
+                        "weight": 2974
                     }
                 ],
                 [
                     "zyapicioglu",
                     "haberturk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zyapicioglu",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zyapicioglu",
                     "ersoyakif1",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zyapicioglu",
                     "hudaparmedya",
                     {
-                        "weight": 77
+                        "weight": 84
                     }
                 ],
                 [
                     "zyapicioglu",
                     "haber7",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zyapicioglu",
                     "oatesli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "zyapicioglu",
                     "rehberonline",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "zyapicioglu",
                     "rterdogan",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "zyapicioglu",
                     "afadbaskanlik",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "zyapicioglu",
                     "mzekiinan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "drhalefyilmaz",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "vedatturgut",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "mehmetesin_",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "akaraismailoglu",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "zyapicioglu",
                     "umutkervanivkf",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "sehzadedemir",
                     {
-                        "weight": 83
+                        "weight": 91
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "rehberonline",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "haberturk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "ersoyakif1",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hudaparmedya",
                     {
-                        "weight": 1297
+                        "weight": 1414
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "avserkanramanli",
                     {
-                        "weight": 129
+                        "weight": 153
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "HudaParMedya",
                     {
-                        "weight": 1297
+                        "weight": 1414
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hudapargenclik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "HudaParGenclik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hurdavapartisi",
                     {
-                        "weight": 79
+                        "weight": 87
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "HurDavaPartisi",
                     {
-                        "weight": 79
+                        "weight": 87
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "ankarakulis06",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "ruha_tv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "avishaksaglam",
                     {
-                        "weight": 2609
+                        "weight": 2848
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "mehmetesin_",
                     {
-                        "weight": 69
+                        "weight": 77
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "MehmetEsin_",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hudaparkadin",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "HudaParKadin",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "partiyadozaazad",
                     {
-                        "weight": 88
+                        "weight": 96
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "PartiyaDozaAzad",
                     {
-                        "weight": 88
+                        "weight": 96
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hasansahin_023",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "avmahmutsahin",
                     {
-                        "weight": 65
+                        "weight": 73
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "huseyinimir06",
                     {
-                        "weight": 20
+                        "weight": 23
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "erbakanfatih",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "kudustv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "haber7",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "oatesli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "mhuseyinyilmaz",
                     {
-                        "weight": 185
+                        "weight": 204
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "uzunkokseyfi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "semayarar_",
                     {
-                        "weight": 90
+                        "weight": 101
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "SemaYARAR_",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "abdurrahmancens",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hudaparistanbul",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hilaltv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44375,693 +44662,700 @@
                     "hurdavapartisi",
                     "drhalefyilmaz",
                     {
-                        "weight": 49
+                        "weight": 54
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "DrHalefYilmaz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "rterdogan",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hudaparerbil",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "HudaParErbil",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "afadbaskanlik",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "metinkaya21_",
                     {
-                        "weight": 26
+                        "weight": 29
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "emirogluyunus",
                     {
-                        "weight": 84
+                        "weight": 97
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "vedatturgut",
                     {
-                        "weight": 35
+                        "weight": 39
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "mzekiinan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "isaguvendik",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "mahmutirtem",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "akaraismailoglu",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "seyhmustanrkulu",
                     {
-                        "weight": 33
+                        "weight": 39
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "hamdullahtasali",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "umutkervanivkf",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "yetimlervakfim",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "avrupa_yetimeli",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "1978sln",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "farukdinc21",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "abakiyesilmen",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "hurdavapartisi",
                     "antephudapar",
                     {
-                        "weight": 2
+                        "weight": 4
+                    }
+                ],
+                [
+                    "hurdavapartisi",
+                    "Huseyinimir06",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "sehzadedemir",
                     "rehberonline",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sehzadedemir",
                     "hudaparmedya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "sehzadedemir",
                     "uzunkokseyfi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "haberturktv",
                     "ersoyakif1",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "avserkanramanli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "mehmetesin_",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "hasansahin_023",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "hudaparmedya",
                     "avishaksaglam",
                     {
-                        "weight": 54
+                        "weight": 59
                     }
                 ],
                 [
                     "hudaparmedya",
                     "avmahmutsahin",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "hudaparmedya",
                     "huseyinimir06",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "kudustv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "haber7",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "oatesli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "uzunkokseyfi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "semayarar_",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "hudaparmedya",
                     "abdurrahmancens",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avserkanramanli",
                     "umutkervanivkf",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "avserkanramanli",
                     "yetimlervakfim",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "avserkanramanli",
                     "avrupa_yetimeli",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "ankarakulis06",
                     "ruha_tv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avishaksaglam",
                     "erbakanfatih",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "avishaksaglam",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avishaksaglam",
                     "drhalefyilmaz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "mehmetesin_",
                     "avmahmutsahin",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "mehmetesin_",
                     "huseyinimir06",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "mzekiinan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "drhalefyilmaz",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "vedatturgut",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mehmetesin_",
                     "mahmutirtem",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "mehmetesin_",
                     "mhuseyinyilmaz",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "haber7",
                     "oatesli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mhuseyinyilmaz",
                     "mahmutirtem",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "mzekiinan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "vedatturgut",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "drhalefyilmaz",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "metinkaya21_",
                     "emirogluyunus",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "metinkaya21_",
                     "vedatturgut",
                     {
-                        "weight": 18
+                        "weight": 20
                     }
                 ],
                 [
                     "emirogluyunus",
                     "vedatturgut",
                     {
-                        "weight": 26
+                        "weight": 29
                     }
                 ],
                 [
                     "emirogluyunus",
                     "seyhmustanrkulu",
                     {
-                        "weight": 18
+                        "weight": 21
                     }
                 ],
                 [
                     "vedatturgut",
                     "mzekiinan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "vedatturgut",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "vedatturgut",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "vedatturgut",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "vedatturgut",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "vedatturgut",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mzekiinan",
                     "abdlhaslan",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mzekiinan",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mzekiinan",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mzekiinan",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mzekiinan",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "abdlhaslan",
                     "goktasmehmet",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "abdlhaslan",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "abdlhaslan",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "abdlhaslan",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "goktasmehmet",
                     "mkarakas02",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "goktasmehmet",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "goktasmehmet",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mkarakas02",
                     "isaguvendik",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "mkarakas02",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "isaguvendik",
                     "mahmutirtem",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "isaguvendik",
                     "farukdinc21",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "isaguvendik",
                     "abakiyesilmen",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "umutkervanivkf",
                     "yetimlervakfim",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "umutkervanivkf",
                     "avrupa_yetimeli",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "yetimlervakfim",
                     "avrupa_yetimeli",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "farukdinc21",
                     "abakiyesilmen",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ]
             ]
@@ -45266,23 +45560,23 @@
                     "\u00e2lim",
                     "alimlerbulusmas\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "alimlerbulu\u015fmas\u0131",
                     "i\u0307slam",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "diyarbak\u0131r",
                     "festival",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45290,95 +45584,95 @@
                     "diyarbak\u0131r",
                     "i\u0307stanbul",
                     {
-                        "weight": 33,
-                        "weight_plain": 33
+                        "weight": 36,
+                        "weight_plain": 36
                     }
                 ],
                 [
                     "diyarbak\u0131r",
                     "sakarya",
                     {
-                        "weight": 33,
-                        "weight_plain": 33
+                        "weight": 36,
+                        "weight_plain": 36
                     }
                 ],
                 [
                     "kud\u00fcsg\u00fcn\u00fc",
                     "kud\u00fcssempozyumu",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kud\u00fcssempozyumu",
                     "d\u00fcnyakud\u00fcsg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "g\u00f6z\u00fcm\u00fczkula\u011f\u0131m\u0131zaksada",
                     "kud\u00fcsesesver",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "g\u00f6z\u00fcm\u00fczkula\u011f\u0131m\u0131zaksada",
                     "kud\u00fcsesahip\u00e7\u0131k",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kud\u00fcsesesver",
                     "kud\u00fcsesahip\u00e7\u0131k",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "israil",
                     "katilherzogdefol",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kastamonu",
                     "sinop",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "kastamonu",
                     "bart\u0131n",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "sinop",
                     "bart\u0131n",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "elaz\u0131\u011f",
                     "bing\u00f6l",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45386,23 +45680,23 @@
                     "bing\u00f6l",
                     "karl\u0131ova",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "bing\u00f6l",
                     "deprem",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "zekeriyayap\u0131c\u0131o\u011flu",
                     "h\u00fcdapar",
                     {
-                        "weight": 22,
+                        "weight": 24,
                         "weight_plain": 0
                     }
                 ],
@@ -45410,7 +45704,7 @@
                     "h\u00fcdapar",
                     "rehbertv",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45426,55 +45720,55 @@
                     "madencilerg\u00fcn\u00fc",
                     "d\u00fcnyamadencilerg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "madencilerg\u00fcn\u00fc",
                     "4aral\u0131kd\u00fcnyamadencilerg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "d\u00fcnyamadencilerg\u00fcn\u00fc",
                     "4aral\u0131kd\u00fcnyamadencilerg\u00fcn\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "karl\u0131ova",
                     "deprem",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "suriye",
                     "t\u00fcrkiye",
                     {
-                        "weight": 22,
-                        "weight_plain": 22
+                        "weight": 24,
+                        "weight_plain": 24
                     }
                 ],
                 [
                     "i\u0307stanbul",
                     "sakarya",
                     {
-                        "weight": 33,
-                        "weight_plain": 33
+                        "weight": 36,
+                        "weight_plain": 36
                     }
                 ],
                 [
                     "rehberg\u00fcndem",
                     "canl\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45482,7 +45776,7 @@
                     "rehberg\u00fcndem",
                     "yap\u0131c\u0131o\u011flunasorum",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45490,7 +45784,7 @@
                     "canl\u0131",
                     "yap\u0131c\u0131o\u011flunasorum",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -45498,16 +45792,16 @@
                     "m\u0131s\u0131r",
                     "muhammedmursi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "h\u00fcdaparakumpas",
                     "yenit\u00fcrkiyebumu",
                     {
-                        "weight": 33,
-                        "weight_plain": 33
+                        "weight": 36,
+                        "weight_plain": 36
                     }
                 ],
                 [
@@ -45538,15 +45832,15 @@
                     "g\u00fcndayan\u0131\u015fmag\u00fcn\u00fc",
                     "dayofsolidarity",
                     {
-                        "weight": 10,
-                        "weight_plain": 10
+                        "weight": 11,
+                        "weight_plain": 11
                     }
                 ],
                 [
                     "allahuekber",
                     "\u0627\u0644\u0644\u0647_\u0623\u0643\u0628\u0631",
                     {
-                        "weight": 9,
+                        "weight": 10,
                         "weight_plain": 0
                     }
                 ]

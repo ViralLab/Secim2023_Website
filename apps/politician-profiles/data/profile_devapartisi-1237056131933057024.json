@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "1237056131933057024",
         "name": "DEVA Partisi",
@@ -8,6 +8,41 @@
         "description": "DEVA Partisi Resm\u00ee Hesab\u0131 I \u00c7al\u0131\u015fan T\u00fcrkiye\u2019nin Sesi",
         "screen_name": "devapartisi",
         "stats": {
+            "2023-04-27": {
+                "status": 13212,
+                "friends": 86,
+                "followers": 421735
+            },
+            "2023-04-26": {
+                "status": 13193,
+                "friends": 86,
+                "followers": 421554
+            },
+            "2023-04-25": {
+                "status": 13162,
+                "friends": 86,
+                "followers": 421385
+            },
+            "2023-04-24": {
+                "status": 13158,
+                "friends": 87,
+                "followers": 421172
+            },
+            "2023-04-23": {
+                "status": 13152,
+                "friends": 87,
+                "followers": 421003
+            },
+            "2023-04-22": {
+                "status": 13145,
+                "friends": 87,
+                "followers": 420803
+            },
+            "2023-04-21": {
+                "status": 13139,
+                "friends": 87,
+                "followers": 420578
+            },
             "2023-04-20": {
                 "status": 13117,
                 "friends": 87,
@@ -36763,40 +36798,864 @@
                 "nfav": 221,
                 "isRt": false,
                 "isQuote": false
+            },
+            "1650261368740757507": {
+                "created_at": "Sun Apr 23 22:12:25 +0000 2023",
+                "text": "RT @alibabacan: Arkada\u015flar, malum, sorular\u0131n\u0131za cevap vermek \u00fczere @OguzhanUgur'un moderat\u00f6rl\u00fc\u011f\u00fcnde @BabalaTv'de olaca\u011f\u0131m.\n\nDaha \u00f6nce belki\u2026",
+                "nretweet": 380,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650186505103474693": {
+                "created_at": "Sun Apr 23 17:14:56 +0000 2023",
+                "text": "\u201cKamu m\u00fchendisleri bug\u00fcn tar\u0131mda, ula\u015ft\u0131rmada, \u00fczerinden ge\u00e7ti\u011fimiz yollardan i\u00e7ti\u011fimiz suya kadar yap\u0131lan, b\u00fct\u00fcn k\u2026 https://t.co/gKT9z9MWbI",
+                "nretweet": 672,
+                "nfav": 1319,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650119648522780674": {
+                "created_at": "Sun Apr 23 12:49:16 +0000 2023",
+                "text": "\u201c\u0130\u00e7 siyaset u\u011fruna toplumun i\u00e7 dinamiklerini kaybediyoruz. \n\nBu ayr\u0131\u015ft\u0131r\u0131c\u0131 dil ve yakla\u015f\u0131mlar T\u00fcrkiye\u2019nin gelece\u011fi\u2026 https://t.co/Cev78CoJRl",
+                "nretweet": 19,
+                "nfav": 152,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650108950665101312": {
+                "created_at": "Sun Apr 23 12:06:46 +0000 2023",
+                "text": "RT @mustafaergen_: Teknolojinin h\u0131zl\u0131 bir \u015fekilde ilerlemesi ve dijital d\u00f6n\u00fc\u015f\u00fcm\u00fcn h\u0131z kazanmas\u0131, baz\u0131 i\u015flerin ortadan kalkmas\u0131na ayn\u0131 zaman\u2026",
+                "nretweet": 16,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650058572728762374": {
+                "created_at": "Sun Apr 23 08:46:35 +0000 2023",
+                "text": "RT @elifesendeva: Bug\u00fcn 23 Nisan Pazar\u2026\nMilli Egemenlik ve \u00c7ocuk Bayram\u0131 kutlu olsun.\n\ud83d\udca7\ud83c\udf31\ud83c\udf38\n\u00dclkemiz i\u00e7in \u00e7al\u0131\u015fmaya, #\u00c7al\u0131\u015fanT\u00fcrkiyeninSesi ol\u2026",
+                "nretweet": 36,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650045075341099011": {
+                "created_at": "Sun Apr 23 07:52:56 +0000 2023",
+                "text": "RT @alibabacan: Bug\u00fcn 23 Nisan.\n\nTBMM'nin kurulu\u015f y\u0131l d\u00f6n\u00fcm\u00fc ile Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131m\u0131z kutlu olsun.\n\nGazi Mustafa Kemal Atat\u2026",
+                "nretweet": 553,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649863449785122816": {
+                "created_at": "Sat Apr 22 19:51:14 +0000 2023",
+                "text": "RT @alibabacan: Ankara \u0130l Ba\u015fkanl\u0131\u011f\u0131m\u0131z\u0131n d\u00fczenledi\u011fi bayramla\u015fma program\u0131nda Ankara te\u015fkilat\u0131m\u0131z ve hem\u015fehrilerimle bayramla\u015ft\u0131k. \n\nBayram\u2026",
+                "nretweet": 256,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649833299240427529": {
+                "created_at": "Sat Apr 22 17:51:25 +0000 2023",
+                "text": "\u201c2021\u2019in Ekim ay\u0131nda, Yar\u0131na At\u0131l\u0131m Eylem Plan\u0131m\u0131zda internet vaadimizi ve dijital cihazlardaki verginin indirilmes\u2026 https://t.co/Ggql4R2yL3",
+                "nretweet": 56,
+                "nfav": 291,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649810222976843777": {
+                "created_at": "Sat Apr 22 16:19:43 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi S\u00f6zc\u00fcs\u00fc @avidrissahin 22 Nisan Cumartesi,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 21.00\u2019de\n \n\ud83d\udcfa @ArtiTV_\u2019de @Kemalav ile \"Ankara\u2026 https://t.co/QKjV8Kf2Sh",
+                "nretweet": 22,
+                "nfav": 164,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649763393790771200": {
+                "created_at": "Sat Apr 22 13:13:38 +0000 2023",
+                "text": "\"https://t.co/a9qhw2BYG6 internet sitesiyle sand\u0131k g\u00fcvenli\u011fini sa\u011flayacak g\u00f6n\u00fcll\u00fcler ar\u0131yoruz.\"\n\n@dogasanlioglu g\u00fcn\u2026 https://t.co/6doqL0tCGc",
+                "nretweet": 53,
+                "nfav": 267,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649758016193921024": {
+                "created_at": "Sat Apr 22 12:52:16 +0000 2023",
+                "text": "\u201c\u0130stanbul Milletvekili aday\u0131 olarak her zaman \u015funu dile getiriyorum. \u0130stanbul'un ve \u00c7al\u0131\u015fan T\u00fcrkiye'nin sesi olmak\u2026 https://t.co/cTRXD1qi2T",
+                "nretweet": 47,
+                "nfav": 279,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649746538954997762": {
+                "created_at": "Sat Apr 22 12:06:40 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Do\u011fa Haklar\u0131 ve \u00c7evre Politikalar\u0131 Ba\u015fkan\u0131 @RizvanogluEvrim 22 Nisan Cumartesi,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 18.00'de\u2026 https://t.co/SaEiPLxMPr",
+                "nretweet": 41,
+                "nfav": 198,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649707387194859521": {
+                "created_at": "Sat Apr 22 09:31:05 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Gen\u00e7lik Politikalar\u0131 Ba\u015fkan\u0131 @dogasanlioglu 22 Nisan Cumartesi,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 13.10'da\n\n\ud83d\udcfa\u2026 https://t.co/C24eIdlu3C",
+                "nretweet": 18,
+                "nfav": 118,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649474028921298951": {
+                "created_at": "Fri Apr 21 18:03:48 +0000 2023",
+                "text": "RT @alibabacan: \u00d6fke mi, sevgi mi? \n\n14 May\u0131s, bu sorunun yan\u0131tland\u0131\u011f\u0131 bir referandum olacak. \u0130nan\u0131n, m\u00fcbarek bayram g\u00fcn\u00fc Say\u0131n K\u0131l\u0131\u00e7daro\u011fl\u2026",
+                "nretweet": 1718,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649404134582353925": {
+                "created_at": "Fri Apr 21 13:26:04 +0000 2023",
+                "text": "Ali Babacan: \"Eylem planlar\u0131m\u0131z ile, yurt d\u0131\u015f\u0131ndaki vatanda\u015flar\u0131m\u0131z i\u00e7in uygulanacak politikalar\u0131 g\u00fcnl\u00fck siyasetin\u2026 https://t.co/SLvuIqJpIC",
+                "nretweet": 104,
+                "nfav": 619,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649371128387850245": {
+                "created_at": "Fri Apr 21 11:14:55 +0000 2023",
+                "text": "RT @alibabacan: Bayram\u0131 Diyarbak\u0131r'da kar\u015f\u0131lad\u0131k.\n\nUlu Camii'deki bayram namaz\u0131n\u0131n ard\u0131ndan Halil \u0130brahim Sofras\u0131 Bulu\u015fmas\u0131'nda Diyarbak\u0131rl\u2026",
+                "nretweet": 503,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649309161325461504": {
+                "created_at": "Fri Apr 21 07:08:41 +0000 2023",
+                "text": "Halil \u0130brahim Sofras\u0131 Bulu\u015fmalar\u0131 - 21 Nisan 2023 https://t.co/iLykGrR3i5",
+                "nretweet": 78,
+                "nfav": 585,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649302756925272064": {
+                "created_at": "Fri Apr 21 06:43:14 +0000 2023",
+                "text": "Diyarbak\u0131r | FOX TV Ba\u011flant\u0131s\u0131 https://t.co/oGFfZiMWTn",
+                "nretweet": 66,
+                "nfav": 344,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649287373694328832": {
+                "created_at": "Fri Apr 21 05:42:06 +0000 2023",
+                "text": "RT @alibabacan: 6 \u015eubat depremlerinin ard\u0131ndan ilk bayram\u0131m\u0131z.\n\nAc\u0131m\u0131z azalm\u0131yor.\n\nBu Ramazan Bayram\u0131n\u0131n ilk g\u00fcn\u00fc deprem b\u00f6lgesindeyim. Bir\u2026",
+                "nretweet": 441,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649121085697282048": {
+                "created_at": "Thu Apr 20 18:41:20 +0000 2023",
+                "text": "Ali Babacan: \u201c34 y\u0131ll\u0131k \u00fc\u00e7 haneli enflasyonu iki y\u0131lda tek haneye indirirken \u2018Bebecan\u2019 idik.\n\nParadan alt\u0131 s\u0131f\u0131r at\u2026 https://t.co/6pJyHmbr9m",
+                "nretweet": 237,
+                "nfav": 1713,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649120578786164755": {
+                "created_at": "Thu Apr 20 18:39:19 +0000 2023",
+                "text": "Ali Babacan: \u201cBiz hakl\u0131y\u0131z ve hakl\u0131 olman\u0131n verdi\u011fi g\u00fc\u00e7le yola \u00e7\u0131k\u0131yoruz ve inan\u0131n \u2018Korkmuyoruz\u2019 dedik\u00e7e ba\u015fkalar\u0131 korkuyor.\u201d",
+                "nretweet": 56,
+                "nfav": 355,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649119531023859734": {
+                "created_at": "Thu Apr 20 18:35:10 +0000 2023",
+                "text": "Ali Babacan: \u201cBa\u015faraca\u011f\u0131z.\n\nHep beraber ba\u015faraca\u011f\u0131z.\n\nBizim hedefimiz tam demokrasi.\u201d",
+                "nretweet": 87,
+                "nfav": 519,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649119104643608576": {
+                "created_at": "Thu Apr 20 18:33:28 +0000 2023",
+                "text": "Ali Babacan: \u201c\u0130ki tane tercih var ve tercihler \u00e7ok a\u00e7\u0131k.\n\nTek ak\u0131l m\u0131, ortak ak\u0131l m\u0131,\nKriz mi, huzur mu,\nYoksulluk\u2026 https://t.co/aeyhvI74jE",
+                "nretweet": 129,
+                "nfav": 782,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649117938111086611": {
+                "created_at": "Thu Apr 20 18:28:50 +0000 2023",
+                "text": "Ali Babacan: \u201cDEVA Partisinin logosu ile CHP\u2019nin logosu yan yana duruyor.\n\nT\u00fcrkiye i\u00e7in \u00e7ok b\u00fcy\u00fck bir kazan\u0131m.\n\nMes\u2026 https://t.co/RStoijYZuO",
+                "nretweet": 73,
+                "nfav": 599,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649114685080502272": {
+                "created_at": "Thu Apr 20 18:15:54 +0000 2023",
+                "text": "Diyarbak\u0131r Se\u00e7im Koordinasyon Merkezi Ziyareti https://t.co/MCwX1qfaqG",
+                "nretweet": 87,
+                "nfav": 404,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649108286191312896": {
+                "created_at": "Thu Apr 20 17:50:29 +0000 2023",
+                "text": "RT @alibabacan: Batman'dayd\u0131k.\n\nSe\u00e7im Koordinasyon Merkezi'nde Batmanl\u0131 vatanda\u015flar\u0131m\u0131zla bir araya geldik. Hep birlikte \"Birle\u015fe birle\u015fe k\u2026",
+                "nretweet": 339,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649081819415863297": {
+                "created_at": "Thu Apr 20 16:05:18 +0000 2023",
+                "text": "RT @alibabacan: AK Parti \u00c7ukurova \u0130l\u00e7e Ba\u015fkanl\u0131\u011f\u0131'na ger\u00e7ekle\u015ftirilen silahl\u0131 sald\u0131r\u0131y\u0131 k\u0131n\u0131yorum.\n\nAK Parti'ye ve te\u015fkilatlar\u0131na ge\u00e7mi\u015f ol\u2026",
+                "nretweet": 185,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649074921106964480": {
+                "created_at": "Thu Apr 20 15:37:54 +0000 2023",
+                "text": "Ali Babacan: \u201cT\u00fcrkiye\u2019nin g\u00fc\u00e7lenmesinin yolu, herkesin \u00f6zg\u00fcrce konu\u015fabilmesinden ge\u00e7iyor.\u201d",
+                "nretweet": 41,
+                "nfav": 259,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649074708283883521": {
+                "created_at": "Thu Apr 20 15:37:03 +0000 2023",
+                "text": "Ali Babacan: \u201cHerkes ama herkes bu \u00fclkenin e\u015fit ve onurlu vatanda\u015f\u0131 olacak.\u201d",
+                "nretweet": 38,
+                "nfav": 265,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649074204531122179": {
+                "created_at": "Thu Apr 20 15:35:03 +0000 2023",
+                "text": "Ali Babacan: \u201cGe\u00e7mi\u015fte AK Partiye g\u00f6n\u00fcl vermi\u015f insanlar\u0131n kap\u0131s\u0131n\u0131 \u00e7almal\u0131y\u0131z. \u2018Sizin sesiniz olan, derdinizle ilgi\u2026 https://t.co/pCPpLsJAFn",
+                "nretweet": 76,
+                "nfav": 466,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649073666506870784": {
+                "created_at": "Thu Apr 20 15:32:55 +0000 2023",
+                "text": "Ali Babacan: \u201cCumhurba\u015fkan\u0131 aday\u0131m\u0131z a\u00e7\u0131k ara farkla kazanacak.\u201d",
+                "nretweet": 181,
+                "nfav": 1947,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649073275396300801": {
+                "created_at": "Thu Apr 20 15:31:21 +0000 2023",
+                "text": "Ali Babacan: \u201cAsl\u0131nda \u00f6n\u00fcm\u00fczde bir referandum var.\n\nKriz mi, huzur mu? Yoksulluk mu, zenginlik mi? \u00d6fke mi, sevgi m\u2026 https://t.co/9m850OtoGh",
+                "nretweet": 89,
+                "nfav": 463,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649072930838437891": {
+                "created_at": "Thu Apr 20 15:29:59 +0000 2023",
+                "text": "Ali Babacan: \u201cTek bir listeyle giriyoruz ki tek bir oy dahi zayi olmas\u0131n.\u201d\n\nhttps://t.co/HbA0vdYLRP",
+                "nretweet": 55,
+                "nfav": 324,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649072601778597891": {
+                "created_at": "Thu Apr 20 15:28:41 +0000 2023",
+                "text": "Ali Babacan: \"Bu se\u00e7im 7'den 70'e, do\u011fudan bat\u0131ya, kuzeyden g\u00fcneye t\u00fcm T\u00fcrkiye kazanacak.\"",
+                "nretweet": 55,
+                "nfav": 292,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649070879891128322": {
+                "created_at": "Thu Apr 20 15:21:50 +0000 2023",
+                "text": "Batman Se\u00e7im Koordinasyon Merkezi Ziyareti https://t.co/5C2FaCBWse",
+                "nretweet": 47,
+                "nfav": 286,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649070253584908289": {
+                "created_at": "Thu Apr 20 15:19:21 +0000 2023",
+                "text": "RT @alibabacan: Prof. Dr. Erdal Ar\u0131kan ile d\u00fcnyan\u0131n teknolojisini konu\u015ftu\u011fumuz Ali Babacan ile Bi\u2019 Kahve 9. b\u00f6l\u00fcm yay\u0131nda.\n\nHerkese iyi sey\u2026",
+                "nretweet": 193,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649049635108044803": {
+                "created_at": "Thu Apr 20 13:57:25 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Hukuk ve Adalet Politikalar\u0131 Ba\u015fkan\u0131 @myeneroglu 20 Nisan Per\u015fembe,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 17.00'de\n\n\ud83d\udcfa\u2026 https://t.co/nKU7HEP0EU",
+                "nretweet": 23,
+                "nfav": 188,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649047068823158789": {
+                "created_at": "Thu Apr 20 13:47:13 +0000 2023",
+                "text": "Ali Babacan: \"\u015eu andaki iktidar\u0131n enflasyonu durdurma imk\u00e2n\u0131 yok.\" https://t.co/7GxmlUpgHl",
+                "nretweet": 103,
+                "nfav": 685,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649035486080499715": {
+                "created_at": "Thu Apr 20 13:01:12 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi E\u011fitim Politikalar\u0131 Ba\u015fkan\u0131 @mustafaergen_ 20 Nisan Per\u015fembe,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 16.00'da\n\n\ud83d\udcfa @ArtiTV_'de\u2026 https://t.co/MffyH0IWpV",
+                "nretweet": 15,
+                "nfav": 89,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648994692711735296": {
+                "created_at": "Thu Apr 20 10:19:06 +0000 2023",
+                "text": "RT @alibabacan: Kimlikler \u00fczerinden ayr\u0131\u015ft\u0131ran zihniyeti reddediyoruz. \n\nT\u00fcrk-K\u00fcrt-Laz-\u00c7erkes hi\u00e7 fark etmez,\n\nS\u00fcnni-Alevi fark etmez,\n\nYa\u015f\u2026",
+                "nretweet": 2883,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648975447219208193": {
+                "created_at": "Thu Apr 20 09:02:37 +0000 2023",
+                "text": "RT @alibabacan: \u00c7ip \u00fcretimi, 5G, 6G, \u0130HA\u2019lar, f\u00fczyon, fiber altyap\u0131\u2026 K\u0131sacas\u0131 d\u00fcnyan\u0131n teknolojisini konu\u015ftuk.\n\nBi\u2019 Kahve\u2019nin yeni b\u00f6l\u00fcm\u00fcnd\u2026",
+                "nretweet": 644,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648711106205216769": {
+                "created_at": "Wed Apr 19 15:32:13 +0000 2023",
+                "text": "\"Bir \u015feylerin yanl\u0131\u015f gitti\u011fini vatanda\u015flar\u0131m\u0131z\u0131n g\u00f6rd\u00fc\u011f\u00fcn\u00fc d\u00fc\u015f\u00fcn\u00fcyorum. \n\nGer\u00e7ekler art\u0131k kab\u0131na s\u0131\u011fm\u0131yor, yalanlar\u2026 https://t.co/EMlHmyEmGS",
+                "nretweet": 41,
+                "nfav": 240,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648693176574550016": {
+                "created_at": "Wed Apr 19 14:20:59 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Do\u011fa Haklar\u0131 ve \u00c7evre Politikalar\u0131 Ba\u015fkan\u0131 @RizvanogluEvrim 20 Nisan Per\u015fembe,\n\n\ud83d\uddd3 YARIN\n\n\ud83d\udd70 11.40\u2019ta\u2026 https://t.co/c4lBAJqRa3",
+                "nretweet": 56,
+                "nfav": 192,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648666090661113856": {
+                "created_at": "Wed Apr 19 12:33:21 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31 DEVA Partisi Hukuk ve Adalet Politikalar\u0131 Ba\u015fkan\u0131 @myeneroglu 19 Nisan \u00c7ar\u015famba,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 18.00'de\n\n\ud83d\udcfa\u2026 https://t.co/7637HrYtxK",
+                "nretweet": 43,
+                "nfav": 209,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648643268966748160": {
+                "created_at": "Wed Apr 19 11:02:40 +0000 2023",
+                "text": "Ali Babacan: \u201c\u2018\u0130mar aff\u0131 olmayacak\u2019 diyor. Niye yapt\u0131n o zaman? Bir \u00f6nceki se\u00e7im kampanyas\u0131n\u0131n en \u00f6nemli unsuru de\u011f\u2026 https://t.co/E4qIjHXvCZ",
+                "nretweet": 165,
+                "nfav": 763,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648614663536406531": {
+                "created_at": "Wed Apr 19 09:09:00 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \u201cDenklik i\u015flemlerini ve \u00fcniversite kabul s\u00fcre\u00e7lerini kolayla\u015ft\u0131raca\u011f\u0131z.\u201d",
+                "nretweet": 33,
+                "nfav": 159,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648614160207421446": {
+                "created_at": "Wed Apr 19 09:07:00 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \"Gen\u00e7lere pasaportu \u00fccretsiz verece\u011fiz.\"",
+                "nretweet": 51,
+                "nfav": 219,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648613817545261059": {
+                "created_at": "Wed Apr 19 09:05:38 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \u201cD\u00f6vizle askerli\u011fin, yurt d\u0131\u015f\u0131nda ya\u015fayan gen\u00e7lerimizin, T\u00fcrkiye Cumhuriyeti vatanda\u015fl\u0131\u011f\u0131ndan ay\u2026 https://t.co/iigH5Po215",
+                "nretweet": 35,
+                "nfav": 166,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648612927044304900": {
+                "created_at": "Wed Apr 19 09:02:06 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \"Konsolosluk hizmetlerinin geli\u015ftirilmesi i\u00e7in insan kayna\u011f\u0131n\u0131n nitelik ve niceli\u011fini art\u0131raca\u011f\u0131z.\"",
+                "nretweet": 36,
+                "nfav": 148,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648611347939176448": {
+                "created_at": "Wed Apr 19 08:55:49 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \u201cDiasporam\u0131za y\u00f6nelik \u00e7al\u0131\u015fmalar birden fazla kurumun sorumlulu\u011fu alt\u0131ndad\u0131r.\n\nHaz\u0131rlayaca\u011f\u0131m\u0131z\u2026 https://t.co/ftTuoCDyDl",
+                "nretweet": 34,
+                "nfav": 116,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648610428530851842": {
+                "created_at": "Wed Apr 19 08:52:10 +0000 2023",
+                "text": "Mustafa Yenero\u011flu: \"Eylem plan\u0131m\u0131z \u00e7er\u00e7evesinde yurt d\u0131\u015f\u0131nda ya\u015fayan vatanda\u015flar\u0131m\u0131z\u0131n tarihsel s\u00fcre\u00e7 i\u00e7erisinde mi\u2026 https://t.co/SQG5uUaXZ4",
+                "nretweet": 39,
+                "nfav": 130,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648608623617265667": {
+                "created_at": "Wed Apr 19 08:45:00 +0000 2023",
+                "text": "Ali Babacan: \u201c27 Nisan itibariyle t\u00fcm yurt d\u0131\u015f\u0131ndaki vatanda\u015flar\u0131m\u0131z\u0131, sand\u0131klara gitmeye ve oy kullanmaya davet ed\u2026 https://t.co/iezZvlozKq",
+                "nretweet": 55,
+                "nfav": 173,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648608120363716608": {
+                "created_at": "Wed Apr 19 08:43:00 +0000 2023",
+                "text": "Ali Babacan: \u201cYurt d\u0131\u015f\u0131nda yerle\u015fik vatanda\u015flar\u0131m\u0131z\u0131n T\u00fcrkiye\u2019ye getirerek kulland\u0131klar\u0131 \u00f6zel ara\u00e7lar\u0131n\u0131n 2 y\u0131l kal\u2026 https://t.co/lloo2R78s8",
+                "nretweet": 76,
+                "nfav": 498,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648607365418336257": {
+                "created_at": "Wed Apr 19 08:40:00 +0000 2023",
+                "text": "Ali Babacan: \u201cYurt d\u0131\u015f\u0131ndaki gen\u00e7lerimizin \u00fclkemizle ba\u011flar\u0131n\u0131 korumalar\u0131 ad\u0131na, \u2018\u0130lk pasaportum\u2019 uygulamas\u0131 ile 30\u2026 https://t.co/zuGaL9KA5H",
+                "nretweet": 74,
+                "nfav": 340,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648606861938110464": {
+                "created_at": "Wed Apr 19 08:38:00 +0000 2023",
+                "text": "Ali Babacan: \u201cTBMM b\u00fcnyesinde Yurtd\u0131\u015f\u0131 Vatanda\u015flar \u0130htisas Komisyonu kurarak vatanda\u015flar\u0131m\u0131z\u0131n haklar\u0131n\u0131n anayasal\u2026 https://t.co/ZqauR7mTdo",
+                "nretweet": 28,
+                "nfav": 123,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648606358734876673": {
+                "created_at": "Wed Apr 19 08:36:00 +0000 2023",
+                "text": "Ali Babacan: \u201cT\u00fcrkiye pasaportuna sahip olman\u0131n itibar sa\u011flad\u0131\u011f\u0131 g\u00fcnler daha da g\u00fc\u00e7l\u00fc \u015fekilde gelecek.\u201d",
+                "nretweet": 42,
+                "nfav": 204,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648605914226737152": {
+                "created_at": "Wed Apr 19 08:34:14 +0000 2023",
+                "text": "Ali Babacan: \u201cPasaportumuzun gurur vesilesi oldu\u011fu, ekonomimizin d\u00fcnyan\u0131n en b\u00fcy\u00fck 16. ekonomisi oldu\u011fu, d\u00fcnyadaki\u2026 https://t.co/ik1v6eSTee",
+                "nretweet": 62,
+                "nfav": 304,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648602345188601856": {
+                "created_at": "Wed Apr 19 08:20:03 +0000 2023",
+                "text": "Ali Babacan: \u201cSon senelerde, yurt d\u0131\u015f\u0131nda ya\u015fayan vatanda\u015flar\u0131m\u0131z sadece se\u00e7im d\u00f6nemlerinde hat\u0131rlanan insanlar old\u2026 https://t.co/unTuLKBJdj",
+                "nretweet": 45,
+                "nfav": 186,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648601124176273410": {
+                "created_at": "Wed Apr 19 08:15:12 +0000 2023",
+                "text": "Ali Babacan: \u201cAlmanya\u2019daki, Hollanda\u2019daki, Avustralya\u2019daki, Kanada\u2019daki, M\u0131s\u0131r\u2019daki, L\u00fcbnan\u2019daki ve daha pek \u00e7ok \u00fcl\u2026 https://t.co/5w1N4OSNBg",
+                "nretweet": 53,
+                "nfav": 277,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648600728888303617": {
+                "created_at": "Wed Apr 19 08:13:37 +0000 2023",
+                "text": "Ali Babacan: \u201c22 eylem plan\u0131 deyip duruyorduk ama partimiz \u00e7al\u0131\u015fkanl\u0131\u011f\u0131n\u0131 durduram\u0131yor.\n\nBug\u00fcn yeni bir eylem plan\u0131\u2026 https://t.co/prHE56Qds1",
+                "nretweet": 78,
+                "nfav": 413,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648599504072110081": {
+                "created_at": "Wed Apr 19 08:08:45 +0000 2023",
+                "text": "Yurt D\u0131\u015f\u0131 Vatanda\u015flar Eylem Plan\u0131m\u0131z\u0131 a\u00e7\u0131kl\u0131yoruz https://t.co/B0OBDi4dRp",
+                "nretweet": 101,
+                "nfav": 390,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648434597221498881": {
+                "created_at": "Tue Apr 18 21:13:29 +0000 2023",
+                "text": "RT @alibabacan: Bug\u00fcn il ba\u015fkanlar\u0131 toplant\u0131m\u0131z\u0131n ard\u0131ndan Ankara \u0130l Ba\u015fkanl\u0131\u011f\u0131m\u0131z\u0131n kurdu\u011fu geni\u015f sofrayla iftardayd\u0131k. \n\nAnkara te\u015fkilat\u0131\u2026",
+                "nretweet": 265,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648402657566965762": {
+                "created_at": "Tue Apr 18 19:06:34 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Gen\u00e7lik Politikalar\u0131 Ba\u015fkan\u0131 @dogasanlioglu 19 Nisan \u00c7ar\u015famba,\n\n\ud83d\uddd3 YARIN\n\n\ud83d\udd70 09.00'da\n\n\ud83d\udcfa\u2026 https://t.co/fgDDKCVmfw",
+                "nretweet": 23,
+                "nfav": 114,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648393496686895110": {
+                "created_at": "Tue Apr 18 18:30:09 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Gen\u00e7lik Politikalar\u0131 Ba\u015fkan\u0131 @dogasanlioglu 18 Nisan Sal\u0131,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 22.45'te\n\n\ud83d\udcfa @tv5televizyonu'n\u2026 https://t.co/hQ3TdvidJB",
+                "nretweet": 19,
+                "nfav": 111,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648390445523771392": {
+                "created_at": "Tue Apr 18 18:18:02 +0000 2023",
+                "text": "RT @devapartisiydv: Genel Ba\u015fkan\u0131m\u0131z @alibabacan ile Hukuk ve Adalet Politikalar\u0131 Ba\u015fkan\u0131m\u0131z @myeneroglu, yar\u0131n Yurt D\u0131\u015f\u0131 Vatanda\u015flar Eylem\u2026",
+                "nretweet": 60,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648378608036253696": {
+                "created_at": "Tue Apr 18 17:31:00 +0000 2023",
+                "text": "Ali Babacan: \u201cDepremin ilk 14 g\u00fcn\u00fcn\u00fcn 9\u2019unda sahadayd\u0131m. G\u00f6zlerimle g\u00f6rd\u00fcm. Vatanda\u015flar\u0131m\u0131z\u0131n nas\u0131l yaln\u0131z kald\u0131\u011f\u0131n\u2026 https://t.co/TH9iRehYwT",
+                "nretweet": 57,
+                "nfav": 359,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648377985358086182": {
+                "created_at": "Tue Apr 18 17:28:31 +0000 2023",
+                "text": "Ali Babacan: \"B\u00fct\u00fcn vatanda\u015flar\u0131m\u0131z\u0131n sat\u0131n al\u0131m g\u00fcc\u00fc d\u00fc\u015ft\u00fc. Bundan \u00fc\u00e7 sene d\u00f6rt sene \u00f6nce bir ayl\u0131k maa\u015f\u0131n\u0131zla ala\u2026 https://t.co/BRz8GuRh8o",
+                "nretweet": 86,
+                "nfav": 411,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648376605604036645": {
+                "created_at": "Tue Apr 18 17:23:02 +0000 2023",
+                "text": "Ali Babacan: \u201c\u015eu anda \u00fclkemiz \u00e7ok kritik bir u\u00e7urumun e\u015fi\u011finde.\n\nHer alanda \u00fclke kriz ya\u015f\u0131yor. Ortada \u00e7\u00f6z\u00fclebilen b\u2026 https://t.co/xs0QwRZyeX",
+                "nretweet": 88,
+                "nfav": 447,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648374844084437013": {
+                "created_at": "Tue Apr 18 17:16:02 +0000 2023",
+                "text": "Ali Babacan: \"Alt\u0131 partiden olu\u015fan bir birliktelik olu\u015fturduk.\n\nBizi birle\u015ftiren en \u00f6nemli ortak payda demokrasidir\u2026 https://t.co/299xXhqcvj",
+                "nretweet": 57,
+                "nfav": 431,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648371971997184002": {
+                "created_at": "Tue Apr 18 17:04:38 +0000 2023",
+                "text": "DEVA Partisi Ankara \u0130l Ba\u015fkanl\u0131\u011f\u0131 \u0130ftar Program\u0131 https://t.co/zWeOzHQKwj",
+                "nretweet": 53,
+                "nfav": 367,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648352653406244864": {
+                "created_at": "Tue Apr 18 15:47:52 +0000 2023",
+                "text": "\u201cMasadaki farkl\u0131l\u0131klar ve ge\u00e7mi\u015fte tart\u0131\u015f\u0131lan konulardan ziyade, T\u00fcrkiye'nin gelece\u011fine ili\u015fkin konular \u015fu an \u00e7ok d\u2026 https://t.co/Y1t8Uvaj5X",
+                "nretweet": 42,
+                "nfav": 223,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648326359087718401": {
+                "created_at": "Tue Apr 18 14:03:23 +0000 2023",
+                "text": "RT @alibabacan: Gen\u00e7 arkada\u015flar\u0131m, ya\u015f\u0131n\u0131z sebebiyle size takma ad tak\u0131p sizi itibars\u0131zla\u015ft\u0131rmaya \u00e7al\u0131\u015fanlar olabilir; onlara en iyi cevab\u0131\u2026",
+                "nretweet": 1277,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648308305423663105": {
+                "created_at": "Tue Apr 18 12:51:38 +0000 2023",
+                "text": "Ali Babacan: \u201cYoksulluk niye bu kadar artt\u0131?\n\n\u00c7\u00fcnk\u00fc bir ki\u015fi k\u00fc\u00e7\u00fck da\u011farc\u0131\u011f\u0131yla \u00fclkeyi y\u00f6netmeye \u00e7al\u0131\u015f\u0131yor da ondan\u2026 https://t.co/uCPcdDmvpK",
+                "nretweet": 120,
+                "nfav": 673,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648305101902082049": {
+                "created_at": "Tue Apr 18 12:38:54 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31 DEVA Partisi GMYK \u00dcyesi @Baharsaygili 19 Nisan \u00c7ar\u015famba,\n\n\ud83d\uddd3 YARIN\n\n\ud83d\udd70 14.00'te\n\n\ud83d\udcfa @sportstv'de \u0130lhan Uzundurukan\u2026 https://t.co/AP2aFt0dQN",
+                "nretweet": 20,
+                "nfav": 119,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648277599511015426": {
+                "created_at": "Tue Apr 18 10:49:37 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31DEVA Partisi Sivil Toplumla \u0130li\u015fkiler Ba\u015fkan\u0131 @hasankaraltr 18 Nisan Sal\u0131,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 16.00\u2019da\n\n\ud83d\udcfa @krtkulturtv\u2019d\u2026 https://t.co/cteUmKXghY",
+                "nretweet": 43,
+                "nfav": 162,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648273076549824514": {
+                "created_at": "Tue Apr 18 10:31:39 +0000 2023",
+                "text": "Ali Babacan: \u201cBayram\u0131n birinci g\u00fcn\u00fcn\u00fc depremzede vatanda\u015flar\u0131m\u0131zla birlikte kar\u015f\u0131layaca\u011f\u0131z.\n\nKim ne yaparsa yaps\u0131n,\u2026 https://t.co/zkvysQEMY7",
+                "nretweet": 61,
+                "nfav": 285,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648268343101595648": {
+                "created_at": "Tue Apr 18 10:12:50 +0000 2023",
+                "text": "Ali Babacan: \u201c\u2018Ben gidersem, onlar sizin haklar\u0131n\u0131z\u0131 \u00e7i\u011fner\u2019 diyorlar.\n\nOn y\u0131llarca \u00fclkeyi y\u00f6nettikten sonra tehdit\u2026 https://t.co/LWXbruY7Ya",
+                "nretweet": 80,
+                "nfav": 357,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648265776107864065": {
+                "created_at": "Tue Apr 18 10:02:38 +0000 2023",
+                "text": "Ali Babacan: \u201cBaz\u0131 mahallelerde s\u00f6ylenen bir tabir vard\u0131. \u2018Elim alt\u0131 oka gitmiyor, elim CHP\u2019ye gitmiyor.\u2019\n\nBu se\u00e7im\u2026 https://t.co/hi0qTiRHmo",
+                "nretweet": 127,
+                "nfav": 817,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648264384001503234": {
+                "created_at": "Tue Apr 18 09:57:07 +0000 2023",
+                "text": "Ali Babacan: \u201cBu se\u00e7im asl\u0131nda iki tercihli bir referandum.\n\nDemokrasi mi, otoriterlik mi?\nZenginlik mi, fakirlik m\u2026 https://t.co/rh6mkZhY6i",
+                "nretweet": 144,
+                "nfav": 691,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648263256950157312": {
+                "created_at": "Tue Apr 18 09:52:38 +0000 2023",
+                "text": "Ali Babacan: \u201cKemal K\u0131l\u0131\u00e7daro\u011flu\u2019nu \u00fclkemizin 13. Cumhurba\u015fkan\u0131 yapaca\u011f\u0131z.\u201d",
+                "nretweet": 129,
+                "nfav": 1409,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648262747891671040": {
+                "created_at": "Tue Apr 18 09:50:36 +0000 2023",
+                "text": "Ali Babacan: \u201cBizim adaylar\u0131m\u0131z DEVA Partili olarak se\u00e7ime giriyor, se\u00e7ildikleri anda da DEVA Partisi\u2019nin milletvek\u2026 https://t.co/LmFJWfRpA4",
+                "nretweet": 73,
+                "nfav": 487,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648261875656712192": {
+                "created_at": "Tue Apr 18 09:47:09 +0000 2023",
+                "text": "Ali Babacan: \u201cBu se\u00e7im, hi\u00e7bir partinin tek ba\u015f\u0131na kazanamayaca\u011f\u0131 bir se\u00e7im.\n\nOrtak listeyle se\u00e7ime girildi\u011finde, \u00e7\u2026 https://t.co/u0EOrmCnUY",
+                "nretweet": 62,
+                "nfav": 361,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648260139466596353": {
+                "created_at": "Tue Apr 18 09:40:15 +0000 2023",
+                "text": "Ali Babacan: \u201cDemokrasimize sahip \u00e7\u0131kacak g\u00f6n\u00fcll\u00fclerle, partili arkada\u015flar\u0131m\u0131zla beraber sand\u0131k g\u00fcvenli\u011fini tam sa\u011f\u2026 https://t.co/MsM2uBuyOv",
+                "nretweet": 38,
+                "nfav": 154,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648254550263078913": {
+                "created_at": "Tue Apr 18 09:18:02 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Ali Babacan'\u0131n DEVA Partisi \u0130l Ba\u015fkanlar\u0131 Toplant\u0131s\u0131 A\u00e7\u0131l\u0131\u015f Konu\u015fmas\u0131 https://t.co/3D6cblv98i",
+                "nretweet": 90,
+                "nfav": 369,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648234027885658113": {
+                "created_at": "Tue Apr 18 07:56:29 +0000 2023",
+                "text": "\ud83d\udca7\ud83c\udf31 DEVA Partisi Te\u015fkilat \u0130\u015fleri Ba\u015fkan\u0131 @erginsadullah 18 Nisan Sal\u0131,\n\n\ud83d\uddd3 BUG\u00dcN\n\n\ud83d\udd70 11.30'da\n\n\ud83d\udcfa @KararHaber'de\u2026 https://t.co/HhVrPkJbtF",
+                "nretweet": 50,
+                "nfav": 188,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648061053308227601": {
+                "created_at": "Mon Apr 17 20:29:09 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Ali Babacan\u2019\u0131n kat\u0131l\u0131m\u0131yla 18 Nisan Sal\u0131 (yar\u0131n) 12.00'de \u0130l Ba\u015fkanlar\u0131 Toplant\u0131m\u0131z\u0131 ger\u00e7ekle\u015ftire\u2026 https://t.co/oYapN599wN",
+                "nretweet": 65,
+                "nfav": 395,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647978235551191045": {
+                "created_at": "Mon Apr 17 15:00:03 +0000 2023",
+                "text": "\"M\u00fcdahele edilecek alanlardan birincisi yasaklar, ikincisi de kurumlar\u0131n itibar\u0131n\u0131 \u015fekillendirmek.\u201d\n\nBurak Dalg\u0131n g\u2026 https://t.co/mbwsv3iClp",
+                "nretweet": 37,
+                "nfav": 249,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647945622975139842": {
+                "created_at": "Mon Apr 17 12:50:28 +0000 2023",
+                "text": "\u201cKalp ameliyatlar\u0131n\u0131n %30\u2019unun ertelendi\u011fini \u00f6\u011frendik.\n\nK\u0131z\u0131lay\u2019\u0131 liyakatli kadrolara teslim edece\u011fiz.\u201d\n\nSa\u011fl\u0131k Pol\u2026 https://t.co/6KZX2UTxv6",
+                "nretweet": 70,
+                "nfav": 390,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647918162514690053": {
+                "created_at": "Mon Apr 17 11:01:21 +0000 2023",
+                "text": "\"G\u00f6n\u00fcll\u00fcleri, h\u0131zl\u0131 bir \u015fekilde sand\u0131klara kanalize edebilmek i\u00e7in https://t.co/a9qhw2CwvE (@saydikbiz) platformunu\u2026 https://t.co/v7UhsNADSl",
+                "nretweet": 62,
+                "nfav": 273,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647865476972724224": {
+                "created_at": "Mon Apr 17 07:32:00 +0000 2023",
+                "text": "Ali Babacan: \u201cKonut Finansman\u0131 Kurumu\u2019nu kuraca\u011f\u0131z.\u201d",
+                "nretweet": 62,
+                "nfav": 319,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647864630578905090": {
+                "created_at": "Mon Apr 17 07:28:38 +0000 2023",
+                "text": "Ali Babacan: \u201cVarl\u0131k Fonu\u2019nu kapataca\u011f\u0131z.\"",
+                "nretweet": 94,
+                "nfav": 691,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647862960323276800": {
+                "created_at": "Mon Apr 17 07:22:00 +0000 2023",
+                "text": "Ali Babacan: \u201cOrman yang\u0131n\u0131 \u00e7\u0131kt\u0131, s\u00f6nd\u00fcremediniz. Deprem oldu, an\u0131nda m\u00fcdahale edemediniz.\n\nGitti Ad\u0131yaman\u2019a \u2018\u0130lk\u2026 https://t.co/GbmZaakpBR",
+                "nretweet": 111,
+                "nfav": 478,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647861614962520066": {
+                "created_at": "Mon Apr 17 07:16:39 +0000 2023",
+                "text": "Ali Babacan: \u201cDefalarca sorduk. Tekrar soruyorum:\n\nDepremin ilk iki g\u00fcn\u00fc silahl\u0131 kuvvetler personeli neden hemen sa\u2026 https://t.co/Mclu2OmzeO",
+                "nretweet": 119,
+                "nfav": 447,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647860755973263363": {
+                "created_at": "Mon Apr 17 07:13:14 +0000 2023",
+                "text": "Ali Babacan: \u201cEn ge\u00e7 iki y\u0131lda enflasyonu biz tek haneye indiririz. En zor \u015fartlarda dahi biz bunu ger\u00e7ekle\u015ftiririz\u2026 https://t.co/RFpvM1vfeO",
+                "nretweet": 87,
+                "nfav": 375,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647859114746281985": {
+                "created_at": "Mon Apr 17 07:06:43 +0000 2023",
+                "text": "Ali Babacan: \u201c\u2018\u0130mar aff\u0131 olmayacak\u2019 diyor. Niye yapt\u0131n o zaman? Bir \u00f6nceki se\u00e7im kampanyas\u0131n\u0131n en \u00f6nemli unsuru de\u011f\u2026 https://t.co/GR3u556HGj",
+                "nretweet": 97,
+                "nfav": 430,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647857617325244421": {
+                "created_at": "Mon Apr 17 07:00:46 +0000 2023",
+                "text": "Ali Babacan: \u201cMerkez Bankas\u0131n\u0131n arka kap\u0131s\u0131ndan gizli sakl\u0131 d\u00f6viz sat\u0131\u015f\u0131 \u015fu anda 250 milyar dolar\u0131 a\u015fm\u0131\u015f durumda.\u2026 https://t.co/D6lZ1warDj",
+                "nretweet": 157,
+                "nfav": 942,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647856203828015104": {
+                "created_at": "Mon Apr 17 06:55:09 +0000 2023",
+                "text": "Ali Babacan: \u201cSabit maa\u015fla ge\u00e7inen emeklilerimiz var, i\u015f\u00e7ilerimiz var, memurlar\u0131m\u0131z var, dul ve yetim maa\u015flar\u0131 var,\u2026 https://t.co/sZ2d4YcjNb",
+                "nretweet": 105,
+                "nfav": 539,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647854672575643649": {
+                "created_at": "Mon Apr 17 06:49:04 +0000 2023",
+                "text": "Ali Babacan: \u201c\u0130nsanlar, buzdolaplar\u0131n\u0131n belki yar\u0131s\u0131n\u0131 bile dolduramad\u0131klar\u0131 bir d\u00f6nemden ge\u00e7iyor.\n\nDolay\u0131s\u0131yla \u015fah\u2026 https://t.co/NOjknO8b1k",
+                "nretweet": 73,
+                "nfav": 304,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647853153717551105": {
+                "created_at": "Mon Apr 17 06:43:02 +0000 2023",
+                "text": "Ali Babacan: \u201c\u00c7\u0131k\u0131p \u2018Enflasyonu tek haneye d\u00fc\u015f\u00fcrd\u00fck\u2019 diye \u00f6v\u00fcnm\u00fcyor muydu? 2003-2004 y\u0131llar\u0131nda, bizim ekonominin b\u2026 https://t.co/t1ewjJbVHh",
+                "nretweet": 84,
+                "nfav": 334,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647852107003842565": {
+                "created_at": "Mon Apr 17 06:38:52 +0000 2023",
+                "text": "Ali Babacan: \u201cYoksulluk niye bu kadar artt\u0131?\n\n\u00c7\u00fcnk\u00fc bir ki\u015fi kendi k\u00fc\u00e7\u00fck da\u011farc\u0131\u011f\u0131yla \u00fclkeyi y\u00f6netme \u00e7al\u0131\u015f\u0131yor da o\u2026 https://t.co/hQyNuXujMU",
+                "nretweet": 104,
+                "nfav": 556,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647850617149202432": {
+                "created_at": "Mon Apr 17 06:32:57 +0000 2023",
+                "text": "Ali Babacan: \u201c\u2018Bu ekonomik krizi yine biz \u00e7\u00f6zece\u011fiz\u2019 diyor ama \u015funu atl\u0131yor: \n\nBu kriz kendi tam yetkili Cumhurba\u015fk\u2026 https://t.co/53Wou5GRw1",
+                "nretweet": 48,
+                "nfav": 205,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647848753909620737": {
+                "created_at": "Mon Apr 17 06:25:33 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Ali Babacan, FOX TV'de \u00c7alar Saat program\u0131na konuk oluyor. https://t.co/Wsn2cQ74cZ",
+                "nretweet": 130,
+                "nfav": 551,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647842324632993792": {
+                "created_at": "Mon Apr 17 06:00:00 +0000 2023",
+                "text": "Genel Ba\u015fkan\u0131m\u0131z Ali Babacan,\n\nBirazdan, Fox TV\u2019de \u0130lker Karag\u00f6z ile \u201c\u00c7alar Saat\u201d program\u0131nda g\u00fcndemi de\u011ferlendirec\u2026 https://t.co/cE3F3LtkEQ",
+                "nretweet": 54,
+                "nfav": 480,
+                "isRt": false,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "alibabacan",
-                436
+                450
             ],
             [
                 "avidrissahin",
-                119
+                120
             ],
             [
                 "mustafaergen_",
-                118
+                120
             ],
             [
                 "dogasanlioglu",
-                113
+                117
             ],
             [
                 "elifesendeva",
-                93
+                94
+            ],
+            [
+                "myeneroglu",
+                82
             ],
             [
                 "emin_ekmen",
                 80
             ],
             [
-                "myeneroglu",
-                79
-            ],
-            [
                 "RizvanogluEvrim",
-                72
+                74
             ],
             [
                 "halktvcomtr",
@@ -36812,7 +37671,7 @@
             ],
             [
                 "ArtiTV_",
-                34
+                36
             ],
             [
                 "devaekonomi",
@@ -36832,14 +37691,14 @@
             ],
             [
                 "tv5televizyonu",
+                24
+            ],
+            [
+                "krtkulturtv",
                 23
             ],
             [
                 "flashhabertvcom",
-                22
-            ],
-            [
-                "krtkulturtv",
                 22
             ],
             [
@@ -36883,11 +37742,19 @@
                 13
             ],
             [
+                "hasankaraltr",
+                11
+            ],
+            [
                 "bbnturktv",
                 11
             ],
             [
                 "HelunFirat",
+                11
+            ],
+            [
+                "KararHaber",
                 11
             ],
             [
@@ -36899,10 +37766,6 @@
                 11
             ],
             [
-                "hasankaraltr",
-                10
-            ],
-            [
                 "zeynellule",
                 10
             ],
@@ -36911,8 +37774,8 @@
                 10
             ],
             [
-                "KararHaber",
-                10
+                "erginsadullah",
+                9
             ],
             [
                 "kubrapc",
@@ -36923,11 +37786,11 @@
                 8
             ],
             [
-                "erginsadullah",
+                "devapartisi",
                 8
             ],
             [
-                "devapartisi",
+                "Kemalav",
                 8
             ],
             [
@@ -36935,12 +37798,8 @@
                 8
             ],
             [
-                "Kemalav",
-                7
-            ],
-            [
                 "SaydikBiz",
-                7
+                8
             ],
             [
                 "t24comtr",
@@ -37001,11 +37860,11 @@
                 9
             ],
             [
-                "TrabzonMitingi",
-                8
+                "\u00c7al\u0131\u015fanT\u00fcrkiyeninSesi",
+                9
             ],
             [
-                "\u00c7al\u0131\u015fanT\u00fcrkiyeninSesi",
+                "TrabzonMitingi",
                 8
             ],
             [
@@ -39394,92 +40253,140 @@
             ],
             "2023-04": [
                 [
-                    "deva",
-                    63
-                ],
-                [
-                    "partisi",
-                    62
-                ],
-                [
-                    "nisan",
-                    58
-                ],
-                [
-                    "ba\u015fkan\u0131",
-                    51
-                ],
-                [
                     "ali",
-                    42
+                    96
                 ],
                 [
                     "babacan",
-                    41
+                    94
+                ],
+                [
+                    "deva",
+                    80
+                ],
+                [
+                    "partisi",
+                    77
+                ],
+                [
+                    "nisan",
+                    75
+                ],
+                [
+                    "ba\u015fkan\u0131",
+                    61
                 ],
                 [
                     "politikalar\u0131",
-                    33
+                    43
                 ],
                 [
                     "t\u00fcrkiye",
-                    14
+                    21
+                ],
+                [
+                    "se\u00e7im",
+                    18
+                ],
+                [
+                    "tek",
+                    17
+                ],
+                [
+                    "eylem",
+                    15
                 ],
                 [
                     "\u00e7ar\u015famba",
+                    15
+                ],
+                [
+                    "sal\u0131",
+                    14
+                ],
+                [
+                    "gen\u00e7lik",
+                    13
+                ],
+                [
+                    "per\u015fembe",
+                    13
+                ],
+                [
+                    "i\u0307li\u015fkiler",
                     12
+                ],
+                [
+                    "may\u0131s",
+                    11
                 ],
                 [
                     "halkla",
                     11
                 ],
                 [
-                    "i\u0307li\u015fkiler",
+                    "yurt",
                     11
                 ],
                 [
-                    "may\u0131s",
-                    10
-                ],
-                [
-                    "gen\u00e7lik",
-                    10
+                    "ba\u015fkan\u0131m\u0131z",
+                    11
                 ],
                 [
                     "kad\u0131n",
                     10
                 ],
                 [
-                    "tek",
+                    "dijital",
                     10
                 ],
                 [
-                    "per\u015fembe",
+                    "genel",
                     10
                 ],
                 [
-                    "sal\u0131",
-                    10
+                    "plan\u0131m\u0131z\u0131",
+                    9
+                ],
+                [
+                    "cumartesi",
+                    9
+                ],
+                [
+                    "ortak",
+                    9
                 ],
                 [
                     "cuma",
                     9
                 ],
                 [
-                    "eylem",
-                    8
-                ],
-                [
-                    "plan\u0131m\u0131z\u0131",
-                    8
-                ],
-                [
-                    "dijital",
-                    8
-                ],
-                [
                     "#\u00e7al\u0131\u015fant\u00fcrkiyeninsesi",
+                    9
+                ],
+                [
+                    "yarin",
                     8
+                ],
+                [
+                    "b\u00fcy\u00fck",
+                    8
+                ],
+                [
+                    "ilk",
+                    8
+                ],
+                [
+                    "vatanda\u015flar\u0131m\u0131z\u0131n",
+                    8
+                ],
+                [
+                    "parti",
+                    7
+                ],
+                [
+                    "e\u011fitim",
+                    7
                 ],
                 [
                     "pazartesi",
@@ -39490,7 +40397,11 @@
                     7
                 ],
                 [
-                    "se\u00e7im",
+                    "21.00",
+                    7
+                ],
+                [
+                    "ankara",
                     7
                 ],
                 [
@@ -39506,92 +40417,40 @@
                     7
                 ],
                 [
-                    "parti",
-                    6
+                    "16.00",
+                    7
                 ],
                 [
-                    "e\u011fitim",
-                    6
+                    "i\u0307brahim",
+                    7
+                ],
+                [
+                    "cumhurba\u015fkan\u0131",
+                    7
+                ],
+                [
+                    "i\u0307l",
+                    7
+                ],
+                [
+                    "daki",
+                    7
+                ],
+                [
+                    "mustafa",
+                    7
                 ],
                 [
                     "koyaca\u011f\u0131z",
                     6
                 ],
                 [
-                    "b\u00fcy\u00fck",
-                    6
-                ],
-                [
-                    "cumartesi",
-                    6
-                ],
-                [
-                    "21.00",
+                    "say\u0131n",
                     6
                 ],
                 [
                     "millet",
                     6
-                ],
-                [
-                    "ortak",
-                    6
-                ],
-                [
-                    "yarin",
-                    5
-                ],
-                [
-                    "say\u0131n",
-                    5
-                ],
-                [
-                    "ekonomi",
-                    5
-                ],
-                [
-                    "finans",
-                    5
-                ],
-                [
-                    "i\u0307ttifak\u0131",
-                    5
-                ],
-                [
-                    "yok",
-                    5
-                ],
-                [
-                    "ba\u015fkan\u0131m\u0131z",
-                    5
-                ],
-                [
-                    "16.00",
-                    5
-                ],
-                [
-                    "i\u0307brahim",
-                    5
-                ],
-                [
-                    "cumhurba\u015fkan\u0131",
-                    5
-                ],
-                [
-                    "genel",
-                    5
-                ],
-                [
-                    "sadullah",
-                    5
-                ],
-                [
-                    "s\u00f6zc\u00fcs\u00fc",
-                    5
-                ],
-                [
-                    "sa\u011fl\u0131k",
-                    4
                 ]
             ]
         }
@@ -40439,6 +41298,22 @@
                 [
                     "selenyalazz",
                     {}
+                ],
+                [
+                    "oguzhanugur",
+                    {}
+                ],
+                [
+                    "babalatv",
+                    {}
+                ],
+                [
+                    "devapartisiydv",
+                    {}
+                ],
+                [
+                    "sportstv",
+                    {}
                 ]
             ],
             "edges": [
@@ -40446,70 +41321,70 @@
                     "elifesendeva",
                     "devapartisi",
                     {
-                        "weight": 781
+                        "weight": 855
                     }
                 ],
                 [
                     "elifesendeva",
                     "kozatv01",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "tele1comtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "oxijentv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "tv264",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "flashhabertvcom",
                     {
-                        "weight": 60
+                        "weight": 65
                     }
                 ],
                 [
                     "elifesendeva",
                     "raporbulteni",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "3smedya_resmi",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "elifesendeva",
                     "bbnturktv",
                     {
-                        "weight": 27
+                        "weight": 31
                     }
                 ],
                 [
                     "elifesendeva",
                     "artitv_",
                     {
-                        "weight": 24
+                        "weight": 28
                     }
                 ],
                 [
@@ -40523,42 +41398,42 @@
                     "elifesendeva",
                     "alibabacan",
                     {
-                        "weight": 53
+                        "weight": 57
                     }
                 ],
                 [
                     "elifesendeva",
                     "halktvcomtr",
                     {
-                        "weight": 53
+                        "weight": 60
                     }
                 ],
                 [
                     "elifesendeva",
                     "kampananews2022",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifesendeva",
                     "devakadinda",
                     {
-                        "weight": 40
+                        "weight": 42
                     }
                 ],
                 [
                     "elifesendeva",
                     "tivi6medya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -40572,7 +41447,7 @@
                     "elifesendeva",
                     "krtkulturtv",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
@@ -40607,588 +41482,588 @@
                     "elifesendeva",
                     "c_karlitekin",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "elifesendeva",
                     "mustafaergen_",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "elifesendeva",
                     "avertugrulkaya",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "elifesendeva",
                     "tv5televizyonu",
                     {
-                        "weight": 8
+                        "weight": 10
                     }
                 ],
                 [
                     "elifesendeva",
                     "szctelevizyonu",
                     {
-                        "weight": 11
+                        "weight": 14
                     }
                 ],
                 [
                     "elifesendeva",
                     "cine1tv",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "elifesendeva",
                     "yirmiucderece",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "elifesendeva",
                     "cem_tv",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "elifesendeva",
                     "foxturkiye",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "devapartisi",
                     "avidrissahin",
                     {
-                        "weight": 977
+                        "weight": 1062
                     }
                 ],
                 [
                     "devapartisi",
                     "flashhabertvcom",
                     {
-                        "weight": 214
+                        "weight": 230
                     }
                 ],
                 [
                     "devapartisi",
                     "fatiherturk31",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "devapartisi",
                     "alibabacan",
                     {
-                        "weight": 6759
+                        "weight": 7371
                     }
                 ],
                 [
                     "devapartisi",
                     "selcukrsirin",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "devapartisi",
                     "mustafaergen_",
                     {
-                        "weight": 1666
+                        "weight": 1796
                     }
                 ],
                 [
                     "devapartisi",
                     "dogasanlioglu",
                     {
-                        "weight": 1298
+                        "weight": 1412
                     }
                 ],
                 [
                     "devapartisi",
                     "erginsadullah",
                     {
-                        "weight": 88
+                        "weight": 99
                     }
                 ],
                 [
                     "devapartisi",
                     "krtkulturtv",
                     {
-                        "weight": 178
+                        "weight": 196
                     }
                 ],
                 [
                     "devapartisi",
                     "nazlisedavural",
                     {
-                        "weight": 237
+                        "weight": 263
                     }
                 ],
                 [
                     "devapartisi",
                     "devapartisi",
                     {
-                        "weight": 80
+                        "weight": 87
                     }
                 ],
                 [
                     "devapartisi",
                     "emin_ekmen",
                     {
-                        "weight": 664
+                        "weight": 719
                     }
                 ],
                 [
                     "devapartisi",
                     "avtunahanelmas",
                     {
-                        "weight": 197
+                        "weight": 212
                     }
                 ],
                 [
                     "devapartisi",
                     "kampananews2022",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "devapartisi",
                     "hatipoglupaysun",
                     {
-                        "weight": 220
+                        "weight": 237
                     }
                 ],
                 [
                     "devapartisi",
                     "artitv_",
                     {
-                        "weight": 293
+                        "weight": 320
                     }
                 ],
                 [
                     "devapartisi",
                     "cemavsar44",
                     {
-                        "weight": 689
+                        "weight": 754
                     }
                 ],
                 [
                     "devapartisi",
                     "hasankaraltr",
                     {
-                        "weight": 79
+                        "weight": 86
                     }
                 ],
                 [
                     "devapartisi",
                     "bbnturktv",
                     {
-                        "weight": 98
+                        "weight": 107
                     }
                 ],
                 [
                     "devapartisi",
                     "kozatv01",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "caddetvtr",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "devapartisi",
                     "kemalav",
                     {
-                        "weight": 55
+                        "weight": 60
                     }
                 ],
                 [
                     "devapartisi",
                     "helunfirat",
                     {
-                        "weight": 86
+                        "weight": 93
                     }
                 ],
                 [
                     "devapartisi",
                     "devaekonomi",
                     {
-                        "weight": 550
+                        "weight": 584
                     }
                 ],
                 [
                     "devapartisi",
                     "tv5televizyonu",
                     {
-                        "weight": 200
+                        "weight": 216
                     }
                 ],
                 [
                     "devapartisi",
                     "rizvanogluevrim",
                     {
-                        "weight": 627
+                        "weight": 671
                     }
                 ],
                 [
                     "devapartisi",
                     "RizvanogluEvrim",
                     {
-                        "weight": 455
+                        "weight": 482
                     }
                 ],
                 [
                     "devapartisi",
                     "tele1comtr",
                     {
-                        "weight": 275
+                        "weight": 296
                     }
                 ],
                 [
                     "devapartisi",
                     "zeynellule",
                     {
-                        "weight": 84
+                        "weight": 91
                     }
                 ],
                 [
                     "devapartisi",
                     "hatayadeva",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "sosyaldeva",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "oxijentv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "haberturk",
                     {
-                        "weight": 72
+                        "weight": 76
                     }
                 ],
                 [
                     "devapartisi",
                     "kararhaber",
                     {
-                        "weight": 76
+                        "weight": 85
                     }
                 ],
                 [
                     "devapartisi",
                     "glyerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "rterdogan",
                     {
-                        "weight": 50
+                        "weight": 55
                     }
                 ],
                 [
                     "devapartisi",
                     "halktvcomtr",
                     {
-                        "weight": 450
+                        "weight": 495
                     }
                 ],
                 [
                     "devapartisi",
                     "ipekkozbey",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "devapartisi",
                     "tv264",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "devakadinda",
                     {
-                        "weight": 254
+                        "weight": 268
                     }
                 ],
                 [
                     "devapartisi",
                     "aslikurtuluss",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "haldunhakci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "yssozer",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "refikanadol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "myeneroglu",
                     {
-                        "weight": 751
+                        "weight": 796
                     }
                 ],
                 [
                     "devapartisi",
                     "omgencal",
                     {
-                        "weight": 197
+                        "weight": 211
                     }
                 ],
                 [
                     "devapartisi",
                     "siring",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "devapartisi",
                     "fikircografya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "elifdsenturk",
                     {
-                        "weight": 37
+                        "weight": 41
                     }
                 ],
                 [
                     "devapartisi",
                     "cancoskun",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "devasanatta",
                     {
-                        "weight": 33
+                        "weight": 35
                     }
                 ],
                 [
                     "devapartisi",
                     "DevaSanatta",
                     {
-                        "weight": 33
+                        "weight": 35
                     }
                 ],
                 [
                     "devapartisi",
                     "cuneytozdemir",
                     {
-                        "weight": 108
+                        "weight": 117
                     }
                 ],
                 [
                     "devapartisi",
                     "sanemoktar",
                     {
-                        "weight": 229
+                        "weight": 248
                     }
                 ],
                 [
                     "devapartisi",
                     "serbestiyetweb",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "devapartisi",
                     "fbesimk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "avyusufturkmen",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "bdalgin",
                     {
-                        "weight": 412
+                        "weight": 451
                     }
                 ],
                 [
                     "devapartisi",
                     "wef",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "ozngndgdu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "podbeemedia",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "raporbulteni",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "medyascope",
                     {
-                        "weight": 17
+                        "weight": 20
                     }
                 ],
                 [
                     "devapartisi",
                     "medeniylmz",
                     {
-                        "weight": 112
+                        "weight": 118
                     }
                 ],
                 [
                     "devapartisi",
                     "oencueonur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "gizemfidanhaber",
                     {
-                        "weight": 28
+                        "weight": 31
                     }
                 ],
                 [
                     "devapartisi",
                     "t24comtr",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "devapartisi",
                     "glcnavsar",
                     {
-                        "weight": 97
+                        "weight": 103
                     }
                 ],
                 [
                     "devapartisi",
                     "fatihyapici34",
                     {
-                        "weight": 17
+                        "weight": 18
                     }
                 ],
                 [
                     "devapartisi",
                     "denizcanabay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "c_karlitekin",
                     {
-                        "weight": 97
+                        "weight": 107
                     }
                 ],
                 [
                     "devapartisi",
                     "drerhanerol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "r_demirkol",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "devapartisi",
                     "3smedya_resmi",
                     {
-                        "weight": 114
+                        "weight": 122
                     }
                 ],
                 [
                     "devapartisi",
                     "tivi6medya",
                     {
-                        "weight": 56
+                        "weight": 61
                     }
                 ],
                 [
@@ -41202,336 +42077,336 @@
                     "devapartisi",
                     "avfurkanarik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "tubaemlek",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "sehirleredeva",
                     {
-                        "weight": 30
+                        "weight": 32
                     }
                 ],
                 [
                     "devapartisi",
                     "mehmetozhaseki",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "oakarsucelik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "evrenozalkus",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
                     "devapartisi",
                     "diyarbakirdeva",
                     {
-                        "weight": 32
+                        "weight": 35
                     }
                 ],
                 [
                     "devapartisi",
                     "HelunFirat",
                     {
-                        "weight": 16
+                        "weight": 17
                     }
                 ],
                 [
                     "devapartisi",
                     "ialperakalin",
                     {
-                        "weight": 18
+                        "weight": 19
                     }
                 ],
                 [
                     "devapartisi",
                     "foxhaber",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "devapartisi",
                     "karagozilker",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "devapartisi",
                     "cem_tv",
                     {
-                        "weight": 23
+                        "weight": 26
                     }
                 ],
                 [
                     "devapartisi",
                     "ckayacanan",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "aburcinyereli",
                     {
-                        "weight": 32
+                        "weight": 34
                     }
                 ],
                 [
                     "devapartisi",
                     "kanal5tr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "tcbestepe",
                     {
-                        "weight": 18
+                        "weight": 19
                     }
                 ],
                 [
                     "devapartisi",
                     "doganindevasi",
                     {
-                        "weight": 190
+                        "weight": 199
                     }
                 ],
                 [
                     "devapartisi",
                     "orhanuguroglu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "ankahabera",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "a_bilgic_",
                     {
-                        "weight": 199
+                        "weight": 210
                     }
                 ],
                 [
                     "devapartisi",
                     "inandemirel",
                     {
-                        "weight": 36
+                        "weight": 37
                     }
                 ],
                 [
                     "devapartisi",
                     "tv_cadde",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "sedakbay",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "duygudemirdag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "akdemircigdem",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "akademideva",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "tekirdagadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "vantutkuradyo",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "alperinac_",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "byurtdagulen",
                     {
-                        "weight": 13
+                        "weight": 15
                     }
                 ],
                 [
                     "devapartisi",
                     "pel_in_ce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "dengesende",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "gencdevagm",
                     {
-                        "weight": 92
+                        "weight": 102
                     }
                 ],
                 [
                     "devapartisi",
                     "samimihaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "kubrapc",
                     {
-                        "weight": 60
+                        "weight": 64
                     }
                 ],
                 [
                     "devapartisi",
                     "abdurahimaksoy",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "eurovision",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "cakman4",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "tmollaveisoglu",
                     {
-                        "weight": 32
+                        "weight": 34
                     }
                 ],
                 [
                     "devapartisi",
                     "kucukkayaismail",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "savaskerimoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "haberturktv",
                     {
-                        "weight": 132
+                        "weight": 145
                     }
                 ],
                 [
                     "devapartisi",
                     "serapbelet",
                     {
-                        "weight": 28
+                        "weight": 30
                     }
                 ],
                 [
                     "devapartisi",
                     "yirmiucderece",
                     {
-                        "weight": 26
+                        "weight": 29
                     }
                 ],
                 [
                     "devapartisi",
                     "glayerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "devapartisi",
                     "nevsinmengu",
                     {
-                        "weight": 15
+                        "weight": 17
                     }
                 ],
                 [
                     "devapartisi",
                     "kesraaygun",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "ezoozer",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
@@ -41545,14 +42420,14 @@
                     "devapartisi",
                     "serkan_kartal_",
                     {
-                        "weight": 45
+                        "weight": 46
                     }
                 ],
                 [
                     "devapartisi",
                     "aydinsule1",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
@@ -41573,7 +42448,7 @@
                     "devapartisi",
                     "murat_kurum",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
@@ -41636,7 +42511,7 @@
                     "devapartisi",
                     "ankaramasasi",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
@@ -41720,7 +42595,7 @@
                     "devapartisi",
                     "ihsanmerdanoglu",
                     {
-                        "weight": 26
+                        "weight": 28
                     }
                 ],
                 [
@@ -41748,7 +42623,7 @@
                     "devapartisi",
                     "baharsaygili",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
@@ -41790,168 +42665,168 @@
                     "devapartisi",
                     "ibrahimgezer44",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "ongun_ramiz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "avertugrulkaya",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "cihanulsen",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "C_Karlitekin",
                     {
-                        "weight": 13
+                        "weight": 15
                     }
                 ],
                 [
                     "devapartisi",
                     "ilkereker01",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "keremaltun65",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "devapartisi",
                     "suattekin85",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "irfankaratutlu1",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "sanliurfayadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "avahmettuysuz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "IhsanMerdanoglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "devabingol",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "onurgunes44",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "elazigdeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "haluklevent",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "ankarayadeva",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "devapartisi",
                     "CihanUlsen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devapartisi",
                     "ihhinsaniyardim",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
                     "devapartisi",
                     "tgrthabertv",
                     {
-                        "weight": 12
+                        "weight": 14
                     }
                 ],
                 [
                     "devapartisi",
                     "mehmetaydintv",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "devapartisi",
                     "tv100",
                     {
-                        "weight": 14
+                        "weight": 17
                     }
                 ],
                 [
                     "devapartisi",
                     "sedaselek1",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "devapartisi",
                     "mustafaucak07",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
@@ -41965,166 +42840,194 @@
                     "devapartisi",
                     "ajturk",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "devapartisi",
                     "szctelevizyonu",
                     {
-                        "weight": 18
+                        "weight": 23
                     }
                 ],
                 [
                     "devapartisi",
                     "nalinoztkn",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "devapartisi",
                     "tivi6haber",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "devapartisi",
                     "essumaslan",
                     {
-                        "weight": 16
+                        "weight": 19
                     }
                 ],
                 [
                     "devapartisi",
                     "kilicdarogluk",
                     {
-                        "weight": 9
+                        "weight": 13
                     }
                 ],
                 [
                     "devapartisi",
                     "saydikbiz",
                     {
-                        "weight": 25
+                        "weight": 33
                     }
                 ],
                 [
                     "devapartisi",
                     "SaydikBiz",
                     {
-                        "weight": 19
+                        "weight": 24
                     }
                 ],
                 [
                     "devapartisi",
                     "trguresfed",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "tunaoztunc",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "ozanemrc",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "yuksekogretimk",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "aliekbermete",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "cine1tv",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "ilgazsenem",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "devapartisi",
                     "emrearolatarch",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "devapartisi",
                     "foxturkiye",
                     {
-                        "weight": 5
+                        "weight": 7
                     }
                 ],
                 [
                     "devapartisi",
                     "gazete_yenicag",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "devapartisi",
                     "meral_aksener",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "devapartisi",
                     "asterisk2050",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "devapartisi",
                     "yavuzoghan",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "devapartisi",
                     "mahirgra",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "devapartisi",
                     "zengingurkan",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "devapartisi",
                     "selenyalazz",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "devapartisi",
+                    "oguzhanugur",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "devapartisi",
+                    "babalatv",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "devapartisi",
+                    "devapartisiydv",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "devapartisi",
+                    "sportstv",
                     {
                         "weight": 1
                     }
@@ -42133,245 +43036,245 @@
                     "avidrissahin",
                     "flashhabertvcom",
                     {
-                        "weight": 84
+                        "weight": 90
                     }
                 ],
                 [
                     "avidrissahin",
                     "fatiherturk31",
                     {
-                        "weight": 73
+                        "weight": 78
                     }
                 ],
                 [
                     "avidrissahin",
                     "artitv_",
                     {
-                        "weight": 54
+                        "weight": 59
                     }
                 ],
                 [
                     "avidrissahin",
                     "kemalav",
                     {
-                        "weight": 35
+                        "weight": 39
                     }
                 ],
                 [
                     "avidrissahin",
                     "tele1comtr",
                     {
-                        "weight": 197
+                        "weight": 210
                     }
                 ],
                 [
                     "avidrissahin",
                     "zeynellule",
                     {
-                        "weight": 84
+                        "weight": 91
                     }
                 ],
                 [
                     "avidrissahin",
                     "kararhaber",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
                     "avidrissahin",
                     "glyerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "halktvcomtr",
                     {
-                        "weight": 128
+                        "weight": 141
                     }
                 ],
                 [
                     "avidrissahin",
                     "ipekkozbey",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "avidrissahin",
                     "krtkulturtv",
                     {
-                        "weight": 68
+                        "weight": 77
                     }
                 ],
                 [
                     "avidrissahin",
                     "aslikurtuluss",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "tv5televizyonu",
                     {
-                        "weight": 55
+                        "weight": 59
                     }
                 ],
                 [
                     "avidrissahin",
                     "yssozer",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "avidrissahin",
                     "elifdsenturk",
                     {
-                        "weight": 15
+                        "weight": 17
                     }
                 ],
                 [
                     "avidrissahin",
                     "cancoskun",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "caddetvtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "fbesimk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "siring",
                     {
-                        "weight": 17
+                        "weight": 19
                     }
                 ],
                 [
                     "avidrissahin",
                     "gizemfidanhaber",
                     {
-                        "weight": 28
+                        "weight": 31
                     }
                 ],
                 [
                     "avidrissahin",
                     "r_demirkol",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "avidrissahin",
                     "tubaemlek",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "evrenozalkus",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
                     "avidrissahin",
                     "foxhaber",
                     {
-                        "weight": 24
+                        "weight": 26
                     }
                 ],
                 [
                     "avidrissahin",
                     "karagozilker",
                     {
-                        "weight": 24
+                        "weight": 26
                     }
                 ],
                 [
                     "avidrissahin",
                     "orhanuguroglu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "avidrissahin",
                     "akdemircigdem",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "alperinac_",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
                     "avidrissahin",
                     "haberturk",
                     {
-                        "weight": 54
+                        "weight": 57
                     }
                 ],
                 [
                     "avidrissahin",
                     "kubrapc",
                     {
-                        "weight": 53
+                        "weight": 56
                     }
                 ],
                 [
                     "avidrissahin",
                     "tmollaveisoglu",
                     {
-                        "weight": 32
+                        "weight": 34
                     }
                 ],
                 [
                     "avidrissahin",
                     "kucukkayaismail",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avidrissahin",
                     "haberturktv",
                     {
-                        "weight": 34
+                        "weight": 36
                     }
                 ],
                 [
                     "avidrissahin",
                     "serapbelet",
                     {
-                        "weight": 28
+                        "weight": 30
                     }
                 ],
                 [
                     "avidrissahin",
                     "ezoozer",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
@@ -42392,7 +43295,7 @@
                     "avidrissahin",
                     "aydinsule1",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
@@ -42462,273 +43365,273 @@
                     "avidrissahin",
                     "alibabacan",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "avidrissahin",
                     "dogasanlioglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "avidrissahin",
                     "irfankaratutlu1",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "avidrissahin",
                     "tgrthabertv",
                     {
-                        "weight": 12
+                        "weight": 14
                     }
                 ],
                 [
                     "avidrissahin",
                     "mehmetaydintv",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "avidrissahin",
                     "sedaselek1",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "avidrissahin",
                     "cuneytozdemir",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "avidrissahin",
                     "ajturk",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "avidrissahin",
                     "szctelevizyonu",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "avidrissahin",
                     "tunaoztunc",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "avidrissahin",
                     "aliekbermete",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "avidrissahin",
                     "ilgazsenem",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "avidrissahin",
                     "nevsinmengu",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "avidrissahin",
                     "yavuzoghan",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "avidrissahin",
                     "ankaramasasi",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "avidrissahin",
                     "zengingurkan",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "avidrissahin",
                     "selenyalazz",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "fatiherturk31",
                     {
-                        "weight": 78
+                        "weight": 84
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "tubaemlek",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "dogasanlioglu",
                     {
-                        "weight": 65
+                        "weight": 69
                     }
                 ],
                 [
                     "flashhabertvcom",
                     "essumaslan",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "fatiherturk31",
                     "essumaslan",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "alibabacan",
                     "selcukrsirin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "nazlisedavural",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "alibabacan",
                     "rterdogan",
                     {
-                        "weight": 50
+                        "weight": 55
                     }
                 ],
                 [
                     "alibabacan",
                     "devakadinda",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "refikanadol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "ozngndgdu",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "alibabacan",
                     "podbeemedia",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "alibabacan",
                     "mustafaergen_",
                     {
-                        "weight": 45
+                        "weight": 49
                     }
                 ],
                 [
                     "alibabacan",
                     "myeneroglu",
                     {
-                        "weight": 15
+                        "weight": 17
                     }
                 ],
                 [
                     "alibabacan",
                     "helunfirat",
                     {
-                        "weight": 37
+                        "weight": 40
                     }
                 ],
                 [
                     "alibabacan",
                     "dogasanlioglu",
                     {
-                        "weight": 32
+                        "weight": 35
                     }
                 ],
                 [
                     "alibabacan",
                     "tcbestepe",
                     {
-                        "weight": 18
+                        "weight": 19
                     }
                 ],
                 [
                     "alibabacan",
                     "gencdevagm",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "alibabacan",
                     "bdalgin",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "alibabacan",
                     "eurovision",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "c_karlitekin",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "alibabacan",
                     "a_bilgic_",
                     {
-                        "weight": 41
+                        "weight": 44
                     }
                 ],
                 [
@@ -42742,7 +43645,7 @@
                     "alibabacan",
                     "hatipoglupaysun",
                     {
-                        "weight": 34
+                        "weight": 35
                     }
                 ],
                 [
@@ -42763,98 +43666,98 @@
                     "alibabacan",
                     "rizvanogluevrim",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
                     "alibabacan",
                     "hasankaraltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "emin_ekmen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "ongun_ramiz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "avertugrulkaya",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "medeniylmz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "ihsanmerdanoglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "cihanulsen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "ilkereker01",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "keremaltun65",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "suattekin85",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "irfankaratutlu1",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "cemavsar44",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "alibabacan",
                     "ihhinsaniyardim",
                     {
-                        "weight": 9
+                        "weight": 10
                     }
                 ],
                 [
@@ -42868,63 +43771,84 @@
                     "alibabacan",
                     "kilicdarogluk",
                     {
-                        "weight": 7
+                        "weight": 9
                     }
                 ],
                 [
                     "alibabacan",
                     "emrearolatarch",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "alibabacan",
                     "meral_aksener",
                     {
-                        "weight": 3
+                        "weight": 4
+                    }
+                ],
+                [
+                    "alibabacan",
+                    "oguzhanugur",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "alibabacan",
+                    "babalatv",
+                    {
+                        "weight": 1
+                    }
+                ],
+                [
+                    "alibabacan",
+                    "devapartisiydv",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "selcukrsirin",
                     "mustafaergen_",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "mustafaergen_",
                     "tele1comtr",
                     {
-                        "weight": 24
+                        "weight": 27
                     }
                 ],
                 [
                     "mustafaergen_",
                     "dengesende",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mustafaergen_",
                     "artitv_",
                     {
-                        "weight": 38
+                        "weight": 40
                     }
                 ],
                 [
                     "mustafaergen_",
                     "nazlisedavural",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "mustafaergen_",
                     "kesraaygun",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -42952,91 +43876,91 @@
                     "mustafaergen_",
                     "c_karlitekin",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "mustafaergen_",
                     "avertugrulkaya",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "mustafaergen_",
                     "haluklevent",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "mustafaergen_",
                     "halktvcomtr",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "artitv_",
                     {
-                        "weight": 33
+                        "weight": 35
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "halktvcomtr",
                     {
-                        "weight": 39
+                        "weight": 42
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "bbnturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "tv5televizyonu",
                     {
-                        "weight": 11
+                        "weight": 13
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "cem_tv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "ckayacanan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "duygudemirdag",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "samimihaber",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "gencdevagm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -43050,82 +43974,89 @@
                     "dogasanlioglu",
                     "irfankaratutlu1",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "trguresfed",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "yuksekogretimk",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "dogasanlioglu",
                     "szctelevizyonu",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "erginsadullah",
                     "krtkulturtv",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "erginsadullah",
                     "nazlisedavural",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "erginsadullah",
                     "hatayadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "erginsadullah",
                     "sosyaldeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "erginsadullah",
                     "serbestiyetweb",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erginsadullah",
                     "halktvcomtr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "erginsadullah",
                     "cuneytozdemir",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "erginsadullah",
                     "haberturktv",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "erginsadullah",
+                    "kararhaber",
                     {
                         "weight": 1
                     }
@@ -43134,54 +44065,61 @@
                     "krtkulturtv",
                     "emin_ekmen",
                     {
-                        "weight": 68
+                        "weight": 72
                     }
                 ],
                 [
                     "krtkulturtv",
                     "aslikurtuluss",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "krtkulturtv",
                     "elifdsenturk",
                     {
-                        "weight": 26
+                        "weight": 29
                     }
                 ],
                 [
                     "krtkulturtv",
                     "r_demirkol",
                     {
-                        "weight": 27
+                        "weight": 30
                     }
                 ],
                 [
                     "krtkulturtv",
                     "akdemircigdem",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "krtkulturtv",
                     "medeniylmz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "krtkulturtv",
                     "yavuzoghan",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "krtkulturtv",
                     "selenyalazz",
+                    {
+                        "weight": 2
+                    }
+                ],
+                [
+                    "krtkulturtv",
+                    "hasankaraltr",
                     {
                         "weight": 1
                     }
@@ -43190,147 +44128,147 @@
                     "nazlisedavural",
                     "hatayadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "sosyaldeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "akademideva",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "nazlisedavural",
                     "tekirdagadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "diyarbakirdeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "kesraaygun",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "nazlisedavural",
                     "hasankaraltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "emin_ekmen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "nazlisedavural",
                     "ongun_ramiz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "emin_ekmen",
                     "tv5televizyonu",
                     {
-                        "weight": 43
+                        "weight": 46
                     }
                 ],
                 [
                     "emin_ekmen",
                     "haberturk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "kozatv01",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "halktvcomtr",
                     {
-                        "weight": 74
+                        "weight": 84
                     }
                 ],
                 [
                     "emin_ekmen",
                     "artitv_",
                     {
-                        "weight": 30
+                        "weight": 32
                     }
                 ],
                 [
                     "emin_ekmen",
                     "denizcanabay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "kampananews2022",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "kararhaber",
                     {
-                        "weight": 17
+                        "weight": 20
                     }
                 ],
                 [
                     "emin_ekmen",
                     "tv_cadde",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "vantutkuradyo",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "ckayacanan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "emin_ekmen",
                     "haberturktv",
                     {
-                        "weight": 86
+                        "weight": 95
                     }
                 ],
                 [
@@ -43344,7 +44282,7 @@
                     "emin_ekmen",
                     "cuneytozdemir",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -43358,7 +44296,7 @@
                     "emin_ekmen",
                     "serbestiyetweb",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
@@ -43400,98 +44338,98 @@
                     "emin_ekmen",
                     "hasankaraltr",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "emin_ekmen",
                     "ongun_ramiz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "emin_ekmen",
                     "kubrapc",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "emin_ekmen",
                     "tv100",
                     {
-                        "weight": 7
+                        "weight": 9
                     }
                 ],
                 [
                     "emin_ekmen",
                     "tivi6haber",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "emin_ekmen",
                     "ankaramasasi",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "emin_ekmen",
                     "foxturkiye",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "emin_ekmen",
                     "medyascope",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "kampananews2022",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "caddetvtr",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "tv5televizyonu",
                     {
-                        "weight": 66
+                        "weight": 71
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "bbnturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "cuneytozdemir",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avtunahanelmas",
                     "3smedya_resmi",
                     {
-                        "weight": 20
+                        "weight": 21
                     }
                 ],
                 [
@@ -43505,14 +44443,14 @@
                     "avtunahanelmas",
                     "artitv_",
                     {
-                        "weight": 4
+                        "weight": 5
                     }
                 ],
                 [
                     "hatipoglupaysun",
                     "artitv_",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -43526,98 +44464,98 @@
                     "hatipoglupaysun",
                     "cemavsar44",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "hatipoglupaysun",
                     "t24comtr",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "hatipoglupaysun",
                     "gazete_yenicag",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "hatipoglupaysun",
                     "3smedya_resmi",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "artitv_",
                     "kemalav",
                     {
-                        "weight": 46
+                        "weight": 51
                     }
                 ],
                 [
                     "artitv_",
                     "medeniylmz",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
                     "artitv_",
                     "oencueonur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "artitv_",
                     "glcnavsar",
                     {
-                        "weight": 25
+                        "weight": 28
                     }
                 ],
                 [
                     "artitv_",
                     "fatihyapici34",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "artitv_",
                     "denizcanabay",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "artitv_",
                     "omgencal",
                     {
-                        "weight": 13
+                        "weight": 14
                     }
                 ],
                 [
                     "artitv_",
                     "pel_in_ce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "artitv_",
                     "sanemoktar",
                     {
-                        "weight": 16
+                        "weight": 18
                     }
                 ],
                 [
                     "artitv_",
                     "ezoozer",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
@@ -43631,14 +44569,14 @@
                     "artitv_",
                     "myeneroglu",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "artitv_",
                     "nalinoztkn",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
@@ -43652,14 +44590,14 @@
                     "cemavsar44",
                     "murat_kurum",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "hasankaraltr",
                     "bbnturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -43673,35 +44611,35 @@
                     "hasankaraltr",
                     "ongun_ramiz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "bbnturktv",
                     "omgencal",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "bbnturktv",
                     "sedakbay",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "caddetvtr",
                     "fbesimk",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "caddetvtr",
                     "medeniylmz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -43722,63 +44660,63 @@
                     "kemalav",
                     "glcnavsar",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "helunfirat",
                     "a_bilgic_",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "helunfirat",
                     "keremaltun65",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "helunfirat",
                     "suattekin85",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devaekonomi",
                     "devabingol",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devaekonomi",
                     "onurgunes44",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devaekonomi",
                     "elazigdeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "yssozer",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "tv5televizyonu",
                     "alperinac_",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
@@ -43813,14 +44751,14 @@
                     "tv5televizyonu",
                     "aliekbermete",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "rizvanogluevrim",
                     "doganindevasi",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
@@ -43841,77 +44779,77 @@
                     "rizvanogluevrim",
                     "bdalgin",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "rizvanogluevrim",
                     "ilkereker01",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "rizvanogluevrim",
                     "asterisk2050",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "tele1comtr",
                     "zeynellule",
                     {
-                        "weight": 84
+                        "weight": 91
                     }
                 ],
                 [
                     "tele1comtr",
                     "gizemfidanhaber",
                     {
-                        "weight": 28
+                        "weight": 31
                     }
                 ],
                 [
                     "tele1comtr",
                     "myeneroglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tele1comtr",
                     "evrenozalkus",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
                     "tele1comtr",
                     "omgencal",
                     {
-                        "weight": 24
+                        "weight": 27
                     }
                 ],
                 [
                     "tele1comtr",
                     "byurtdagulen",
                     {
-                        "weight": 13
+                        "weight": 15
                     }
                 ],
                 [
                     "tele1comtr",
                     "cakman4",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "tele1comtr",
                     "tmollaveisoglu",
                     {
-                        "weight": 32
+                        "weight": 34
                     }
                 ],
                 [
@@ -43932,21 +44870,21 @@
                     "hatayadeva",
                     "sosyaldeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "haberturk",
                     "kubrapc",
                     {
-                        "weight": 30
+                        "weight": 32
                     }
                 ],
                 [
                     "haberturk",
                     "serapbelet",
                     {
-                        "weight": 17
+                        "weight": 18
                     }
                 ],
                 [
@@ -43981,35 +44919,35 @@
                     "kararhaber",
                     "glyerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kararhaber",
                     "sanemoktar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kararhaber",
                     "myeneroglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kararhaber",
                     "omgencal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kararhaber",
                     "glayerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44023,77 +44961,77 @@
                     "halktvcomtr",
                     "ipekkozbey",
                     {
-                        "weight": 44
+                        "weight": 48
                     }
                 ],
                 [
                     "halktvcomtr",
                     "omgencal",
                     {
-                        "weight": 37
+                        "weight": 39
                     }
                 ],
                 [
                     "halktvcomtr",
                     "siring",
                     {
-                        "weight": 65
+                        "weight": 70
                     }
                 ],
                 [
                     "halktvcomtr",
                     "cancoskun",
                     {
-                        "weight": 21
+                        "weight": 22
                     }
                 ],
                 [
                     "halktvcomtr",
                     "sanemoktar",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "halktvcomtr",
                     "myeneroglu",
                     {
-                        "weight": 25
+                        "weight": 28
                     }
                 ],
                 [
                     "halktvcomtr",
                     "glcnavsar",
                     {
-                        "weight": 55
+                        "weight": 58
                     }
                 ],
                 [
                     "halktvcomtr",
                     "oakarsucelik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "halktvcomtr",
                     "inandemirel",
                     {
-                        "weight": 36
+                        "weight": 37
                     }
                 ],
                 [
                     "halktvcomtr",
                     "kucukkayaismail",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "halktvcomtr",
                     "aydinsule1",
                     {
-                        "weight": 12
+                        "weight": 13
                     }
                 ],
                 [
@@ -44107,21 +45045,21 @@
                     "halktvcomtr",
                     "sedaselek1",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "halktvcomtr",
                     "ilgazsenem",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "ipekkozbey",
                     "myeneroglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44142,70 +45080,77 @@
                     "myeneroglu",
                     "tv100",
                     {
-                        "weight": 7
+                        "weight": 8
+                    }
+                ],
+                [
+                    "myeneroglu",
+                    "devapartisiydv",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
                     "omgencal",
                     "siring",
                     {
-                        "weight": 37
+                        "weight": 39
                     }
                 ],
                 [
                     "omgencal",
                     "cuneytozdemir",
                     {
-                        "weight": 37
+                        "weight": 39
                     }
                 ],
                 [
                     "omgencal",
                     "3smedya_resmi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "omgencal",
                     "sedakbay",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "omgencal",
                     "byurtdagulen",
                     {
-                        "weight": 13
+                        "weight": 15
                     }
                 ],
                 [
                     "omgencal",
                     "pel_in_ce",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "omgencal",
                     "cakman4",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "omgencal",
                     "glayerdemli",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "omgencal",
                     "nevsinmengu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44219,21 +45164,21 @@
                     "siring",
                     "glcnavsar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifdsenturk",
                     "medeniylmz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "elifdsenturk",
                     "savaskerimoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44247,63 +45192,63 @@
                     "cuneytozdemir",
                     "aburcinyereli",
                     {
-                        "weight": 19
+                        "weight": 20
                     }
                 ],
                 [
                     "sanemoktar",
                     "t24comtr",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "sanemoktar",
                     "medyascope",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "fbesimk",
                     "medeniylmz",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "avyusufturkmen",
                     "tivi6medya",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "bdalgin",
                     "ilkereker01",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "ozngndgdu",
                     "podbeemedia",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "medeniylmz",
                     "oencueonur",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "medeniylmz",
                     "tivi6medya",
                     {
-                        "weight": 16
+                        "weight": 17
                     }
                 ],
                 [
@@ -44324,35 +45269,35 @@
                     "medeniylmz",
                     "ihsanmerdanoglu",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "medeniylmz",
                     "cihanulsen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "medeniylmz",
                     "sanliurfayadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "medeniylmz",
                     "avahmettuysuz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "medeniylmz",
                     "ozanemrc",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
@@ -44366,21 +45311,21 @@
                     "glcnavsar",
                     "fatihyapici34",
                     {
-                        "weight": 17
+                        "weight": 18
                     }
                 ],
                 [
                     "glcnavsar",
                     "oakarsucelik",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "glcnavsar",
                     "inandemirel",
                     {
-                        "weight": 23
+                        "weight": 24
                     }
                 ],
                 [
@@ -44422,28 +45367,28 @@
                     "c_karlitekin",
                     "drerhanerol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "c_karlitekin",
                     "avertugrulkaya",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "3smedya_resmi",
                     "ialperakalin",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "3smedya_resmi",
                     "serkan_kartal_",
                     {
-                        "weight": 23
+                        "weight": 24
                     }
                 ],
                 [
@@ -44457,14 +45402,14 @@
                     "3smedya_resmi",
                     "essumaslan",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "tivi6medya",
                     "abdurahimaksoy",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44478,84 +45423,84 @@
                     "tivi6medya",
                     "mustafaucak07",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "tivi6medya",
                     "ozanemrc",
                     {
-                        "weight": 5
+                        "weight": 6
                     }
                 ],
                 [
                     "sehirleredeva",
                     "mehmetozhaseki",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "diyarbakirdeva",
                     "akademideva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "foxhaber",
                     "karagozilker",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "aburcinyereli",
                     "kanal5tr",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "a_bilgic_",
                     "keremaltun65",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "a_bilgic_",
                     "suattekin85",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "akademideva",
                     "tekirdagadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "gencdevagm",
                     "mahirgra",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "kubrapc",
                     "haberturktv",
                     {
-                        "weight": 30
+                        "weight": 32
                     }
                 ],
                 [
                     "haberturktv",
                     "serapbelet",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -44576,7 +45521,7 @@
                     "serkan_kartal_",
                     "essumaslan",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
@@ -44590,7 +45535,7 @@
                     "ankaramasasi",
                     "zengingurkan",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
@@ -44611,21 +45556,21 @@
                     "ihsanmerdanoglu",
                     "cihanulsen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "ihsanmerdanoglu",
                     "sanliurfayadeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "ihsanmerdanoglu",
                     "avahmettuysuz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
@@ -44633,6 +45578,13 @@
                     "gebzeyedeva",
                     {
                         "weight": 3
+                    }
+                ],
+                [
+                    "baharsaygili",
+                    "sportstv",
+                    {
+                        "weight": 1
                     }
                 ],
                 [
@@ -44646,49 +45598,56 @@
                     "keremaltun65",
                     "suattekin85",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "sanliurfayadeva",
                     "avahmettuysuz",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devabingol",
                     "onurgunes44",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "devabingol",
                     "elazigdeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "onurgunes44",
                     "elazigdeva",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "tgrthabertv",
                     "mehmetaydintv",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "tgrthabertv",
                     "tunaoztunc",
                     {
-                        "weight": 5
+                        "weight": 6
+                    }
+                ],
+                [
+                    "oguzhanugur",
+                    "babalatv",
+                    {
+                        "weight": 1
                     }
                 ]
             ]
@@ -44873,15 +45832,15 @@
                     "babacandavosta",
                     "wef23",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "i\u0307ha",
                     "teknofest",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44889,15 +45848,15 @@
                     "devat\u00fcrkiyesi",
                     "2023devaolacak",
                     {
-                        "weight": 44,
-                        "weight_plain": 11
+                        "weight": 48,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "chatgpt",
                     "e\u011fitimedeva\u015fart",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44905,7 +45864,7 @@
                     "chatgpt",
                     "e\u011fitimindevas\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44913,7 +45872,7 @@
                     "e\u011fitimedeva\u015fart",
                     "e\u011fitimindevas\u0131",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44921,31 +45880,31 @@
                     "asgari\u00fccret",
                     "emeklimaa\u015f\u0131",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "asgari\u00fccret",
                     "enflasyon",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "emeklimaa\u015f\u0131",
                     "enflasyon",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "\u00e7evrecideva",
                     "erzurum",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44953,15 +45912,15 @@
                     "yenisiyasetk\u00fclt\u00fcr\u00fc",
                     "bizkazanaca\u011f\u0131z",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "deva",
                     "devakad\u0131nda",
                     {
-                        "weight": 22,
+                        "weight": 23,
                         "weight_plain": 0
                     }
                 ],
@@ -44969,23 +45928,23 @@
                     "hemendemokrasi",
                     "taksim",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "denizlimitingi",
                     "denizlimitingi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "i\u0307kizk\u00f6y",
                     "akbelen",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -44993,16 +45952,16 @@
                     "susmakyok",
                     "busans\u00fcrhepimize",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "siirt",
                     "siirtmitingi",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -45049,7 +46008,7 @@
                     "diyarbak\u0131r",
                     "urfa",
                     {
-                        "weight": 9,
+                        "weight": 10,
                         "weight_plain": 0
                     }
                 ],
@@ -45057,7 +46016,7 @@
                     "hatay",
                     "k\u0131r\u0131khan",
                     {
-                        "weight": 9,
+                        "weight": 10,
                         "weight_plain": 0
                     }
                 ],
@@ -45065,8 +46024,8 @@
                     "damgadamlaya",
                     "\u00e7al\u0131\u015fant\u00fcrkiyeninsesi",
                     {
-                        "weight": 12,
-                        "weight_plain": 12
+                        "weight": 18,
+                        "weight_plain": 18
                     }
                 ]
             ]

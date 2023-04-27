@@ -1,5 +1,5 @@
 {
-    "last-updated": "2023-04-20",
+    "last-updated": "2023-04-27",
     "profile-info": {
         "id": "255515879",
         "name": "CHP \ud83c\uddf9\ud83c\uddf7",
@@ -8,6 +8,41 @@
         "description": "Cumhuriyet Halk Partisi Resmi Twitter Hesab\u0131",
         "screen_name": "herkesicinCHP",
         "stats": {
+            "2023-04-27": {
+                "status": 44106,
+                "friends": 4,
+                "followers": 2470949
+            },
+            "2023-04-26": {
+                "status": 44098,
+                "friends": 4,
+                "followers": 2468375
+            },
+            "2023-04-25": {
+                "status": 44086,
+                "friends": 4,
+                "followers": 2465868
+            },
+            "2023-04-24": {
+                "status": 44077,
+                "friends": 4,
+                "followers": 2463452
+            },
+            "2023-04-23": {
+                "status": 44069,
+                "friends": 4,
+                "followers": 2461345
+            },
+            "2023-04-22": {
+                "status": 44066,
+                "friends": 4,
+                "followers": 2459275
+            },
+            "2023-04-21": {
+                "status": 44062,
+                "friends": 4,
+                "followers": 2456882
+            },
             "2023-04-20": {
                 "status": 44060,
                 "friends": 4,
@@ -31979,12 +32014,348 @@
                 "nfav": 0,
                 "isRt": true,
                 "isQuote": false
+            },
+            "1650213035922051072": {
+                "created_at": "Sun Apr 23 19:00:21 +0000 2023",
+                "text": "RT @kilicdarogluk: Yi\u011fitlerim. https://t.co/0J0FWAfxgu",
+                "nretweet": 31573,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650194570162982912": {
+                "created_at": "Sun Apr 23 17:46:59 +0000 2023",
+                "text": "RT @kilicdarogluk: Bir sonraki bayram\u0131 babanla kutlayacaks\u0131n Vera. Ama babana biraz benim de ihtiyac\u0131m var, sonra dar\u0131lmaca yok, tamam m\u0131:)\u2026",
+                "nretweet": 5400,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650189878464741376": {
+                "created_at": "Sun Apr 23 17:28:20 +0000 2023",
+                "text": "Millet \u0130ttifak\u0131 Cumhurba\u015fkan\u0131 Aday\u0131 Kemal K\u0131l\u0131\u00e7daro\u011flu: \"Bu k\u00fcrs\u00fcden milletvekili s\u0131fat\u0131yla son s\u00f6z\u00fcm \u015fudur: Millet\u2026 https://t.co/U1qjMrxW3X",
+                "nretweet": 1044,
+                "nfav": 6620,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650151071388676096": {
+                "created_at": "Sun Apr 23 14:54:08 +0000 2023",
+                "text": "\"Vatanda\u015flar\u0131m\u0131 ge\u00e7mi\u015fin ve bug\u00fcn\u00fcn olumsuzluklar\u0131ndan konu\u015fmaya de\u011fil, gelecek g\u00fczel g\u00fcnlerin hayalini kurmaya dav\u2026 https://t.co/fsEzWmzMUX",
+                "nretweet": 666,
+                "nfav": 4239,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650143803662123009": {
+                "created_at": "Sun Apr 23 14:25:15 +0000 2023",
+                "text": "RT @kilicdarogluk: Gen\u00e7ler b\u00fct\u2019e b\u0131rakmayal\u0131m, ilk turda bitirelim bu i\u015fi.\n\nhttps://t.co/FPxKBuSMWG",
+                "nretweet": 11744,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650101874425462784": {
+                "created_at": "Sun Apr 23 11:38:38 +0000 2023",
+                "text": "RT @kilicdarogluk: TBMM #23Nisan \u00d6zel Oturumu https://t.co/shXykt2yJ4",
+                "nretweet": 5698,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1650091424912646146": {
+                "created_at": "Sun Apr 23 10:57:07 +0000 2023",
+                "text": "Sizlere daha g\u00fczel bir T\u00fcrkiye arma\u011fan etmek i\u00e7in kazanaca\u011f\u0131z \u00e7ocuklar... #23Nisan Ulusal Egemenlik ve \u00c7ocuk Bayram\u2026 https://t.co/ThhVxNso03",
+                "nretweet": 608,
+                "nfav": 3832,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1650079603296288771": {
+                "created_at": "Sun Apr 23 10:10:09 +0000 2023",
+                "text": "RT @PartiOkuluCHP: S\u0131n\u0131rlar\u0131 a\u015f\u0131yoruz, d\u00fcnyan\u0131n her noktas\u0131ndaki oylar\u0131 koruyoruz. Yurt d\u0131\u015f\u0131nda ya\u015fayan vatanda\u015flar\u0131m\u0131z,\nYurt D\u0131\u015f\u0131 Sand\u0131k G\u2026",
+                "nretweet": 105,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649840278474223616": {
+                "created_at": "Sat Apr 22 18:19:09 +0000 2023",
+                "text": "RT @kilicdarogluk: Milletimiz olanlara asla \u00fcz\u00fclmesin, k\u0131zmas\u0131n, ben i\u015fimin ba\u015f\u0131nday\u0131m. S\u00fck\u00fbnetimizi koruyup, bu \u00fclkeyi kalk\u0131nd\u0131rmaya odakl\u2026",
+                "nretweet": 19923,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649791458994532356": {
+                "created_at": "Sat Apr 22 15:05:10 +0000 2023",
+                "text": "RT @kilicdarogluk: Gelelim 300 milyar dolar temiz paraya. \n\u0130nsan kendinden bilir i\u015fi ya, kendilerinin beceriksizli\u011fi \u00fczerinden, halk\u0131m\u0131z\u0131 o\u2026",
+                "nretweet": 15172,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649745588194271232": {
+                "created_at": "Sat Apr 22 12:02:53 +0000 2023",
+                "text": "RT @kilicdarogluk: Neyse biz i\u015fimize d\u00f6nelim.\nEv Han\u0131mlar\u0131\u2019na Aile Destek Sigortalar\u0131n\u0131 \u00f6derken, faiz hassasiyeti olanlara, Kat\u0131l\u0131m Bankas\u0131\u2026",
+                "nretweet": 16225,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649499137132449804": {
+                "created_at": "Fri Apr 21 19:43:35 +0000 2023",
+                "text": "RT @kilicdarogluk: S\u00f6z konusu olan \u00e7ok b\u00fcy\u00fck para. Bu y\u00fczden se\u00e7im d\u00f6nemi provokasyonlar olmas\u0131n\u0131 bekliyorum. Ger\u00e7eklerin \u00fcst\u00fcn\u00fc \u00f6rtmeye, g\u2026",
+                "nretweet": 21212,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649382121637593090": {
+                "created_at": "Fri Apr 21 11:58:36 +0000 2023",
+                "text": "\"Ayr\u0131\u015ft\u0131rd\u0131lar, birle\u015ftirece\u011fiz. Kavga ettirdiler, kucakla\u015faca\u011f\u0131z. Bayram\u0131n\u0131z\u0131 y\u00fcrekten kutluyor, her birinizi tek\u2026 https://t.co/2F6MR66idT",
+                "nretweet": 1811,
+                "nfav": 13590,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1649370247399440386": {
+                "created_at": "Fri Apr 21 11:11:25 +0000 2023",
+                "text": "RT @kilicdarogluk: Mezarl\u0131kta ac\u0131l\u0131 insan her \u015feyi s\u00f6yleyebilir, yapabilir; ac\u0131s\u0131na vermek gerekir. Bug\u00fcn bunlar\u0131 konu\u015fmayal\u0131m, kay\u0131plar\u0131m\u0131\u2026",
+                "nretweet": 24969,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649336937402990592": {
+                "created_at": "Fri Apr 21 08:59:03 +0000 2023",
+                "text": "RT @kilicdarogluk: Halil \u0130brahim Sofras\u0131 Bulu\u015fmas\u0131 #Ad\u0131yaman https://t.co/5zOimLnqDV",
+                "nretweet": 5347,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649156325488885760": {
+                "created_at": "Thu Apr 20 21:01:22 +0000 2023",
+                "text": "RT @kilicdarogluk: Erdo\u011fan \u00e7ok panik. \u0130yidir, halk\u0131n yarar\u0131naysa iyidir. Biz devlet terbiyesi ile yeti\u015fmi\u015f insanlar\u0131z. Devleti y\u00f6netenin va\u2026",
+                "nretweet": 15217,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1649098747610120202": {
+                "created_at": "Thu Apr 20 17:12:34 +0000 2023",
+                "text": "\u201cMemur Teoman gibi d\u00fcr\u00fcst, namuslu, r\u00fc\u015fveti elinin tersiyle iten memurlara sahip \u00e7\u0131kmak devlete sahip \u00e7\u0131kmak demekt\u2026 https://t.co/xrhtSed9Qb",
+                "nretweet": 1082,
+                "nfav": 7408,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648786732316327937": {
+                "created_at": "Wed Apr 19 20:32:44 +0000 2023",
+                "text": "\"Avrupa Birli\u011fi\u2019ne y\u00f6nelik hedefimiz de\u011fi\u015fmedi. Avrupa Birli\u011fi'nin yeni bir fas\u0131l a\u00e7mas\u0131n\u0131 dahi beklemeden b\u00fct\u00fcn ku\u2026 https://t.co/KSCtOPjLup",
+                "nretweet": 654,
+                "nfav": 4940,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648755995441520649": {
+                "created_at": "Wed Apr 19 18:30:36 +0000 2023",
+                "text": "RT @kilicdarogluk: Alevi. https://t.co/C9Pd1ZaKoN",
+                "nretweet": 78897,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648722639916081153": {
+                "created_at": "Wed Apr 19 16:18:03 +0000 2023",
+                "text": "RT @kilicdarogluk: T\u00fcm halk\u0131m\u0131z\u0131 saat 21.30'da buraya davet ediyorum, bir konuyu konu\u015fman\u0131n vakti geldi.",
+                "nretweet": 7405,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648651003699273734": {
+                "created_at": "Wed Apr 19 11:33:24 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Muharrem Erkek bas\u0131n toplant\u0131s\u0131 d\u00fczenliyor https://t.co/PHQ6xEooA7",
+                "nretweet": 108,
+                "nfav": 558,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648643962914197504": {
+                "created_at": "Wed Apr 19 11:05:25 +0000 2023",
+                "text": "RT @kilicdarogluk: Gen\u00e7 Ba\u015fkanlar\u0131m\u0131z s\u00f6yledi, ben de dayanamad\u0131m e\u015flik ettim. Bu \u00fclkede hep beraber \u015fark\u0131lar, t\u00fcrk\u00fcler s\u00f6yleyece\u011fimiz g\u00fcnl\u2026",
+                "nretweet": 8540,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648421897741250566": {
+                "created_at": "Tue Apr 18 20:23:01 +0000 2023",
+                "text": "Parti S\u00f6zc\u00fcm\u00fcz Faik \u00d6ztrak: \"21 y\u0131lda tefecilerin cebine b\u00fct\u00e7eden 537 milyar dolar koyan Erdo\u011fan'a, \u00fclkemizi IMF ka\u2026 https://t.co/nmtnU3NexL",
+                "nretweet": 316,
+                "nfav": 1736,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648404755058950153": {
+                "created_at": "Tue Apr 18 19:14:54 +0000 2023",
+                "text": "Millet \u0130ttifak\u0131 Cumhurba\u015fkan\u0131 Aday\u0131 Kemal K\u0131l\u0131\u00e7daro\u011flu: \"Paralar\u0131n\u0131 yurt d\u0131\u015f\u0131na g\u00f6t\u00fcrd\u00fcler. Nas\u0131l g\u00f6t\u00fcrd\u00fcklerini, h\u2026 https://t.co/IIY2ZKBGyt",
+                "nretweet": 1099,
+                "nfav": 6333,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648386117731753988": {
+                "created_at": "Tue Apr 18 18:00:50 +0000 2023",
+                "text": "RT @kilicdarogluk: Bay Kemal\u2019in Tahtas\u0131!\nEvet yat\u0131r\u0131m paras\u0131 da var, projelerimiz de var, \u015fampiyonlar ligi insan kayna\u011f\u0131m\u0131z da\u2026 https://t.c\u2026",
+                "nretweet": 14875,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648383323524448256": {
+                "created_at": "Tue Apr 18 17:49:44 +0000 2023",
+                "text": "\"48 bin konutun temelini ataca\u011f\u0131z. \u0130n\u015fallah bu evlerde insanlar huzur i\u00e7inde ya\u015fayacaklar. En b\u00fcy\u00fck arzum her evde\u2026 https://t.co/SF4jmjQM5V",
+                "nretweet": 419,
+                "nfav": 2691,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648336033526759429": {
+                "created_at": "Tue Apr 18 14:41:49 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z ve Parti S\u00f6zc\u00fcm\u00fcz Faik \u00d6ztrak MYK g\u00fcndemini kamuoyuyla payla\u015f\u0131yor https://t.co/qaTVOrNFG4",
+                "nretweet": 107,
+                "nfav": 653,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648324398514950144": {
+                "created_at": "Tue Apr 18 13:55:35 +0000 2023",
+                "text": "RT @kilicdarogluk: Ekrem Bey\u2019i evlad\u0131m gibi severim. Daha da gen\u00e7 evlatlar\u0131m var. Futbol diliyle paf tak\u0131m\u0131ndan geldiler, belediyeleri y\u00f6ne\u2026",
+                "nretweet": 5630,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648304397401702400": {
+                "created_at": "Tue Apr 18 12:36:07 +0000 2023",
+                "text": "RT @kilicdarogluk: Ki\u015fi kendinden bilir i\u015fi. Erdo\u011fan buna kim, niye yat\u0131r\u0131m s\u00f6z\u00fc versin? Ancak bor\u00e7 verirler. Ben oradayken sen bunu g\u00f6nder\u2026",
+                "nretweet": 8378,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648295738688823302": {
+                "created_at": "Tue Apr 18 12:01:42 +0000 2023",
+                "text": "Ankara B\u00fcy\u00fck\u015fehir Belediyesi 7 Proje-47 Bin 970 Konut Temel Atma ve Tan\u0131t\u0131m T\u00f6reni #Ankara https://t.co/49tQiYek3h",
+                "nretweet": 91,
+                "nfav": 582,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648286804590698497": {
+                "created_at": "Tue Apr 18 11:26:12 +0000 2023",
+                "text": "Ankara B\u00fcy\u00fck\u015fehir Belediyesi 7 Proje-47 Bin 970 Konut Temel Atma ve Tan\u0131t\u0131m T\u00f6reni #Ankara https://t.co/O8wXoQyIFO",
+                "nretweet": 111,
+                "nfav": 677,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648274223423430657": {
+                "created_at": "Tue Apr 18 10:36:12 +0000 2023",
+                "text": "Genel Ba\u015fkan Yard\u0131mc\u0131m\u0131z Seyit Torun bas\u0131n toplant\u0131s\u0131 d\u00fczenliyor https://t.co/qEXOggJfOi",
+                "nretweet": 99,
+                "nfav": 502,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648264450003333120": {
+                "created_at": "Tue Apr 18 09:57:22 +0000 2023",
+                "text": "\u201cLiderler olarak Halil \u0130brahim sofras\u0131na oturduk. Halk\u0131m\u0131z\u0131 da adalet, e\u015fitlik, hukuk, \u00f6zg\u00fcrl\u00fck ve hak\u00e7a payla\u015f\u0131m i\u2026 https://t.co/IL3694XGdm",
+                "nretweet": 401,
+                "nfav": 2844,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648089479620734977": {
+                "created_at": "Mon Apr 17 22:22:06 +0000 2023",
+                "text": "Millet \u0130ttifak\u0131 Cumhurba\u015fkan\u0131 Aday\u0131 Kemal K\u0131l\u0131\u00e7daro\u011flu: \u201cKatillerle, ter\u00f6ristlerle i\u015f tutanlar bize ders vermeye ka\u2026 https://t.co/KxeXMLvKz8",
+                "nretweet": 488,
+                "nfav": 2750,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648083802663575552": {
+                "created_at": "Mon Apr 17 21:59:33 +0000 2023",
+                "text": "RT @kilicdarogluk: K\u00fcrtler. https://t.co/almLCAJtcr",
+                "nretweet": 18451,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648056065152503824": {
+                "created_at": "Mon Apr 17 20:09:19 +0000 2023",
+                "text": "RT @kilicdarogluk: Bin aydan hay\u0131rl\u0131 Kadir Gecesi'nde bilge yol arkada\u015f\u0131m @T_Karamollaoglu Bey ile Beylikd\u00fcz\u00fc Hac\u0131 Naif Akku\u015f Camii'ni hizm\u2026",
+                "nretweet": 5230,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1648040603660218392": {
+                "created_at": "Mon Apr 17 19:07:53 +0000 2023",
+                "text": "\u201cSaraylarda oturmayaca\u011f\u0131z, onlar gibi saray merakl\u0131s\u0131, haram yeme merakl\u0131s\u0131 de\u011filiz. T\u00fcrkiye\u2019yi Gazi Mustafa Kemal\u2026 https://t.co/auuK3cM5IM",
+                "nretweet": 1141,
+                "nfav": 7713,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1648005378905350174": {
+                "created_at": "Mon Apr 17 16:47:55 +0000 2023",
+                "text": "RT @kilicdarogluk: Beylikd\u00fcz\u00fc Kadir Gecesi \u0130ftar\u0131 #\u0130stanbul https://t.co/4uGjvvk69l",
+                "nretweet": 1570,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647965503678296069": {
+                "created_at": "Mon Apr 17 14:09:28 +0000 2023",
+                "text": "\u00c7atalca Halk Bulu\u015fmas\u0131 #\u0130stanbul https://t.co/Er6tYYgCtf",
+                "nretweet": 97,
+                "nfav": 599,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647941546845831169": {
+                "created_at": "Mon Apr 17 12:34:16 +0000 2023",
+                "text": "\"TRT, milletin televizyonu olma \u00f6zelli\u011fini yitirmi\u015ftir. TRT'yi yeniden T\u00fcrk milletinin TV kanal\u0131 haline d\u00f6n\u00fc\u015ft\u00fcrece\u2026 https://t.co/8KfXH2KnUo",
+                "nretweet": 274,
+                "nfav": 1626,
+                "isRt": false,
+                "isQuote": false
+            },
+            "1647935549947125761": {
+                "created_at": "Mon Apr 17 12:10:26 +0000 2023",
+                "text": "RT @kilicdarogluk: Se\u00e7imin kaderini kim belirleyecek?\n\nhttps://t.co/eoe6K0Z42T https://t.co/v7NITh9CfE",
+                "nretweet": 6902,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
+            },
+            "1647912172041691138": {
+                "created_at": "Mon Apr 17 10:37:33 +0000 2023",
+                "text": "RT @PartiOkuluCHP: Yurt i\u00e7inde hangi sand\u0131kta oy kullanaca\u011f\u0131n\u0131z\u0131 \u00f6\u011frenmek i\u00e7in:\nhttps://t.co/daA5s2Elyy \nveya\nhttps://t.co/JSAMtCfKmg https\u2026",
+                "nretweet": 399,
+                "nfav": 0,
+                "isRt": true,
+                "isQuote": false
             }
         },
         "top-mentions": [
             [
                 "kilicdarogluk",
-                860
+                881
             ],
             [
                 "CHPfotograf",
@@ -32000,7 +32371,7 @@
             ],
             [
                 "PartiOkuluCHP",
-                16
+                18
             ],
             [
                 "ekrem_imamoglu",
@@ -32043,15 +32414,15 @@
                 5
             ],
             [
+                "T_Karamollaoglu",
+                4
+            ],
+            [
                 "veliagbaba",
                 4
             ],
             [
                 "alibabacan",
-                3
-            ],
-            [
-                "T_Karamollaoglu",
                 3
             ],
             [
@@ -32186,11 +32557,11 @@
         "top-hashtags": [
             [
                 "\u0130stanbul",
-                43
+                45
             ],
             [
                 "Ankara",
-                24
+                26
             ],
             [
                 "\u0130zmir",
@@ -32230,6 +32601,10 @@
             ],
             [
                 "Adana",
+                5
+            ],
+            [
+                "23Nisan",
                 5
             ],
             [
@@ -32294,10 +32669,6 @@
             ],
             [
                 "Zalimlerin\u0130ktidar\u0131",
-                3
-            ],
-            [
-                "23Nisan",
                 3
             ],
             [
@@ -36227,31 +36598,55 @@
             "2023-04": [
                 [
                     "millet",
-                    21
-                ],
-                [
-                    "cumhurba\u015fkan\u0131",
-                    19
+                    25
                 ],
                 [
                     "kemal",
-                    19
+                    24
+                ],
+                [
+                    "cumhurba\u015fkan\u0131",
+                    22
                 ],
                 [
                     "i\u0307ttifak\u0131",
-                    18
+                    21
                 ],
                 [
                     "aday\u0131",
-                    17
+                    20
                 ],
                 [
                     "k\u0131l\u0131\u00e7daro\u011flu",
-                    17
+                    20
                 ],
                 [
                     "genel",
-                    10
+                    13
+                ],
+                [
+                    "bulu\u015fmas\u0131",
+                    9
+                ],
+                [
+                    "parti",
+                    9
+                ],
+                [
+                    "\u00f6zel",
+                    9
+                ],
+                [
+                    "s\u00f6zc\u00fcm\u00fcz",
+                    8
+                ],
+                [
+                    "faik",
+                    8
+                ],
+                [
+                    "\u00f6ztrak",
+                    8
                 ],
                 [
                     "grup",
@@ -36266,27 +36661,27 @@
                     8
                 ],
                 [
-                    "\u00f6zel",
-                    8
-                ],
-                [
-                    "bulu\u015fmas\u0131",
+                    "bas\u0131n",
                     7
                 ],
                 [
-                    "parti",
+                    "toplant\u0131s\u0131",
                     7
                 ],
                 [
-                    "s\u00f6zc\u00fcm\u00fcz",
+                    "ba\u015fkan",
                     6
                 ],
                 [
-                    "faik",
+                    "yard\u0131mc\u0131m\u0131z",
                     6
                 ],
                 [
-                    "\u00f6ztrak",
+                    "d\u00fczenliyor",
+                    6
+                ],
+                [
+                    "erdo\u011fan",
                     6
                 ],
                 [
@@ -36294,19 +36689,35 @@
                     5
                 ],
                 [
-                    "bas\u0131n",
+                    "\u0307stanbul",
                     5
                 ],
                 [
-                    "toplant\u0131s\u0131",
+                    "t\u00fcrkiye",
                     5
                 ],
                 [
-                    "d\u00fczenliyor",
+                    "yurt",
+                    5
+                ],
+                [
+                    "milyar",
                     4
                 ],
                 [
-                    "erdo\u011fan",
+                    "ankara",
+                    4
+                ],
+                [
+                    "etmek",
+                    4
+                ],
+                [
+                    "halk\u0131m\u0131z\u0131",
+                    4
+                ],
+                [
+                    "gelecek",
                     4
                 ],
                 [
@@ -36314,7 +36725,19 @@
                     4
                 ],
                 [
-                    "\u0307stanbul",
+                    "saat",
+                    4
+                ],
+                [
+                    "t\u00f6reni",
+                    4
+                ],
+                [
+                    "b\u00fcy\u00fck\u015fehir",
+                    4
+                ],
+                [
+                    "konut",
                     3
                 ],
                 [
@@ -36322,7 +36745,23 @@
                     3
                 ],
                 [
+                    "bay",
+                    3
+                ],
+                [
+                    "...",
+                    3
+                ],
+                [
                     "sosyal",
+                    3
+                ],
+                [
+                    "devlet",
+                    3
+                ],
+                [
+                    "son",
                     3
                 ],
                 [
@@ -36330,15 +36769,11 @@
                     3
                 ],
                 [
-                    "t\u00fcrkiye",
+                    "buraya",
                     3
                 ],
                 [
-                    "ba\u015fkan",
-                    3
-                ],
-                [
-                    "yard\u0131mc\u0131m\u0131z",
+                    "gen\u00e7",
                     3
                 ],
                 [
@@ -36346,84 +36781,20 @@
                     3
                 ],
                 [
-                    "etmek",
+                    "y\u00f6nelik",
                     3
                 ],
                 [
-                    "ba\u015fkan\u0131",
+                    "yok",
                     3
                 ],
                 [
-                    "g\u00f6receksiniz",
+                    "beraber",
                     3
                 ],
                 [
-                    "gelecek",
+                    "sahip",
                     3
-                ],
-                [
-                    "g\u00fcn",
-                    3
-                ],
-                [
-                    "saat",
-                    3
-                ],
-                [
-                    "\u00fclkemize",
-                    2
-                ],
-                [
-                    "sald\u0131r\u0131",
-                    2
-                ],
-                [
-                    "konutlar\u0131",
-                    2
-                ],
-                [
-                    "edece\u011fiz",
-                    2
-                ],
-                [
-                    "\u00fczg\u00fcn\u00fcm",
-                    2
-                ],
-                [
-                    "buradan",
-                    2
-                ],
-                [
-                    "istismar",
-                    2
-                ],
-                [
-                    "yata\u011fa",
-                    2
-                ],
-                [
-                    "bay",
-                    2
-                ],
-                [
-                    "418",
-                    2
-                ],
-                [
-                    "milyar",
-                    2
-                ],
-                [
-                    "dolarla",
-                    2
-                ],
-                [
-                    "...",
-                    2
-                ],
-                [
-                    "devlet",
-                    2
                 ]
             ]
         }
@@ -36766,126 +37137,126 @@
                     "kilicdarogluk",
                     "herkesicinchp",
                     {
-                        "weight": 15701
+                        "weight": 17202
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "chpgenclikgm",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "chp_en",
                     {
-                        "weight": 67
+                        "weight": 74
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "meral_aksener",
                     {
-                        "weight": 36
+                        "weight": 40
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "rterdogan",
                     {
-                        "weight": 56
+                        "weight": 62
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "yeniakit",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "vahitkirisci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "nureddinnebati",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "fbbasketbol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "alibabacan",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "t_karamollaoglu",
                     {
-                        "weight": 18
+                        "weight": 21
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "sivasspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "vakifbanksk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "trabzonspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "ilirmetazyrtar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "modasahnesi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
@@ -36899,273 +37270,273 @@
                     "kilicdarogluk",
                     "veliagbaba",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "tuncsoyer",
                     {
-                        "weight": 19
+                        "weight": 22
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "sozluk",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "kilicdarogluk",
                     "samsunspor",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chpgenclikgm",
                     {
-                        "weight": 161
+                        "weight": 173
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chp_en",
                     {
-                        "weight": 398
+                        "weight": 443
                     }
                 ],
                 [
                     "herkesicinchp",
                     "herkesicinchp",
                     {
-                        "weight": 73
+                        "weight": 81
                     }
                 ],
                 [
                     "herkesicinchp",
                     "devapartisi",
                     {
-                        "weight": 33
+                        "weight": 36
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chpfotograf",
                     {
-                        "weight": 692
+                        "weight": 756
                     }
                 ],
                 [
                     "herkesicinchp",
                     "CHPfotograf",
                     {
-                        "weight": 692
+                        "weight": 756
                     }
                 ],
                 [
                     "herkesicinchp",
                     "partiokuluchp",
                     {
-                        "weight": 121
+                        "weight": 137
                     }
                 ],
                 [
                     "herkesicinchp",
                     "PartiOkuluCHP",
                     {
-                        "weight": 121
+                        "weight": 137
                     }
                 ],
                 [
                     "herkesicinchp",
                     "tc_stockholm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "meral_aksener",
                     {
-                        "weight": 42
+                        "weight": 48
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chptbmm",
                     {
-                        "weight": 828
+                        "weight": 900
                     }
                 ],
                 [
                     "herkesicinchp",
                     "rterdogan",
                     {
-                        "weight": 61
+                        "weight": 67
                     }
                 ],
                 [
                     "herkesicinchp",
                     "yunusemrechp",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chpkadinkolu",
                     {
-                        "weight": 64
+                        "weight": 69
                     }
                 ],
                 [
                     "herkesicinchp",
                     "yeniakit",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "faikoztrak",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
                     "herkesicinchp",
                     "CHPKadinKolu",
                     {
-                        "weight": 20
+                        "weight": 21
                     }
                 ],
                 [
                     "herkesicinchp",
                     "aylinnazliaka",
                     {
-                        "weight": 21
+                        "weight": 23
                     }
                 ],
                 [
                     "herkesicinchp",
                     "vahitkirisci",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "nureddinnebati",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "fbbasketbol",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "alibabacan",
                     {
-                        "weight": 28
+                        "weight": 32
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ahmet_davutoglu",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "herkesicinchp",
                     "t_karamollaoglu",
                     {
-                        "weight": 21
+                        "weight": 25
                     }
                 ],
                 [
                     "herkesicinchp",
                     "dpgultekinuysal",
                     {
-                        "weight": 14
+                        "weight": 16
                     }
                 ],
                 [
                     "herkesicinchp",
                     "sivasspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "vakifbanksk",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "herkesicinCHP",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "trabzonspor",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "suleymansoylu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ilirmetazyrtar",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "modasahnesi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "alimahir",
                     {
-                        "weight": 42
+                        "weight": 46
                     }
                 ],
                 [
                     "herkesicinchp",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "herkesicinchp",
                     "belediye_gazete",
                     {
-                        "weight": 22
+                        "weight": 24
                     }
                 ],
                 [
@@ -37179,455 +37550,455 @@
                     "herkesicinchp",
                     "enginozkoc",
                     {
-                        "weight": 36
+                        "weight": 38
                     }
                 ],
                 [
                     "herkesicinchp",
                     "tuncsoyer",
                     {
-                        "weight": 137
+                        "weight": 152
                     }
                 ],
                 [
                     "herkesicinchp",
                     "mansuryavas06",
                     {
-                        "weight": 154
+                        "weight": 170
                     }
                 ],
                 [
                     "herkesicinchp",
                     "veliagbaba",
                     {
-                        "weight": 80
+                        "weight": 88
                     }
                 ],
                 [
                     "herkesicinchp",
                     "eczozgurozel",
                     {
-                        "weight": 112
+                        "weight": 125
                     }
                 ],
                 [
                     "herkesicinchp",
                     "seyit_torun",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "Seyit_TORUN",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "avtutdere",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "herkesicinchp",
                     "gurselerol62",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ekrem_imamoglu",
                     {
-                        "weight": 314
+                        "weight": 346
                     }
                 ],
                 [
                     "herkesicinchp",
                     "zeydankaralar01",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ZeydanKaralar01",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "herkesicinchp",
                     "gulizarbicer",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "GulizarBicer",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "AylinNazliaka",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "fethiyasar",
                     {
-                        "weight": 60
+                        "weight": 66
                     }
                 ],
                 [
                     "herkesicinchp",
                     "enginaltaychp",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "herkesicinchp",
                     "y_buyukersen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "Y_Buyukersen",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "osmangurun",
                     {
-                        "weight": 60
+                        "weight": 66
                     }
                 ],
                 [
                     "herkesicinchp",
                     "docdrlutfusavas",
                     {
-                        "weight": 60
+                        "weight": 66
                     }
                 ],
                 [
                     "herkesicinchp",
                     "bocekmuhittin",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "herkesicinchp",
                     "BocekMuhittin",
                     {
-                        "weight": 30
+                        "weight": 33
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ozlem_cercioglu",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "OZLEM_CERCIOGLU",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "DocDrLutfuSavas",
                     {
-                        "weight": 50
+                        "weight": 55
                     }
                 ],
                 [
                     "herkesicinchp",
                     "bucaerhankilic",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "herkesicinchp",
                     "alpertasdelen06",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "AlperTasdelen06",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "mguzelmansurchp",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "herkesicinchp",
                     "kadira59",
                     {
-                        "weight": 40
+                        "weight": 44
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ahmetakin",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ankaragelisiyor",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "herkesicinchp",
                     "orkunercengiz",
                     {
-                        "weight": 20
+                        "weight": 22
                     }
                 ],
                 [
                     "herkesicinchp",
                     "sozluk",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ali_oztunc",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "herkesicinchp",
                     "hayrettingng",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "herkesicinchp",
                     "Ali_Oztunc",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ],
                 [
                     "herkesicinchp",
                     "pes_pse",
                     {
-                        "weight": 12
+                        "weight": 14
                     }
                 ],
                 [
                     "herkesicinchp",
                     "DpGultekinUysal",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "herkesicinchp",
                     "Ahmet_Davutoglu",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "herkesicinchp",
                     "T_Karamollaoglu",
                     {
-                        "weight": 3
+                        "weight": 4
                     }
                 ],
                 [
                     "herkesicinchp",
                     "chpyurt",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "herkesicinchp",
                     "ChpYurt",
                     {
-                        "weight": 2
+                        "weight": 3
                     }
                 ],
                 [
                     "herkesicinchp",
                     "samsunspor",
                     {
-                        "weight": 1
+                        "weight": 2
                     }
                 ],
                 [
                     "chp_en",
                     "devapartisi",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "chp_en",
                     "tc_stockholm",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "chp_en",
                     "eczozgurozel",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "chp_en",
                     "mguzelmansurchp",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "chp_en",
                     "tuncsoyer",
                     {
-                        "weight": 8
+                        "weight": 9
                     }
                 ],
                 [
                     "chp_en",
                     "pes_pse",
                     {
-                        "weight": 6
+                        "weight": 7
                     }
                 ],
                 [
                     "meral_aksener",
                     "alibabacan",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "meral_aksener",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "ahmet_davutoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alibabacan",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ahmet_davutoglu",
                     "t_karamollaoglu",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "ahmet_davutoglu",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "t_karamollaoglu",
                     "dpgultekinuysal",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "alimahir",
                     "haberturktv",
                     {
-                        "weight": 11
+                        "weight": 12
                     }
                 ],
                 [
                     "eczozgurozel",
                     "mguzelmansurchp",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "zeydankaralar01",
                     "docdrlutfusavas",
                     {
-                        "weight": 10
+                        "weight": 11
                     }
                 ],
                 [
                     "ali_oztunc",
                     "hayrettingng",
                     {
-                        "weight": 7
+                        "weight": 8
                     }
                 ]
             ]
@@ -37704,15 +38075,15 @@
                     "yolunyolumuzdur",
                     "mustafakemalatat\u00fcrk",
                     {
-                        "weight": 22,
-                        "weight_plain": 11
+                        "weight": 24,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "yolunyolumuzdur",
                     "10kas\u0131m",
                     {
-                        "weight": 11,
+                        "weight": 12,
                         "weight_plain": 0
                     }
                 ],
@@ -37720,7 +38091,7 @@
                     "mustafakemalatat\u00fcrk",
                     "10kas\u0131m",
                     {
-                        "weight": 16,
+                        "weight": 17,
                         "weight_plain": 0
                     }
                 ],
@@ -37744,8 +38115,8 @@
                     "milletinsesi",
                     "milletinsesibal\u0131kesirde",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -37760,16 +38131,16 @@
                     "sincan",
                     "etimesgut",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
                     "19may\u0131s1919",
                     "gelece\u011fey\u00fcr\u00fc",
                     {
-                        "weight": 11,
-                        "weight_plain": 11
+                        "weight": 12,
+                        "weight_plain": 12
                     }
                 ],
                 [
@@ -37784,7 +38155,7 @@
                     "hatay",
                     "deprem",
                     {
-                        "weight": 10,
+                        "weight": 11,
                         "weight_plain": 0
                     }
                 ],
@@ -37792,7 +38163,7 @@
                     "sanas\u00f6z",
                     "sanas\u00f6z",
                     {
-                        "weight": 3,
+                        "weight": 4,
                         "weight_plain": 0
                     }
                 ]
