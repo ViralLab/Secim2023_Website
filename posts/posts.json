@@ -115,6 +115,11 @@
                 "type": "open-data",
                 "text": "App",
                 "url": "/apps/follower-change/"
+            },
+            {
+                "type": "arxiv",
+                "text": "Whitepaper",
+                "url": "/posts/Secim2023_WhitePapers-1.pdf"
             }
         ]
     },
@@ -135,7 +140,13 @@
             "en": "We analyzed the online conversation around Ekrem Imamoglu.",
             "tr": "Ekrem İmamoğlu hakkında Twitter'da yazılanları inceledik."
         },
-        "links": []
+        "links": [
+            {
+                "type": "arxiv",
+                "text": "Whitepaper",
+                "url": "/posts/Secim2023_WhitePapers-2.pdf"
+            }
+        ]
     },
 
     {   
