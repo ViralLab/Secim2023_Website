@@ -1,5 +1,25 @@
 [
     {
+        "id": "sinanogan",
+        "isVisible": true,
+        "languages": ["tr"],
+        "url": "/posts/230520/",
+        "type": "Report",
+        "date": "20/05/2023",
+        "img": "thumbnail.png",
+        "title": {
+            "en": "Which candidates is closer to Sinan Ogan's followers",
+            "tr": "Sinan Oğan’ın takipçileri sosyal medyada hangi adaya daha yakın?"
+        },
+        "description": {
+            "en": "We analyzed Sinan Ogan's followers to understand which candidate his followers are leaning towards.",
+            "tr": "Sinan Oğan’ın Twitter trendleri üzerinden, yaş ve cinsiyet gibi faktörlere de bakarak, takipçilerinin hangi siyasi ilişki ağını öncelediğini inceleyeceğiz."
+        },
+        "links": [
+        ]
+    },
+
+    {
         "id": "milletvekili",
         "isVisible": true,
         "languages": ["tr"],
@@ -65,6 +85,11 @@
                 "type": "open-data",
                 "text": "App",
                 "url": "/apps/follower-anomaly/"
+            },
+            {
+                "type": "arxiv",
+                "text": "Whitepaper",
+                "url": "/posts/Secim2023_WhitePapers-3.pdf"
             }
         ]
     },
