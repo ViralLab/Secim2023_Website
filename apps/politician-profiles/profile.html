@@ -317,6 +317,7 @@
             usernet: {},
             hashtagnet: {},
             selectedMetric: "All",
+            searchText: '',
             genderPlot: {},
             agePlot: {},
             orgPlot: {},
@@ -730,6 +731,11 @@
                   parseInt(b.rtfav_total_count) - parseInt(a.rtfav_total_count)
               );
             }
+            // Apply filtering based on search text
+            if (this.searchText) {
+              const searchQuery = this.searchText.toLowerCase();
+              temp = temp.filter(tweet => tweet.text.toLowerCase().includes(searchQuery));
+            }
             return temp.slice(0, 6);
           },
         },
@@ -860,6 +866,37 @@
                             v-bind:data="JSON.stringify(tweets)"
                           ></div>
                           <div id="livechart-tweets"></div>
+
+                          <br>
+                          <!-- Add the search box here -->
+                          <div id="searchBox" style="margin-bottom: 20px;">
+                            <div class="input-group">
+                              <div class="input-group-text" id="btnGroupAddon">
+                                <span tlang="tr">Tweet ara</span>
+                                <span tlang="en">Tweet search</span>
+                              </div>
+                              <input type="text" v-model="searchText" class="form-control" placeholder="...">
+                            </div>
+                          </div>
+
+                          <!-- Start Tweet List Componenet -->
+                          <div class="card-group">
+                            <div class="row row-cols-1 g-4">
+                              <div v-for="(tweet, index) in filteredData" :key="tweet.id" class="col">
+                                <div class="card h-100">
+                                  <div class="card-body">
+                                      <a :href="tweet.url" target="_blank"><i class="fa fa-link"></i></a>
+                                      {{tweet.text}} <br>
+                                      <i class="fa fa-retweet" color="#00ba7c"></i>&nbsp;<span>{{tweet.retweet_count}}</span>&nbsp;|&nbsp;
+                                      <i class="fa fa-heart" color="#f91880"></i>&nbsp;<span>{{tweet.favorite_count}}</span>&nbsp;|&nbsp; 
+                                      <i class="fa fa-clock" color="#1d9bf0"></i>&nbsp;<span>{{tweet.tweet_created_at}}</span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- End Tweet List Input Componenet -->
+
                         </div>
                       </div>
                     </div>
