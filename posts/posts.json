@@ -1,4 +1,36 @@
 [
+
+    {   
+        "id": "siu2023converence",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/230828/",
+        "type": "Conference proceeding",
+        "date": "28/08/2023",
+        "img": "siu2023varol.png",
+        "title": {
+            "en": "Conference proceeding presented at SIU 2023",
+            "tr": "SIU 2023 konferans yayını"
+        },
+        "description": {
+            "en": "Conference proceeding for SIU titled 'Who Follows Turkish Presidential Candidates in 2023 Elections?'",
+            "tr": "SIU konferansında sunulan 'Türkiye 2023 Cumhurbaşkanlığı seçimlerinde adayları kim takip ediyor?' başlıklı çalışma."
+        },
+        "links": [
+            {
+                "type": "arxiv", 
+                "text": "PDF",
+                "url": "/posts/2023-siuvarol.pdf"
+            },
+            {
+                "type": "ieee",
+                "text": "IEEE Xplore",
+                "url": "https://ieeexplore.ieee.org/document/10223884"
+            }
+        ],
+        "citation": "Varol, Onur. Who Follows Turkish Presidential Candidates in 2023 Elections?. 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023."
+    },
+
     {
         "id": "sinanogan",
         "isVisible": true,
