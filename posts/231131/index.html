@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta content="#Secim2023 Project" name="VRL Lab @ Sabanci University">
+        <meta content="disinformation, social bot detection, coordinated activity detection, dezenformasyon, sosyal bot tespiti, koordinasyon tespiti" name="keywords">
+        <meta content="Copyright (c) 2022 VRL Lab @ Sabanci University" name="Copyright">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta property="og:title" content="#Secim2023 Project @ VRL Lab">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="http://secim2023.biz">
+        <meta property="og:image" content="http://secim2023.biz/img/secim2023-logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="400">
+        <meta property="og:description" content="Bu platform üzerinden 2023 Cumhurbaşkanlığı Seçimleri için gerçekleştirdiğimiz dezenformasyon ve koordinasyonlu aktivite ile mücadele projesine ait raporlar ve makaleler yayınlıyoruz.">
+        <link id="page_favicon" href="img/favicon.ico" rel="icon" type="image/x-icon" />
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/popper.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <script src="/js/fa-all.js" data-auto-replace-svg="nest"></script>
+        <script src="/js/multilingual.js"></script>
+
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+
+        <link type="text/css" rel="stylesheet" href="/css/hover-min.css" />
+        <link type="text/css" rel="stylesheet" href="/css/academicons.min.css" />
+        
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-KMQ3V513ZY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-KMQ3V513ZY');
+        </script>
+        
+        <title>#Secim2023</title>
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('[data-toggle="tooltip"]').tooltip();
+                $('#header-container').load('/components/header.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+                $('#footer-container').load('/components/footer.html', function() {
+                  setLang(getCookie('pagelang', 'en'));
+                });
+            });
+            $(window).on('load', function () {
+              setLang(getCookie('pagelang', 'en'));
+            });
+        </script>
+    </head>
+
+    <body>
+
+        <div id="header-container"></div>
+        
+        <div class="container">
+            <div class="row my-5 justify-content-center">
+                
+                <div class="col-10">
+                    <h4>Unsupervised detection of coordinated fake-follower campaigns on social media</h4>
+                    <p>
+                        <b>Abstract</b>: Automated social media accounts, known as bots, are increasingly recognized as key tools for manipulative online activities. These activities can stem from coordination among several accounts and these automated campaigns can manipulate social network structure by following other accounts, amplifying their content, and posting messages to spam online discourse. In this study, we present a novel unsupervised detection method designed to target a specific category of malicious accounts designed to manipulate user metrics such as online popularity. Our framework identifies anomalous following patterns among all the followers of a social media account. Through the analysis of a large number of accounts on the Twitter platform (rebranded as Twitter after the acquisition of Elon Musk), we demonstrate that irregular following patterns are prevalent and are indicative of automated fake accounts. Notably, we find that these detected groups of anomalous followers exhibit consistent behavior across multiple accounts. This observation, combined with the computational efficiency of our proposed approach, makes it a valuable tool for investigating large-scale coordinated manipulation campaigns on social media platforms.
+                    </p>
+                    <p>
+                        Zouzou, Yasser and Varol, Onur. Unsupervised detection of coordinated fake-follower campaigns on social media. arXiv:2310.20407 (2023).
+                    </p>
+                </div>
+
+                <div class="col-10">
+                    <span style="margin-right: 1em;"><a href="/posts/2023-fakefollowers.pdf" target="_blank"><i class="ai ai-arxiv"></i> PDF</a></span>
+                    <span style="margin-right: 1em;"><a href="https://github.com/ViralLab/FollowerAnalyzer" target="_blank"><i class="ai ai-open-access"></i> Github</a></span>
+                </div>
+            </div>
+        </div>
+        
+        <div id="footer-container"></div>
+
+    </body>
+</html>
