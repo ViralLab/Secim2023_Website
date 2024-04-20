@@ -1,5 +1,41 @@
 [
     {   
+        "id": "secim-dataset",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/221122/",
+        "type": "Dataset",
+        "date": "16/04/2024",
+        "img": "secim-dataset.png",
+        "title": {
+            "en": "#Secim2023 Dataset published on Nature Scientific Reports",
+            "tr": "#Secim2023 Veriseti makalesi Nature Scientific Reports'da basıldı"
+        },
+        "description": {
+            "en": "We have just published our first paper which describes the dataset on Turkish Presidential Elections in 2023.",
+            "tr": "İlk yayınımızı 2023 Türkiye Başkanlık Seçimleri üzerine veriseti paylaşarak yaptık."
+        },
+        "links": [
+            {
+                "type": "obp",
+                "text": "Journal",
+                "url": "https://link.springer.com/article/10.1038/s41598-024-58006-w"
+            },
+            {
+                "type": "dataverse",
+                "text": "Dataverse",
+                "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW"
+            },
+            {
+                "type": "arxiv",
+                "text": "ArXiv",
+                "url": "https://arxiv.org/abs/2211.13121"
+            }
+        ],
+        "citation": "<b>First public dataset to study 2023 Turkish general election</b><br>Ali Najafi, Nihat Mugurtay, Yasser Zouzour, Ege Demirci, Serhat Demirkiran, H. Alper Karadeniz, Onur Varol<br><i>Scientific Reports 14, 8794 (2024)</i>"
+    },
+
+    {   
         "id": "anomaly-detection",
         "isVisible": true,
         "languages": ["tr", "en"],
@@ -270,37 +306,6 @@
                 "url": "/posts/Secim2023_WhitePapers-2.pdf"
             }
         ]
-    },
-
-    {   
-        "id": "secim-dataset",
-        "isVisible": true,
-        "languages": ["tr", "en"],
-        "url": "/posts/221122/",
-        "type": "Dataset",
-        "date": "22/11/2022",
-        "img": "secim-dataset.png",
-        "title": {
-            "en": "Preprint for #Secim2023 Dataset",
-            "tr": "#Secim2023 Veriseti Ön Baskı"
-        },
-        "description": {
-            "en": "We have just published our first dataset about Turkish Presidential Elections in 2023.",
-            "tr": "İlk yayınımızı 2023 Türkiye Başkanlık Seçimleri üzerine veriseti paylaşarak yaptık."
-        },
-        "links": [
-            {
-                "type": "dataverse",
-                "text": "Dataverse",
-                "url": "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FQJA1ZW"
-            },
-            {
-                "type": "arxiv",
-                "text": "ArXiv",
-                "url": "https://arxiv.org/abs/2211.13121"
-            }
-        ],
-        "citation": "Najafi, A., Mugurtay, N., Demirci, E., Demirkiran, S., Karadeniz, H. A., & Varol, O. (2022). # Secim2023: First Public Dataset for Studying Turkish General Election. arXiv preprint arXiv:2211.13121."
     }
 
 ]
