@@ -4,7 +4,7 @@
         "isVisible": true,
         "languages": ["tr", "en"],
         "url": "/posts/221122/",
-        "type": "Dataset",
+        "type": "Journal Article",
         "date": "16/04/2024",
         "img": "secim-dataset.png",
         "title": {
@@ -33,6 +33,78 @@
             }
         ],
         "citation": "<b>First public dataset to study 2023 Turkish general election</b><br>Ali Najafi, Nihat Mugurtay, Yasser Zouzour, Ege Demirci, Serhat Demirkiran, H. Alper Karadeniz, Onur Varol<br><i>Scientific Reports 14, 8794 (2024)</i>"
+    },
+
+    {   
+        "id": "berturktweet",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/231129/",
+        "type": "Journal Article",
+        "date": "01/07/2024",
+        "img": "turkishbertweet.jpg",
+        "title": {
+            "en": "TurkishBERTweet model published in Experts Systems and Applications",
+            "tr": "TurkishBERTweet makalesi Experts Systems and Applications'da yayınlandı"
+        },
+        "description": {
+            "en": "TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis",
+            "tr": "TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis"
+        },
+        "links": [
+            {
+                "type": "obp", 
+                "text": "Journal",
+                "url": "/posts/2024-turkishbertweet.pdf"
+            },
+            {
+                "type": "open-access",
+                "text": "Github",
+                "url": "https://github.com/ViralLab/TurkishBERTweet"
+            },
+            {
+                "type": "open-data",
+                "text": "HuggingFace",
+                "url": "https://huggingface.co/VRLLab/TurkishBERTweet"
+            },
+            {
+                "type": "arxiv",
+                "text": "ArXiv",
+                "url": "https://arxiv.org/abs/2311.18063"
+            }
+        ],
+        "citation": "<b>TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis</b><br> Najafi, Ali and Varol, Onur. <i>Expert Systems and Applications</i> (2024)."
+    },
+
+    {   
+        "id": "siu2024conference",
+        "isVisible": true,
+        "languages": ["tr", "en"],
+        "url": "/posts/240723/",
+        "type": "Conference proceeding",
+        "date": "31/05/2024",
+        "img": "2024-siu-location.png",
+        "title": {
+            "en": "Conference proceeding presented at SIU 2024",
+            "tr": "SIU 2024 konferans yayını"
+        },
+        "description": {
+            "en": "Conference proceeding for SIU titled 'City-level User Location Detection from Social Media and Analysis of Political Participation'",
+            "tr": "SIU konferansında sunulan 'City-level User Location Detection from Social Media and Analysis of Political Participation' başlıklı çalışma."
+        },
+        "links": [
+            {
+                "type": "arxiv", 
+                "text": "PDF",
+                "url": "/posts/2024-siu-location.pdf"
+            },
+            {
+                "type": "ieee",
+                "text": "IEEE Xplore",
+                "url": "https://ieeexplore.ieee.org/document/10600825/"
+            }
+        ],
+        "citation": "<b>City-level User Location Detection from Social Media and Analysis of Political Participation</b><br>Alp Yener, Ali Najafi, Onur Varol. 32st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023."
     },
 
     {   
@@ -67,42 +139,6 @@
     },
 
     {   
-        "id": "berturktweet",
-        "isVisible": true,
-        "languages": ["tr", "en"],
-        "url": "/posts/231129/",
-        "type": "Preprint",
-        "date": "29/11/2023",
-        "img": "turkishbertweet.jpg",
-        "title": {
-            "en": "Preprint of TurkishBERTweet paper",
-            "tr": "TurkishBERTweet ön baskısı"
-        },
-        "description": {
-            "en": "Preprint of a paper titled TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis",
-            "tr": "Makale ön baskısı TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis"
-        },
-        "links": [
-            {
-                "type": "arxiv", 
-                "text": "PDF",
-                "url": "/posts/2023-turkishbertweet.pdf"
-            },
-            {
-                "type": "open-access",
-                "text": "Github",
-                "url": "https://github.com/ViralLab/TurkishBERTweet"
-            },
-            {
-                "type": "open-data",
-                "text": "HuggingFace",
-                "url": "https://huggingface.co/VRLLab/TurkishBERTweet"
-            }
-        ],
-        "citation": "Najafi, Ali and Varol, Onur. TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis. arXiv:2311.18063 (2023)."
-    },
-
-    {   
         "id": "siu2023converence",
         "isVisible": true,
         "languages": ["tr", "en"],
@@ -130,7 +166,7 @@
                 "url": "https://ieeexplore.ieee.org/document/10223884"
             }
         ],
-        "citation": "Varol, Onur. Who Follows Turkish Presidential Candidates in 2023 Elections?. 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023."
+        "citation": "<b>Who Follows Turkish Presidential Candidates in 2023 Elections?</b><br>Varol, Onur. 31st Signal Processing and Communications Applications Conference (SIU). IEEE, 2023."
     },
 
     {
